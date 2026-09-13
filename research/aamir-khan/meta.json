@@ -1,0 +1,37 @@
+{
+  "actor": "Aamir Khan",
+  "research_cutoff": "2026-09-12",
+  "scope_note": "Released feature-film acting appearances through 12 September 2026, including child roles, cameos, song appearances and a voice role. Excluded: the silent short Paranoia (1983); the documentaries Madness in the Desert (2004) and Big in Bollywood (2011); producer-only credits; television; and Lahore 1947 (released 14 August 2026, Wikipedia page now titled Batwara 1947), where he is credited only as producer. Pre-2000 box-office figures come from Wikipedia citations of trade sources and are graded down accordingly. Collaborators covers directors, producers or banners, composers and key writers with at least two of his films, plus directors of historically significant single collaborations. Awards covers documented Filmfare and National Film Award wins for his non-cameo films, all of Aamir Khan's own Filmfare nominations, his wins at other ceremonies, civilian honours, and major international awards and nominations.",
+  "career_phases": [
+    {
+      "phase": "Child actor",
+      "start_year": 1973,
+      "end_year": 1974,
+      "summary": "Brief child roles in two films, including the title song of his uncle Nasir Hussain's Yaadon Ki Baaraat."
+    },
+    {
+      "phase": "Early romantic-hero phase",
+      "start_year": 1984,
+      "end_year": 1994,
+      "summary": "After the parallel-cinema Holi, Qayamat Se Qayamat Tak made him a teenage romantic lead; most films pair a young couple against feuding or class-proud families, often opposite Juhi Chawla."
+    },
+    {
+      "phase": "Star consolidation and genre range",
+      "start_year": 1995,
+      "end_year": 2001,
+      "summary": "Rangeela, Raja Hindustani and Ghulam move him to street-smart and working-class lovers; Sarfarosh, Earth and Lagaan widen his range, and romance becomes one strand among others."
+    },
+    {
+      "phase": "Selective prestige lead phase",
+      "start_year": 2005,
+      "end_year": 2014,
+      "summary": "Roughly one film a year, mostly event films with social or historical themes; romance is usually subordinate, with Fanaa and Ghajini the main exceptions."
+    },
+    {
+      "phase": "Character-actor and producer phase",
+      "start_year": 2015,
+      "end_year": 2026,
+      "summary": "Older, flawed or comic characters (Dangal, Secret Superstar, Sitaare Zameen Par), a voice role, song cameos and special appearances; romance appears mainly as marriage or unrequited devotion."
+    }
+  ]
+}
