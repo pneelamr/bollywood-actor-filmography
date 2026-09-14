@@ -1,0 +1,2433 @@
+[
+ {
+  "source_id": "SOURCE-001",
+  "title": "Shah Rukh Khan filmography",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Shah_Rukh_Khan_filmography",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "claims": "Complete list of feature-film acting credits, role names, and cameo, special-appearance, narrator and voice-over notes; television and music videos used to set scope.",
+  "notes": "Downloaded as raw wikitext. Lists King (2026) as upcoming and Bhaag Jeetu Bhaag (2016) as a short film; both are excluded.",
+  "film_ids": [
+   "FILM-007",
+   "FILM-022",
+   "FILM-023",
+   "FILM-029",
+   "FILM-038",
+   "FILM-052",
+   "FILM-053",
+   "FILM-056",
+   "FILM-059",
+   "FILM-063",
+   "FILM-064",
+   "FILM-066",
+   "FILM-068",
+   "FILM-072",
+   "FILM-073",
+   "FILM-074",
+   "FILM-078",
+   "FILM-080",
+   "FILM-084",
+   "FILM-087",
+   "FILM-090",
+   "FILM-091",
+   "FILM-092",
+   "FILM-096"
+  ]
+ },
+ {
+  "source_id": "SOURCE-002",
+  "title": "List of awards and nominations received by Shah Rukh Khan",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_Shah_Rukh_Khan",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "claims": "Shah Rukh Khan's personal award wins and nominations, and state honours.",
+  "notes": "Cross-checked against the accolades sections of individual film pages."
+ },
+ {
+  "source_id": "SOURCE-003",
+  "title": "Shah Rukh Khan",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Shah_Rukh_Khan",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "claims": "Career overview used for career phases, screen persona and recurring collaborations.",
+  "notes": "Used for orientation only."
+ },
+ {
+  "source_id": "SOURCE-004",
+  "title": "Deewana (1992 film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Deewana_(1992_film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-001",
+  "pairing_ids": [
+   "PAIR-001"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Deewana (1992).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-005",
+  "title": "Chamatkar",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Chamatkar",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-002",
+  "pairing_ids": [
+   "PAIR-002"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Chamatkar (1992).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-006",
+  "title": "Raju Ban Gaya Gentleman",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Raju_Ban_Gaya_Gentleman",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-003",
+  "pairing_ids": [
+   "PAIR-003",
+   "PAIR-004"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Raju Ban Gaya Gentleman (1992).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-007",
+  "title": "Dil Aashna Hai",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Dil_Aashna_Hai",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-004",
+  "pairing_ids": [
+   "PAIR-005"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Dil Aashna Hai (1992).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-008",
+  "title": "King Uncle",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/King_Uncle",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-005",
+  "pairing_ids": [
+   "PAIR-006"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for King Uncle (1993).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-009",
+  "title": "Maya Memsaab",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Maya_Memsaab",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-006",
+  "pairing_ids": [
+   "PAIR-007"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Maya Memsaab (1993).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-010",
+  "title": "Pehla Nasha",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Pehla_Nasha",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-007",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Pehla Nasha (1993).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-011",
+  "title": "Baazigar",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Baazigar",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-008",
+  "pairing_ids": [
+   "PAIR-008",
+   "PAIR-009"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Baazigar (1993).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-012",
+  "title": "Darr",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Darr",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-009",
+  "pairing_ids": [
+   "PAIR-010"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Darr (1993).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-013",
+  "title": "Kabhi Haan Kabhi Naa",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Kabhi_Haan_Kabhi_Naa",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-010",
+  "pairing_ids": [
+   "PAIR-011"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Kabhi Haan Kabhi Naa (1994).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-014",
+  "title": "Anjaam",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Anjaam",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-011",
+  "pairing_ids": [
+   "PAIR-012"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Anjaam (1994).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-015",
+  "title": "Karan Arjun",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Karan_Arjun",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-012",
+  "pairing_ids": [
+   "PAIR-013"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Karan Arjun (1995).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-016",
+  "title": "Zamaana Deewana",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Zamaana_Deewana",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-013",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Zamaana Deewana (1995).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-017",
+  "title": "Guddu (film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Guddu_(film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-014",
+  "pairing_ids": [
+   "PAIR-014"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Guddu (1995).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-018",
+  "title": "Oh Darling! Yeh Hai India!",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Oh_Darling!_Yeh_Hai_India!",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-015",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Oh Darling! Yeh Hai India! (1995).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-019",
+  "title": "Dilwale Dulhania Le Jayenge",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Dilwale_Dulhania_Le_Jayenge",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-016",
+  "pairing_ids": [
+   "PAIR-015"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Dilwale Dulhania Le Jayenge (1995).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-020",
+  "title": "Ram Jaane",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Ram_Jaane",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-017",
+  "pairing_ids": [
+   "PAIR-016"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Ram Jaane (1995).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-021",
+  "title": "Trimurti (1995 film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Trimurti_(1995_film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-018",
+  "pairing_ids": [
+   "PAIR-017"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Trimurti (1995).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-022",
+  "title": "English Babu Desi Mem",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/English_Babu_Desi_Mem",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-019",
+  "pairing_ids": [
+   "PAIR-018",
+   "PAIR-019"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for English Babu Desi Mem (1996).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-023",
+  "title": "Chaahat (1996 film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Chaahat_(1996_film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-020",
+  "pairing_ids": [
+   "PAIR-020",
+   "PAIR-021"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Chaahat (1996).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-024",
+  "title": "Army (1996 film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Army_(1996_film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-021",
+  "pairing_ids": [
+   "PAIR-022"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Army (1996).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-025",
+  "title": "Dushman Duniya Ka",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Dushman_Duniya_Ka",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-022",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Dushman Duniya Ka (1996).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-026",
+  "title": "Gudgudee",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Gudgudee",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-023",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Gudgudee (1997).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-027",
+  "title": "Koyla",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Koyla",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-024",
+  "pairing_ids": [
+   "PAIR-023"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Koyla (1997).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-028",
+  "title": "Yes Boss (film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Yes_Boss_(film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-025",
+  "pairing_ids": [
+   "PAIR-024"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Yes Boss (1997).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-029",
+  "title": "Pardes (1997 film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Pardes_(1997_film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-026",
+  "pairing_ids": [
+   "PAIR-025"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Pardes (1997).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-030",
+  "title": "Dil To Pagal Hai",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Dil_To_Pagal_Hai",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-027",
+  "pairing_ids": [
+   "PAIR-026",
+   "PAIR-027"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Dil To Pagal Hai (1997).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-031",
+  "title": "Duplicate (1998 film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Duplicate_(1998_film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-028",
+  "pairing_ids": [
+   "PAIR-028",
+   "PAIR-029"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Duplicate (1998).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-032",
+  "title": "Achanak (1998 film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Achanak_(1998_film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-029",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Achanak (1998).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-033",
+  "title": "Dil Se..",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Dil_Se..",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-030",
+  "pairing_ids": [
+   "PAIR-030"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Dil Se.. (1998).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-034",
+  "title": "Kuch Kuch Hota Hai",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Kuch_Kuch_Hota_Hai",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-031",
+  "pairing_ids": [
+   "PAIR-031",
+   "PAIR-032"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Kuch Kuch Hota Hai (1998).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-035",
+  "title": "Baadshah (1999 film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Baadshah_(1999_film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-032",
+  "pairing_ids": [
+   "PAIR-033"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Baadshah (1999).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-036",
+  "title": "Phir Bhi Dil Hai Hindustani",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Phir_Bhi_Dil_Hai_Hindustani",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-033",
+  "pairing_ids": [
+   "PAIR-034"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Phir Bhi Dil Hai Hindustani (2000).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-037",
+  "title": "Hey Ram",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Hey_Ram",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-034",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Hey Ram (2000).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-038",
+  "title": "Josh (2000 film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Josh_(2000_film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-035",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Josh (2000).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-039",
+  "title": "Har Dil Jo Pyar Karega",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Har_Dil_Jo_Pyar_Karega",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-036",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Har Dil Jo Pyar Karega (2000).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-040",
+  "title": "Mohabbatein",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Mohabbatein",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-037",
+  "pairing_ids": [
+   "PAIR-035"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Mohabbatein (2000).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-041",
+  "title": "Gaja Gamini",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Gaja_Gamini",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-038",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Gaja Gamini (2000).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-042",
+  "title": "One 2 Ka 4",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/One_2_Ka_4",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-039",
+  "pairing_ids": [
+   "PAIR-036"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for One 2 Ka 4 (2001).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-043",
+  "title": "Asoka (2001 film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Asoka_(2001_film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-040",
+  "pairing_ids": [
+   "PAIR-037",
+   "PAIR-038"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Aśoka (2001).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-044",
+  "title": "Kabhi Khushi Kabhie Gham",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Kabhi_Khushi_Kabhie_Gham",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-041",
+  "pairing_ids": [
+   "PAIR-039"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Kabhi Khushi Kabhie Gham (2001).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-045",
+  "title": "Hum Tumhare Hain Sanam",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Hum_Tumhare_Hain_Sanam",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-042",
+  "pairing_ids": [
+   "PAIR-040"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Hum Tumhare Hain Sanam (2002).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-046",
+  "title": "Devdas (2002 Hindi film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Devdas_(2002_Hindi_film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-043",
+  "pairing_ids": [
+   "PAIR-041",
+   "PAIR-042"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Devdas (2002).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-047",
+  "title": "Shakti: The Power",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Shakti:_The_Power",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-044",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Shakti: The Power (2002).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-048",
+  "title": "Saathiya (film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Saathiya_(film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-045",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Saathiya (2002).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-049",
+  "title": "Chalte Chalte (2003 film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Chalte_Chalte_(2003_film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-046",
+  "pairing_ids": [
+   "PAIR-043"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Chalte Chalte (2003).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-050",
+  "title": "Kal Ho Naa Ho",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Kal_Ho_Naa_Ho",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-047",
+  "pairing_ids": [
+   "PAIR-044"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Kal Ho Naa Ho (2003).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-051",
+  "title": "Yeh Lamhe Judaai Ke",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Yeh_Lamhe_Judaai_Ke",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-048",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Yeh Lamhe Judaai Ke (2004).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-052",
+  "title": "Main Hoon Na",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Main_Hoon_Na",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-049",
+  "pairing_ids": [
+   "PAIR-045"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Main Hoon Na (2004).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-053",
+  "title": "Veer-Zaara",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Veer-Zaara",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-050",
+  "pairing_ids": [
+   "PAIR-046"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Veer-Zaara (2004).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-054",
+  "title": "Swades",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Swades",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-051",
+  "pairing_ids": [
+   "PAIR-047"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Swades (2004).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-055",
+  "title": "Kuchh Meetha Ho Jaye",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Kuchh_Meetha_Ho_Jaye",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-052",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Kuchh Meetha Ho Jaye (2005).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-056",
+  "title": "Kaal (2005 film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Kaal_(2005_film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-053",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Kaal (2005).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-057",
+  "title": "Silsiilay",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Silsiilay",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-054",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Silsiilay (2005).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-058",
+  "title": "Paheli (2005 film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Paheli_(2005_film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-055",
+  "pairing_ids": [
+   "PAIR-048",
+   "PAIR-049"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Paheli (2005).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-059",
+  "title": "Alag",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Alag",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-056",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Alag (2006).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-060",
+  "title": "Kabhi Alvida Naa Kehna",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Kabhi_Alvida_Naa_Kehna",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-057",
+  "pairing_ids": [
+   "PAIR-050",
+   "PAIR-051"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Kabhi Alvida Naa Kehna (2006).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-061",
+  "title": "Don (2006 Hindi film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Don_(2006_Hindi_film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-058",
+  "pairing_ids": [
+   "PAIR-052"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Don: The Chase Begins Again (2006).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-062",
+  "title": "I See You (2006 film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/I_See_You_(2006_film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-059",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for I See You (2006).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-063",
+  "title": "Chak De! India",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Chak_De!_India",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-060",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Chak De! India (2007).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-064",
+  "title": "Heyy Babyy",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Heyy_Babyy",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-061",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Heyy Babyy (2007).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-065",
+  "title": "Om Shanti Om",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Om_Shanti_Om",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-062",
+  "pairing_ids": [
+   "PAIR-053"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Om Shanti Om (2007).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-066",
+  "title": "Shaurya",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Shaurya",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-063",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Shaurya (2008).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-067",
+  "title": "Krazzy 4",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Krazzy_4",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-064",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Krazzy 4 (2008).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-068",
+  "title": "Bhoothnath",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Bhoothnath",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-065",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Bhoothnath (2008).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-069",
+  "title": "Kismat Konnection",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Kismat_Konnection",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-066",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Kismat Konnection (2008).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-070",
+  "title": "Rab Ne Bana Di Jodi",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Rab_Ne_Bana_Di_Jodi",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-067",
+  "pairing_ids": [
+   "PAIR-054"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Rab Ne Bana Di Jodi (2008).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-071",
+  "title": "Luck by Chance",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Luck_by_Chance",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-068",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Luck by Chance (2009).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-072",
+  "title": "Billu Barber",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Billu_Barber",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-069",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Billu (2009).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-073",
+  "title": "Dulha Mil Gaya",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Dulha_Mil_Gaya",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-070",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Dulha Mil Gaya (2010).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-074",
+  "title": "My Name Is Khan",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/My_Name_Is_Khan",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-071",
+  "pairing_ids": [
+   "PAIR-055"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for My Name Is Khan (2010).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-075",
+  "title": "Shahrukh Bola \"Khoobsurat Hai Tu\"",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Shahrukh_Bola_%22Khoobsurat_Hai_Tu%22",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-072",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Shahrukh Bola \"Khoobsurat Hai Tu\" (2010).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-076",
+  "title": "Always Kabhi Kabhi",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Always_Kabhi_Kabhi",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-073",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Always Kabhi Kabhi (2011).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-077",
+  "title": "Love Breakups Zindagi",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Love_Breakups_Zindagi",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-074",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Love Breakups Zindagi (2011).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-078",
+  "title": "Ra.One",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Ra.One",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-075",
+  "pairing_ids": [
+   "PAIR-056"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Ra.One (2011).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-079",
+  "title": "Don 2",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Don_2",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-076",
+  "pairing_ids": [
+   "PAIR-057"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Don 2 (2011).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-080",
+  "title": "Jab Tak Hai Jaan",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Jab_Tak_Hai_Jaan",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-077",
+  "pairing_ids": [
+   "PAIR-058",
+   "PAIR-059"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Jab Tak Hai Jaan (2012).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-081",
+  "title": "Bombay Talkies (film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Bombay_Talkies_(film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-078",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Bombay Talkies (2013).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-082",
+  "title": "Chennai Express",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Chennai_Express",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-079",
+  "pairing_ids": [
+   "PAIR-060"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Chennai Express (2013).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-083",
+  "title": "Bhoothnath Returns",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Bhoothnath_Returns",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-080",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Bhoothnath Returns (2014).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-084",
+  "title": "Happy New Year (2014 film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Happy_New_Year_(2014_film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-081",
+  "pairing_ids": [
+   "PAIR-061"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Happy New Year (2014).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-085",
+  "title": "Dilwale (2015 film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Dilwale_(2015_film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-082",
+  "pairing_ids": [
+   "PAIR-062"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Dilwale (2015).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-086",
+  "title": "Fan (2016 film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Fan_(2016_film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-083",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Fan (2016).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-087",
+  "title": "Ae Dil Hai Mushkil",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Ae_Dil_Hai_Mushkil",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-084",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Ae Dil Hai Mushkil (2016).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-088",
+  "title": "Dear Zindagi",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Dear_Zindagi",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-085",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Dear Zindagi (2016).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-089",
+  "title": "Raees (2017 film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Raees_(2017_film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-086",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Raees (2017).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-090",
+  "title": "Tubelight (2017 Hindi film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Tubelight_(2017_Hindi_film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-087",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Tubelight (2017).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-091",
+  "title": "Jab Harry Met Sejal",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Jab_Harry_Met_Sejal",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-088",
+  "pairing_ids": [
+   "PAIR-063"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Jab Harry Met Sejal (2017).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-092",
+  "title": "Zero (2018 film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Zero_(2018_film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-089",
+  "pairing_ids": [
+   "PAIR-064",
+   "PAIR-065"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Zero (2018).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-093",
+  "title": "The Zoya Factor (film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/The_Zoya_Factor_(film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-090",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for The Zoya Factor (2019).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-094",
+  "title": "Rocketry: The Nambi Effect",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Rocketry:_The_Nambi_Effect",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-091",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Rocketry: The Nambi Effect (2022).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-095",
+  "title": "Laal Singh Chaddha",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Laal_Singh_Chaddha",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-092",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Laal Singh Chaddha (2022).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-096",
+  "title": "Brahmāstra: Part One – Shiva",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Brahm%C4%81stra:_Part_One_%E2%80%93_Shiva",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-093",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Brahmāstra: Part One – Shiva (2022).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-097",
+  "title": "Pathaan (film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Pathaan_(film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-094",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Pathaan (2023).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-098",
+  "title": "Jawan (film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Jawan_(film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-095",
+  "pairing_ids": [
+   "PAIR-066",
+   "PAIR-067"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Jawan (2023).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-099",
+  "title": "Tiger 3",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Tiger_3",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-096",
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Tiger 3 (2023).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-100",
+  "title": "Dunki (film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Dunki_(film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-097",
+  "pairing_ids": [
+   "PAIR-068"
+  ],
+  "claims": "Credits, release date, cast, plot, box office, reception and accolades for Dunki (2023).",
+  "notes": "Downloaded as raw wikitext; box-office figures are Wikipedia citations of trade sources."
+ },
+ {
+  "source_id": "SOURCE-101",
+  "title": "List of accolades received by Dil To Pagal Hai",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/List_of_accolades_received_by_Dil_To_Pagal_Hai",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-027",
+  "claims": "Awards and nominations for the film, used for Filmfare and National Film Award wins.",
+  "notes": "Downloaded as raw wikitext; wins cross-checked against the film article."
+ },
+ {
+  "source_id": "SOURCE-102",
+  "title": "List of accolades received by Mohabbatein",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/List_of_accolades_received_by_Mohabbatein",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-037",
+  "claims": "Awards and nominations for the film, used for Filmfare and National Film Award wins.",
+  "notes": "Downloaded as raw wikitext; wins cross-checked against the film article."
+ },
+ {
+  "source_id": "SOURCE-103",
+  "title": "List of accolades received by Devdas (2002 Hindi film)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/List_of_accolades_received_by_Devdas_(2002_Hindi_film)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-043",
+  "claims": "Awards and nominations for the film, used for Filmfare and National Film Award wins.",
+  "notes": "Downloaded as raw wikitext; wins cross-checked against the film article."
+ },
+ {
+  "source_id": "SOURCE-104",
+  "title": "List of accolades received by Kal Ho Naa Ho",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/List_of_accolades_received_by_Kal_Ho_Naa_Ho",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-047",
+  "claims": "Awards and nominations for the film, used for Filmfare and National Film Award wins.",
+  "notes": "Downloaded as raw wikitext; wins cross-checked against the film article."
+ },
+ {
+  "source_id": "SOURCE-105",
+  "title": "List of accolades received by Veer-Zaara",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/List_of_accolades_received_by_Veer-Zaara",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-050",
+  "claims": "Awards and nominations for the film, used for Filmfare and National Film Award wins.",
+  "notes": "Downloaded as raw wikitext; wins cross-checked against the film article."
+ },
+ {
+  "source_id": "SOURCE-106",
+  "title": "List of accolades received by Kabhi Alvida Naa Kehna",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/List_of_accolades_received_by_Kabhi_Alvida_Naa_Kehna",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-057",
+  "claims": "Awards and nominations for the film, used for Filmfare and National Film Award wins.",
+  "notes": "Downloaded as raw wikitext; wins cross-checked against the film article."
+ },
+ {
+  "source_id": "SOURCE-107",
+  "title": "List of accolades received by Chak De! India",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/List_of_accolades_received_by_Chak_De!_India",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-060",
+  "claims": "Awards and nominations for the film, used for Filmfare and National Film Award wins.",
+  "notes": "Downloaded as raw wikitext; wins cross-checked against the film article."
+ },
+ {
+  "source_id": "SOURCE-108",
+  "title": "List of accolades received by My Name Is Khan",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/List_of_accolades_received_by_My_Name_Is_Khan",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-071",
+  "claims": "Awards and nominations for the film, used for Filmfare and National Film Award wins.",
+  "notes": "Downloaded as raw wikitext; wins cross-checked against the film article."
+ },
+ {
+  "source_id": "SOURCE-109",
+  "title": "List of accolades received by Ra.One",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/List_of_accolades_received_by_Ra.One",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-075",
+  "claims": "Awards and nominations for the film, used for Filmfare and National Film Award wins.",
+  "notes": "Downloaded as raw wikitext; wins cross-checked against the film article."
+ },
+ {
+  "source_id": "SOURCE-110",
+  "title": "List of accolades received by Chennai Express",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/List_of_accolades_received_by_Chennai_Express",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-079",
+  "claims": "Awards and nominations for the film, used for Filmfare and National Film Award wins.",
+  "notes": "Downloaded as raw wikitext; wins cross-checked against the film article."
+ },
+ {
+  "source_id": "SOURCE-111",
+  "title": "Nadeem–Shravan",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Nadeem%E2%80%93Shravan",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-001; FILM-013; FILM-026; FILM-042",
+  "claims": "Career background, major works and awards of Nadeem–Shravan.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-112",
+  "title": "Raj Kanwar",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Raj_Kanwar",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-001; FILM-036",
+  "claims": "Career background, major works and awards of Raj Kanwar.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-113",
+  "title": "Surinder Sodhi",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Surinder_Sodhi",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-001; FILM-032; FILM-036; FILM-063",
+  "claims": "Career background, major works and awards of Surinder Sodhi.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-114",
+  "title": "Anu Malik",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Anu_Malik",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-002; FILM-008; FILM-017; FILM-020; FILM-022; FILM-028; FILM-032; FILM-035; FILM-036; FILM-040; FILM-044; FILM-049",
+  "claims": "Career background, major works and awards of Anu Malik.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-115",
+  "title": "Vanraj Bhatia",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Vanraj_Bhatia",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-002; FILM-026",
+  "claims": "Career background, major works and awards of Vanraj Bhatia.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-116",
+  "title": "Aziz Mirza",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Aziz_Mirza",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-003; FILM-025; FILM-033; FILM-040; FILM-046; FILM-066",
+  "claims": "Career background, major works and awards of Aziz Mirza.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-117",
+  "title": "G. P. Sippy",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/G._P._Sippy",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-003; FILM-013",
+  "claims": "Career background, major works and awards of G. P. Sippy.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-118",
+  "title": "Jatin–Lalit",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Jatin%E2%80%93Lalit",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-003; FILM-010; FILM-016; FILM-025; FILM-031; FILM-033; FILM-037; FILM-041; FILM-046",
+  "claims": "Career background, major works and awards of Jatin–Lalit.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-119",
+  "title": "Anand–Milind",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Anand%E2%80%93Milind",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-004; FILM-011; FILM-021",
+  "claims": "Career background, major works and awards of Anand–Milind.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-120",
+  "title": "Rajesh Roshan",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Rajesh_Roshan",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-005; FILM-012; FILM-024; FILM-064",
+  "claims": "Career background, major works and awards of Rajesh Roshan.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-121",
+  "title": "Rakesh Roshan",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Rakesh_Roshan",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-005; FILM-012; FILM-024; FILM-064",
+  "claims": "Career background, major works and awards of Rakesh Roshan.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-122",
+  "title": "Ketan Mehta",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Ketan_Mehta",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-006; FILM-015",
+  "claims": "Career background, major works and awards of Ketan Mehta.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-123",
+  "title": "Ashutosh Gowariker",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Ashutosh_Gowariker",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-007; FILM-051",
+  "claims": "Career background, major works and awards of Ashutosh Gowariker.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-124",
+  "title": "Abbas–Mustan",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Abbas%E2%80%93Mustan",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-008; FILM-032",
+  "claims": "Career background, major works and awards of Abbas–Mustan.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-125",
+  "title": "Javed Siddiqui",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Javed_Siddiqui",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-008; FILM-009; FILM-013; FILM-016; FILM-020; FILM-026; FILM-028",
+  "claims": "Career background, major works and awards of Javed Siddiqui.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-126",
+  "title": "Robin Bhatt",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Robin_Bhatt",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-008; FILM-013; FILM-020; FILM-028; FILM-046",
+  "claims": "Career background, major works and awards of Robin Bhatt.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-127",
+  "title": "Ishtar Music",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Ishtar_Music",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-008; FILM-025; FILM-032; FILM-035; FILM-049",
+  "claims": "Career background, major works and awards of Venus Movies.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography. The article is titled Ishtar Music."
+ },
+ {
+  "source_id": "SOURCE-128",
+  "title": "Yash Chopra",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Yash_Chopra",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-009; FILM-016; FILM-027; FILM-037; FILM-050; FILM-067; FILM-077",
+  "claims": "Career background, major works and awards of Yash Chopra.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-129",
+  "title": "Yash Raj Films",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Yash_Raj_Films",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-009; FILM-016; FILM-027; FILM-037; FILM-045; FILM-050; FILM-060; FILM-067; FILM-077; FILM-083; FILM-094; FILM-096",
+  "claims": "Career background, major works and awards of Yash Raj Films.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-130",
+  "title": "Kundan Shah",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Kundan_Shah",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-010",
+  "claims": "Career background, major works and awards of Kundan Shah.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-131",
+  "title": "Ramesh Sippy",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Ramesh_Sippy",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-013",
+  "claims": "Career background, major works and awards of Ramesh Sippy.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-132",
+  "title": "Ranjit Barot",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Ranjit_Barot",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-015; FILM-049",
+  "claims": "Career background, major works and awards of Ranjit Barot.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-133",
+  "title": "Aditya Chopra",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Aditya_Chopra",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-016; FILM-027; FILM-037; FILM-050; FILM-060; FILM-067; FILM-077; FILM-083; FILM-094; FILM-096",
+  "claims": "Career background, major works and awards of Aditya Chopra.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-134",
+  "title": "Subhash Ghai",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Subhash_Ghai",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-018; FILM-026",
+  "claims": "Career background, major works and awards of Subhash Ghai.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-135",
+  "title": "Nikhil–Vinay",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Nikhil%E2%80%93Vinay",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-019; FILM-042; FILM-048",
+  "claims": "Career background, major works and awards of Nikhil–Vinay.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-136",
+  "title": "Mahesh Bhatt",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Mahesh_Bhatt",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-020; FILM-023; FILM-028",
+  "claims": "Career background, major works and awards of Mahesh Bhatt.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-137",
+  "title": "Bappi Lahiri",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Bappi_Lahiri",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-023; FILM-042",
+  "claims": "Career background, major works and awards of Bappi Lahiri.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-138",
+  "title": "Javed Akhtar",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Javed_Akhtar",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-025; FILM-028; FILM-046; FILM-047; FILM-050; FILM-051; FILM-058; FILM-068; FILM-074; FILM-076; FILM-097",
+  "claims": "Career background, major works and awards of Javed Akhtar.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-139",
+  "title": "Uttam Singh",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Uttam_Singh",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-027; FILM-042",
+  "claims": "Career background, major works and awards of Uttam Singh.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-140",
+  "title": "Dharma Productions",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Dharma_Productions",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-028; FILM-031; FILM-041; FILM-047; FILM-053; FILM-057; FILM-071; FILM-084; FILM-085; FILM-093",
+  "claims": "Career background, major works and awards of Dharma Productions.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-141",
+  "title": "Yash Johar",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Yash_Johar",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-028; FILM-031; FILM-041; FILM-047",
+  "claims": "Career background, major works and awards of Yash Johar.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-142",
+  "title": "A. R. Rahman",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/A._R._Rahman",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-030; FILM-039; FILM-045; FILM-051; FILM-077",
+  "claims": "Career background, major works and awards of A. R. Rahman.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-143",
+  "title": "Bharat Shah",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Bharat_Shah",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-030; FILM-043",
+  "claims": "Career background, major works and awards of Bharat Shah.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-144",
+  "title": "Farah Khan",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Farah_Khan",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-030; FILM-049; FILM-062; FILM-081",
+  "claims": "Career background, major works and awards of Farah Khan.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-145",
+  "title": "Mani Ratnam",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Mani_Ratnam",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-030; FILM-045",
+  "claims": "Career background, major works and awards of Mani Ratnam.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-146",
+  "title": "Santosh Sivan",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Santosh_Sivan",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-030; FILM-040",
+  "claims": "Career background, major works and awards of Santosh Sivan.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-147",
+  "title": "Karan Johar",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Karan_Johar",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-031; FILM-041; FILM-047; FILM-053; FILM-057; FILM-071; FILM-078; FILM-084; FILM-085; FILM-093",
+  "claims": "Career background, major works and awards of Karan Johar.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-148",
+  "title": "Red Chillies Entertainment",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Red_Chillies_Entertainment",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-033; FILM-040; FILM-046; FILM-049; FILM-053; FILM-055; FILM-062; FILM-069; FILM-071; FILM-073; FILM-075; FILM-076; FILM-079; FILM-081; FILM-082; FILM-085; FILM-086; FILM-088; FILM-089; FILM-095; FILM-097",
+  "claims": "Career background, major works and awards of Dreamz Unlimited.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography. The article is titled Red Chillies Entertainment."
+ },
+ {
+  "source_id": "SOURCE-149",
+  "title": "Kamal Haasan",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Kamal_Haasan",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-034",
+  "claims": "Career background, major works and awards of Kamal Haasan.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-150",
+  "title": "Mansoor Khan",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Mansoor_Khan",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-035",
+  "claims": "Career background, major works and awards of Mansoor Khan.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-151",
+  "title": "Priyadarshan",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Priyadarshan",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-036; FILM-069",
+  "claims": "Career background, major works and awards of Priyadarshan.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-152",
+  "title": "Sajid Nadiadwala",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Sajid_Nadiadwala",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-036; FILM-061",
+  "claims": "Career background, major works and awards of Sajid Nadiadwala.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-153",
+  "title": "Sandeep Chowta",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Sandeep_Chowta",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-040; FILM-062; FILM-069",
+  "claims": "Career background, major works and awards of Sandeep Chowta.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-154",
+  "title": "Aadesh Shrivastava",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Aadesh_Shrivastava",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-041; FILM-046; FILM-055; FILM-056",
+  "claims": "Career background, major works and awards of Aadesh Shrivastava.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-155",
+  "title": "Sajid–Wajid",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Sajid%E2%80%93Wajid",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-042; FILM-066",
+  "claims": "Career background, major works and awards of Sajid–Wajid.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-156",
+  "title": "Ismail Darbar",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Ismail_Darbar",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-043; FILM-044",
+  "claims": "Career background, major works and awards of Ismail Darbar.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-157",
+  "title": "Monty Sharma",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Monty_Sharma",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-043; FILM-054",
+  "claims": "Career background, major works and awards of Monty Sharma.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-158",
+  "title": "Sanjay Leela Bhansali",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Sanjay_Leela_Bhansali",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-043",
+  "claims": "Career background, major works and awards of Sanjay Leela Bhansali.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-159",
+  "title": "Nikkhil Advani",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Nikkhil_Advani",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-047",
+  "claims": "Career background, major works and awards of Nikkhil Advani.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-160",
+  "title": "Niranjan Iyengar",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Niranjan_Iyengar",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-047; FILM-057; FILM-071; FILM-084",
+  "claims": "Career background, major works and awards of Niranjan Iyengar.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-161",
+  "title": "Shankar–Ehsaan–Loy",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Shankar%E2%80%93Ehsaan%E2%80%93Loy",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-047; FILM-057; FILM-058; FILM-061; FILM-068; FILM-071; FILM-076; FILM-090",
+  "claims": "Career background, major works and awards of Shankar–Ehsaan–Loy.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-162",
+  "title": "Gauri Khan",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Gauri_Khan",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-049; FILM-055; FILM-062; FILM-069; FILM-071; FILM-073; FILM-075; FILM-079; FILM-081; FILM-082; FILM-085; FILM-086; FILM-088; FILM-089; FILM-095; FILM-097",
+  "claims": "Career background, major works and awards of Gauri Khan.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-163",
+  "title": "UTV Motion Pictures",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/UTV_Motion_Pictures",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-051; FILM-079",
+  "claims": "Career background, major works and awards of UTV Motion Pictures.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-164",
+  "title": "Himesh Reshammiya",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Himesh_Reshammiya",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-052; FILM-054",
+  "claims": "Career background, major works and awards of Himesh Reshammiya.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-165",
+  "title": "Salim–Sulaiman",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Salim%E2%80%93Sulaiman",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-053; FILM-060; FILM-061; FILM-065; FILM-067; FILM-074",
+  "claims": "Career background, major works and awards of Salim–Sulaiman.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-166",
+  "title": "Amol Palekar",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Amol_Palekar",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-055",
+  "claims": "Career background, major works and awards of Amol Palekar.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-167",
+  "title": "Excel Entertainment",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Excel_Entertainment",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-058; FILM-068; FILM-076; FILM-086",
+  "claims": "Career background, major works and awards of Excel Entertainment.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-168",
+  "title": "Ritesh Sidhwani",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Ritesh_Sidhwani",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-058; FILM-068; FILM-076; FILM-086",
+  "claims": "Career background, major works and awards of Excel Entertainment.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography. The article is titled Ritesh Sidhwani."
+ },
+ {
+  "source_id": "SOURCE-169",
+  "title": "Farhan Akhtar",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Farhan_Akhtar",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-058; FILM-068; FILM-076; FILM-086",
+  "claims": "Career background, major works and awards of Farhan Akhtar.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-170",
+  "title": "Vishal–Shekhar",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Vishal%E2%80%93Shekhar",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-059; FILM-062; FILM-065; FILM-075; FILM-079; FILM-081; FILM-083; FILM-094",
+  "claims": "Career background, major works and awards of Vishal–Shekhar.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-171",
+  "title": "Shimit Amin",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Shimit_Amin",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-060",
+  "claims": "Career background, major works and awards of Shimit Amin.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-172",
+  "title": "B. R. Chopra",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/B._R._Chopra",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-065; FILM-080",
+  "claims": "Career background, major works and awards of B. R. Films.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography. The article is titled B. R. Chopra."
+ },
+ {
+  "source_id": "SOURCE-173",
+  "title": "Pritam",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Pritam",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-066; FILM-069; FILM-070; FILM-073; FILM-082; FILM-084; FILM-087; FILM-088; FILM-092; FILM-093; FILM-096; FILM-097",
+  "claims": "Career background, major works and awards of Pritam.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-174",
+  "title": "Zoya Akhtar",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Zoya_Akhtar",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-068; FILM-078",
+  "claims": "Career background, major works and awards of Zoya Akhtar.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-175",
+  "title": "Star Studio18",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Star_Studio18",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-071; FILM-090",
+  "claims": "Career background, major works and awards of Fox Star Studios.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography. The article is titled Star Studio18."
+ },
+ {
+  "source_id": "SOURCE-176",
+  "title": "Amit Trivedi",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Amit_Trivedi",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-078; FILM-085",
+  "claims": "Career background, major works and awards of Amit Trivedi.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-177",
+  "title": "Amar Mohile",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Amar_Mohile",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-079; FILM-082",
+  "claims": "Career background, major works and awards of Amar Mohile.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-178",
+  "title": "Rohit Shetty",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Rohit_Shetty",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-079; FILM-082",
+  "claims": "Career background, major works and awards of Rohit Shetty.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-179",
+  "title": "Ram Sampath",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Ram_Sampath",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-080; FILM-086",
+  "claims": "Career background, major works and awards of Ram Sampath.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-180",
+  "title": "Maneesh Sharma",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Maneesh_Sharma",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-083; FILM-096",
+  "claims": "Career background, major works and awards of Maneesh Sharma.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-181",
+  "title": "Gauri Shinde",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Gauri_Shinde",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-085",
+  "claims": "Career background, major works and awards of Gauri Shinde.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-182",
+  "title": "Imtiaz Ali (director)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Imtiaz_Ali_(director)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-088",
+  "claims": "Career background, major works and awards of Imtiaz Ali.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography. The article is titled Imtiaz Ali (director)."
+ },
+ {
+  "source_id": "SOURCE-183",
+  "title": "Aanand L. Rai",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Aanand_L._Rai",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-089",
+  "claims": "Career background, major works and awards of Aanand L. Rai.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-184",
+  "title": "Siddharth Anand",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Siddharth_Anand",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-094",
+  "claims": "Career background, major works and awards of Siddharth Anand.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ },
+ {
+  "source_id": "SOURCE-185",
+  "title": "Atlee (director)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Atlee_(director)",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-095",
+  "claims": "Career background, major works and awards of Atlee.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography. The article is titled Atlee (director)."
+ },
+ {
+  "source_id": "SOURCE-186",
+  "title": "Rajkumar Hirani",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Rajkumar_Hirani",
+  "access_date": "2026-09-13",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-097",
+  "claims": "Career background, major works and awards of Rajkumar Hirani.",
+  "notes": "Downloaded as raw wikitext; used for the collaborator biography."
+ }
+]
