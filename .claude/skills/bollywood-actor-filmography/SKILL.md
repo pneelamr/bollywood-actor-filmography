@@ -24,6 +24,23 @@ $PY $SCRIPT validate research/<actor-slug>
 $PY $SCRIPT build research/<actor-slug> -o "<Actor Name> Filmography.xlsx"
 ```
 
+`scripts/extract_wiki.py` (standard library only) fills the mechanical fields from Wikipedia raw wikitext and prints tight extracts for the hand-written ones. `WORK` is a scratchpad directory:
+
+```bash
+EX=.claude/skills/bollywood-actor-filmography/scripts/extract_wiki.py
+CFG=research/<actor-slug>/extract_config.json
+$PY $EX table WORK --page "<Actor Name> filmography"   # acting-credits table -> WORK/table.json
+$PY $EX fetch WORK                                     # every linked film article -> WORK/wt/
+$PY $EX films WORK research/<actor-slug> --actor "<Actor Name>" --config $CFG
+$PY $EX plot WORK research/<actor-slug> --ids FILM-001-FILM-030          # also: cast, reviews, boxoffice
+$PY $EX reviews WORK research/<actor-slug> --ids FILM-001-FILM-030 --terms "<Surname>;chemistry"
+```
+
+* `extract_config.json` records scope decisions keyed by `Title|Year` as the table gives them: `exclude` (with reasons), `overrides`, `notes`, `extra_sources` and `add`. Keep it so `films` can be re-run when a new film is released.
+* `films` numbers Film IDs chronologically on a first run, keeps existing IDs and values on later runs, and replaces mechanical values only with `--overwrite`.
+* It sets `role_type` only for narration, voice, self, cameo and special appearances; lead, co-lead, supporting and antagonist are decided by hand. Lyricists come partly from prose and need a check.
+* The extract commands find each film's article through its Wikipedia source row and download it again when `WORK` is new.
+
 Research files, one directory per actor:
 
 * `meta.json`: `actor`, `research_cutoff`, `scope_note`, and `career_phases` (a list of objects with `phase`, `start_year`, `end_year`, `summary`)
@@ -610,6 +627,36 @@ For a large filmography, use a pilot when the user requests one or when the scor
 * Film without meaningful romance
 
 After the pilot, continue to the complete filmography unless the user asked to review the pilot first.
+
+### Keeping a run efficient
+
+A full career produces close to 1 MB of research JSON, and cost grows with context size multiplied by the number of steps. Follow these rules:
+
+* **One phase per session.** Plan the phases at the start and tell the user which one the current session covers:
+  1. Filmography, Film IDs and mechanical fields.
+  2. Films and romances, in batches of about 30 films.
+  3. Collaborators.
+  4. Ensemble cast.
+  5. Awards, sources, `validate` and `build`.
+
+  The files in `research/<actor-slug>/` carry the work between sessions. Start each session by running `validate` instead of re-reading earlier files.
+* **Read sources locally.** Download raw wikitext (`https://en.wikipedia.org/w/index.php?title=<Title>&action=raw`) with curl into the scratchpad, one command per batch, and parse it with Python. Use WebFetch only for pages that are not on Wikipedia. Never put the user's personal data, such as an email address, in request headers.
+* **Script the mechanical fields.** Fill these with `scripts/extract_wiki.py` (extend it rather than writing one-off parsers) from infoboxes, cast lists and box-office sections:
+  * title and release date
+  * runtime and language
+  * director, producers and banner
+  * writers and composers
+  * labelled budget and gross figures
+  * cast names and characters
+  * source rows
+
+  Write only narrative, classification and score fields by hand. Keep guest-composition credits in research notes, not composer columns.
+* **Keep extracts tight.**
+  * Print at most about 2,500 characters of plot per film.
+  * Keep only review sentences that mention the actor, the pairing or chemistry.
+  * For cameos and self appearances, keep only the sentences that mention the actor.
+  * Never print raw tables, reference markup or full lists. Write large extracts to a file and read them one batch at a time.
+* **Keep the full workbook contract.** Do not shorten fields or drop rows to save tokens unless the user asks.
 
 ## Analytical standards
 
