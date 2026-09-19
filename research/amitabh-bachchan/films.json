@@ -258,7 +258,8 @@
   "romance_presence": "None",
   "romance_centrality": 0,
   "relationship_classification": "No meaningful romance",
-  "confidence": "Low"
+  "confidence": "Low",
+  "director": "Palash Banerjee"
  },
  {
   "film_id": "FILM-010",
@@ -749,7 +750,8 @@
   "romance_presence": "None",
   "romance_centrality": 0,
   "relationship_classification": "No meaningful romance",
-  "confidence": "Low"
+  "confidence": "Low",
+  "language": "Tulu"
  },
  {
   "film_id": "FILM-027",
@@ -1189,7 +1191,7 @@
   "critical_reception": "Conversations Over Chai (blog) says script and direction could have been better but the film is worth watching for the performances of Sanjeev Kumar, Sharmila Tagore and Bachchan, and calls Mala a strong character.",
   "recognition": "Remade in Malayalam by Priyadarshan as Parayanumvayya Parayathirikkanumvayya (Wikipedia).",
   "confidence": "Low",
-  "research_notes": "Wikipedia's plot reads as an unsourced retelling: it names the heroine Asha and says Sanjay does not know the fugitive is in his house. The Conversations Over Chai review names her Mala (the cast list has 'Mala / Asha'), shows Sanjay aware of the siege and refers to a separate character called Asha. The review's version is used; the sister's name and the manner of Rajesh's death were not verified. Box Office India's 1975 list does not include the film."
+  "research_notes": "Wikipedia's plot reads as an unsourced retelling: it names the heroine Asha and says Sanjay does not know the fugitive is in his house. The Conversations Over Chai review names her Mala (the cast list has 'Mala / Asha'), shows Sanjay aware of the siege and refers to a separate character called Asha. The review's version is used; the sister's name and the manner of Rajesh's death were not verified. Box Office India's 1975 list does not include the film. The Wikipedia cast list credits 'Irrfan khan' as young Rajesh Kumar Srivastav. Irrfan Khan was born in 1967 and made his film debut in 1988, so the credit cannot be him; it is recorded here as an unreliable cast entry and no ensemble row was created for it."
  },
  {
   "film_id": "FILM-040",
@@ -2053,7 +2055,7 @@
   "role_type": "Self appearance",
   "billing_position": 2,
   "source_ids": "SOURCE-001; SOURCE-069; SOURCE-338; SOURCE-339; SOURCE-319",
-  "research_notes": "Filmography notes: Special appearance. Infobox release dates: 1979-06-27 (India); 1979 (US). Scope question: phase 1 excluded documentaries, and this film is catalogued as a documentary whose star appearances may be interviews or extracts only. Kept pending a decision. Language is entered as Hindi because the writing credits name a Hindi version. Not on Box Office India's 1979 page.",
+  "research_notes": "Filmography notes: Special appearance. Infobox release dates: 1979-06-27 (India); 1979 (US). Scope decision (18 September 2026): included, as an exception to phase 1's exclusion of documentaries. Wikipedia categorises the film under Indian documentary films and states that it features original interviews with notable Indian film stars including Bachchan, and the filmography table credits him as Himself in a special appearance. It is retained because the film is a staged quasi-documentary built around a fictional 1970s theatre audience rather than a straight documentary, so the star segments sit inside a constructed narrative. Against that, a citation inside the Wikipedia article (Bobby Sing, 'Cinema Cinema (1979) and Film Hi Film (1983) - Two Rare, Lesser Known Attempts Made, Using Clippings of Many Released and Unreleased (Hindi) Films', 5 June 2012) describes both films as assembled from clippings; that page could not be fetched, so the claim is recorded but not relied on. Confidence stays Low because no fetched source establishes whether Bachchan's footage is interview, extract or newly staged. Language is entered as Hindi because the writing credits name a Hindi version. Not on Box Office India's 1979 page.",
   "language": "Hindi",
   "genre": "Documentary",
   "role_gist": "Bachchan is one of the stars, with Dharmendra, Hema Malini and Zeenat Aman, in Krishna Shah's quasi-documentary history of Hindi cinema, framed as a screening watched by a cinema audience. Wikipedia says it features original interviews with the stars; no fetched source says whether Bachchan appears in anything beyond interview or film-extract footage.",
@@ -2849,8 +2851,8 @@
   "character": "Jengo",
   "alternate_identity": "Guru",
   "role_type": "Extended special appearance",
-  "source_ids": "SOURCE-001; SOURCE-094; SOURCE-343; SOURCE-323",
-  "research_notes": "Filmography notes: Extended Special appearance. No Wikipedia film article; fields come from the filmography table. No Wikipedia article and no citation in the filmography; IMDb credits Bachchan as Jengo / Guru and marks much of the cast as archive footage. Scope question: if Bachchan's footage was shot for other, unfinished films, the credit may fall under phase 1's exclusion of footage-only appearances. Kept pending a decision. Not listed on Box Office India's 1983 page.",
+  "source_ids": "SOURCE-001; SOURCE-094; SOURCE-343; SOURCE-323; SOURCE-889",
+  "research_notes": "Filmography notes: Extended Special appearance. No Wikipedia film article; fields come from the filmography table. IMDb credits Bachchan as Jengo / Guru and marks much of the cast as archive footage. Scope decision (18 September 2026): included, and deliberately distinguished from Bunty Aur Babli 2, which phase 1 excluded as archival footage only. The frame story was shot for this film (Pran failing to finance a film with newcomers, with special appearances by stars of the 1970s and 1980s), and the star footage is reported to come from unreleased and unfinished films, so this release is the only place that performance appeared, unlike the recycled footage in Bunty Aur Babli 2. The evidence remains thin in both directions: Letterboxd's cast list names only Pran, Ramesh Deo and Seema Deo, as does Wikipedia's list of 1983 Hindi films, so no source independently describes Bachchan's scenes, and confidence stays Low. Not listed on Box Office India's 1983 page.",
   "director": "Hiren Nag",
   "language": "Hindi",
   "genre": "Comedy",
@@ -3078,12 +3080,13 @@
   "character": "Narrator",
   "role_type": "Narrator",
   "source_ids": "SOURCE-001; SOURCE-098",
-  "research_notes": "No Wikipedia film article; fields come from the filmography table. No Wikipedia article and no citation in the filmography; IMDb credits Bachchan as narrator.",
+  "research_notes": "No Wikipedia film article; fields come from the filmography table. No Wikipedia article and no citation in the filmography; IMDb credits Bachchan as narrator. Language set to Hindi because the Wikipedia filmography annotates only its non-Hindi entries and gives this row no language note.",
   "role_gist": "IMDb credits Bachchan as the narrator of this 1984 film. No Wikipedia article or other fetched source describes the film or his narration.",
   "romance_presence": "None",
   "romance_centrality": 0,
   "relationship_classification": "No meaningful romance",
-  "confidence": "Low"
+  "confidence": "Low",
+  "language": "Hindi"
  },
  {
   "film_id": "FILM-097",
@@ -3092,12 +3095,13 @@
   "character": "Himself",
   "role_type": "Self appearance",
   "source_ids": "SOURCE-001; SOURCE-099",
-  "research_notes": "Filmography notes: Guest appearance. No Wikipedia film article; fields come from the filmography table. No Wikipedia article and no citation in the filmography; IMDb credits him as himself in a guest appearance.",
+  "research_notes": "Filmography notes: Guest appearance. No Wikipedia film article; fields come from the filmography table. No Wikipedia article and no citation in the filmography; IMDb credits him as himself in a guest appearance. Language set to Hindi because the Wikipedia filmography annotates only its non-Hindi entries and gives this row no language note.",
   "role_gist": "IMDb's full credits list Bachchan as himself in a guest appearance in this 1984 film. No Wikipedia article or other fetched source describes the film or his scene.",
   "romance_presence": "None",
   "romance_centrality": 0,
   "relationship_classification": "No meaningful romance",
-  "confidence": "Low"
+  "confidence": "Low",
+  "language": "Hindi"
  },
  {
   "film_id": "FILM-098",
@@ -6000,7 +6004,8 @@
   "romance_centrality": 0,
   "relationship_classification": "No meaningful romance",
   "critical_reception": "No review was found.",
-  "confidence": "Low"
+  "confidence": "Low",
+  "language": "Marathi"
  },
  {
   "film_id": "FILM-183",
@@ -6928,7 +6933,7 @@
   "release_date": "2012",
   "character": "Chitta Ji",
   "source_ids": "SOURCE-001; SOURCE-213; SOURCE-526",
-  "research_notes": "Filmography notes: Bhojpuri film. No Wikipedia film article; fields come from the filmography table. No Wikipedia article; the filmography cites a Times of India music-launch report. Role type is blank because no source describes the role. Romance is Implied only from a News24 headline saying he romanced Jaya Bachchan and Hema Malini in his Bhojpuri films; its page returned no text. Genre is from IMDb's listing as shown in search results. The search summary says the film was relaunched in Hindi as Leader in 2014. No box-office data was found.",
+  "research_notes": "Filmography notes: Bhojpuri film. No Wikipedia film article; fields come from the filmography table. No Wikipedia article; the filmography cites a Times of India music-launch report. Role type is blank because no source describes the role. Romance is Implied only from a News24 headline saying he romanced Jaya Bachchan and Hema Malini in his Bhojpuri films; its page returned no text. Genre is from IMDb's listing as shown in search results. Scope decision (18 September 2026): kept as a row separate from The Great Leader (FILM-231), which is its Hindi-dubbed release. Searches in 2026 confirm this film was also dubbed into Gujarati as Naam Chhe Maru Ganga, relaunched in Hindi as Leader in 2014, and released in Hindi as The Great Leader in 2017; IMDb metadata gives a release date of 14 September 2012, which is not entered in the date column because it rests on a search summary alone. FILM-208 and FILM-231 therefore describe one production in two language versions and should be counted as one film when totalling distinct productions. No box-office data was found. Role type set to Supporting on the strength of ThePrint's report that Bachchan starred alongside Gulshan Grover and Dinesh Lal Yadav with Jaya Bachchan, which indicates a credited cast role rather than a cameo; no source describes the part, so the grade stays Low.",
   "genre": "Drama",
   "character_occupation": "Not described in the fetched sources",
   "character_social_background": "Not described in the fetched sources",
@@ -6940,7 +6945,9 @@
   "romance_centrality": 1,
   "relationship_classification": "Romance subordinate to another genre",
   "critical_reception": "No review was found.",
-  "confidence": "Low"
+  "confidence": "Low",
+  "language": "Bhojpuri",
+  "role_type": "Supporting"
  },
  {
   "film_id": "FILM-209",
@@ -7711,7 +7718,7 @@
   "release_date": "2017",
   "character": "Leader",
   "source_ids": "SOURCE-001; SOURCE-235; SOURCE-236; SOURCE-562; SOURCE-563",
-  "research_notes": "Filmography notes: Bhojpuri film. No Wikipedia film article; fields come from the filmography table. No Wikipedia article and no citation in the filmography; IMDb lists a 2017 release. Reported as a Bhojpuri film dubbed in Hindi, produced by his long-time make-up artist Deepak Sawant. Open question for the user: this may not be a separate film. Search sources describe The Great Leader as the Hindi-dubbed version of the Bhojpuri Ganga Devi, which is already FILM-208, and SOURCE-526 records that Ganga Devi was 'relaunched in Hindi as Leader'. Phase 1 gave bilingual Barsaat Ki Ek Raat / Anusandhan a single shared row, which would argue for merging these two rows; against that, the releases are five years apart (2012 and 2017) and the filmography table lists them separately. Both rows are kept at Low confidence pending a decision. Release date is also disputed: Filmibeat gives 8 December 2017 and The Quint 15 December 2017, so only the year is recorded. Role type is left blank because no source describes the role. Directed by Abhishek Chadha and produced by Bachchan's make-up artist of about 45 years, Deepak Sawant; Gulshan Grover and Jaya Bachchan also star. Originally announced in 2011 as The Great Daddu with Hema Malini and Sanjay Dutt.",
+  "research_notes": "Filmography notes: Bhojpuri film. No Wikipedia film article; fields come from the filmography table. No Wikipedia article and no citation in the filmography; IMDb lists a 2017 release. Reported as a Bhojpuri film dubbed in Hindi, produced by his long-time make-up artist Deepak Sawant. Scope decision (18 September 2026): kept as a row separate from Ganga Devi (FILM-208), of which this is the Hindi dub. Two independent 2026 searches confirm The Great Leader is the dubbed Hindi version of the 2012 Bhojpuri Ganga Devi, which was also dubbed into Gujarati as Naam Chhe Maru Ganga and relaunched in Hindi as Leader in 2014, and SOURCE-526 already recorded that relaunch. Phase 1 gave the bilingual Barsaat Ki Ek Raat / Anusandhan a single shared row, which would argue for merging these two; the rows are kept separate because the releases are five years apart, were marketed and reviewed independently, and the filmography table lists them as separate entries with different character names (Chitta Ji and Leader). The two rows describe one production in two language versions and should be counted as one film when totalling distinct productions; both stay at Low confidence. Release date is also disputed: Filmibeat gives 8 December 2017 and The Quint 15 December 2017, so only the year is recorded. Role type is left blank because no source describes the role. Directed by Abhishek Chadha and produced by Bachchan's make-up artist of about 45 years, Deepak Sawant. Gulshan Grover and Jaya Bachchan also star. Originally announced in 2011 as The Great Daddu with Hema Malini and Sanjay Dutt. Role type mirrors Ganga Devi (FILM-208), of which this is the reported Hindi-dubbed release; no source describes the part independently.",
   "genre": "Drama",
   "language": "Hindi",
   "director": "Abhishek Chadha",
@@ -7721,7 +7728,8 @@
   "romance_centrality": 0,
   "relationship_classification": "No meaningful romance",
   "critical_reception": "The Quint treated the trailer as unintentional comedy, placing the film in the 'so bad it's good' category; no full critical review was located.",
-  "confidence": "Low"
+  "confidence": "Low",
+  "role_type": "Supporting"
  },
  {
   "film_id": "FILM-232",

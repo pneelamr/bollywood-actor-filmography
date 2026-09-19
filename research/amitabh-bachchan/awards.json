@@ -1,1 +1,3911 @@
-[]
+[
+ {
+  "award_id": "AWARD-001",
+  "ceremony_year": 1984,
+  "organization": "Government honour",
+  "category": "Padma Shri India's fourth highest civilian award from the Government of India",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-002",
+  "ceremony_year": 1991,
+  "organization": "Government honour",
+  "category": "Order of Afghanistan by the President of Afghanistan",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-003",
+  "ceremony_year": 2001,
+  "organization": "Government honour",
+  "category": "Padma Bhushan, India's third highest civilian honour from the Government of India",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-004",
+  "ceremony_year": 2007,
+  "organization": "Government honour",
+  "category": "Officer of the Legion of Honour",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: officer of the Legion of Honour, France's highest civilian honour from the Government of France for his \"exceptional career in the world of cinema and beyond\". Describing Bachchan."
+ },
+ {
+  "award_id": "AWARD-005",
+  "ceremony_year": 2015,
+  "organization": "Government honour",
+  "category": "Padma Vibhushan, India's second highest civilian honour from the Government of India",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-006",
+  "ceremony_year": 2004,
+  "organization": "Honorary doctorate",
+  "category": "Honorary Doctorate by the Jhansi University, India",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-007",
+  "ceremony_year": 2006,
+  "organization": "Honorary doctorate",
+  "category": "Honorary Doctorate Degree on by his alma mater University of Delhi, India",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-008",
+  "ceremony_year": 2006,
+  "organization": "Honorary doctorate",
+  "category": "Honorary degree of Doctor of Arts",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: Honorary degree of Doctor of Arts by De Montfort University in Leicester, UK in recognition of his distinguished career in films. He is the first Indian star to be feted by a forei."
+ },
+ {
+  "award_id": "AWARD-009",
+  "ceremony_year": 2007,
+  "organization": "Honorary doctorate",
+  "category": "Honorary degree of Doctor of Arts",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: Honorary degree of Doctor of Arts by The University Brandan Foster by the Leeds Metropolitan University in Yorkshire, UK."
+ },
+ {
+  "award_id": "AWARD-010",
+  "ceremony_year": 2011,
+  "organization": "Honorary doctorate",
+  "category": "Honorary Doctorate",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: Honorary Doctorate by the Queensland University of Technology in Brisbane, Australia for his contribution to the world of entertainment."
+ },
+ {
+  "award_id": "AWARD-011",
+  "ceremony_year": 2013,
+  "organization": "Honorary doctorate",
+  "category": "Honorary Doctorate",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: Honorary Doctorate by the Jodhpur National University, India for his exceptional contribution to Indian Cinema."
+ },
+ {
+  "award_id": "AWARD-012",
+  "ceremony_year": 2015,
+  "organization": "Honorary doctorate",
+  "category": "Honorary Doctorate",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: Honorary Doctorate from the prestigious Academy of Arts (Egypt) for his contribution to cinema."
+ },
+ {
+  "award_id": "AWARD-013",
+  "ceremony_year": 2018,
+  "organization": "Honorary doctorate",
+  "category": "Honorary Doctorate from Rabindra Bharati University for his contribution to cinema",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-014",
+  "ceremony_year": 1980,
+  "organization": "National honour",
+  "category": "Awadh Samman by the Government of Uttar Pradesh",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-015",
+  "ceremony_year": 1994,
+  "organization": "National honour",
+  "category": "Yash Bharati, Uttar Pradesh's highest honour from the Government of Uttar Pradesh",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-016",
+  "ceremony_year": 2002,
+  "organization": "National honour",
+  "category": "Dayawati Modi Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: \"Dayawati Modi\" Award. This award is among the highest awards in India in the field of Art, Culture and Education."
+ },
+ {
+  "award_id": "AWARD-017",
+  "ceremony_year": 2002,
+  "organization": "National honour",
+  "category": "National Kishore Kumar Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: National Kishore Kumar Award by the Government of Madhya Pradesh for excellence in acting and his unparalleled contribution to the film industry."
+ },
+ {
+  "award_id": "AWARD-018",
+  "ceremony_year": 2004,
+  "organization": "National honour",
+  "category": "Living Legend Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: \"Living Legend\" Award by the Federation of Indian Chamber of Commerce and Industry (FICCI) in recognition of his contribution to the Indian entertainment industry."
+ },
+ {
+  "award_id": "AWARD-019",
+  "ceremony_year": 2005,
+  "organization": "National honour",
+  "category": "Deenanath Mangeshkar award for his contribution to films and music",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-020",
+  "ceremony_year": 2009,
+  "organization": "National honour",
+  "category": "Most Powerful Entertainer of the Decade Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: IIFA-FICCI Frames, \"Most Powerful Entertainer of the Decade Award\" for his contribution to Indian cinema."
+ },
+ {
+  "award_id": "AWARD-021",
+  "ceremony_year": 2011,
+  "organization": "National honour",
+  "category": "Abhinaya Chakravarthy Award by the President of India Pratibha Patil",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-022",
+  "ceremony_year": 2011,
+  "organization": "National honour",
+  "category": "Maharashtrian of the Year-the Maanbindu Award by the President of India Pratibha Patil",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-023",
+  "ceremony_year": 2011,
+  "organization": "National honour",
+  "category": "NTR National Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: NTR National Award in recognition of his outstanding contribution toIndian Cinema by the Government of Andhra Pradesh."
+ },
+ {
+  "award_id": "AWARD-024",
+  "ceremony_year": 2013,
+  "organization": "National honour",
+  "category": "President of India 'Medallion of Honour' for contribution to 100 Years of Indian Cinema",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-025",
+  "ceremony_year": 2014,
+  "organization": "National honour",
+  "category": "ANR National Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-026",
+  "ceremony_year": 2019,
+  "organization": "National honour",
+  "category": "Government of India confers Dadasaheb Phalke Award for the year 2018",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-027",
+  "ceremony_year": 1969,
+  "organization": "National Film Awards",
+  "category": "Best Newcomer",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-002"
+ },
+ {
+  "award_id": "AWARD-028",
+  "ceremony_year": 1990,
+  "organization": "National Film Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-116"
+ },
+ {
+  "award_id": "AWARD-029",
+  "ceremony_year": 2005,
+  "organization": "National Film Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-166"
+ },
+ {
+  "award_id": "AWARD-030",
+  "ceremony_year": 2009,
+  "organization": "National Film Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-201"
+ },
+ {
+  "award_id": "AWARD-031",
+  "ceremony_year": 2015,
+  "organization": "National Film Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-225"
+ },
+ {
+  "award_id": "AWARD-032",
+  "ceremony_year": 2009,
+  "organization": "National Film Awards",
+  "category": "Best Feature Film (Hindi)",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Producer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-201"
+ },
+ {
+  "award_id": "AWARD-033",
+  "ceremony_year": 2018,
+  "organization": "National Film Awards",
+  "category": "Dadasaheb Phalke Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Lifetime honour for contribution to Indian cinema, not a competitive category."
+ },
+ {
+  "award_id": "AWARD-034",
+  "ceremony_year": 2010,
+  "organization": "Asian Film Awards",
+  "category": "Lifetime Achievement Award during the 4th Asian Film Awards in Hong Kong",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-035",
+  "ceremony_year": 1974,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-020"
+ },
+ {
+  "award_id": "AWARD-036",
+  "ceremony_year": 1976,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-034"
+ },
+ {
+  "award_id": "AWARD-037",
+  "ceremony_year": 1977,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-042"
+ },
+ {
+  "award_id": "AWARD-038",
+  "ceremony_year": 1978,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-040"
+ },
+ {
+  "award_id": "AWARD-039",
+  "ceremony_year": 1978,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-050"
+ },
+ {
+  "award_id": "AWARD-040",
+  "ceremony_year": 1979,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-059"
+ },
+ {
+  "award_id": "AWARD-041",
+  "ceremony_year": 1979,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-060"
+ },
+ {
+  "award_id": "AWARD-042",
+  "ceremony_year": 1979,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-058"
+ },
+ {
+  "award_id": "AWARD-043",
+  "ceremony_year": 1980,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-067"
+ },
+ {
+  "award_id": "AWARD-044",
+  "ceremony_year": 1980,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-065"
+ },
+ {
+  "award_id": "AWARD-045",
+  "ceremony_year": 1981,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-071"
+ },
+ {
+  "award_id": "AWARD-046",
+  "ceremony_year": 1982,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-078"
+ },
+ {
+  "award_id": "AWARD-047",
+  "ceremony_year": 1982,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-079"
+ },
+ {
+  "award_id": "AWARD-048",
+  "ceremony_year": 1983,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-084"
+ },
+ {
+  "award_id": "AWARD-049",
+  "ceremony_year": 1983,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-086"
+ },
+ {
+  "award_id": "AWARD-050",
+  "ceremony_year": 1983,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-088"
+ },
+ {
+  "award_id": "AWARD-051",
+  "ceremony_year": 1985,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-099"
+ },
+ {
+  "award_id": "AWARD-052",
+  "ceremony_year": 1986,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-103"
+ },
+ {
+  "award_id": "AWARD-053",
+  "ceremony_year": 1989,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-107"
+ },
+ {
+  "award_id": "AWARD-054",
+  "ceremony_year": 1991,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-116"
+ },
+ {
+  "award_id": "AWARD-055",
+  "ceremony_year": 1992,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-119"
+ },
+ {
+  "award_id": "AWARD-056",
+  "ceremony_year": 1993,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-123"
+ },
+ {
+  "award_id": "AWARD-057",
+  "ceremony_year": 2002,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-143"
+ },
+ {
+  "award_id": "AWARD-058",
+  "ceremony_year": 2003,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-148"
+ },
+ {
+  "award_id": "AWARD-059",
+  "ceremony_year": 2004,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-153"
+ },
+ {
+  "award_id": "AWARD-060",
+  "ceremony_year": 2005,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-155"
+ },
+ {
+  "award_id": "AWARD-061",
+  "ceremony_year": 2006,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-166"
+ },
+ {
+  "award_id": "AWARD-062",
+  "ceremony_year": 2006,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-171"
+ },
+ {
+  "award_id": "AWARD-063",
+  "ceremony_year": 2010,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-201"
+ },
+ {
+  "award_id": "AWARD-064",
+  "ceremony_year": 2012,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-206"
+ },
+ {
+  "award_id": "AWARD-065",
+  "ceremony_year": 2016,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-225"
+ },
+ {
+  "award_id": "AWARD-066",
+  "ceremony_year": 2017,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-229"
+ },
+ {
+  "award_id": "AWARD-067",
+  "ceremony_year": 2021,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-245"
+ },
+ {
+  "award_id": "AWARD-068",
+  "ceremony_year": 2023,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-254"
+ },
+ {
+  "award_id": "AWARD-069",
+  "ceremony_year": 1972,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-004"
+ },
+ {
+  "award_id": "AWARD-070",
+  "ceremony_year": 1974,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-025"
+ },
+ {
+  "award_id": "AWARD-071",
+  "ceremony_year": 2001,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-140"
+ },
+ {
+  "award_id": "AWARD-072",
+  "ceremony_year": 2002,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-144"
+ },
+ {
+  "award_id": "AWARD-073",
+  "ceremony_year": 2003,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-145"
+ },
+ {
+  "award_id": "AWARD-074",
+  "ceremony_year": 2005,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-164"
+ },
+ {
+  "award_id": "AWARD-075",
+  "ceremony_year": 2006,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-168"
+ },
+ {
+  "award_id": "AWARD-076",
+  "ceremony_year": 2007,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-179"
+ },
+ {
+  "award_id": "AWARD-077",
+  "ceremony_year": 2002,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor (Critics)",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-143"
+ },
+ {
+  "award_id": "AWARD-078",
+  "ceremony_year": 2006,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor (Critics)",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-166"
+ },
+ {
+  "award_id": "AWARD-079",
+  "ceremony_year": 2016,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor (Critics)",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-225"
+ },
+ {
+  "award_id": "AWARD-080",
+  "ceremony_year": 2021,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor (Critics)",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-245"
+ },
+ {
+  "award_id": "AWARD-081",
+  "ceremony_year": 1991,
+  "organization": "Filmfare Awards",
+  "category": "Lifetime Achievement Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-082",
+  "ceremony_year": 2000,
+  "organization": "Filmfare Awards",
+  "category": "Superstar of the Millennium",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-083",
+  "ceremony_year": 2004,
+  "organization": "Filmfare Awards",
+  "category": "Power Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "No film named in the source for this citation."
+ },
+ {
+  "award_id": "AWARD-084",
+  "ceremony_year": 2011,
+  "organization": "Filmfare Awards",
+  "category": "Special Award ()",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-085",
+  "ceremony_year": 2025,
+  "organization": "Filmfare Awards",
+  "category": "Special Award (Cine Icon Award)",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-086",
+  "ceremony_year": 2003,
+  "organization": "Screen Awards",
+  "category": "Jodi No. 1 (with Hema Malini)",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-153"
+ },
+ {
+  "award_id": "AWARD-087",
+  "ceremony_year": 2003,
+  "organization": "Screen Awards",
+  "category": "Distinction in Acting Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-153"
+ },
+ {
+  "award_id": "AWARD-088",
+  "ceremony_year": 2004,
+  "organization": "Screen Awards",
+  "category": "Most Outstanding Personality",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-089",
+  "ceremony_year": 2005,
+  "organization": "Screen Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-166"
+ },
+ {
+  "award_id": "AWARD-090",
+  "ceremony_year": 2007,
+  "organization": "Screen Awards",
+  "category": "Best Actor (Critics)",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-185"
+ },
+ {
+  "award_id": "AWARD-091",
+  "ceremony_year": 2010,
+  "organization": "Screen Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-201"
+ },
+ {
+  "award_id": "AWARD-092",
+  "ceremony_year": 2010,
+  "organization": "Screen Awards",
+  "category": "Jodi No. 1 (with Abhishek Bachchan)",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-201"
+ },
+ {
+  "award_id": "AWARD-093",
+  "ceremony_year": 2013,
+  "organization": "Screen Awards",
+  "category": "Iconic Legend Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-094",
+  "ceremony_year": 2014,
+  "organization": "Screen Awards",
+  "category": "Lifetime Achievement Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-095",
+  "ceremony_year": 2015,
+  "organization": "Screen Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-225"
+ },
+ {
+  "award_id": "AWARD-096",
+  "ceremony_year": 2017,
+  "organization": "Screen Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-229"
+ },
+ {
+  "award_id": "AWARD-097",
+  "ceremony_year": 2000,
+  "organization": "IIFA Awards",
+  "category": "IIFA Special Honorary Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-098",
+  "ceremony_year": 2001,
+  "organization": "IIFA Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-140"
+ },
+ {
+  "award_id": "AWARD-099",
+  "ceremony_year": 2002,
+  "organization": "IIFA Awards",
+  "category": "IIFA Personality of the Year",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-100",
+  "ceremony_year": 2002,
+  "organization": "IIFA Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-143"
+ },
+ {
+  "award_id": "AWARD-101",
+  "ceremony_year": 2002,
+  "organization": "IIFA Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-144"
+ },
+ {
+  "award_id": "AWARD-102",
+  "ceremony_year": 2003,
+  "organization": "IIFA Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-148"
+ },
+ {
+  "award_id": "AWARD-103",
+  "ceremony_year": 2004,
+  "organization": "IIFA Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-153"
+ },
+ {
+  "award_id": "AWARD-104",
+  "ceremony_year": 2005,
+  "organization": "IIFA Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-164"
+ },
+ {
+  "award_id": "AWARD-105",
+  "ceremony_year": 2006,
+  "organization": "IIFA Awards",
+  "category": "IIFA Wall of Fame",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-106",
+  "ceremony_year": 2006,
+  "organization": "IIFA Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-166"
+ },
+ {
+  "award_id": "AWARD-107",
+  "ceremony_year": 2006,
+  "organization": "IIFA Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-171"
+ },
+ {
+  "award_id": "AWARD-108",
+  "ceremony_year": 2006,
+  "organization": "IIFA Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-168"
+ },
+ {
+  "award_id": "AWARD-109",
+  "ceremony_year": 2007,
+  "organization": "IIFA Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-179"
+ },
+ {
+  "award_id": "AWARD-110",
+  "ceremony_year": 2010,
+  "organization": "IIFA Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-201"
+ },
+ {
+  "award_id": "AWARD-111",
+  "ceremony_year": 2016,
+  "organization": "IIFA Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-225"
+ },
+ {
+  "award_id": "AWARD-112",
+  "ceremony_year": 2017,
+  "organization": "IIFA Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-229"
+ },
+ {
+  "award_id": "AWARD-113",
+  "ceremony_year": 2017,
+  "organization": "IIFA Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-226"
+ },
+ {
+  "award_id": "AWARD-114",
+  "ceremony_year": 2000,
+  "organization": "Stardust Awards",
+  "category": "Best Artist of the Millennium by Hero Honda and Stardust (magazine)",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-115",
+  "ceremony_year": 2003,
+  "organization": "Stardust Awards",
+  "category": "Lifetime Achievement",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-116",
+  "ceremony_year": 2004,
+  "organization": "Stardust Awards",
+  "category": "Special Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-153"
+ },
+ {
+  "award_id": "AWARD-117",
+  "ceremony_year": 2005,
+  "organization": "Stardust Awards",
+  "category": "Special Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-166"
+ },
+ {
+  "award_id": "AWARD-118",
+  "ceremony_year": 2006,
+  "organization": "Stardust Awards",
+  "category": "Star of the Year Award - Male",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-166"
+ },
+ {
+  "award_id": "AWARD-119",
+  "ceremony_year": 2009,
+  "organization": "Stardust Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-190"
+ },
+ {
+  "award_id": "AWARD-120",
+  "ceremony_year": 2010,
+  "organization": "Stardust Awards",
+  "category": "Star of the Year Award – Male",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-201"
+ },
+ {
+  "award_id": "AWARD-121",
+  "ceremony_year": 2011,
+  "organization": "Stardust Awards",
+  "category": "Pride of the Industry Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-122",
+  "ceremony_year": 2013,
+  "organization": "Stardust Awards",
+  "category": "Star of the Century Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-123",
+  "ceremony_year": 2014,
+  "organization": "Stardust Awards",
+  "category": "International Icon of the Year Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-124",
+  "ceremony_year": 2015,
+  "organization": "Stardust Awards",
+  "category": "Star of the Year Award – Male",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-225"
+ },
+ {
+  "award_id": "AWARD-125",
+  "ceremony_year": 2016,
+  "organization": "Stardust Awards",
+  "category": "Star of the Year Award – Male",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-229"
+ },
+ {
+  "award_id": "AWARD-126",
+  "ceremony_year": 2025,
+  "organization": "South Indian International Movie Awards",
+  "category": "Best Supporting Actor – Telugu",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-257"
+ },
+ {
+  "award_id": "AWARD-127",
+  "ceremony_year": 1976,
+  "organization": "Bengal Film Journalists' Association Awards",
+  "category": "Best Actor (Hindi)",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-037"
+ },
+ {
+  "award_id": "AWARD-128",
+  "ceremony_year": 2006,
+  "organization": "Bengal Film Journalists' Association Awards",
+  "category": "Best Actor (Hindi)",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-166"
+ },
+ {
+  "award_id": "AWARD-129",
+  "ceremony_year": 2001,
+  "organization": "Zee Cine Awards",
+  "category": "Best Actor – Male",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-143"
+ },
+ {
+  "award_id": "AWARD-130",
+  "ceremony_year": 2003,
+  "organization": "Zee Cine Awards",
+  "category": "Lifetime Achievement",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-131",
+  "ceremony_year": 2003,
+  "organization": "Zee Cine Awards",
+  "category": "Best Actor – Male",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-145"
+ },
+ {
+  "award_id": "AWARD-132",
+  "ceremony_year": 2004,
+  "organization": "Zee Cine Awards",
+  "category": "Golden Grade Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "No film named in the source for this citation."
+ },
+ {
+  "award_id": "AWARD-133",
+  "ceremony_year": 2004,
+  "organization": "Zee Cine Awards",
+  "category": "Best Actor – Male",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-153"
+ },
+ {
+  "award_id": "AWARD-134",
+  "ceremony_year": 2005,
+  "organization": "Zee Cine Awards",
+  "category": "Best Actor – Male",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-155"
+ },
+ {
+  "award_id": "AWARD-135",
+  "ceremony_year": 2006,
+  "organization": "Zee Cine Awards",
+  "category": "Best Actor – Male",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-166"
+ },
+ {
+  "award_id": "AWARD-136",
+  "ceremony_year": 2006,
+  "organization": "Zee Cine Awards",
+  "category": "Best Actor – Male",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-171"
+ },
+ {
+  "award_id": "AWARD-137",
+  "ceremony_year": 2008,
+  "organization": "Zee Cine Awards",
+  "category": "Best Actor – Male",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-185"
+ },
+ {
+  "award_id": "AWARD-138",
+  "ceremony_year": 2016,
+  "organization": "Zee Cine Awards",
+  "category": "Best Actor (Critics) – Male",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-225"
+ },
+ {
+  "award_id": "AWARD-139",
+  "ceremony_year": 2017,
+  "organization": "Zee Cine Awards",
+  "category": "Best Actor (Critics) – Male",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-229"
+ },
+ {
+  "award_id": "AWARD-140",
+  "ceremony_year": 2017,
+  "organization": "Zee Cine Awards",
+  "category": "Best Actor – Male",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-229"
+ },
+ {
+  "award_id": "AWARD-141",
+  "ceremony_year": 2018,
+  "organization": "Zee Cine Awards",
+  "category": "Legend Extraordinaire",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-142",
+  "ceremony_year": 2001,
+  "organization": "Bollywood Movie Awards",
+  "category": "Best Actor - Male (Critics)",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-140"
+ },
+ {
+  "award_id": "AWARD-143",
+  "ceremony_year": 2003,
+  "organization": "Bollywood Movie Awards",
+  "category": "Most Sensational Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-148"
+ },
+ {
+  "award_id": "AWARD-144",
+  "ceremony_year": 2006,
+  "organization": "Bollywood Movie Awards",
+  "category": "Best Actor (Male)",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-166"
+ },
+ {
+  "award_id": "AWARD-145",
+  "ceremony_year": 2004,
+  "organization": "Apsara Film & Television Producers Guild Awards",
+  "category": "Best Actor in a Leading Role",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Producer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-155"
+ },
+ {
+  "award_id": "AWARD-146",
+  "ceremony_year": 2006,
+  "organization": "Apsara Film & Television Producers Guild Awards",
+  "category": "Best Actor in a Leading Role",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Producer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-166"
+ },
+ {
+  "award_id": "AWARD-147",
+  "ceremony_year": 2008,
+  "organization": "Apsara Film & Television Producers Guild Awards",
+  "category": "Best Actor in a Leading Role",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Producer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-185"
+ },
+ {
+  "award_id": "AWARD-148",
+  "ceremony_year": 2010,
+  "organization": "Apsara Film & Television Producers Guild Awards",
+  "category": "Lifetime Achievement Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-149",
+  "ceremony_year": 2011,
+  "organization": "Apsara Film & Television Producers Guild Awards",
+  "category": "Best Actor in a Leading Role",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-201"
+ },
+ {
+  "award_id": "AWARD-150",
+  "ceremony_year": 2012,
+  "organization": "Apsara Film & Television Producers Guild Awards",
+  "category": "Apsara Awards: Guild Honor For Excellence on TV",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Television work (Kaun Banega Crorepati / Bigg Boss); outside the film scope of this workbook, recorded here for completeness of the actor's award record."
+ },
+ {
+  "award_id": "AWARD-151",
+  "ceremony_year": 2010,
+  "organization": "BIG Star Entertainment Awards",
+  "category": "Complete Entertainer of The Decade",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "No film named in the source for this citation."
+ },
+ {
+  "award_id": "AWARD-152",
+  "ceremony_year": 2011,
+  "organization": "BIG Star Entertainment Awards",
+  "category": "Best Actor (Social Role)",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-206"
+ },
+ {
+  "award_id": "AWARD-153",
+  "ceremony_year": 2011,
+  "organization": "BIG Star Entertainment Awards",
+  "category": "Complete Entertainer",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "No film named in the source for this citation."
+ },
+ {
+  "award_id": "AWARD-154",
+  "ceremony_year": 2013,
+  "organization": "BIG Star Entertainment Awards",
+  "category": "Star of the Millennium",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-155",
+  "ceremony_year": 2013,
+  "organization": "BIG Star Entertainment Awards",
+  "category": "Best Actor (Social Role)",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-216"
+ },
+ {
+  "award_id": "AWARD-156",
+  "ceremony_year": 2014,
+  "organization": "BIG Star Entertainment Awards",
+  "category": "Best Actor (Social Role)",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-220"
+ },
+ {
+  "award_id": "AWARD-157",
+  "ceremony_year": 2015,
+  "organization": "BIG Star Entertainment Awards",
+  "category": "Most Entertaining Actor in a Drama Role (Male)",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-225"
+ },
+ {
+  "award_id": "AWARD-158",
+  "ceremony_year": 2012,
+  "organization": "People's Choice Awards",
+  "category": "Best Non-Fiction Show Host for Kaun Banega Crorepati",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Television work (Kaun Banega Crorepati / Bigg Boss); outside the film scope of this workbook, recorded here for completeness of the actor's award record."
+ },
+ {
+  "award_id": "AWARD-159",
+  "ceremony_year": 2001,
+  "organization": "Indian Television Academy Awards",
+  "category": "Best Host",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Television work (Kaun Banega Crorepati / Bigg Boss); outside the film scope of this workbook, recorded here for completeness of the actor's award record."
+ },
+ {
+  "award_id": "AWARD-160",
+  "ceremony_year": 2001,
+  "organization": "Indian Television Academy Awards",
+  "category": "Best Anchor of a Game Show",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Television work (Kaun Banega Crorepati / Bigg Boss); outside the film scope of this workbook, recorded here for completeness of the actor's award record."
+ },
+ {
+  "award_id": "AWARD-161",
+  "ceremony_year": 2005,
+  "organization": "Indian Television Academy Awards",
+  "category": "Best Anchor of a Game Show",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Television work (Kaun Banega Crorepati / Bigg Boss); outside the film scope of this workbook, recorded here for completeness of the actor's award record."
+ },
+ {
+  "award_id": "AWARD-162",
+  "ceremony_year": 2006,
+  "organization": "Indian Television Academy Awards",
+  "category": "Best Anchor of a Game Show",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Television work (Kaun Banega Crorepati / Bigg Boss); outside the film scope of this workbook, recorded here for completeness of the actor's award record."
+ },
+ {
+  "award_id": "AWARD-163",
+  "ceremony_year": 2007,
+  "organization": "Indian Television Academy Awards",
+  "category": "ITA Laurel For ULTIMATE EMINENCE",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-164",
+  "ceremony_year": 2010,
+  "organization": "Indian Television Academy Awards",
+  "category": "Best Anchor Talk/Chat Show",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Television work (Kaun Banega Crorepati / Bigg Boss); outside the film scope of this workbook, recorded here for completeness of the actor's award record."
+ },
+ {
+  "award_id": "AWARD-165",
+  "ceremony_year": 2011,
+  "organization": "Indian Television Academy Awards",
+  "category": "ITA Achiever of The Year",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-166",
+  "ceremony_year": 2011,
+  "organization": "Indian Television Academy Awards",
+  "category": "Best Anchor Game/Quiz Show",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Television work (Kaun Banega Crorepati / Bigg Boss); outside the film scope of this workbook, recorded here for completeness of the actor's award record."
+ },
+ {
+  "award_id": "AWARD-167",
+  "ceremony_year": 2013,
+  "organization": "Indian Television Academy Awards",
+  "category": "Best Anchor Game/Quiz Show",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Television work (Kaun Banega Crorepati / Bigg Boss); outside the film scope of this workbook, recorded here for completeness of the actor's award record."
+ },
+ {
+  "award_id": "AWARD-168",
+  "ceremony_year": 2001,
+  "organization": "Indian Telly Awards",
+  "category": "TV Personality of the Year 2000",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Television work (Kaun Banega Crorepati / Bigg Boss); outside the film scope of this workbook, recorded here for completeness of the actor's award record."
+ },
+ {
+  "award_id": "AWARD-169",
+  "ceremony_year": 2002,
+  "organization": "Indian Telly Awards",
+  "category": "TV Anchor of The Year",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Television work (Kaun Banega Crorepati / Bigg Boss); outside the film scope of this workbook, recorded here for completeness of the actor's award record."
+ },
+ {
+  "award_id": "AWARD-170",
+  "ceremony_year": 2005,
+  "organization": "Indian Telly Awards",
+  "category": "Best TV Anchor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Television work (Kaun Banega Crorepati / Bigg Boss); outside the film scope of this workbook, recorded here for completeness of the actor's award record."
+ },
+ {
+  "award_id": "AWARD-171",
+  "ceremony_year": 2012,
+  "organization": "Indian Telly Awards",
+  "category": "Best TV Anchor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Television work (Kaun Banega Crorepati / Bigg Boss); outside the film scope of this workbook, recorded here for completeness of the actor's award record."
+ },
+ {
+  "award_id": "AWARD-172",
+  "ceremony_year": 2000,
+  "organization": "Indian Television Awards",
+  "category": "Screen Videocon Awards: Best Anchor for Kaun Banega Crorepati",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Television work (Kaun Banega Crorepati / Bigg Boss); outside the film scope of this workbook, recorded here for completeness of the actor's award record."
+ },
+ {
+  "award_id": "AWARD-173",
+  "ceremony_year": 2011,
+  "organization": "BIG Television Awards",
+  "category": "Shaksiyat of the Year for Kaun Banega Crorepati",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Television work (Kaun Banega Crorepati / Bigg Boss); outside the film scope of this workbook, recorded here for completeness of the actor's award record."
+ },
+ {
+  "award_id": "AWARD-174",
+  "ceremony_year": 2011,
+  "organization": "BIG Television Awards",
+  "category": "Distinguished Personality Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "No film named in the source for this citation."
+ },
+ {
+  "award_id": "AWARD-175",
+  "ceremony_year": 1970,
+  "organization": "Other award",
+  "category": "Saraswati Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-004"
+ },
+ {
+  "award_id": "AWARD-176",
+  "ceremony_year": 1989,
+  "organization": "Other award",
+  "category": "Lifetime Achievement Award from the Rotary Club of Bombay (Mumbai)",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-177",
+  "ceremony_year": 1997,
+  "organization": "Other award",
+  "category": "Distinguished Alumni Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: \"Distinguished Alumni \" award at the inaugural function of the platinum jubilee celebrations of the Capital's largest Central University."
+ },
+ {
+  "award_id": "AWARD-178",
+  "ceremony_year": 1998,
+  "organization": "Other award",
+  "category": "Lifetime Achievement Award at the Omega Award for Excellence",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-179",
+  "ceremony_year": 2000,
+  "organization": "Other award",
+  "category": "All-India Critics Association (AICA): Best Actor Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-135"
+ },
+ {
+  "award_id": "AWARD-180",
+  "ceremony_year": 2000,
+  "organization": "Other award",
+  "category": "Sansui Viewers Choice Awards: Best Supporting Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-140"
+ },
+ {
+  "award_id": "AWARD-181",
+  "ceremony_year": 2001,
+  "organization": "Other award",
+  "category": "Zee Gold Awards: Critics Award for Best Male",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-140"
+ },
+ {
+  "award_id": "AWARD-182",
+  "ceremony_year": 2002,
+  "organization": "Other award",
+  "category": "Icon of the Millennium award at the 32nd Rupa AIFA Awards at Bandra",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-183",
+  "ceremony_year": 2002,
+  "organization": "Other award",
+  "category": "Lifetime Achievement Award by the Sansui Viewers' Choice Movie Awards",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-184",
+  "ceremony_year": 2003,
+  "organization": "Other award",
+  "category": "MTV Lycra Awards: Maha Style Icon of the Year (First Recipient)",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-185",
+  "ceremony_year": 2003,
+  "organization": "Other award",
+  "category": "Bollywood's Lifetime Achievement Award by the London-based Asian Guild",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-186",
+  "ceremony_year": 2003,
+  "organization": "Other award",
+  "category": "Lifetime Achievement Award at the Sangeet Shiromani Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-187",
+  "ceremony_year": 2003,
+  "organization": "Other award",
+  "category": "FPFAC 'Achiever' Awards: \"Achiever of the Year\" award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-188",
+  "ceremony_year": 2004,
+  "organization": "Other award",
+  "category": "Radio Voice of the Year award by Radio Mirchi",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-189",
+  "ceremony_year": 2004,
+  "organization": "Other award",
+  "category": "Sansui Viewer's Choice Movie Awards: Personality of the Year",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-190",
+  "ceremony_year": 2005,
+  "organization": "Other award",
+  "category": "Diamond of India award by The International Gemological Institute (IGI)",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-191",
+  "ceremony_year": 2005,
+  "organization": "Other award",
+  "category": "NDTV Indian of the Year in Entertainment",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-192",
+  "ceremony_year": 2006,
+  "organization": "Other award",
+  "category": "Anandalok Awards: Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-166"
+ },
+ {
+  "award_id": "AWARD-193",
+  "ceremony_year": 2006,
+  "organization": "Other award",
+  "category": "Bollyvista Film Awards: Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-166"
+ },
+ {
+  "award_id": "AWARD-194",
+  "ceremony_year": 2006,
+  "organization": "Other award",
+  "category": "Rediff Movie Awards: Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-166"
+ },
+ {
+  "award_id": "AWARD-195",
+  "ceremony_year": 2006,
+  "organization": "Other award",
+  "category": "Lifetime Achievement Award at AXN Action Awards",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-196",
+  "ceremony_year": 2007,
+  "organization": "Other award",
+  "category": "Special Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: Special Award for his contribution to Indian cinema at the 9th Mumbai Academy of the Moving Image International Film."
+ },
+ {
+  "award_id": "AWARD-197",
+  "ceremony_year": 2009,
+  "organization": "Other award",
+  "category": "Lifetime Achievement Award at Gentleman Quarterly magazine's \"Men of the Year\" Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-198",
+  "ceremony_year": 2009,
+  "organization": "Other award",
+  "category": "Lifetime Achievement Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: Lifetime Achievement Award for completing 40 years in the entertainment industry at the 11th Mumbai Academy of Moving Images (MAMI)."
+ },
+ {
+  "award_id": "AWARD-199",
+  "ceremony_year": 2009,
+  "organization": "Other award",
+  "category": "NDTV Indian of the Year Awards: NDTV icon of 21 years of Entertainment award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-200",
+  "ceremony_year": 2010,
+  "organization": "Other award",
+  "category": "Special Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: Special Award at the Marathi International Film and Theatre Awards (MIFTA) for his excellent work in films."
+ },
+ {
+  "award_id": "AWARD-201",
+  "ceremony_year": 2010,
+  "organization": "Other award",
+  "category": "Lines Gold Award: Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-201"
+ },
+ {
+  "award_id": "AWARD-202",
+  "ceremony_year": 2010,
+  "organization": "Other award",
+  "category": "FICCI Frames 2010' Excellence Awards: Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-201"
+ },
+ {
+  "award_id": "AWARD-203",
+  "ceremony_year": 2010,
+  "organization": "Other award",
+  "category": "Taj Enlighten Tareef Award for his contribution to Indian film industry",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-204",
+  "ceremony_year": 2010,
+  "organization": "Other award",
+  "category": "Timeless Icon award at the 'Hello! Hall of Fame",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-205",
+  "ceremony_year": 2010,
+  "organization": "Other award",
+  "category": "Lifetime Achievement Award by Asianet Film Awards",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-206",
+  "ceremony_year": 2010,
+  "organization": "Other award",
+  "category": "Asian Awards: Lifetime Achievement Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-207",
+  "ceremony_year": 2011,
+  "organization": "Other award",
+  "category": "CNN-IBN Indian of the Year in Entertainment",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-208",
+  "ceremony_year": 2012,
+  "organization": "Other award",
+  "category": "Lifetime Achievement Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: Lifetime Achievement Award at the Pune International Film Festival (PIFF) for contribution to cinema."
+ },
+ {
+  "award_id": "AWARD-209",
+  "ceremony_year": 2012,
+  "organization": "Other award",
+  "category": "FICCI Frames 2012' Excellence Awards: Award for maximum impact made by a Personality",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-210",
+  "ceremony_year": 2012,
+  "organization": "Other award",
+  "category": "Phalke Ratna Award at the Dadasaheb Phalke Academy Awards",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-211",
+  "ceremony_year": 2012,
+  "organization": "Other award",
+  "category": "Honoured as the \"John Walker & Sons Game Changer of the Century\" for his Achievements",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-212",
+  "ceremony_year": 2012,
+  "organization": "Other award",
+  "category": "Sri Chandrashekarendra Saraswati National Eminence Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: South Indian Education Society (SIES) Sri Chandrashekarendra Saraswati National Eminence award."
+ },
+ {
+  "award_id": "AWARD-213",
+  "ceremony_year": 2012,
+  "organization": "Other award",
+  "category": "Mirchi Music Awards Living Legend With Golden Voice",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-214",
+  "ceremony_year": 2013,
+  "organization": "Other award",
+  "category": "Honoured by University of Mumbai",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-215",
+  "ceremony_year": 2013,
+  "organization": "Other award",
+  "category": "Crowned India's Prime Icon of 2012",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-216",
+  "ceremony_year": 2013,
+  "organization": "Other award",
+  "category": "Timeless Style Icon",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-217",
+  "ceremony_year": 2013,
+  "organization": "Other award",
+  "category": "Global Indian Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: NASSCOM Global Leadership Awards: \"Global Indian Award\" for being the ambassador for Indian cinema."
+ },
+ {
+  "award_id": "AWARD-218",
+  "ceremony_year": 2013,
+  "organization": "Other award",
+  "category": "Honoured by the Rotary International",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-219",
+  "ceremony_year": 2013,
+  "organization": "Other award",
+  "category": "Maestro Award by the Whistling Woods International Institute",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-220",
+  "ceremony_year": 2013,
+  "organization": "Other award",
+  "category": "Super Achiever of the Year Award by Society Magazine in Mumbai",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-221",
+  "ceremony_year": 2013,
+  "organization": "Other award",
+  "category": "Honoured with \"Hridaynath Mangeshkar Award\" for his contribution in the film industry",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-222",
+  "ceremony_year": 2013,
+  "organization": "Other award",
+  "category": "Honoured at the Rashtrapati Bhavan as one of NDTV's 25 greatest living global Indians",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-223",
+  "ceremony_year": 2014,
+  "organization": "Other award",
+  "category": "Pune Pandit Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: Honoured with the \"Pune Pandit Award\" – 2013 by The Art & Music Foundation for honouring & celebrating his accomplishments with 100 years of Indian Cinema."
+ },
+ {
+  "award_id": "AWARD-224",
+  "ceremony_year": 2014,
+  "organization": "Other award",
+  "category": "Global Icon of the Year award at the NRI of the Year awards",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-225",
+  "ceremony_year": 2014,
+  "organization": "Other award",
+  "category": "Honoured with \"Box office Shahenshah Award\" at the Star Box Office India Awards",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-107"
+ },
+ {
+  "award_id": "AWARD-226",
+  "ceremony_year": 2014,
+  "organization": "Other award",
+  "category": "Yash Chopra Memorial Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-227",
+  "ceremony_year": 2014,
+  "organization": "Other award",
+  "category": "Indian Film Festival of Melbourne: IFFM Excellence in Cinema Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-228",
+  "ceremony_year": 2015,
+  "organization": "Other award",
+  "category": "Social Media Person of the Year Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: 'Social Media Person of the Year' award by the Internet and Mobile Association of India (IAMAI)."
+ },
+ {
+  "award_id": "AWARD-229",
+  "ceremony_year": 2015,
+  "organization": "Other award",
+  "category": "Filmfare Glamour & Style Awards: Timeless Glamour and Style Icon (Male)",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-230",
+  "ceremony_year": 2016,
+  "organization": "Other award",
+  "category": "NDTV Indian of the Year 2015 Awards: Lifetime Achievement",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-231",
+  "ceremony_year": 2016,
+  "organization": "Other award",
+  "category": "TOIFA Awards: Best Actor (Critics Choice) Male Piku",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-232",
+  "ceremony_year": 2016,
+  "organization": "Other award",
+  "category": "TOIFA Awards: Lifetime Achievement Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-233",
+  "ceremony_year": 2016,
+  "organization": "Other award",
+  "category": "GQ awards: The GQ Legend Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-234",
+  "ceremony_year": 2018,
+  "organization": "Other award",
+  "category": "Femina Beauty Awards: Style Legend of All Time",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-235",
+  "ceremony_year": 2018,
+  "organization": "Other award",
+  "category": "Sayaji Ratna Award by Baroda Management Association",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-236",
+  "ceremony_year": 2023,
+  "organization": "Other award",
+  "category": "Living Legend at the India UK Achievers Honours",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-237",
+  "ceremony_year": 1999,
+  "organization": "International honour",
+  "category": "Greatest Star of Stage or Screen of the Millennium (BBC online poll)",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: In July 1999, Bachchan was named the \"Greatest Star of stage or screen of the Millennium\" by BBC online poll where he defeated many Hollywood legends such as Alec Guinness, Marlon."
+ },
+ {
+  "award_id": "AWARD-238",
+  "ceremony_year": 2001,
+  "organization": "International honour",
+  "category": "Most Powerful Indian Film Star (Forbes ranking)",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-239",
+  "ceremony_year": 2001,
+  "organization": "International honour",
+  "category": "Actor of the Century Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: On 10 September 2001 he was awarded the \"Actor of the Century\" award at the Alexandria International Film Festival. Egyptian Minister of Culture Farouk Hosni presented Bachchan wit."
+ },
+ {
+  "award_id": "AWARD-240",
+  "ceremony_year": 2003,
+  "organization": "International honour",
+  "category": "Honorary citizenship of Deauville",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: On 14 March 2003, he was conferred with the honorary citizenship of the French town of Deauville at the fifth edition of the Asian film festival. An honour earlier bestowed on only."
+ },
+ {
+  "award_id": "AWARD-241",
+  "ceremony_year": 2003,
+  "organization": "International honour",
+  "category": "Medal of Honour of Morocco",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: In October 2003, he was conferred with the Medal of Honour of Morocco, given to him by King Mohammed at the Marrakech International Film Festival."
+ },
+ {
+  "award_id": "AWARD-242",
+  "ceremony_year": 2003,
+  "organization": "International honour",
+  "category": "Time magazine epithet, \"the Undisputed Godfather of Bollywood\"",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: In October 2003, Time magazine dubbed Bachchan as \"the Undisputed Godfather of Bollywood\". He was also featured in its list of Bollywood's Brightest Stars."
+ },
+ {
+  "award_id": "AWARD-243",
+  "ceremony_year": 2005,
+  "organization": "International honour",
+  "category": "Lincoln Center retrospective tribute",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: In April 2005, The Walter Reade Theater of Lincoln Center in New York honored Amitabh Bachchan with a special tribute, retrospective—titled \"Amitabh Bachchan: The Biggest Film Star."
+ },
+ {
+  "award_id": "AWARD-244",
+  "ceremony_year": null,
+  "organization": "International honour",
+  "category": "Festival honour (Rabat, Morocco)",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: He was honoured along with actors and directors from Hollywood at an International Film Festival in Rabat, Morocco. The source gives no year for this honour, so Ceremony Year is left blank rather than estimated."
+ },
+ {
+  "award_id": "AWARD-245",
+  "ceremony_year": 2007,
+  "organization": "International honour",
+  "category": "BAFTA retrospective tribute",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Television work (Kaun Banega Crorepati / Bigg Boss); outside the film scope of this workbook, recorded here for completeness of the actor's award record. Source text: In the weekend of 16 and 17 June June 2007, the British Academy of Film and Television Arts (BAFTA) hosts a Bachchan spectacular retrospective to honour Bachchan's stellar career.."
+ },
+ {
+  "award_id": "AWARD-246",
+  "ceremony_year": 2007,
+  "organization": "International honour",
+  "category": "Visit London Special Award for Outstanding Achievement",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: On 22 November 2007 he was honoured by the London Mayor Ken Livingstone with \"The Visit London Special Award for Outstanding Achievement\" for his contribution to Indian cinema in t."
+ },
+ {
+  "award_id": "AWARD-247",
+  "ceremony_year": 2009,
+  "organization": "International honour",
+  "category": "Guest of honour, Le Salon du Cinema, Paris",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "film_id": "FILM-066",
+  "notes": "Source text: On 15 January 2009, Le Salon du Cinema (Cinema Fair) in Paris paid tribute to Indian Cinema for their new edition, with Bachchan being the guest of honour. He also launched a retro."
+ },
+ {
+  "award_id": "AWARD-248",
+  "ceremony_year": 2009,
+  "organization": "International honour",
+  "category": "World Economic Forum's Crystal Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: On 31 January 2009, he was honoured with the World Economic Forum's Crystal Award at Davos for his contribution to the world of art."
+ },
+ {
+  "award_id": "AWARD-249",
+  "ceremony_year": 2009,
+  "organization": "International honour",
+  "category": "Lifetime Achievement Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: In 2009, the Tehran Film Festival has invited Bachchan to receive the Lifetime Achievement Award."
+ },
+ {
+  "award_id": "AWARD-250",
+  "ceremony_year": 2009,
+  "organization": "International honour",
+  "category": "Lifetime Achievement Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: In December 2009, he was honoured with a Lifetime Achievement Award at the Dubai International Film Festival for his outstanding contribution to cinema."
+ },
+ {
+  "award_id": "AWARD-251",
+  "ceremony_year": 2009,
+  "organization": "International honour",
+  "category": "8th Asian Film Cultural Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: In December 2009, he was honoured with the 8th Asian Film Cultural Award for his contribution to cinema for 40 years."
+ },
+ {
+  "award_id": "AWARD-252",
+  "ceremony_year": 2010,
+  "organization": "International honour",
+  "category": "Lifetime Achievement Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: In February 2010, he was honoured with a Lifetime Achievement Award at the Sixth Muscat, Oman International Film Festival (Miff)."
+ },
+ {
+  "award_id": "AWARD-253",
+  "ceremony_year": 2010,
+  "organization": "International honour",
+  "category": "Named to CNN's top 25 Asian actors of all time",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-254",
+  "ceremony_year": 2010,
+  "organization": "International honour",
+  "category": "Lifetime Achievement Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: In March 2010, he has won the Lifetime Achievement Award at the 34th Hong Kong International Film Festival."
+ },
+ {
+  "award_id": "AWARD-255",
+  "ceremony_year": 2010,
+  "organization": "International honour",
+  "category": "Lifetime Achievement Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: In October 2010, he was honoured with a Lifetime Achievement Award at The Asian Awards in London."
+ },
+ {
+  "award_id": "AWARD-256",
+  "ceremony_year": 2012,
+  "organization": "International honour",
+  "category": "Polio Eradication Champion Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: In April 2012, he was conferred the Polio Eradication Champion award by Rotary International for his invaluable support to the Polio Eradication Programme in India."
+ },
+ {
+  "award_id": "AWARD-257",
+  "ceremony_year": 2012,
+  "organization": "International honour",
+  "category": "Olympic torchbearer, London",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: In July 2012, he was given the due honor to carry the Olympic torch during the last leg of its relay in London's Southwark."
+ },
+ {
+  "award_id": "AWARD-258",
+  "ceremony_year": 2012,
+  "organization": "International honour",
+  "category": "Honour from the Australian Government",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: In November 2012, he was honoured by the Australian Government for his remarkable contribution to the Indian cinema, which is celebrating its centenary year."
+ },
+ {
+  "award_id": "AWARD-259",
+  "ceremony_year": 2012,
+  "organization": "International honour",
+  "category": "Tribute to Hindi Cinema Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: In December 2012, he was honoured with the Tribute to Hindi Cinema Award at the 12th Marrakech International Film Festival."
+ },
+ {
+  "award_id": "AWARD-260",
+  "ceremony_year": 2012,
+  "organization": "International honour",
+  "category": "Keys to the City of Florence",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: On 10 December 2012, he was honoured with the \"Keys to the City of Florence\" at the River to River. Florence Indian Film Festival in Italy."
+ },
+ {
+  "award_id": "AWARD-261",
+  "ceremony_year": 2013,
+  "organization": "International honour",
+  "category": "La Trobe University Global Citizenship Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: In May 2013, he will be honoured with \"La Trobe University Global Citizenship Award\" by the La Trobe University in Melbourne. The university is also introducing a Phd Scholarship c."
+ },
+ {
+  "award_id": "AWARD-262",
+  "ceremony_year": 2013,
+  "organization": "International honour",
+  "category": "International Screen Icon Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: In May 2013, he will be honoured with \"International Screen Icon\" award by the Victorian Government and the \"Ambassador of Goodwill\" award from the Vice Chancellor of La Trobe Univ."
+ },
+ {
+  "award_id": "AWARD-263",
+  "ceremony_year": 2013,
+  "organization": "International honour",
+  "category": "Global Diversity Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: In September 2013, he was honoured with the \"Global Diversity Award\" in the British Parliament. Speaker of the House of Commons, presented the ornately sculpted glass Award to Bach."
+ },
+ {
+  "award_id": "AWARD-264",
+  "ceremony_year": 2014,
+  "organization": "International honour",
+  "category": "Global Icon of the Year Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: In March 2014, he was honoured with the \"Global Icon of the Year\" award at the NRI of the Year awards."
+ },
+ {
+  "award_id": "AWARD-265",
+  "ceremony_year": 2014,
+  "organization": "International honour",
+  "category": "International Screen Icon Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: In May 2014, he was honoured with the \"International Screen Icon\" award during the inaugural awards ceremony at the Indian Film Festival of Melbourne (IFFM)."
+ },
+ {
+  "award_id": "AWARD-266",
+  "ceremony_year": 2021,
+  "organization": "International honour",
+  "category": "FIAF Award",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "source_ids": [
+   "SOURCE-890"
+  ],
+  "confidence": "Medium",
+  "notes": "Source text: In March 2021, he was honoured with the \"International Federation of Film Archives (FIAF)\" award for his contribution in preserving India's film heritage."
+ }
+]

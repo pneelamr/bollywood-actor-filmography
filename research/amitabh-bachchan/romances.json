@@ -38,7 +38,9 @@
   "relationship_analysis": "A subplot that serves Anand's characterisation: the dying man arranges happiness for his friend. The romance is courteous and brokered by others, and Renu's own voice is largely absent from the sources.",
   "critical_reading": "The Hindu (2021) praises Bachchan's subtle performance as a counterpoint to Khanna but does not comment on the romance.",
   "source_ids": "SOURCE-005; SOURCE-272",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 4,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. The scenes are brokered by Anand rather than played between the two, and Sumita Sanyal's Renu is given little to answer with, so the pairing registers as gentle and courteous rather than charged."
  },
  {
   "pairing_id": "PAIR-002",
@@ -76,7 +78,9 @@
   "relationship_analysis": "The film sets a man's personal loyalty against a woman's damaged reputation. Ram already knows and dismisses the rumours, so the drama comes from his promise to Ravi rather than from any doubt about Kusum. Kusum's indifference to gossip is framed as naivety, and both reviewers found the innocence overplayed.",
   "critical_reading": "MemsaabStory (2008) found the film dull, with Tanuja its only spark and Bachchan showing only flashes of charisma. Brown Car Guy (2017) thought the role, first meant for Jeetendra, did him no favours.",
   "source_ids": "SOURCE-006; SOURCE-286; SOURCE-287",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 4,
+  "chemistry_explanation": "Both fetched reviewers found the innocence overplayed, which blunts the pairing; Tanuja's exuberance and Bachchan's stillness pull in different directions rather than meeting."
  },
  {
   "pairing_id": "PAIR-003",
@@ -116,7 +120,9 @@
   "relationship_analysis": "The film presents Kumar's love as a destructive infatuation. His confession gives him a measure of redemption, but the relationship is one-sided throughout, and Asha's promise to stay with him is a bargain made under duress to save the man she loves.",
   "critical_reading": "The Hindu calls the plot the sinister machination of a man who cannot accept that the woman he loves has chosen another, and says Bachchan shone in a negative role that risked typecasting him.",
   "source_ids": "SOURCE-007; SOURCE-267; SOURCE-273",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 3,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. The film needs the attraction to be repellent, and it is: Bachchan plays infatuation as menace and Yogeeta Bali plays recoil, so the pair are effective but deliberately unappealing together."
  },
  {
   "pairing_id": "PAIR-004",
@@ -156,7 +162,9 @@
   "relationship_analysis": "The film resolves a bigamy problem through the first wife's death and sacrifice, so Mohan keeps his second family without having to choose. Asha's professional rise sits uneasily beside a plot that rewards her self-effacement.",
   "critical_reading": "The Hindu found Mala Sinha the film's only notable performance, with little scope for Bachchan, and called the climax contrived. A contemporary Film World review called the screenplay old-fashioned, trite and incoherent.",
   "source_ids": "SOURCE-011; SOURCE-276",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 4,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Mala Sinha carries the reunion scenes, but the ten-year gap and the reversed workplace hierarchy keep the couple formal, and the sources describe duty rather than warmth."
  },
  {
   "pairing_id": "PAIR-005",
@@ -195,7 +203,9 @@
   "relationship_analysis": "The second marriage is the one the film preserves. Mohan's silence about his first marriage causes the crisis, yet the cost falls on the two women: one dies, the other is blinded.",
   "critical_reading": "The Hindu calls the climax that reunites Mohan and Seema contrived.",
   "source_ids": "SOURCE-011; SOURCE-276",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 4,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. A functional domestic warmth; Aruna Irani's Seema is written as the settled marriage rather than the romantic charge, and the plot separates them for most of its length."
  },
  {
   "pairing_id": "PAIR-006",
@@ -233,7 +243,9 @@
   "relationship_analysis": "The romance grows out of protection during a comic road journey. The cast list names Ravi's father as Ramlal, whose son Mala's parents chose for her, so the runaway appears to fall for the match she rejected; the fetched plot summary does not say how the film treats this.",
   "critical_reading": "No review of the pairing was found. The main Wikipedia article notes that Salim–Javed chose Bachchan for Zanjeer after seeing him chew gum through a fight in this film.",
   "source_ids": "SOURCE-012; SOURCE-267",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 5,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. The protective-stranger dynamic gives the two an easy rapport across the road journey, though the comedy belongs to the ensemble and the romance is sketched in around it."
  },
  {
   "pairing_id": "PAIR-007",
@@ -271,7 +283,9 @@
   "relationship_analysis": "A courtesan romance in which the hero's poetry bridges the class divide. The father–son conflict becomes literal when the father prosecutes the woman his son loves, and the Wikipedia summary says the film examines the morals people impose on others but not on themselves.",
   "critical_reading": "No fetched review assesses the pairing; the film article notes that Bachchan and Bhaduri fell in love during the shoot.",
   "source_ids": "SOURCE-013; SOURCE-288",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 6,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. The poet-and-courtesan premise gives Bachchan and Jaya Bhaduri genuine mutual admiration to play, and her prior regard for his verse supplies a basis the film builds on."
  },
  {
   "pairing_id": "PAIR-008",
@@ -309,7 +323,9 @@
   "relationship_analysis": "The only fetched plot is a short Wikipedia summary with no ending, so the pairing can be described only in outline: a rescue romance in which the woman's past exploitation creates the social obstacle and the man's steady support is the romantic ideal.",
   "critical_reading": "No review was found.",
   "source_ids": "SOURCE-014",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 5,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Only a short plot summary was fetched, so the assessment rests on the rescue-romance outline; the two had an established rapport by this point, but nothing in the sources tests it."
  },
  {
   "pairing_id": "PAIR-009",
@@ -347,7 +363,9 @@
   "relationship_analysis": "Jai's career depends on lending his flat to the boss who is seducing the woman he loves, so the romance tests whether he will put love before his job. The fetched review withholds the answer.",
   "critical_reading": "MemsaabStory (2009) says Jai's dilemma is handled with humour and sensitivity before the last half-hour turns grim and over the top; a reader comment finds Neeta's character gullible.",
   "source_ids": "SOURCE-015; SOURCE-289",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 3,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Jai's devotion is largely silent and Neeta's attention is on another man, so the pair share little direct playing; the triangle keeps them apart by design."
  },
  {
   "pairing_id": "PAIR-010",
@@ -430,7 +448,9 @@
   "relationship_analysis": "Zanjeer broke with the romantic films before it, and its romance reflects that: Mala is the moral voice asking the angry hero to step back, while the film ultimately endorses his violence and she releases him to pursue it. Her domestic training under the sister-in-law presents reform in period terms.",
   "critical_reading": "The main Wikipedia article describes Zanjeer as a violent crime film in sharp contrast to the romantic films that preceded it; no fetched review assesses the pair.",
   "source_ids": "SOURCE-020; SOURCE-267; SOURCE-277",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 6,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Jaya Bhaduri's warmth works as a deliberate counterweight to Bachchan's contained fury, and the contrast is the point of the pairing even though the film gives them few scenes together."
  },
  {
   "pairing_id": "PAIR-012",
@@ -472,7 +492,9 @@
   "relationship_analysis": "Abhimaan studies male ego inside a love marriage: the husband who brings his wife's talent into public view cannot bear its success. The rupture is punished through Uma's miscarriage and repaired through Subir's contrition, so the change is his but the suffering is hers.",
   "critical_reading": "The BBC (2023) calls it a marital drama still relevant after 50 years and quotes a viewer who found the envious husband believable because ego often comes between a couple, especially where men are uncomfortable with wives doing better.",
   "source_ids": "SOURCE-022; SOURCE-279; SOURCE-280",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 9,
+  "chemistry_explanation": "The strongest pairing of this period: a film about a marriage, played by a couple then newly married off screen, in which the singing rivalry gives both performers equal weight and the estrangement is credible on both sides."
  },
  {
   "pairing_id": "PAIR-013",
@@ -512,7 +534,9 @@
   "relationship_analysis": "The marriage is a labour arrangement disguised as romance. The film treats Moti's use of Majubi as a moral failing punished by his business collapse, and ThePrint reads it as a critique of how women's domestic and productive labour is taken for granted.",
   "critical_reading": "ThePrint says Nutan's Majubi dominates the film, astounding in her range from a vulnerable widow easily talked into remarriage to the woman who confronts Moti.",
   "source_ids": "SOURCE-023; SOURCE-281",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 5,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Nutan gives Majubi real interiority against Bachchan's calculating Moti, so the imbalance plays convincingly, but the film withholds warmth between them by design."
  },
  {
   "pairing_id": "PAIR-014",
@@ -552,7 +576,9 @@
   "relationship_analysis": "The 'love of his life' is an ideal Moti bought with another woman's labour; once married, his attachment gives way to resentment and violence. The film resolves the story through the two women rather than the man.",
   "critical_reading": "ThePrint says Padma Khanna does her job well as the attractive, innocent Phool Banu, who is not ashamed of lacking Majubi's skills.",
   "source_ids": "SOURCE-023; SOURCE-281",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 4,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. The infatuation is asserted more than performed, and once married the pairing turns to resentment and violence, so there is little appealing interaction to assess."
  },
  {
   "pairing_id": "PAIR-015",
@@ -593,7 +619,9 @@
   "relationship_analysis": "The pairing follows the self-sacrificing heroine pattern: Sapna removes herself to protect Amit's family, and his search proves his fidelity. Class prejudice is the obstacle; the fetched summary does not show how the father's objection is overcome.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-027; SOURCE-267",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 6,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. The rescue-and-devotion premise suits both performers, and Hema Malini's Sapna is given enough resolve to make the engagement feel mutual rather than granted."
  },
  {
   "pairing_id": "PAIR-016",
@@ -633,7 +661,9 @@
   "relationship_analysis": "Neela is a loyal partner whose faith survives Ravi's confession, and she takes an active part in his escape and pursuit of the murderer. The obstacles are external: illness, the law and the real killer.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-031",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 5,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Parveen Babi plays loyalty under strain and takes an active part in the escape, which gives the pair a working partnership, though the thriller plot leaves them little intimate playing."
  },
  {
   "pairing_id": "PAIR-017",
@@ -674,7 +704,9 @@
   "relationship_analysis": "The film gives Vijay a relationship outside marriage with a woman he met at a bar and makes her pregnancy his reason to reform. Her murder closes that route and brands him a criminal for good.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-035",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 7,
+  "chemistry_explanation": "Anita is the one person Vijay explains himself to, and the bar-room scenes give Bachchan and Parveen Babi an unusually adult, unsentimental register that stands out in his 1970s work."
  },
  {
   "pairing_id": "PAIR-018",
@@ -714,7 +746,9 @@
   "relationship_analysis": "The romance creates the film's central taboo: a couple the household sees as brother and sister. Badal's love turns an impostor into a truth-teller, but the fetched plots stop before showing how the family learns the truth.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-036; SOURCE-310",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 5,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. The false-sibling premise forces the attraction into suppressed looks, which the two play adequately, but the fetched sources stop before the reveal that would test it."
  },
  {
   "pairing_id": "PAIR-019",
@@ -756,7 +790,9 @@
   "relationship_analysis": "The pairing is a comic by-product of Parimal's prank: the disguise that makes Sukumar look like an adulterer also brings the couple together, and honesty resolves it.",
   "critical_reading": "Outlook calls the film one of the most entertaining Hindi comedies but does not discuss the pairing.",
   "source_ids": "SOURCE-037; SOURCE-295",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 7,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. The comedy depends on the couple's ease, and Bachchan and Jaya Bhaduri supply it; the suspicion is played lightly enough that the reconciliation lands."
  },
  {
   "pairing_id": "PAIR-020",
@@ -797,7 +833,9 @@
   "relationship_analysis": "As in Anand, Bachchan's withdrawn character is changed by a dying optimist, but here the bond becomes romantic and leads to marriage. Illness is the only obstacle, and the open ending leaves the couple's future uncertain.",
   "critical_reading": "The Indian Express compares Mili with Anand and says Bachchan's character in both is transformed from a rigid, hardened man; it does not assess the pair's chemistry.",
   "source_ids": "SOURCE-038; SOURCE-296",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 8,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Jaya Bhaduri's brightness against Bachchan's withdrawal is the engine of the film, and the shift from irritation to devotion is played in small steps rather than declared."
  },
  {
   "pairing_id": "PAIR-021",
@@ -837,7 +875,9 @@
   "relationship_analysis": "The Jai–Radha thread is a muted counterpoint to Veeru and Basanti's comic romance: feelings that stay unspoken because of Radha's widowhood and are cut off by Jai's death.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-039",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 8,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. A pairing built almost entirely on restraint: the wordless lamp-lighting exchanges carry the relationship, and the two hold it without dialogue, which is why the thread survives in memory."
  },
  {
   "pairing_id": "PAIR-022",
@@ -878,7 +918,9 @@
   "relationship_analysis": "The film turns a past romance into a moral trap in which Mala's old love and her present family are set against each other inside her own house. The review credits Mala with more depth than a decorative heroine.",
   "critical_reading": "Conversations Over Chai calls Mala a strong character and praises the three leads' performances; it does not rate the pair's chemistry.",
   "source_ids": "SOURCE-040; SOURCE-307",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 6,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Sharmila Tagore gives Mala divided loyalty to play, and the fetched review credits her with more depth than a decorative heroine, so the old attachment reads as real."
  },
  {
   "pairing_id": "PAIR-023",
@@ -918,7 +960,9 @@
   "relationship_analysis": "Radha stands for the honest life Dharma loses: she refuses his bosses' money and works herself to exhaustion while he is in jail. Her silence about the killing shows how far his revenge has carried the marriage from its village beginnings.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-045",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 5,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Waheeda Rehman's Radha is principled and largely silent, which suits the film's moral scheme but gives the pair little direct warmth to play."
  },
  {
   "pairing_id": "PAIR-024",
@@ -957,7 +1001,9 @@
   "relationship_analysis": "A generational echo of the first half: the son's love match collides with the father's business promise. The fetched plot does not resolve it.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-045",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 3,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. A generational echo with very little screen time; the fetched plot does not resolve the thread, and Neetu Singh's Geeta is barely characterised opposite him."
  },
  {
   "pairing_id": "PAIR-025",
@@ -999,7 +1045,9 @@
   "relationship_analysis": "Lost love is the source of Amit's bitterness and, later, of his harshness towards his wife; Vijay's acceptance and Pooja's renewed friendship let him put the past behind him. Pooja's agency is limited: she yields to her parents and asks Amit to move on.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-041",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 8,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. The lost-first-love premise gives Bachchan and Raakhee a shared history to play against, and their later scenes of restraint and regret are the film's strongest romantic material."
  },
  {
   "pairing_id": "PAIR-026",
@@ -1041,7 +1089,9 @@
   "relationship_analysis": "The marriage exposes Amit's double standard: still bitter about his own lost love, he condemns Anjali's premarital past until a crisis makes him accept Pinky. The film rewards reconciliation, but his punitive silence reads as emotional coercion today.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-041",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 6,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Waheeda Rehman plays apprehension well against Bachchan's punitive coldness, so the marriage is convincing, but the film denies the pair much affection to show."
  },
  {
   "pairing_id": "PAIR-027",
@@ -1082,7 +1132,9 @@
   "relationship_analysis": "The film casts Rekha as the wife who must be forgiven, although, as MemsaabStory notes, she never betrays Amit and has no part in Ranjit's attack. From a modern perspective the marriage is coercive from the start: her refusal is overridden, and her independent success is treated as a fault.",
   "critical_reading": "MemsaabStory (2010) reads the film as a stifling, conservative story in which a woman who wants her own career is portrayed as selfish, shallow and bad.",
   "source_ids": "SOURCE-043; SOURCE-303",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 6,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Rekha's first substantial pairing with Bachchan; she plays entrapment and resentment credibly, and the mutual wariness is more persuasive than the reconciliation."
  },
  {
   "pairing_id": "PAIR-028",
@@ -1122,7 +1174,9 @@
   "relationship_analysis": "A reforming-wife pairing: Chanda's disapproval of his violence pushes him towards an honest life, which the plot then tests. The two fetched summaries disagree about how criminal he was.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-048; SOURCE-311",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 5,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. A reforming-wife role that gives Rekha limited range, though the two play the domestic scenes with enough ease to carry the moral turn."
  },
  {
   "pairing_id": "PAIR-029",
@@ -1204,7 +1258,9 @@
   "relationship_analysis": "The pairing is played for comedy and rescue: Jenny is a prize contested by villains and saved by the hero's disguise. Rediff's remark that the heroines are basically required to sing and dance fits her limited agency.",
   "critical_reading": "Rediff (2003) says the three heroines play second fiddle and are basically required to sing and dance, though Parveen Babi looks the most fetching of the three.",
   "source_ids": "SOURCE-050; SOURCE-299",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 7,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Played broadly and well: Bachchan's comic ardour and Parveen Babi's amused tolerance make the courtship one of the film's pleasures, even though Jenny is largely a prize."
  },
  {
   "pairing_id": "PAIR-031",
@@ -1245,7 +1301,9 @@
   "relationship_analysis": "The locket Amit gives Neetu makes the romance a plot device, revealing his parentage to Mangal. Neetu's attempt to kill her parents' murderer gives her initiative of her own.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-051",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 5,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. A light cross-the-law flirtation; Neetu Singh is a comfortable comic partner for Bachchan, but the locket plot matters more to the film than the attraction."
  },
  {
   "pairing_id": "PAIR-032",
@@ -1285,7 +1343,9 @@
   "relationship_analysis": "Their love is defined by duty to Raju: the marriage waits on his graduation, and Amit dies saving him. Suman's widowhood without a wedding carries her devotion into the second half.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-057; SOURCE-306",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 6,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. The settled, affectionate partnership is played warmly by Bachchan and Raakhee, and the shared indulgence of Raju gives the couple a plausible domestic texture."
  },
  {
   "pairing_id": "PAIR-033",
@@ -1327,7 +1387,9 @@
   "relationship_analysis": "The second romance is a substitution engineered by Raju's guilt: Suman is steered towards a man who looks like her dead fiancé. The film presents this as a happy restoration; the Post-Punk Cinema Club's sardonic summary points out how little choice Suman is given.",
   "critical_reading": "The Post-Punk Cinema Club (2007) mocks the plotting that leaves Suman 'no choice left but to marry Shankar'.",
   "source_ids": "SOURCE-057; SOURCE-306",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 4,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. The substitution premise works against the performers: Raakhee must transfer her attachment to a lookalike, and the film asserts the new bond rather than building it."
  },
  {
   "pairing_id": "PAIR-034",
@@ -1368,7 +1430,9 @@
   "relationship_analysis": "Geeta is the voice of Vijay's conscience rather than a romantic prize: she refuses his bribe, questions his obsession and reveals his parentage to Shekhar. The reviewer finds her a deeper character than Hema Malini's larger role.",
   "critical_reading": "Conversations Over Chai says Raakhee's Geeta had more depth than Hema Malini's role despite less screen time, and describes her as Vijay's support and conscience.",
   "source_ids": "SOURCE-059; SOURCE-308",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 6,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Raakhee's Geeta is Vijay's conscience rather than his prize, and the friction of her refusals gives the two more interesting playing than a courtship would."
  },
  {
   "pairing_id": "PAIR-035",
@@ -1410,7 +1474,9 @@
   "relationship_analysis": "Roma has her own revenge plan and the skills to carry it out, which gives her unusual initiative in the pairing. The romance grows out of mistaken identity into a partnership against the gang.",
   "critical_reading": "Conversations Over Chai calls the pair's duet Jiska mujhe tha intezaar the film's only false note, a 'regulation duet' added because Zeenat Aman had been signed.",
   "source_ids": "SOURCE-060; SOURCE-309",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 7,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. The hostility-to-alliance arc suits both: Zeenat Aman's Roma has her own revenge plan and the physical confidence to match Bachchan, so the partnership is credible before the romance is."
  },
  {
   "pairing_id": "PAIR-036",
@@ -1452,7 +1518,9 @@
   "relationship_analysis": "ThePrint reads the story as a reworking of Devdas in which the heroine, unlike Paro, has no interest in the hero. The film ennobles renunciation: Sikandar hides his love to secure his friend's happiness.",
   "critical_reading": "ThePrint notes that Kaamna has no interest in Sikandar, which it calls one of the film's major deviations from Devdas.",
   "source_ids": "SOURCE-061; SOURCE-302",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 5,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Raakhee plays indifference as the part requires, so the pairing is deliberately one-sided; the interest lies in Bachchan's concealment rather than in any exchange between them."
  },
  {
   "pairing_id": "PAIR-037",
@@ -1493,7 +1561,9 @@
   "relationship_analysis": "Zohra is the film's Chandramukhi (ThePrint): the courtesan whose love for the hero is selfless and unreturned. She gives him up to protect Mehroo's marriage; the film grants her dignity but no reciprocity.",
   "critical_reading": "ThePrint identifies Zohra Begum as the film's version of Devdas's Chandramukhi.",
   "source_ids": "SOURCE-061; SOURCE-302",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 8,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Rekha's Zohra is the film's emotional centre and she plays unreturned devotion without self-pity, which gives the pairing a charge the nominal romance lacks."
  },
  {
   "pairing_id": "PAIR-038",
@@ -1533,7 +1603,9 @@
   "relationship_analysis": "Shabnam is the gang's bait, sent by her own boyfriend's boss to make the man she thinks is Vijay fall for her. The flirtation is enjoyable for both until Jai is trapped, and his contempt then exposes how the relationship was manipulated from the start.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-062; SOURCE-349; SOURCE-344",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 5,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. The flirtation is pleasant while the deception holds, and Zeenat Aman plays the bait role with some sympathy, but the contempt that follows closes it off abruptly."
  },
  {
   "pairing_id": "PAIR-039",
@@ -1573,7 +1645,9 @@
   "relationship_analysis": "Mala gives her love to a man she has misidentified. The romance is mostly a complication of the double role, though Vijay's confession note shows the deception weighing on him.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-062; SOURCE-349; SOURCE-344",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 4,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Neetu Singh's devotion is directed at a misidentified man, so the pairing is a plot complication of the double role rather than a relationship the two get to develop."
  },
  {
   "pairing_id": "PAIR-040",
@@ -1615,7 +1689,9 @@
   "relationship_analysis": "The relationship begins as a transaction, a bet that women can be bought, and Rama pays for it with her home and reputation. The film redeems Inder through guilt and searching; a modern reading would weigh the wager and the damage to Rama against the easy reunion.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-063",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 6,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Raakhee gives Rama enough dignity to make the wager's damage register, and the poems scene supplies the one moment of genuine mutual feeling."
  },
  {
   "pairing_id": "PAIR-041",
@@ -1696,7 +1772,9 @@
   "relationship_analysis": "A quiet romance between two people with private histories; Sudha offers emotional and moral support to a man defined by guilt.",
   "critical_reading": "Conversations Over Chai (blog) compares the subtle, understated romance with Bachchan and Raakhee's pairing in Trishul.",
   "source_ids": "SOURCE-065; SOURCE-346",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 6,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. A quiet, adult pairing: both play people with private histories, and Raakhee's steadiness against Bachchan's guilt is convincing even with little screen time."
  },
  {
   "pairing_id": "PAIR-043",
@@ -1737,7 +1815,9 @@
   "relationship_analysis": "The romance prompts Ajay's lie and survives it. Aruna's support and her father's class-based hostility frame his move from pretence to honest enterprise.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-066; SOURCE-345",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 6,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Moushumi Chatterjee's sympathy after the confession is the pairing's best moment, and the two play the class-crossed courtship with warmth."
  },
  {
   "pairing_id": "PAIR-044",
@@ -1818,7 +1898,9 @@
   "relationship_analysis": "Anju serves as the reforming influence and reward for the crook. A 2008 blog review says both heroines are sidelined.",
   "critical_reading": "Post-Punk Cinema Club (2008) calls Hema Malini and Parveen Babi 'wonderfully cheeky, charismatic superstars' relegated to 'the most menial of supporting roles'.",
   "source_ids": "SOURCE-070; SOURCE-351",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 4,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. A 2008 blog review says both heroines are sidelined, and it shows: Parveen Babi's Anju functions as the reforming influence with little interaction of her own."
  },
  {
   "pairing_id": "PAIR-046",
@@ -1857,7 +1939,9 @@
   "relationship_analysis": "The triangle puts Sheetal's choice below the men's friendship: Vijay renounces her for Ravi, Daaga uses their relationship as a weapon, and Ravi bargains for her body in exchange for defending Vijay. The film frames the renunciation as noble; a modern reading notes how little say Sheetal has.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-071",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 6,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Zeenat Aman and Bachchan play the mutual attachment convincingly, but the film is more interested in the men's friendship, which keeps the couple apart for much of it."
  },
  {
   "pairing_id": "PAIR-047",
@@ -1897,7 +1981,9 @@
   "relationship_analysis": "A caper romance between equals: Sunita outwits the con men at their own game and later helps infiltrate Shakaal's island, posing as a dancer.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-073",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 6,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. A caper partnership of near-equals; Parveen Babi's Sunita outwits the con men first, and the two play the sparring with easy confidence."
  },
  {
   "pairing_id": "PAIR-048",
@@ -1937,7 +2023,9 @@
   "relationship_analysis": "Rajni is defined by vulnerability and is twice the target of Kaaliram's violence. The marriage is loving, but the film uses her suffering to drive Abhijeet's pursuit of justice.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-074",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 6,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Raakhee plays vulnerability and Bachchan protectiveness, and the marriage scenes are warm, though the film repeatedly reduces her to a target."
  },
  {
   "pairing_id": "PAIR-049",
@@ -2018,7 +2106,9 @@
   "relationship_analysis": "The pursuit is framed as romantic persistence across class. A modern reading would treat the stalking described in the BRNS review as a red flag. The romance stays secondary to Heera's search for a father.",
   "critical_reading": "The BRNS review describes the pursuit sardonically ('and of course stalks her').",
   "source_ids": "SOURCE-076; SOURCE-353",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 4,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. The pursuit is played as persistence rather than courtship, and Zeenat Aman is given little to do but be pursued, so the pairing has more insistence than rapport."
  },
  {
   "pairing_id": "PAIR-051",
@@ -2144,7 +2234,9 @@
   "relationship_analysis": "The romance is a side-strand in a friendship film. Komal's function is to polish the rustic hero and encourage him, part of the formula the India Today review describes.",
   "critical_reading": "India Today's reviewer (1981) mentions Neetu Singh only as supplying 'a little romantic encouragement'.",
   "source_ids": "SOURCE-078; SOURCE-325",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 5,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. The tutor-and-pupil comedy gives Neetu Singh and Bachchan an amiable rhythm, but the film's real relationship is the friendship, and the romance stays decorative."
  },
  {
   "pairing_id": "PAIR-054",
@@ -2183,7 +2275,9 @@
   "relationship_analysis": "Shalini is a 'bad girl' dancer with her own hidden identity. The romance adds comic domestic scenes rather than shaping Kaalia's revenge.",
   "critical_reading": "No professional review was fetched; a Letterboxd user review enjoys the sari and omelette scenes.",
   "source_ids": "SOURCE-079; SOURCE-354",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 5,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Parveen Babi's hidden-identity dancer supplies comic domestic scenes that the two play lightly; the revenge plot leaves the attraction undeveloped."
  },
  {
   "pairing_id": "PAIR-055",
@@ -2226,7 +2320,9 @@
   "relationship_analysis": "Indu civilises Ravi and his brothers, reversing the usual taming plot. The deception about the brothers is played for comedy, and her authority in the house brings order to the film.",
   "critical_reading": "Jagannath Dubashi (India Today, 1982) calls Bachchan and Hema Malini 'the first brother and the first bride' of the Seven Brides copy and says the wife 'soon sets house and brothers to rights'.",
   "source_ids": "SOURCE-083; SOURCE-326; SOURCE-355",
-  "confidence": "High"
+  "confidence": "High",
+  "chemistry": 7,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Hema Malini's Indu takes charge of the household and of the film, and the reversal of the usual taming plot gives the pair genuinely combative, enjoyable playing."
  },
  {
   "pairing_id": "PAIR-056",
@@ -2269,7 +2365,9 @@
   "relationship_analysis": "The romance redeems the double: Babu's love turns the murder plot into a cure. Because Seema's recovery depends on him, she has little agency of her own.",
   "critical_reading": "Dubashi (India Today, 1982) says Babu 'falls for her with a thud'; Rediff (2003) says he 'finds love with the very lady he was sent to kill'.",
   "source_ids": "SOURCE-083; SOURCE-326; SOURCE-329",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 4,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. The redemptive-love premise is asserted rather than played, and Ranjeeta Kaur's recovery depends entirely on him, which leaves little exchange between the two."
  },
  {
   "pairing_id": "PAIR-057",
@@ -2309,7 +2407,9 @@
   "relationship_analysis": "Giving up Kavita is the first of Sudhir's sacrifices for the family that adopted him. The romance exists to show his self-denial.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-084",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 5,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Raakhee and Bachchan play suppressed attraction turned to friendship with restraint, but the film exists to show his self-denial, so the pairing is kept deliberately cool."
  },
  {
   "pairing_id": "PAIR-058",
@@ -2349,7 +2449,9 @@
   "relationship_analysis": "The comic 'marriage' makes Asha the pursuer and Raju the cad. His desertion after the wedding night is played lightly within the patriotic melodrama.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-085; SOURCE-350",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 4,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. The comic pursuit makes Hema Malini the aggressor and Bachchan the evader, which is played for laughs; the desertion afterwards gives the pair nothing warmer to build on."
  },
  {
   "pairing_id": "PAIR-059",
@@ -2390,7 +2492,9 @@
   "relationship_analysis": "Poonam is a conventional heroine in a loyalty-and-comedy film. Off screen, Smita Patil, known for art-house work, was uncomfortable with the song-and-dance role and needed Bachchan's persuasion to perform the rain song.",
   "critical_reading": "ThePrint (2024) reports that Patil went home and cried after shooting 'Aaj Rapat Jaayen To', and quotes Bachchan's 2016 blog saying she was uncomfortable throughout; the Indian Express (2022) says he put her at ease.",
   "source_ids": "SOURCE-086; SOURCE-330; SOURCE-331",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 5,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Smita Patil was uncomfortable with the song-and-dance register and needed persuading to perform the rain song, and the pairing stays conventional against Bachchan's comic energy."
  },
  {
   "pairing_id": "PAIR-060",
@@ -2429,7 +2533,9 @@
   "relationship_analysis": "Mary is one of the people the hero reforms; in the fetched sources her change of trade is the romance's whole arc.",
   "critical_reading": "S. Venkat Narayan (India Today, 1982) counts Parveen Babi's character among those Bachchan's hero 'goes about reforming'.",
   "source_ids": "SOURCE-087; SOURCE-327",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 4,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Parveen Babi's Mary is one of the people the hero reforms, and the fetched sources give the romance no development beyond her change of trade."
  },
  {
   "pairing_id": "PAIR-061",
@@ -2470,7 +2576,9 @@
   "relationship_analysis": "Roma gives Vijay the home he has lost. The couple live together before marrying, and the pregnancy prompts the wedding, but the film's emotional centre is father and son.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-088; SOURCE-356",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 6,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Smita Patil gives Roma a grounded warmth that makes her the refuge the film needs her to be, though the father-son conflict crowds the pairing out."
  },
  {
   "pairing_id": "PAIR-062",
@@ -2513,7 +2621,9 @@
   "relationship_analysis": "The marriage is sketched in one playful song and exists mainly to be destroyed: Zakhiya's assault and suicide turn Khan's wrongful imprisonment into a personal vendetta. A modern reading would note that her suffering serves only to motivate his revenge.",
   "critical_reading": "India Today (1983) singled out Bachchan's comic flair in the song in which he cajoles his wife 'in vain to plant a kiss on his cheek', and said the film would have done as well 'with less violence, fewer rapes and bedroom scenes'.",
   "source_ids": "SOURCE-090; SOURCE-366",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 4,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. One playful song establishes the marriage before the film destroys it; Madhavi is given affection to play but almost no time in which to play it."
  },
  {
   "pairing_id": "PAIR-063",
@@ -2554,7 +2664,9 @@
   "relationship_analysis": "Rita drives this subplot: she stages a marriage with the carefree performer Guru to manage her grandfather, then falls for him. The sources say little about Guru's feelings, and the pairing is one strand of a family-reunion melodrama.",
   "critical_reading": "No fetched review assesses the pairing. A search-result summary mentions over-the-top Bachchan–Zeenat scenes, but no fetched page confirms it.",
   "source_ids": "SOURCE-091; SOURCE-376",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 5,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Zeenat Aman drives the staged-marriage comedy and plays it with spirit, but the sources say little about Bachchan's side of it, so the exchange is one-directional."
  },
  {
   "pairing_id": "PAIR-064",
@@ -2594,7 +2706,9 @@
   "relationship_analysis": "Manju's love for Shankar links the two halves of the separated family, but the sources disagree about her background and describe no development of the romance.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-091; SOURCE-376",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 3,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. The sources describe no development at all beyond Manju's love, and Parveen Babi's role is a connective device between the film's two halves."
  },
  {
   "pairing_id": "PAIR-065",
@@ -2634,7 +2748,9 @@
   "relationship_analysis": "The romance begins with a comic abduction framed as love at first sight, which a modern reading would question. Julie is more than a prize: she resists her guardian's mercenary match and pursues her own revenge, which briefly turns her against Iqbal's father.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-093; SOURCE-373",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 5,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. The comic abduction premise sits badly, but Rati Agnihotri's Julie has her own revenge to pursue, and the sparring between them is played with energy."
  },
  {
   "pairing_id": "PAIR-066",
@@ -2676,7 +2792,9 @@
   "relationship_analysis": "The marriage is caught between Amar's duty and a syndicate run by Asha's father. She leaves because she misreads his compromises, and the reconciliation comes only after he has killed her father, a cost the sources do not examine. The bachchansir blog gives a different account of her discovery.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-095; SOURCE-381",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 5,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Sridevi plays the misreading and the estrangement credibly, though the marriage's warmth is established briefly and the film is more interested in the syndicate plot."
  },
  {
   "pairing_id": "PAIR-067",
@@ -2718,7 +2836,9 @@
   "relationship_analysis": "A class romance in which Vicky chooses a poor dancer over his father's money. Nearly all the obstacles are external—his father's snobbery and the schemers who exploit it—so the romance mostly tests Vicky's loyalty, while Meena has little say in her own fate.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-096",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 6,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Jaya Prada's Meena is the object of Vicky's defiance more than a partner in it, but the two play the class romance with enough tenderness to anchor the film's sentiment."
  },
  {
   "pairing_id": "PAIR-068",
@@ -2758,7 +2878,9 @@
   "relationship_analysis": "A small romance inside a brothers-and-revenge plot, notable for the collision it creates: Karan kills Geeta's brother to avenge Hussein. The sources do not say how Geeta responds, so the reported marriage goes unexplained.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-101",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 4,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. A small romance inside a revenge plot; the sources do not say how Geeta responds to the killing, so the pairing's most consequential moment goes unplayed."
  },
  {
   "pairing_id": "PAIR-069",
@@ -2799,7 +2921,9 @@
   "relationship_analysis": "Mard plays its romance as a slapstick taming story. The humiliation runs both ways, but the film frames whipping and salt in wounds as courtship, which a modern reading finds troubling. Ruby's choice of Raju is also her break from her collaborator father.",
   "critical_reading": "Post-Punk Cinema Club (2008) found the couple's 'sadomasochistic romp, complete with whipping and rubbing salt in each other's wounds' baffling, and said Amrita Singh 'generally matched her macho boytoy' apart from 'silly, coy, and helpless' routines.",
   "source_ids": "SOURCE-100; SOURCE-375",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 5,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Amrita Singh matches Bachchan's aggression, which makes the sparring lively, but the film stages humiliation as courtship and the pairing is hard to read as appealing now."
  },
  {
   "pairing_id": "PAIR-070",
@@ -2842,7 +2966,9 @@
   "relationship_analysis": "Mary exists mainly as the wrong that David must avenge; her rape and suicide are the film's inciting crime. The cruel irony is that David's own hero-worship delivers her to her attacker.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-104",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 4,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Jaya Prada's Mary exists to be wronged; the marriage is sketched quickly so that its destruction can drive the revenge, leaving the two little to build."
  },
  {
   "pairing_id": "PAIR-071",
@@ -2883,7 +3009,9 @@
   "relationship_analysis": "Vinita supplies the lighter romance in a revenge film. Her capture reveals David's decency, since he frees her on learning that she loves his son, and her questioning of Mahesh helps expose the family secret.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-104",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 4,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Sridevi supplies the film's lighter register and her scenes with Bachchan are amiable, but the relationship is a plot mechanism for the family secret."
  },
  {
   "pairing_id": "PAIR-072",
@@ -2922,7 +3050,9 @@
   "relationship_analysis": "Shalu has her own revenge mission against J.K., which makes her Vijay's ally as well as his love interest. Wikipedia's hint that she is Shahenshah's weakness and India Today's line about the hero winning her love confirm the romance, but its development is not described.",
   "critical_reading": "India Today (1988) called Meenakshi Seshadri 'the fresh, leggy heroine who lives in a slum but wears clothes that could teach Pierre Cardin a trick or two', a jibe at the styling rather than an assessment of the pair.",
   "source_ids": "SOURCE-107; SOURCE-369",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 5,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Meenakshi Sheshadri's own revenge mission makes her an ally as well as a love interest, which helps, but the sources do not describe the romance's development."
  },
  {
   "pairing_id": "PAIR-073",
@@ -2963,7 +3093,9 @@
   "relationship_analysis": "The relationship begins in contrived intimacy—posing as a married couple and, in the bachchansir account, sex 'forced' by the cold, which raises consent questions the film frames as life-saving. It is then defined by separation, and amnesia turns it into a quadrangle with Shankar and Saraswati.",
   "critical_reading": "No fetched review assesses the pairing; the critic and distributor quoted by India Today blamed a bad story line and a disappointing Bachchan.",
   "source_ids": "SOURCE-108; SOURCE-382",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 4,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. The contrived intimacy of the early scenes raises consent questions the film does not acknowledge, and the amnesia then separates the two for most of the running time."
  },
  {
   "pairing_id": "PAIR-074",
@@ -3002,7 +3134,9 @@
   "relationship_analysis": "Saraswati is the third point of the quadrangle: a caregiver whose love for Ganga goes unreturned. The sources credit her with a part in the reunion but do not say what becomes of her.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-108; SOURCE-382",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 3,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. A caregiver whose love goes unreturned and whose fate the sources do not follow; Jaya Prada is given little to play opposite him."
  },
  {
   "pairing_id": "PAIR-075",
@@ -3044,7 +3178,9 @@
   "relationship_analysis": "Mary is the only tenderness in Vijay's life outside his family, but the film treats her as consolation: he turns to her when his mother rejects him and marries her partly to regain his mother's favour.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-116",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 3,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Madhavi's Mary is written as consolation rather than partner, and the film's emotional weight sits entirely with Vijay's mother."
  },
  {
   "pairing_id": "PAIR-076",
@@ -3085,7 +3221,9 @@
   "relationship_analysis": "The pair's defining act is mutual sacrifice: Jumma lets Tiger go so he can raise his brothers, and she returns years later to vindicate him. She has more agency than most heroines of Bachchan's films of this period, with her own career and a decisive role in the plot.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-119; SOURCE-387",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 6,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Kimi Katkar's Jumma has a career and a decisive role in the plot, and the mutual sacrifice gives the two more substantial playing than most heroines of this period get."
  },
  {
   "pairing_id": "PAIR-077",
@@ -3124,7 +3262,9 @@
   "relationship_analysis": "Rukhsana arrives on her own rescue mission, which gives her more purpose than a standard damsel, yet she is repeatedly captured and saved. The masked-hero device adds a Zorro-style secret-identity romance.",
   "critical_reading": "No fetched review assesses the pairing.",
   "source_ids": "SOURCE-120; SOURCE-374",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 5,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Dimple Kapadia arrives on her own rescue mission, which gives the pairing some spark, though she is repeatedly captured and the adventure crowds out the romance."
  },
  {
   "pairing_id": "PAIR-078",
@@ -3164,7 +3304,9 @@
   "long_term_union": "Unclear",
   "relationship_analysis": "The romance sets up the film's moral trap: an honest officer loses his beloved by doing his duty against her family, and that family's crimes later destroy his own. Shanti's choice to side with her father gives her a stance of her own, but the sources do not follow her afterwards, so the scores are provisional.",
   "source_ids": "SOURCE-121; SOURCE-419",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 4,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Jaya Prada's loyalty to her father gives her a position of her own, but the sources lose track of her, so the pairing is left unresolved and the reading provisional."
  },
  {
   "pairing_id": "PAIR-079",
@@ -3205,7 +3347,9 @@
   "ending": "Tragic",
   "relationship_analysis": "A single plot sentence establishes a silent triangle in which Vijay's friendship outweighs his feelings and Seema's own interest goes unspoken. Her murder turns the lost romance into grief and fuels his revenge. Seema has almost no agency in the sources: the choice is Vijay's alone.",
   "source_ids": "SOURCE-122",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 3,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. A silent triangle established in a single plot sentence; Seema's own interest is never spoken, so there is almost no interaction between the two to assess."
  },
  {
   "pairing_id": "PAIR-080",
@@ -3247,7 +3391,9 @@
   "relationship_analysis": "Sapna is the one bond Vijay keeps as Tony destroys the rest of his world, so the romance works as consolation and as a final stake in the revenge plot. The sources describe the relationship as mutual and untroubled; her part is to comfort him and then be endangered.",
   "critical_reading": "Wikipedia's summary of reviews singles out Bachchan's and Amrita Singh's performances for praise.",
   "source_ids": "SOURCE-122",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 5,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Amrita Singh and Bachchan play mutual support amid grief with warmth, and the sources describe the bond as untroubled, though her function is consolation."
  },
  {
   "pairing_id": "PAIR-081",
@@ -3332,7 +3478,9 @@
   "ending": "Tragic",
   "relationship_analysis": "The lovers are kept apart by Brijbhan throughout, and their one scene together in the plot summary is a jailhouse reunion. Shalu's escape shows some will of her own, but her poisoning is despair at Amar's coming execution, and the film uses her suffering to raise the stakes of his mission.",
   "source_ids": "SOURCE-126",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 4,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. The lovers are kept apart throughout and share essentially one scene in the fetched plot, so the longing is asserted rather than played between them."
  },
  {
   "pairing_id": "PAIR-083",
@@ -3373,7 +3521,9 @@
   "ending": "Tragic",
   "relationship_analysis": "The marriage is sketched only to be lost: Janki's death from grief completes the destruction of Ram's family and turns the surgeon into an avenger. A modern reading would see her as a woman whose death exists to motivate the hero, with no goals of her own in the sources.",
   "source_ids": "SOURCE-130; SOURCE-421",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 3,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Janki exists to die; Dimple Kapadia is given a beloved wife to play with no goals of her own, and the marriage is sketched only to be lost."
  },
  {
   "pairing_id": "PAIR-084",
@@ -3415,7 +3565,9 @@
   "ending": "Happy",
   "relationship_analysis": "Radha drives this romance: she proposes, defies her mother and later becomes an IAS officer, while Heera's choice of her over his father starts his self-made rise. The film pairs the couple's independence with Heera's lasting wish for his father's respect, so the marriage becomes the setting for the father–son reconciliation rather than the story's end point.",
   "source_ids": "SOURCE-135; SOURCE-425",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 7,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Soundarya drives the courtship, proposing and defying her mother, and the partnership of two people rising together is the warmest pairing of Bachchan's late-1990s work."
  },
  {
   "pairing_id": "PAIR-085",
@@ -3457,7 +3609,9 @@
   "ending": "Unresolved",
   "relationship_analysis": "The backstory casts Heera's love for Gauri as pure sacrifice: he gives up school for her and his father's good opinion to spare her. Gauri refuses a match made for her, and her suicide attempt shows how little choice the arrangement allowed her. The film treats her rejection of an illiterate man as the wound Heera carries, but from a modern view her refusal is an assertion of consent.",
   "source_ids": "SOURCE-135; SOURCE-425",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 4,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. The backstory is played as Heera's wound rather than as a relationship, and Rachna Banerjee's refusal is given weight only as the injury he carries."
  },
  {
   "pairing_id": "PAIR-086",
@@ -3587,7 +3741,9 @@
   "relationship_analysis": "The marriage is a parenting partnership more than a romance: Sumitra's objections to Ishwar's indulgence lead to the couple's joint decision to throw Aditya out. The closing image of Ishwar's spirit touching the flowers in her hair recasts the marriage as a love story at the moment of loss. The fetched sources do not say whether Sumitra shares his secret about the cancer, so her part in his final months is unclear.",
   "critical_reading": "Rediff (2005) described Shefali Shah's Sumitra as dismayed by her husband's doting on Aditya and 'casually referred to as Mother India'; Subhash K. Jha (quoted by Wikipedia) praised her eyes for conveying 'spousal and matriarchal pain'.",
   "source_ids": "SOURCE-167; SOURCE-453",
-  "confidence": "Low"
+  "confidence": "Low",
+  "chemistry": 6,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Shefali Shah plays the exasperated partner well and the parenting disagreements give the marriage texture; the closing image retrospectively recasts it as a love story."
  },
  {
   "pairing_id": "PAIR-089",
@@ -3761,7 +3917,9 @@
   "relationship_analysis": "Amrita is the marriage the romance betrays, and the fetched sources give her little beyond being 'shattered' by Vijay's confession. Her brother, not she, confronts Vijay and ends the affair, which limits her agency. The ending, with wife and daughter having lost trust in him, treats the damage to the marriage as Vijay's punishment rather than exploring her response.",
   "critical_reading": "Rediff (2007) introduces Amrita (Revathy) only as the wife with whom Vijay lives on the tea estate; no fetched review discusses the marriage.",
   "source_ids": "SOURCE-183; SOURCE-499",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "chemistry": 5,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. Revathi is given little beyond being shattered by the confession, and her brother rather than she confronts Vijay, so the marriage is played as a casualty rather than a relationship."
  },
  {
   "pairing_id": "PAIR-093",
@@ -3891,6 +4049,8 @@
   "relationship_analysis": "The most unsentimental marriage in Bachchan's filmography and the clearest late-career inversion of his romantic persona. Mirza's entire relation to his wife is actuarial: he married into her property and now waits for her to die, and the film measures his moral smallness by how openly he counts the days. The reversal is that Begum has been running her own plan the whole time. Her elopement with a lover she never gave up, and the sale of the mansion for a token rupee, deny Mirza the inheritance and expose that the woman he treated as a delay was the only person in the film with a design worth the name.",
   "critical_reading": "Reviewers read the film through the Mirza-Baankey duel rather than the marriage, which is why the ending lands as a surprise; a modern reading notes that the film hands its oldest woman both the sexual autonomy and the property outcome, while the two men who spend the film fighting over her house are left with nothing.",
   "source_ids": "SOURCE-575",
-  "confidence": "High"
+  "confidence": "High",
+  "chemistry": 8,
+  "chemistry_explanation": "Interpretive reading; no fetched review assesses this pairing. A deliberately loveless pairing played with precision: Farrukh Jaffar's Begum humours Bachchan's Mirza while running her own scheme, and the comic timing of that imbalance carries the film."
  }
 ]

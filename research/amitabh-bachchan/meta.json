@@ -1,6 +1,37 @@
 {
-  "actor": "Amitabh Bachchan",
-  "research_cutoff": "2026-09-13",
-  "scope_note": "Released feature-film acting appearances through 13 September 2026 (260 films), including cameos, guest and special appearances, self appearances, narration and voice roles, and films in Bhojpuri, English, Gujarati, Kannada, Malayalam, Marathi, Punjabi, Tamil, Telugu and Tulu. The bilingual Barsaat Ki Ek Raat and its Bengali version Anusandhan (1981) share one row. Excluded: the unreleased Zamaanat and Kalki 2898 AD – Part 2; Section 84, not released by the cutoff; the short film Power (2012); Bunty Aur Babli 2 (2021), which uses archival footage only; Veergatha (2016), an audiovisual with no evidence of a theatrical feature release; documentaries (the Hindi narration of March of the Penguins, The Story of Film: An Odyssey, Bollywood: The Greatest Love Story Ever Told, The Journey of India, The Romantics, Angry Young Men, Naam Tha Kanhaiyalal and The Real Superstar); television; music videos; and producer-only credits. Release dates are Indian theatrical dates where the film article gives them, otherwise the year. Box-office figures without a nett/gross label are kept in research notes rather than money columns. Nine films have no Wikipedia article and rest on IMDb listings or on newspaper citations in the Wikipedia filmography.",
-  "career_phases": []
+ "actor": "Amitabh Bachchan",
+ "research_cutoff": "2026-09-13",
+ "scope_note": "Released feature-film acting appearances through 13 September 2026 (260 films), including cameos, guest and special appearances, self appearances, narration and voice roles, and films in Bhojpuri, English, Gujarati, Kannada, Malayalam, Marathi, Punjabi, Tamil, Telugu and Tulu. The bilingual Barsaat Ki Ek Raat and its Bengali version Anusandhan (1981) share one row. Excluded: the unreleased Zamaanat and Kalki 2898 AD – Part 2; Section 84, not released by the cutoff; the short film Power (2012); Bunty Aur Babli 2 (2021), which uses archival footage only; Veergatha (2016), an audiovisual with no evidence of a theatrical feature release; documentaries (the Hindi narration of March of the Penguins, The Story of Film: An Odyssey, Bollywood: The Greatest Love Story Ever Told, The Journey of India, The Romantics, Angry Young Men, Naam Tha Kanhaiyalal and The Real Superstar); television; music videos; and producer-only credits. Release dates are Indian theatrical dates where the film article gives them, otherwise the year. Box-office figures without a nett/gross label are kept in research notes rather than money columns. Three scope questions were resolved on 18 September 2026 in favour of inclusion, each against a competing reading recorded in the film's research notes: Cinema Cinema (1979), a staged quasi-documentary in which Bachchan appears as himself in an original interview, is kept despite the general exclusion of documentaries; Film Hi Film (1983), whose newly shot frame story surrounds star footage drawn from unreleased and unfinished films, is kept and distinguished from the excluded Bunty Aur Babli 2; and The Great Leader (2017), the Hindi dub of the Bhojpuri Ganga Devi (2012), keeps a row separate from it, so those two rows describe one production in two language versions and count as one film when totalling distinct productions. Nine films have no Wikipedia article and rest on IMDb listings or on newspaper citations in the Wikipedia filmography. Awards cover Bachchan's own wins, nominations and honours as listed on the Wikipedia awards page (single-source, Medium confidence). Awards for his television work (Kaun Banega Crorepati, Bigg Boss) are kept with a note and no Film ID, since television is outside the filmography scope but belongs to his award record. Civilian honours, honorary doctorates and lifetime tributes are marked Honorary and carry no Film ID.",
+ "career_phases": [
+  {
+   "phase": "Early career",
+   "start_year": 1969,
+   "end_year": 1972,
+   "summary": "Bachchan enters films as a narrator (Bhuvan Shome) and as one of seven leads in Saat Hindustani, and wins his first Filmfare award in a supporting part in Anand. The period is commercially weak and romantically incidental: his romances are subplots brokered by other characters or, in Parwana, an obsessive pursuit played as villainy. Lover-boy scores are correspondingly low, and several credits are cameos, guest spots and non-Hindi voice work."
+  },
+  {
+   "phase": "Rise to prominence",
+   "start_year": 1973,
+   "end_year": 1974,
+   "summary": "Salim–Javed's Zanjeer establishes the 'angry young man', a role written explicitly against the reigning romantic-hero image; the romance there is subordinate to the hero's rage and Mala functions as its moral check. Abhimaan, opposite Jaya Bhaduri, runs the opposite experiment, putting a marriage and male professional ego at the centre. The two poles of his screen romance — displaced by vengeance, or examined inside marriage — are both set in these two years."
+  },
+  {
+   "phase": "Peak years",
+   "start_year": 1975,
+   "end_year": 1988,
+   "summary": "Deewaar and Sholay consolidate superstardom, and the masala cycle (Amar Akbar Anthony, Don, Muqaddar Ka Sikandar, Trishul, Kaalia, Namak Halaal) dominates. Romance in this phase is overwhelmingly secondary: the pairings are comic courtships, rescue romances or renunciations that serve friendship and revenge plots, and heroines are frequently prizes or casualties. The exceptions are pointed — Kabhi Kabhie and Silsila treat lost and adulterous love directly, and Muqaddar Ka Sikandar builds a whole film on unrequited devotion."
+  },
+  {
+   "phase": "Career fluctuations and sabbatical",
+   "start_year": 1989,
+   "end_year": 1999,
+   "summary": "Commercial decline sets in after 1988, punctuated by Agneepath, which brings his first National Film Award for Best Actor, and by the successes of Aaj Ka Arjun and Hum. He announces semi-retirement after Khuda Gawah (1992), acts almost not at all for five years, founds ABCL, and returns with Mrityudata and Sooryavansham. Romance thins out further: wives exist largely to be widowed or avenged, and Sooryavansham's Radha is the rare partner with goals of her own."
+  },
+  {
+   "phase": "Return to success and patriarch roles",
+   "start_year": 2000,
+   "end_year": 2026,
+   "summary": "Mohabbatein reboots the career and fixes a new register: authority figures, fathers and patriarchs, followed by the prestige run of Black, Paa, Piku and Pink. Screen romance returns in inverted forms — the late companionate marriage of Baghban, the May–December transgressions of Nishabd and Cheeni Kum, and finally Gulabo Sitabo's wholly unsentimental marriage, in which the wife outwits a husband who is waiting for her to die. Female agency scores are at their highest here, and lover-boy scores at their lowest."
+  }
+ ]
 }
