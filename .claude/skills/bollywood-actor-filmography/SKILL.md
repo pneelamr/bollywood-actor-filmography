@@ -41,11 +41,36 @@ $PY $EX reviews WORK research/<actor-slug> --ids FILM-001-FILM-030 --terms "<Sur
 * It sets `role_type` only for narration, voice, self, cameo and special appearances; lead, co-lead, supporting and antagonist are decided by hand. Lyricists come partly from prose and need a check.
 * The extract commands find each film's article through its Wikipedia source row and download it again when `WORK` is new.
 
+### Batch and research scripts
+
+Five more scripts in `scripts/` carry the per-phase batch workflow. The merge scripts take the research directory first, upsert by ID, are idempotent, and accept `--dry-run`, so a batch can be checked before it is applied. Run them from the project root: `webtext.py` resolves the skill path relatively.
+
+```bash
+S=.claude/skills/bollywood-actor-filmography/scripts
+R=research/<actor-slug>
+$PY $S/merge_batch.py $R --sources S.json --films A.json B.json --romances R1.json [--dry-run]
+$PY $S/merge_collaborators.py $R $R/collaborator_roster.json C1.json [--dry-run]
+$PY $S/merge_cast.py $R CAST1.json --actor "<Actor Name>" [--dry-run]
+$PY $S/fetch_people.py $R/collaborator_roster.json WORK/people 46 90 [--titles extra.json]
+$PY $S/webtext.py WORK $R spec.json
+```
+
+* **`merge_batch.py`** (phase 2) upserts films, romances and sources. Films files map `film_id` to fields, with three special keys: `add_sources` merges into `source_ids`, `notes_add` appends to `research_notes`, and `overwrite` lists the keys allowed to replace a non-empty existing value. Source rows get `film_ids` and `pairing_ids` back-links for every reference automatically.
+* **`merge_collaborators.py`** (phase 3) upserts collaborator rows, checks `person_id`, name and `film_ids` against the frozen roster and reports drift, leaves `collaboration_count` for the build to derive, and fills `collaboration_film_ids` from the roster when a row omits it. It does not touch `sources.json`: the Sources sheet has no person column, so there is no reverse back-link to write.
+* **`merge_cast.py`** (phase 4) upserts ensemble rows, checks both controlled vocabularies, drops the derived `film` and `release_year`, and warns when a row names the selected actor himself. That last check takes the name from the research directory's `meta.json`, so it is correct for any actor; `--actor` overrides it, and the check is skipped with no false positives if neither is available.
+* **`fetch_people.py`** (phase 3) fetches roster entries `PERSON-<START>` to `PERSON-<END>` as raw wikitext into `OUTDIR/<person_id>.txt` and follows one `#REDIRECT`. `--titles` maps a `person_id` to an explicit Wikipedia title when the article title differs from the credit. **A missing article returns a ~1929-byte HTML error page rather than an empty body**, so never trust the script's own found/missing report: reject anything starting with `<!DOCTYPE` or containing "Wikimedia Error", then read each article's short description to confirm it describes the right person in the right profession. Well-formed articles about the wrong person pass every size and keyword check.
+* **`webtext.py`** fetches cited non-Wikipedia pages and keeps only the paragraphs matching given terms. Each row of `spec.json` is `{"film": "FILM-001", "domain": "rediff.com", "terms": ["<Surname>", "chemistry"], "cap": 1500, "url": "..."}`. `domain` is required even when `url` is given; without `url` it takes the first `|url=` in the film's cached wikitext containing `domain`, and `cap` defaults to 1500.
+  * It reads only `<p>`, `<li>`, `<h1>` and `<h2>` text longer than 40 characters, so Blogger post bodies (`div.post-body`, which separates lines with `<br>`) come back empty and must be extracted directly.
+  * It caches pages to `WORK/html/<md5>.html` and **returns an empty string with no error when `WORK/html/` does not exist**. Create that directory when reusing a previous session's scratchpad, or every fetch silently yields nothing.
+
+The collaborator roster, `research/<actor-slug>/collaborator_roster.json`, is load-bearing rather than a scratch file: `PERSON` ids are frozen against it, and any data fix that changes a collaborator's film count reorders the whole list and invalidates every id. Apply data fixes before freezing the roster, never after, and key any article cache by name slug rather than by `person_id`.
+
 Research files, one directory per actor:
 
 * `meta.json`: `actor`, `research_cutoff`, `scope_note`, and `career_phases` (a list of objects with `phase`, `start_year`, `end_year`, `summary`)
 * `films.json`, `romances.json`, `collaborators.json`, `ensemble_cast.json`, `awards.json`, `sources.json`: JSON arrays with one object per row, using the keys printed by `schema`
 * `unreleased.json` (optional): unreleased or abandoned films, only when the user asks for them; IDs `UNREL-001`; no commercial figures
+* `collaborator_roster.json` (phase 3): the frozen collaborator list that fixes the `PERSON` ids and their film counts, read by `merge_collaborators.py` and `fetch_people.py`
 
 Data conventions:
 

@@ -1,6 +1,6 @@
 """Upsert ensemble-cast rows into research/<actor>/ensemble_cast.json.
 
-usage: p4_merge_cast.py RESEARCH FILE1.json [FILE2.json ...] [--dry-run]
+usage: merge_cast.py RESEARCH FILE1.json [FILE2.json ...] [--actor "<Name>"] [--dry-run]
 
 Each input file is a JSON array of cast rows keyed by cast_id. For every row this
 script:
@@ -41,10 +41,13 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("research")
     ap.add_argument("files", nargs="+")
-    ap.add_argument("--actor", default="Amitabh Bachchan")
+    ap.add_argument("--actor", help="overrides the actor named in the research meta.json")
     ap.add_argument("--dry-run", action="store_true")
     a = ap.parse_args()
     R = Path(a.research)
+    actor = (a.actor or "").strip()
+    if not actor and (R / "meta.json").exists():
+        actor = (json.loads((R / "meta.json").read_text()).get("actor") or "").strip()
     cast = json.loads((R / "ensemble_cast.json").read_text())
     srcs = json.loads((R / "sources.json").read_text())
     films = json.loads((R / "films.json").read_text())
@@ -71,8 +74,8 @@ def main():
                 problems.append(f"{cid}: bad importance {row.get('importance')!r}")
             if not row.get("actor"):
                 problems.append(f"{cid}: no actor")
-            if (row.get("actor") or "").strip().lower() == a.actor.lower():
-                problems.append(f"{cid}: actor is {a.actor} himself")
+            if actor and (row.get("actor") or "").strip().lower() == actor.lower():
+                problems.append(f"{cid}: actor is {actor} himself")
             for k in DERIVED:
                 if row.pop(k, None) is not None:
                     problems.append(f"{cid}: {k} is derived by the build; dropped")
