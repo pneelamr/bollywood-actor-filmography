@@ -1,0 +1,145 @@
+{
+  "_about": "Scope decisions for .claude/skills/bollywood-actor-filmography/scripts/extract_wiki.py films. Not read by build_workbook.py.",
+  "exclude": {
+    "Anusandhan|1981": "Bengali version of the bilingual Barsaat Ki Ek Raat; both titles lead to one Wikipedia article, so the film has one master row.",
+    "Zamaanat|2006": "Listed in the filmography as unreleased.",
+    "Power|2012": "Short film.",
+    "Veergatha|2016": "No Wikipedia article or citation; IMDb describes an audiovisual on twelve Param Vir Chakra recipients, with no evidence of a theatrical feature release.",
+    "Bunty Aur Babli 2|2021": "Archival footage only; no new performance.",
+    "Naam Tha Kanhaiyalal|2022": "Documentary appearance as himself.",
+    "The Real Superstar|2024": "Documentary appearance as himself."
+  },
+  "overrides": {
+    "Shatranj Ke Khilari|1977": {
+      "role_type": "Narrator",
+      "character": "Narrator"
+    },
+    "Bombay Talkie|1970": {
+      "role_type": "Cameo",
+      "confidence": "Low"
+    },
+    "The Ghazi Attack|2017": {
+      "language": "Telugu; Tamil; Hindi"
+    },
+    "Guddi|1971": {
+      "role_type": "Self appearance",
+      "character": "Himself"
+    }
+  },
+  "notes": {
+    "Barsaat Ki Ek Raat|1981": "Bilingual production shot simultaneously in Hindi and Bengali; the Bengali version, Anusandhan, has no separate row. The Wikipedia article is titled Anusandhan (1981 film).",
+    "Kaasdaya Kandane|1974": "No Wikipedia article; the filmography cites a Hindustan Times article on Tulu cinema for the voiceover.",
+    "Film Hi Film|1983": "No Wikipedia article and no citation in the filmography; IMDb credits Bachchan as Jengo / Guru and marks much of the cast as archive footage.",
+    "Kanoon Kya Karega|1984": "No Wikipedia article and no citation in the filmography; IMDb credits Bachchan as narrator.",
+    "Pet Pyaar Aur Paap|1984": "No Wikipedia article and no citation in the filmography; IMDb credits him as himself in a guest appearance.",
+    "Akka|1994": "No Wikipedia article; the filmography cites a Firstpost video page for the guest appearance.",
+    "Ahsaas|1979": "No film article; the title redirects to List of Hindi films of 1979.",
+    "Ek Krantiveer: Vasudev Balwant Phadke|2007": "No Wikipedia article and no citation in the filmography; IMDb lists Bachchan as narrator.",
+    "Ganga Devi|2012": "No Wikipedia article; the filmography cites a Times of India music-launch report.",
+    "The Great Leader|2017": "No Wikipedia article and no citation in the filmography; IMDb lists a 2017 release. Reported as a Bhojpuri film dubbed in Hindi, produced by his long-time make-up artist Deepak Sawant.",
+    "Bombay Talkie|1970": "Uncredited. The film article lists him as a man attending a funeral and also reports his account that he left after one day of shooting, before he was due to deliver his line; the filmography cites only a MensXP list.",
+    "The Ghazi Attack|2017": "The infobox language field reads Telugu, then Tamil and Hindi on one line; entered as three languages.",
+    "Guddi|1971": "The film article lists Amitabh Bachchan among actors who make guest appearances as themselves."
+  },
+  "extra_sources": {
+    "Kaasdaya Kandane|1974": [
+      {
+        "title": "How Tulu cinema came out of shadows to script identity",
+        "publisher": "Hindustan Times",
+        "author": "Arun Dev",
+        "publication_date": "2021-08-15",
+        "url": "https://www.hindustantimes.com/india-news/how-tulu-cinema-came-out-of-shadows-to-script-identity-101628967185909.html",
+        "claims": "Bachchan's voiceover in the Tulu film Kaasdaya Kandane.",
+        "source_type": "Newspaper",
+        "reliability": "B",
+        "notes": "Cited by the Wikipedia filmography; not fetched."
+      }
+    ],
+    "Film Hi Film|1983": [
+      {
+        "title": "Film Hi Film (1983) – Full cast & crew",
+        "publisher": "IMDb",
+        "url": "https://www.imdb.com/title/tt0361617/fullcredits/",
+        "claims": "Bachchan credited as Jengo / Guru; archive-footage credits.",
+        "source_type": "Reference database",
+        "reliability": "C",
+        "notes": "Seen as a search-result summary only."
+      }
+    ],
+    "Kanoon Kya Karega|1984": [
+      {
+        "title": "Kanoon Kya Karega (1984) – Amitabh Bachchan as Narrator",
+        "publisher": "IMDb",
+        "url": "https://www.imdb.com/title/tt0087536/characters/nm0000821",
+        "claims": "Bachchan credited as narrator; Mukul Anand director.",
+        "source_type": "Reference database",
+        "reliability": "C",
+        "notes": "Seen as a search-result summary only."
+      }
+    ],
+    "Pet Pyaar Aur Paap|1984": [
+      {
+        "title": "Pet Pyaar Aur Paap (1984) – Full cast & crew",
+        "publisher": "IMDb",
+        "url": "https://www.imdb.com/title/tt0087908/fullcredits",
+        "claims": "Bachchan credited as himself (guest appearance).",
+        "source_type": "Reference database",
+        "reliability": "C",
+        "notes": "Seen as a search-result summary only."
+      }
+    ],
+    "Akka|1994": [
+      {
+        "title": "Rare Amitabh Bachchan Guest Appearance In Akka – 1994 (Marathi Movie)",
+        "publisher": "Firstpost",
+        "url": "http://www.firstpost.com/topic/person/amitabh-bachchan-rare-amitabh-bachchan-guest-appearance-in-akka-1994-marat-video-5i4e-1VxKvI-5605-1.html",
+        "claims": "Bachchan's guest appearance in the Marathi film Akka.",
+        "source_type": "News video page",
+        "reliability": "B",
+        "notes": "Cited by the Wikipedia filmography; not fetched."
+      }
+    ],
+    "Ek Krantiveer: Vasudev Balwant Phadke|2007": [
+      {
+        "title": "Ek Krantiveer: Vasudev Balwant Phadke (2007) – Full cast & crew",
+        "publisher": "IMDb",
+        "url": "https://www.imdb.com/title/tt1608509/fullcredits/",
+        "claims": "Bachchan listed as narrator; Gajendra Ahire director.",
+        "source_type": "Reference database",
+        "reliability": "C",
+        "notes": "Seen as a search-result summary only."
+      }
+    ],
+    "Ganga Devi|2012": [
+      {
+        "title": "Amitabh Bachchan at Ganga Devi's music launch",
+        "publisher": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/entertainment/events/mumbai/amitabh-bachchan-at-ganga-devis-music-launch/articleshow/16133707.cms",
+        "claims": "Bachchan's association with the Bhojpuri film Ganga Devi.",
+        "source_type": "Newspaper",
+        "reliability": "B",
+        "notes": "Cited by the Wikipedia filmography; not fetched. A music-launch report, so it does not by itself confirm the role."
+      }
+    ],
+    "The Great Leader|2017": [
+      {
+        "title": "The Great Leader (2017)",
+        "publisher": "IMDb",
+        "url": "https://www.imdb.com/title/tt10623274/",
+        "claims": "Release year, Abhishek Chadha director, cast including Amitabh Bachchan, Jaya Bachchan and Gulshan Grover.",
+        "source_type": "Reference database",
+        "reliability": "C",
+        "notes": "Seen as a search-result summary only."
+      },
+      {
+        "title": "After 19 Years, There's A Movie As 'Good' As Gunda & Amitabh Bachchan Is In It",
+        "publisher": "ScoopWhoop",
+        "url": "https://scoopwhoop.com/the-great-leader-trailer",
+        "claims": "Bachchan's appearance in The Great Leader.",
+        "source_type": "Entertainment website",
+        "reliability": "D",
+        "notes": "Seen as a search-result summary only."
+      }
+    ]
+  }
+}
