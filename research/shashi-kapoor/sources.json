@@ -1,0 +1,2322 @@
+[
+  {
+    "source_id": "SOURCE-001",
+    "title": "List of roles and awards of Shashi Kapoor",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_roles_and_awards_of_Shashi_Kapoor",
+    "access_date": "2026-09-21",
+    "claims": "Feature-film acting credits, character names, and cameo, special-appearance, narration and voice notes.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-001",
+      "FILM-002",
+      "FILM-003",
+      "FILM-004",
+      "FILM-005",
+      "FILM-006",
+      "FILM-007",
+      "FILM-008",
+      "FILM-009",
+      "FILM-010",
+      "FILM-011",
+      "FILM-012",
+      "FILM-013",
+      "FILM-014",
+      "FILM-015",
+      "FILM-016",
+      "FILM-017",
+      "FILM-018",
+      "FILM-019",
+      "FILM-020",
+      "FILM-021",
+      "FILM-022",
+      "FILM-023",
+      "FILM-024",
+      "FILM-025",
+      "FILM-026",
+      "FILM-027",
+      "FILM-028",
+      "FILM-029",
+      "FILM-030",
+      "FILM-031",
+      "FILM-032",
+      "FILM-033",
+      "FILM-034",
+      "FILM-035",
+      "FILM-036",
+      "FILM-037",
+      "FILM-038",
+      "FILM-039",
+      "FILM-040",
+      "FILM-041",
+      "FILM-042",
+      "FILM-043",
+      "FILM-044",
+      "FILM-045",
+      "FILM-046",
+      "FILM-047",
+      "FILM-048",
+      "FILM-049",
+      "FILM-050",
+      "FILM-051",
+      "FILM-052",
+      "FILM-053",
+      "FILM-054",
+      "FILM-055",
+      "FILM-056",
+      "FILM-057",
+      "FILM-058",
+      "FILM-059",
+      "FILM-060",
+      "FILM-061",
+      "FILM-062",
+      "FILM-063",
+      "FILM-064",
+      "FILM-065",
+      "FILM-066",
+      "FILM-067",
+      "FILM-068",
+      "FILM-069",
+      "FILM-070",
+      "FILM-071",
+      "FILM-072",
+      "FILM-073",
+      "FILM-074",
+      "FILM-075",
+      "FILM-076",
+      "FILM-077",
+      "FILM-078",
+      "FILM-079",
+      "FILM-080",
+      "FILM-081",
+      "FILM-082",
+      "FILM-083",
+      "FILM-084",
+      "FILM-085",
+      "FILM-086",
+      "FILM-087",
+      "FILM-088",
+      "FILM-089",
+      "FILM-090",
+      "FILM-091",
+      "FILM-092",
+      "FILM-093",
+      "FILM-094",
+      "FILM-095",
+      "FILM-096",
+      "FILM-097",
+      "FILM-098",
+      "FILM-099",
+      "FILM-100",
+      "FILM-101",
+      "FILM-102",
+      "FILM-103",
+      "FILM-104",
+      "FILM-105",
+      "FILM-106",
+      "FILM-107",
+      "FILM-108",
+      "FILM-109",
+      "FILM-110",
+      "FILM-111",
+      "FILM-112",
+      "FILM-113",
+      "FILM-114",
+      "FILM-115",
+      "FILM-116",
+      "FILM-117",
+      "FILM-118",
+      "FILM-119",
+      "FILM-120",
+      "FILM-121",
+      "FILM-122",
+      "FILM-123",
+      "FILM-124",
+      "FILM-125",
+      "FILM-126",
+      "FILM-127",
+      "FILM-128",
+      "FILM-129",
+      "FILM-130",
+      "FILM-131",
+      "FILM-132",
+      "FILM-133",
+      "FILM-134",
+      "FILM-135",
+      "FILM-136",
+      "FILM-137",
+      "FILM-138",
+      "FILM-139",
+      "FILM-140",
+      "FILM-141",
+      "FILM-142",
+      "FILM-143",
+      "FILM-144",
+      "FILM-145",
+      "FILM-146",
+      "FILM-147",
+      "FILM-148",
+      "FILM-149",
+      "FILM-150",
+      "FILM-151",
+      "FILM-152",
+      "FILM-153",
+      "FILM-154"
+    ],
+    "pairing_ids": [
+      "PAIR-001",
+      "PAIR-002",
+      "PAIR-003",
+      "PAIR-004",
+      "PAIR-005",
+      "PAIR-006",
+      "PAIR-007",
+      "PAIR-008",
+      "PAIR-009",
+      "PAIR-010",
+      "PAIR-011",
+      "PAIR-012",
+      "PAIR-013",
+      "PAIR-014",
+      "PAIR-015",
+      "PAIR-016",
+      "PAIR-017",
+      "PAIR-018",
+      "PAIR-019",
+      "PAIR-020",
+      "PAIR-021",
+      "PAIR-022",
+      "PAIR-023",
+      "PAIR-024",
+      "PAIR-025",
+      "PAIR-026",
+      "PAIR-027",
+      "PAIR-028",
+      "PAIR-029",
+      "PAIR-030",
+      "PAIR-031",
+      "PAIR-032",
+      "PAIR-033",
+      "PAIR-034",
+      "PAIR-035",
+      "PAIR-036",
+      "PAIR-037",
+      "PAIR-038",
+      "PAIR-039",
+      "PAIR-040",
+      "PAIR-041",
+      "PAIR-042",
+      "PAIR-043",
+      "PAIR-044",
+      "PAIR-045",
+      "PAIR-046",
+      "PAIR-047",
+      "PAIR-048",
+      "PAIR-049",
+      "PAIR-050",
+      "PAIR-051",
+      "PAIR-052",
+      "PAIR-053",
+      "PAIR-054",
+      "PAIR-055",
+      "PAIR-056",
+      "PAIR-057",
+      "PAIR-058",
+      "PAIR-059",
+      "PAIR-060",
+      "PAIR-061",
+      "PAIR-062",
+      "PAIR-063",
+      "PAIR-064",
+      "PAIR-065",
+      "PAIR-066",
+      "PAIR-067",
+      "PAIR-068",
+      "PAIR-069",
+      "PAIR-070",
+      "PAIR-071",
+      "PAIR-072",
+      "PAIR-073",
+      "PAIR-074",
+      "PAIR-075",
+      "PAIR-076"
+    ]
+  },
+  {
+    "source_id": "SOURCE-002",
+    "title": "Aag (1948 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Aag_(1948_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-001"
+    ]
+  },
+  {
+    "source_id": "SOURCE-003",
+    "title": "Sangram (1950 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sangram_(1950_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, production banner, writers, song composer.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-002"
+    ]
+  },
+  {
+    "source_id": "SOURCE-004",
+    "title": "Awaara",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Awaara",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-004"
+    ]
+  },
+  {
+    "source_id": "SOURCE-005",
+    "title": "Daana Paani (1953 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Daana_Paani_(1953_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, production banner, song composer, lyricist.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-005"
+    ]
+  },
+  {
+    "source_id": "SOURCE-006",
+    "title": "Dharmputra",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Dharmputra",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, production banner, writers, source material, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-007"
+    ]
+  },
+  {
+    "source_id": "SOURCE-007",
+    "title": "Prem Patra",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Prem_Patra",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, writers, source material, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-008"
+    ]
+  },
+  {
+    "source_id": "SOURCE-008",
+    "title": "The Householder",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Householder",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, source material, song composer, background score composer, billing position, budget, currency.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-010"
+    ],
+    "pairing_ids": [
+      "PAIR-001"
+    ]
+  },
+  {
+    "source_id": "SOURCE-009",
+    "title": "Yeh Dil Kisko Doon",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Yeh_Dil_Kisko_Doon",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, production banner, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-011"
+    ]
+  },
+  {
+    "source_id": "SOURCE-010",
+    "title": "Benazir (film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Benazir_(film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-014"
+    ],
+    "pairing_ids": [
+      "PAIR-002"
+    ]
+  },
+  {
+    "source_id": "SOURCE-011",
+    "title": "Shakespeare Wallah",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Shakespeare_Wallah",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-015"
+    ],
+    "pairing_ids": [
+      "PAIR-003",
+      "PAIR-004"
+    ]
+  },
+  {
+    "source_id": "SOURCE-012",
+    "title": "Waqt (1965 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Waqt_(1965_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-017"
+    ],
+    "pairing_ids": [
+      "PAIR-005"
+    ]
+  },
+  {
+    "source_id": "SOURCE-013",
+    "title": "Jab Jab Phool Khile",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jab_Jab_Phool_Khile",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-018"
+    ],
+    "pairing_ids": [
+      "PAIR-006"
+    ]
+  },
+  {
+    "source_id": "SOURCE-014",
+    "title": "Pyar Kiye Jaa",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pyar_Kiye_Jaa",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, production banner, writers, source material, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-019"
+    ],
+    "pairing_ids": [
+      "PAIR-007"
+    ]
+  },
+  {
+    "source_id": "SOURCE-015",
+    "title": "Neend Hamari Khwab Tumhare (1966 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Neend_Hamari_Khwab_Tumhare_(1966_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, production banner, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-020"
+    ],
+    "pairing_ids": [
+      "PAIR-008"
+    ]
+  },
+  {
+    "source_id": "SOURCE-016",
+    "title": "Pretty Polly (film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pretty_Polly_(film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, source material, song composer, billing position, budget, currency.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-024"
+    ],
+    "pairing_ids": [
+      "PAIR-010"
+    ]
+  },
+  {
+    "source_id": "SOURCE-017",
+    "title": "Aamne Samne (1967 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Aamne_Samne_(1967_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-023"
+    ],
+    "pairing_ids": [
+      "PAIR-009"
+    ]
+  },
+  {
+    "source_id": "SOURCE-018",
+    "title": "Haseena Maan Jayegi",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Haseena_Maan_Jayegi",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, production banner, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-025"
+    ],
+    "pairing_ids": [
+      "PAIR-011"
+    ]
+  },
+  {
+    "source_id": "SOURCE-019",
+    "title": "Kanyadaan (1968 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kanyadaan_(1968_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-026"
+    ],
+    "pairing_ids": [
+      "PAIR-012"
+    ]
+  },
+  {
+    "source_id": "SOURCE-020",
+    "title": "Raja Saab",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Raja_Saab",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, production banner, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-030"
+    ],
+    "pairing_ids": [
+      "PAIR-015"
+    ]
+  },
+  {
+    "source_id": "SOURCE-021",
+    "title": "Pyar Ka Mausam",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pyar_Ka_Mausam",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-028"
+    ],
+    "pairing_ids": [
+      "PAIR-013"
+    ]
+  },
+  {
+    "source_id": "SOURCE-022",
+    "title": "Jahan Pyar Miley",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jahan_Pyar_Miley",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-035"
+    ]
+  },
+  {
+    "source_id": "SOURCE-023",
+    "title": "Ek Shrimaan Ek Shrimati",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ek_Shrimaan_Ek_Shrimati",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-029"
+    ],
+    "pairing_ids": [
+      "PAIR-014"
+    ]
+  },
+  {
+    "source_id": "SOURCE-024",
+    "title": "Suhana Safar",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Suhana_Safar",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-033"
+    ],
+    "pairing_ids": [
+      "PAIR-018"
+    ]
+  },
+  {
+    "source_id": "SOURCE-025",
+    "title": "Rootha Na Karo",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rootha_Na_Karo",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-031"
+    ],
+    "pairing_ids": [
+      "PAIR-016"
+    ]
+  },
+  {
+    "source_id": "SOURCE-026",
+    "title": "Abhinetri (1970 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Abhinetri_(1970_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, production banner, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-032"
+    ],
+    "pairing_ids": [
+      "PAIR-017"
+    ]
+  },
+  {
+    "source_id": "SOURCE-027",
+    "title": "My Love (1970 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/My_Love_(1970_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-034"
+    ],
+    "pairing_ids": [
+      "PAIR-019"
+    ]
+  },
+  {
+    "source_id": "SOURCE-028",
+    "title": "Bombay Talkie",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bombay_Talkie",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, billing position, budget, currency.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-036"
+    ],
+    "pairing_ids": [
+      "PAIR-020"
+    ]
+  },
+  {
+    "source_id": "SOURCE-029",
+    "title": "Sharmeelee",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sharmeelee",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, song composer, billing position, domestic nett, currency.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-037"
+    ],
+    "pairing_ids": [
+      "PAIR-021",
+      "PAIR-022"
+    ]
+  },
+  {
+    "source_id": "SOURCE-030",
+    "title": "Patanga (1971 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Patanga_(1971_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-038"
+    ],
+    "pairing_ids": [
+      "PAIR-023"
+    ]
+  },
+  {
+    "source_id": "SOURCE-031",
+    "title": "Siddhartha (1972 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Siddhartha_(1972_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-041"
+    ],
+    "pairing_ids": [
+      "PAIR-025"
+    ]
+  },
+  {
+    "source_id": "SOURCE-032",
+    "title": "Janwar Aur Insaan",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Janwar_Aur_Insaan",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-040"
+    ],
+    "pairing_ids": [
+      "PAIR-024"
+    ]
+  },
+  {
+    "source_id": "SOURCE-033",
+    "title": "Aa Gale Lag Jaa (1973 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Aa_Gale_Lag_Jaa_(1973_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-043"
+    ],
+    "pairing_ids": [
+      "PAIR-026"
+    ]
+  },
+  {
+    "source_id": "SOURCE-034",
+    "title": "Naina (1973 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Naina_(1973_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-042"
+    ]
+  },
+  {
+    "source_id": "SOURCE-035",
+    "title": "Chor Machaye Shor",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chor_Machaye_Shor",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, production banner, writers, song composer, billing position, domestic nett, currency.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-048"
+    ],
+    "pairing_ids": [
+      "PAIR-028"
+    ]
+  },
+  {
+    "source_id": "SOURCE-036",
+    "title": "Paap Aur Punya",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Paap_Aur_Punya",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, director, producers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-049"
+    ],
+    "pairing_ids": [
+      "PAIR-029"
+    ]
+  },
+  {
+    "source_id": "SOURCE-037",
+    "title": "Roti Kapada Aur Makaan",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Roti_Kapada_Aur_Makaan",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, lyricist, billing position, domestic nett, currency.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-050"
+    ],
+    "pairing_ids": [
+      "PAIR-030"
+    ]
+  },
+  {
+    "source_id": "SOURCE-038",
+    "title": "Jeevan Sangram",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jeevan_Sangram",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-046"
+    ]
+  },
+  {
+    "source_id": "SOURCE-039",
+    "title": "Insaaniyat",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Insaaniyat",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, production banner, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-047"
+    ],
+    "pairing_ids": [
+      "PAIR-027"
+    ]
+  },
+  {
+    "source_id": "SOURCE-040",
+    "title": "Anari (1975 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Anari_(1975_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, source material, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-051"
+    ],
+    "pairing_ids": [
+      "PAIR-031"
+    ]
+  },
+  {
+    "source_id": "SOURCE-041",
+    "title": "Deewaar",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Deewaar",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-052"
+    ],
+    "pairing_ids": [
+      "PAIR-032"
+    ]
+  },
+  {
+    "source_id": "SOURCE-042",
+    "title": "Prem Kahani (1975 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Prem_Kahani_(1975_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-053"
+    ],
+    "pairing_ids": [
+      "PAIR-033"
+    ]
+  },
+  {
+    "source_id": "SOURCE-043",
+    "title": "Chori Mera Kaam",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chori_Mera_Kaam",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-054"
+    ]
+  },
+  {
+    "source_id": "SOURCE-044",
+    "title": "Salaakhen (1975 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Salaakhen_(1975_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-055"
+    ],
+    "pairing_ids": [
+      "PAIR-034"
+    ]
+  },
+  {
+    "source_id": "SOURCE-045",
+    "title": "Kabhi Kabhie",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kabhi_Kabhie",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-060"
+    ],
+    "pairing_ids": [
+      "PAIR-037"
+    ]
+  },
+  {
+    "source_id": "SOURCE-046",
+    "title": "Shankar Dada",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Shankar_Dada",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-061"
+    ]
+  },
+  {
+    "source_id": "SOURCE-047",
+    "title": "Fakira",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fakira",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-062"
+    ],
+    "pairing_ids": [
+      "PAIR-038"
+    ]
+  },
+  {
+    "source_id": "SOURCE-048",
+    "title": "Naach Uthe Sansaar",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Naach_Uthe_Sansaar",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-056"
+    ]
+  },
+  {
+    "source_id": "SOURCE-049",
+    "title": "Koi Jeeta Koi Haara",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Koi_Jeeta_Koi_Haara",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, song composer, lyricist.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-057"
+    ],
+    "pairing_ids": [
+      "PAIR-035"
+    ]
+  },
+  {
+    "source_id": "SOURCE-050",
+    "title": "Deewaangee",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Deewaangee",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-058"
+    ]
+  },
+  {
+    "source_id": "SOURCE-051",
+    "title": "Aap Beati",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Aap_Beati",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-059"
+    ],
+    "pairing_ids": [
+      "PAIR-036"
+    ]
+  },
+  {
+    "source_id": "SOURCE-052",
+    "title": "Immaan Dharam",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Immaan_Dharam",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-067"
+    ]
+  },
+  {
+    "source_id": "SOURCE-053",
+    "title": "Hira Aur Patthar",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hira_Aur_Patthar",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-063"
+    ]
+  },
+  {
+    "source_id": "SOURCE-054",
+    "title": "Mukti (1977 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mukti_(1977_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, billing position, budget, currency.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-068"
+    ],
+    "pairing_ids": [
+      "PAIR-040"
+    ]
+  },
+  {
+    "source_id": "SOURCE-055",
+    "title": "Doosara Aadmi",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Doosara_Aadmi",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-069"
+    ],
+    "pairing_ids": [
+      "PAIR-041"
+    ]
+  },
+  {
+    "source_id": "SOURCE-056",
+    "title": "Farishta Ya Qatil",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Farishta_Ya_Qatil",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-064"
+    ]
+  },
+  {
+    "source_id": "SOURCE-057",
+    "title": "Chor Sipahee",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chor_Sipahee",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-065"
+    ]
+  },
+  {
+    "source_id": "SOURCE-058",
+    "title": "Chakkar Pe Chakkar",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chakkar_Pe_Chakkar",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-066"
+    ],
+    "pairing_ids": [
+      "PAIR-039"
+    ]
+  },
+  {
+    "source_id": "SOURCE-059",
+    "title": "Rahu Ketu (1978 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rahu_Ketu_(1978_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-070"
+    ]
+  },
+  {
+    "source_id": "SOURCE-060",
+    "title": "Phaansi",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Phaansi",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-075"
+    ]
+  },
+  {
+    "source_id": "SOURCE-061",
+    "title": "Satyam Shivam Sundaram",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Satyam_Shivam_Sundaram",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-076"
+    ],
+    "pairing_ids": [
+      "PAIR-043"
+    ]
+  },
+  {
+    "source_id": "SOURCE-062",
+    "title": "Trishul (film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Trishul_(film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-078"
+    ],
+    "pairing_ids": [
+      "PAIR-045"
+    ]
+  },
+  {
+    "source_id": "SOURCE-063",
+    "title": "Do Musafir",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Do_Musafir",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-071"
+    ]
+  },
+  {
+    "source_id": "SOURCE-064",
+    "title": "Trishna (1978 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Trishna_(1978_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-072"
+    ],
+    "pairing_ids": [
+      "PAIR-042"
+    ]
+  },
+  {
+    "source_id": "SOURCE-065",
+    "title": "Apna Khoon",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Apna_Khoon",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-080"
+    ]
+  },
+  {
+    "source_id": "SOURCE-066",
+    "title": "Heeralaal Pannalaal (film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Heeralaal_Pannalaal_(film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-081"
+    ],
+    "pairing_ids": [
+      "PAIR-046"
+    ]
+  },
+  {
+    "source_id": "SOURCE-067",
+    "title": "Atithee",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Atithee",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-079"
+    ]
+  },
+  {
+    "source_id": "SOURCE-068",
+    "title": "Amar Shakti",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Amar_Shakti",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-074"
+    ]
+  },
+  {
+    "source_id": "SOURCE-069",
+    "title": "Aahuti (1978 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Aahuti_(1978_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-077"
+    ],
+    "pairing_ids": [
+      "PAIR-044"
+    ]
+  },
+  {
+    "source_id": "SOURCE-070",
+    "title": "Gautam Govinda",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gautam_Govinda",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-083"
+    ],
+    "pairing_ids": [
+      "PAIR-047"
+    ]
+  },
+  {
+    "source_id": "SOURCE-071",
+    "title": "Junoon (1978 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Junoon_(1978_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, source material, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-084"
+    ],
+    "pairing_ids": [
+      "PAIR-048",
+      "PAIR-049"
+    ]
+  },
+  {
+    "source_id": "SOURCE-072",
+    "title": "Duniya Meri Jeb Mein",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Duniya_Meri_Jeb_Mein",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-086"
+    ]
+  },
+  {
+    "source_id": "SOURCE-073",
+    "title": "Kaala Patthar",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kaala_Patthar",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, source material, song composer, background score composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-085"
+    ],
+    "pairing_ids": [
+      "PAIR-050"
+    ]
+  },
+  {
+    "source_id": "SOURCE-074",
+    "title": "Suhaag (1979 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Suhaag_(1979_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, song composer, billing position, budget, currency.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-087"
+    ]
+  },
+  {
+    "source_id": "SOURCE-075",
+    "title": "Kali Ghata (1980 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kali_Ghata_(1980_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-091"
+    ],
+    "pairing_ids": [
+      "PAIR-051"
+    ]
+  },
+  {
+    "source_id": "SOURCE-076",
+    "title": "Do Aur Do Paanch",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Do_Aur_Do_Paanch",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, production banner, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-092"
+    ],
+    "pairing_ids": [
+      "PAIR-052"
+    ]
+  },
+  {
+    "source_id": "SOURCE-077",
+    "title": "Neeyat (1980 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Neeyat_(1980_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-093"
+    ],
+    "pairing_ids": [
+      "PAIR-053"
+    ]
+  },
+  {
+    "source_id": "SOURCE-078",
+    "title": "Shaan (1980 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Shaan_(1980_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, lyricist, billing position, budget, currency.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-094"
+    ],
+    "pairing_ids": [
+      "PAIR-054"
+    ]
+  },
+  {
+    "source_id": "SOURCE-079",
+    "title": "Kranti",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kranti",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-097"
+    ]
+  },
+  {
+    "source_id": "SOURCE-080",
+    "title": "Krodhi",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Krodhi",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, background score composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-098"
+    ],
+    "pairing_ids": [
+      "PAIR-057"
+    ]
+  },
+  {
+    "source_id": "SOURCE-081",
+    "title": "Kalyug (1981 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kalyug_(1981_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, source material, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-100"
+    ]
+  },
+  {
+    "source_id": "SOURCE-082",
+    "title": "Silsila (1981 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Silsila_(1981_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-101"
+    ],
+    "pairing_ids": [
+      "PAIR-058"
+    ]
+  },
+  {
+    "source_id": "SOURCE-083",
+    "title": "Baseraa",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Baseraa",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-095"
+    ],
+    "pairing_ids": [
+      "PAIR-055",
+      "PAIR-056"
+    ]
+  },
+  {
+    "source_id": "SOURCE-084",
+    "title": "Maan Gaye Ustaad",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Maan_Gaye_Ustaad",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, production banner, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-099"
+    ]
+  },
+  {
+    "source_id": "SOURCE-085",
+    "title": "Vakil Babu",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Vakil_Babu",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-104"
+    ],
+    "pairing_ids": [
+      "PAIR-061"
+    ]
+  },
+  {
+    "source_id": "SOURCE-086",
+    "title": "Vijeta (1982 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Vijeta_(1982_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, song composer, background score composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-103"
+    ],
+    "pairing_ids": [
+      "PAIR-060"
+    ]
+  },
+  {
+    "source_id": "SOURCE-087",
+    "title": "Namak Halaal",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Namak_Halaal",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-105"
+    ],
+    "pairing_ids": [
+      "PAIR-062"
+    ]
+  },
+  {
+    "source_id": "SOURCE-088",
+    "title": "Sawaal (film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sawaal_(film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-106"
+    ],
+    "pairing_ids": [
+      "PAIR-063"
+    ]
+  },
+  {
+    "source_id": "SOURCE-089",
+    "title": "Bezubaan",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bezubaan",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, production banner, writers, source material, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-102"
+    ],
+    "pairing_ids": [
+      "PAIR-059"
+    ]
+  },
+  {
+    "source_id": "SOURCE-090",
+    "title": "Heat and Dust (film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Heat_and_Dust_(film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, source material, song composer, billing position, budget, overseas gross, currency.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-109"
+    ],
+    "pairing_ids": [
+      "PAIR-066"
+    ]
+  },
+  {
+    "source_id": "SOURCE-091",
+    "title": "Door-Desh",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Door-Desh",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-110"
+    ],
+    "pairing_ids": [
+      "PAIR-067"
+    ]
+  },
+  {
+    "source_id": "SOURCE-092",
+    "title": "Bandhan Kuchchey Dhaagon Ka",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bandhan_Kuchchey_Dhaagon_Ka",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-108"
+    ],
+    "pairing_ids": [
+      "PAIR-064",
+      "PAIR-065"
+    ]
+  },
+  {
+    "source_id": "SOURCE-093",
+    "title": "Ghar Ek Mandir (film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ghar_Ek_Mandir_(film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-112"
+    ],
+    "pairing_ids": [
+      "PAIR-068"
+    ]
+  },
+  {
+    "source_id": "SOURCE-094",
+    "title": "Zameen Aasmaan (1984 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Zameen_Aasmaan_(1984_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, production banner, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-113"
+    ]
+  },
+  {
+    "source_id": "SOURCE-095",
+    "title": "Utsav",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Utsav",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, source material, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-114"
+    ]
+  },
+  {
+    "source_id": "SOURCE-096",
+    "title": "Pighalta Aasman",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pighalta_Aasman",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-115"
+    ],
+    "pairing_ids": [
+      "PAIR-069"
+    ]
+  },
+  {
+    "source_id": "SOURCE-097",
+    "title": "Aandhi-Toofan",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Aandhi-Toofan",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-116"
+    ],
+    "pairing_ids": [
+      "PAIR-070"
+    ]
+  },
+  {
+    "source_id": "SOURCE-098",
+    "title": "Bepanaah",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bepanaah",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-117"
+    ],
+    "pairing_ids": [
+      "PAIR-071"
+    ]
+  },
+  {
+    "source_id": "SOURCE-099",
+    "title": "Alag Alag",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Alag_Alag",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, source material, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-118"
+    ]
+  },
+  {
+    "source_id": "SOURCE-100",
+    "title": "Bhavani Junction",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bhavani_Junction",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-119"
+    ]
+  },
+  {
+    "source_id": "SOURCE-101",
+    "title": "Ilzaam",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ilzaam",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-123"
+    ]
+  },
+  {
+    "source_id": "SOURCE-102",
+    "title": "Swati (1986 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Swati_(1986_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, writers, source material, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-124"
+    ],
+    "pairing_ids": [
+      "PAIR-073"
+    ]
+  },
+  {
+    "source_id": "SOURCE-103",
+    "title": "Maa Beti",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Maa_Beti",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-125"
+    ]
+  },
+  {
+    "source_id": "SOURCE-104",
+    "title": "New Delhi Times",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/New_Delhi_Times",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-120"
+    ],
+    "pairing_ids": [
+      "PAIR-072"
+    ]
+  },
+  {
+    "source_id": "SOURCE-105",
+    "title": "Ek Main Aur Ek Tu (1986 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ek_Main_Aur_Ek_Tu_(1986_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-121"
+    ]
+  },
+  {
+    "source_id": "SOURCE-106",
+    "title": "Ijaazat",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ijaazat",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, source material, song composer, lyricist.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-131"
+    ]
+  },
+  {
+    "source_id": "SOURCE-107",
+    "title": "Sindoor (1987 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sindoor_(1987_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, source material, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-130"
+    ],
+    "pairing_ids": [
+      "PAIR-074"
+    ]
+  },
+  {
+    "source_id": "SOURCE-108",
+    "title": "Sammy and Rosie Get Laid",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sammy_and_Rosie_Get_Laid",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, billing position, budget, currency.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-132"
+    ]
+  },
+  {
+    "source_id": "SOURCE-109",
+    "title": "Pyar Ki Jeet (1987 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pyar_Ki_Jeet_(1987_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-129"
+    ]
+  },
+  {
+    "source_id": "SOURCE-110",
+    "title": "Naam O Nishan",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Naam_O_Nishan",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, writers, song composer, lyricist.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-128"
+    ]
+  },
+  {
+    "source_id": "SOURCE-111",
+    "title": "Commando (1988 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Commando_(1988_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, lyricist.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-134"
+    ]
+  },
+  {
+    "source_id": "SOURCE-112",
+    "title": "Hum To Chale Pardes",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hum_To_Chale_Pardes",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-135"
+    ],
+    "pairing_ids": [
+      "PAIR-075"
+    ]
+  },
+  {
+    "source_id": "SOURCE-113",
+    "title": "The Deceivers (film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Deceivers_(film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, source material, song composer, billing position, budget, currency.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-136"
+    ]
+  },
+  {
+    "source_id": "SOURCE-114",
+    "title": "Meri Zabaan",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Meri_Zabaan",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-140"
+    ]
+  },
+  {
+    "source_id": "SOURCE-115",
+    "title": "Farz Ki Jung",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Farz_Ki_Jung",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-141"
+    ]
+  },
+  {
+    "source_id": "SOURCE-116",
+    "title": "Gair Kanooni",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gair_Kanooni",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-142"
+    ]
+  },
+  {
+    "source_id": "SOURCE-117",
+    "title": "Clerk (1989 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Clerk_(1989_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-143"
+    ]
+  },
+  {
+    "source_id": "SOURCE-118",
+    "title": "Touhean",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Touhean",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, song composer.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-147"
+    ]
+  },
+  {
+    "source_id": "SOURCE-119",
+    "title": "Oonch Neech Beech",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Oonch_Neech_Beech",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, lyricist, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-144"
+    ],
+    "pairing_ids": [
+      "PAIR-076"
+    ]
+  },
+  {
+    "source_id": "SOURCE-120",
+    "title": "Akayla",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Akayla",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-146"
+    ]
+  },
+  {
+    "source_id": "SOURCE-121",
+    "title": "Raiszaada",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Raiszaada",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, director, producers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-145"
+    ]
+  },
+  {
+    "source_id": "SOURCE-122",
+    "title": "In Custody (film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/In_Custody_(film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, source material, song composer, billing position, budget, currency.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-148"
+    ]
+  },
+  {
+    "source_id": "SOURCE-123",
+    "title": "Jinnah (film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jinnah_(film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, lyricist, billing position, budget, currency.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-153"
+    ]
+  },
+  {
+    "source_id": "SOURCE-124",
+    "title": "Swami Vivekananda (1998 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Swami_Vivekananda_(1998_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, source material, song composer, background score composer, lyricist, billing position, budget, currency.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-152"
+    ]
+  },
+  {
+    "source_id": "SOURCE-125",
+    "title": "Side Streets (1998 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Side_Streets_(1998_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, writers, song composer, billing position.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-154"
+    ]
+  },
+  {
+    "source_id": "SOURCE-126",
+    "title": "Ghar Bazar",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ghar_Bazar",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, song composer.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-151"
+    ]
+  },
+  {
+    "source_id": "SOURCE-127",
+    "title": "Samadhi (1950 film)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Samadhi_(1950_film)",
+    "access_date": "2026-09-21",
+    "claims": "Infobox: release date, language, runtime, director, producers, production banner, writers, song composer, lyricist.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Film article; downloaded as raw wikitext.",
+    "film_ids": [
+      "FILM-003"
+    ]
+  },
+  {
+    "source_id": "SOURCE-128",
+    "title": "Shashi Kapoor",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Shashi_Kapoor",
+    "access_date": "2026-09-21",
+    "claims": "Career chronology and box-office verdicts for 1961-1973, the child-actor credits and their billing as Shashiraj, the English-language filmography, and the 1965 BFJA Best Actor award for Jab Jab Phool Khile.",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "notes": "Biographical article, downloaded as raw wikitext. Its career section is the only located source giving hit/flop verdicts for several 1960s films whose own articles omit commercial data; those verdicts are recorded as the article states them, without independent trade corroboration.",
+    "film_ids": [
+      "FILM-001",
+      "FILM-002",
+      "FILM-003",
+      "FILM-004",
+      "FILM-005",
+      "FILM-006",
+      "FILM-007",
+      "FILM-008",
+      "FILM-010",
+      "FILM-011",
+      "FILM-014",
+      "FILM-015",
+      "FILM-017",
+      "FILM-018",
+      "FILM-019",
+      "FILM-020",
+      "FILM-022",
+      "FILM-023",
+      "FILM-024",
+      "FILM-025",
+      "FILM-026",
+      "FILM-028",
+      "FILM-029",
+      "FILM-030",
+      "FILM-048",
+      "FILM-049",
+      "FILM-050",
+      "FILM-051",
+      "FILM-052",
+      "FILM-053",
+      "FILM-054",
+      "FILM-055",
+      "FILM-059",
+      "FILM-060",
+      "FILM-061",
+      "FILM-062",
+      "FILM-063",
+      "FILM-064",
+      "FILM-065",
+      "FILM-066",
+      "FILM-067",
+      "FILM-068",
+      "FILM-072",
+      "FILM-074",
+      "FILM-075",
+      "FILM-076",
+      "FILM-077",
+      "FILM-078",
+      "FILM-084",
+      "FILM-085",
+      "FILM-087",
+      "FILM-088",
+      "FILM-092",
+      "FILM-093",
+      "FILM-094",
+      "FILM-097",
+      "FILM-099",
+      "FILM-101",
+      "FILM-102",
+      "FILM-103",
+      "FILM-104",
+      "FILM-105",
+      "FILM-106",
+      "FILM-108",
+      "FILM-110",
+      "FILM-112",
+      "FILM-114",
+      "FILM-116",
+      "FILM-118",
+      "FILM-120",
+      "FILM-123",
+      "FILM-130",
+      "FILM-131",
+      "FILM-141",
+      "FILM-142",
+      "FILM-143",
+      "FILM-151"
+    ],
+    "pairing_ids": [
+      "PAIR-006"
+    ]
+  }
+]

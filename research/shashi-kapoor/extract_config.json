@@ -1,0 +1,59 @@
+{
+  "_about": "Scope decisions for .claude/skills/bollywood-actor-filmography/scripts/extract_wiki.py films. Not read by build_workbook.py. Keys are Title|Year exactly as the Wikipedia filmography table gives them.",
+  "_rerun_warning": "The filmography table mis-links two titles to actor biographies: Swayamvar|1980 points at [[Moushmi Chatterjee]] and Ek Aur Ek Gyaarah|1981 at [[Vinod Khanna]]. extract_wiki.py has no way to reject a non-film target, so after any fresh `fetch` their entries in WORK/table.json and WORK/pages.json must be set to null again, or `films` will attach an actor biography to those rows as a film source.",
+  "exclude": {
+    "Jise Tu Kabool Kar Le|1980": "Listed in the Wikipedia filmography as unreleased.",
+    "Ek Do Teen Chaar|1980": "Listed in the Wikipedia filmography as unreleased.",
+    "Pyar To Hona Hi Tha|1981": "Listed in the Wikipedia filmography as unreleased.",
+    "Do Guru|1982": "Listed in the Wikipedia filmography as unreleased.",
+    "Chakma|1984": "Listed in the Wikipedia filmography as unreleased.",
+    "Bandh Honth|1984": "Listed in the Wikipedia filmography as unreleased.",
+    "Apna Ghar|1989": "Listed in the Wikipedia filmography as unreleased."
+  },
+  "add": [
+    {
+      "year": 1950,
+      "title": "Samadhi",
+      "target": "Samadhi (1950 film)",
+      "role": "Pratap",
+      "notes": "Child artist"
+    }
+  ],
+  "overrides": {
+    "Aag|1948": {"role_type": "Child role", "song_composer": "Ram Ganguly"},
+    "Sangram|1950": {"role_type": "Child role"},
+    "Samadhi|1950": {"role_type": "Child role"},
+    "Awaara|1951": {"role_type": "Child role"},
+    "Daana Paani|1953": {"role_type": "Child role"},
+    "Chori Chori|1972": {"role_type": "Self appearance", "character": "Himself"},
+    "Aurat|1986": {"role_type": "Self appearance", "character": "Himself"},
+    "Ghar Ka Sukh|1987": {"role_type": "Self appearance", "character": "Himself"},
+    "Woh Mili Thi|1988": {"role_type": "Self appearance", "character": "Himself"},
+    "Bandook Dahej Ke Seenay Par|1989": {"role_type": "Self appearance", "character": "Himself"},
+    "Jab Se Tumhen Dekha Hai|1963": {"role_type": "Cameo"},
+    "Jinnah|1998": {"role_type": "Narrator"},
+    "Anari|1975": {"source_material": "Remake of the 1964 Bengali film Ayananta."},
+    "Rootha Na Karo|1970": {"release_date": "1970"},
+    "Swami Vivekananda|1998": {
+      "song_composer": "Salil Chowdhury",
+      "background_score_composer": "Vijaya Bhaskar (Hindi); B. V. Karanth (English)",
+      "lyricist": "Swami Vivekananda (Bengali); Gulzar (Hindi translation)"
+    }
+  },
+  "notes": {
+    "Samadhi|1950": "Not listed in the Wikipedia filmography table, which gives four child-artist credits; added because the Shashi Kapoor article's career section names Samadhi (1950) among his child-artist films and the film article casts him as Pratap, the young brother of Ashok Kumar's Shekhar. The same article's early-life section says he worked in four Hindi films as a child actor, which conflicts; with Samadhi the count is five.",
+    "Aag|1948": "Played the young Kewal Khanna, the child version of Raj Kapoor's character, billed as Shashiraj. The infobox credits Ram Ganguly for music with Kamal Gangoli as assistant; only Ganguly is entered as composer.",
+    "Awaara|1951": "Played the young Raj, the child version of Raj Kapoor's character.",
+    "Sangram|1950": "Played the child version of Ashok Kumar's character.",
+    "Jahan Pyar Mile|1969": "The filmography table lists 1969; the film article, titled Jahan Pyar Miley, gives a release date of 30 October 1970 and calls it a 1970 film.",
+    "Rootha Na Karo|1970": "The film article's infobox gives 31 December 1969 while its opening sentence and the filmography table both call it a 1970 film; the year is kept as 1970 and the infobox date recorded here.",
+    "Touhean|1989": "The filmography table lists 1989; the film was completed in 1987 but held from release until 20 November 1992, and the article calls it a 1992 film.",
+    "In Custody|1994": "Released in Hindi and Urdu as Muhafiz. The infobox's first date, October 1993, is the Tokyo Film Festival premiere rather than a theatrical release; New York followed on 14 May 1994 and London on 3 June 1994. The film is conventionally dated 1993 and won its National Film Award Special Jury recognition for 1993.",
+    "Swayamvar|1980": "The filmography table links this title to the biography of Moushumi Chatterjee rather than to a film article, which is an error on Wikipedia's side.",
+    "Ek Aur Ek Gyaarah|1981": "The filmography table links this title to the biography of Vinod Khanna rather than to a film article, which is an error on Wikipedia's side. The 2003 David Dhawan film Ek Aur Ek Gyarah is a different film.",
+    "Oonch Neech Beech|1989": "The filmography table marks the release as delayed.",
+    "Ghar Bazar|1998": "The filmography table marks the release as delayed; the Shashi Kapoor article calls it the last film in which he appeared.",
+    "Utsav|1984": "Produced by Kapoor and shot simultaneously in Hindi and English, with the English version's post-production done in London.",
+    "Suhaag|1979": "The filmography table notes that Kapoor also sang the playback for \"Main To Beghar Hoon\"."
+  }
+}
