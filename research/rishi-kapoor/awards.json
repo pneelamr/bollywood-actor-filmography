@@ -1,1 +1,4866 @@
-[]
+[
+ {
+  "award_id": "AWARD-001",
+  "film_id": "FILM-001",
+  "ceremony_year": 1956,
+  "organization": "National Film Awards",
+  "category": "Certificate of Merit for the Second Best Feature Film in Hindi",
+  "recipient": "Raj Kapoor",
+  "recipient_type": "Producer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "3rd National Film Awards, presented at Vigyan Bhavan, New Delhi in September 1956, for films of 1955. Kapoor appears in the film only as a toddler walking through the song 'Pyar Hua Iqrar Hua'.",
+  "source_ids": [
+   "SOURCE-002",
+   "SOURCE-430"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-002",
+  "film_id": "FILM-001",
+  "ceremony_year": 1957,
+  "organization": "Filmfare Awards",
+  "category": "Best Editing",
+  "recipient": "G. G. Mayekar",
+  "recipient_type": "Editor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "4th Filmfare Awards, held 5 May 1957. The ceremony nominally honoured 1956 films but, as its own article records, most of the main awards went to 1955 releases, Shree 420 among them; the film's Wikipedia article dates these two awards 1956 instead.",
+  "source_ids": [
+   "SOURCE-002",
+   "SOURCE-431"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-003",
+  "film_id": "FILM-001",
+  "ceremony_year": 1957,
+  "organization": "Filmfare Awards",
+  "category": "Best Cinematography",
+  "recipient": "Radhu Karmakar",
+  "recipient_type": "Cinematographer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "4th Filmfare Awards. Shree 420 took 2 nominations at the ceremony and won both.",
+  "source_ids": [
+   "SOURCE-002",
+   "SOURCE-431"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-004",
+  "film_id": "FILM-002",
+  "ceremony_year": 1971,
+  "organization": "National Film Awards",
+  "category": "Best Child Artist",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "18th National Film Awards, held in Chennai in November 1971, for films of 1970. The first award of Kapoor's career, for his credited debut as the adolescent Raju. His own article's accolade list dates it 1970, by film year rather than ceremony.",
+  "source_ids": [
+   "SOURCE-003",
+   "SOURCE-240",
+   "SOURCE-432"
+  ],
+  "confidence": "High"
+ },
+ {
+  "award_id": "AWARD-005",
+  "film_id": "FILM-002",
+  "ceremony_year": 1971,
+  "organization": "National Film Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "Manna Dey",
+  "recipient_type": "Playback singer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "For \"Ae Bhai Zara Dekh Ke Chalo\". 18th National Film Awards.",
+  "source_ids": [
+   "SOURCE-003",
+   "SOURCE-432"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-006",
+  "film_id": "FILM-002",
+  "ceremony_year": 1971,
+  "organization": "National Film Awards",
+  "category": "Best Cinematography (Colour)",
+  "recipient": "Radhu Karmakar",
+  "recipient_type": "Cinematographer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "18th National Film Awards. Mera Naam Joker was one of three films to take three awards at the ceremony.",
+  "source_ids": [
+   "SOURCE-003",
+   "SOURCE-432"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-007",
+  "film_id": "FILM-002",
+  "ceremony_year": 1971,
+  "organization": "Bengal Film Journalists' Association Awards",
+  "category": "Special Award",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Honorary",
+  "notes": "Kapoor's article lists this as 1970, by film year; the BFJA page it cites is the 1971 ceremony. Recorded here by ceremony year, consistent with the National Film Award for the same performance.",
+  "source_ids": [
+   "SOURCE-240"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-008",
+  "film_id": "FILM-002",
+  "ceremony_year": 1972,
+  "organization": "Filmfare Awards",
+  "category": "Best Director",
+  "recipient": "Raj Kapoor",
+  "recipient_type": "Director",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "19th Filmfare Awards, held 1972 for films of 1971. Mera Naam Joker won 5 of its 7 nominations, second only to Anand.",
+  "source_ids": [
+   "SOURCE-003",
+   "SOURCE-433"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-009",
+  "film_id": "FILM-002",
+  "ceremony_year": 1972,
+  "organization": "Filmfare Awards",
+  "category": "Best Music Director",
+  "recipient": "Shankar–Jaikishan",
+  "recipient_type": "Music director",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-003",
+   "SOURCE-433"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-010",
+  "film_id": "FILM-002",
+  "ceremony_year": 1972,
+  "organization": "Filmfare Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "Manna Dey",
+  "recipient_type": "Playback singer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "For \"Ae Bhai Zara Dekh Ke Chalo\"; the same performance also took the National Film Award.",
+  "source_ids": [
+   "SOURCE-003",
+   "SOURCE-433"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-011",
+  "film_id": "FILM-002",
+  "ceremony_year": 1972,
+  "organization": "Filmfare Awards",
+  "category": "Best Cinematography",
+  "recipient": "Radhu Karmakar",
+  "recipient_type": "Cinematographer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-003",
+   "SOURCE-433"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-012",
+  "film_id": "FILM-002",
+  "ceremony_year": 1972,
+  "organization": "Filmfare Awards",
+  "category": "Best Sound Design",
+  "recipient": "Allauddin Khan Qureshi",
+  "recipient_type": "Technician",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-003",
+   "SOURCE-433"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-013",
+  "film_id": "FILM-002",
+  "ceremony_year": 1972,
+  "organization": "Filmfare Awards",
+  "category": "Best Film",
+  "recipient": "Raj Kapoor",
+  "recipient_type": "Producer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "Lost to Anand.",
+  "source_ids": [
+   "SOURCE-003",
+   "SOURCE-433"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-014",
+  "film_id": "FILM-002",
+  "ceremony_year": 1972,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Gopaldas Neeraj",
+  "recipient_type": "Lyricist",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Ae Bhai Zara Dekh Ke Chalo\".",
+  "source_ids": [
+   "SOURCE-003",
+   "SOURCE-433"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-015",
+  "film_id": "FILM-003",
+  "ceremony_year": 1974,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "21st Filmfare Awards, held 11 April 1974. The only Filmfare Best Actor award of Kapoor's career and the award that fixed his romantic-hero standing at 21. Bobby led the ceremony with 14 nominations and won 5, the most of any film that year.",
+  "source_ids": [
+   "SOURCE-004",
+   "SOURCE-240",
+   "SOURCE-434"
+  ],
+  "confidence": "High"
+ },
+ {
+  "award_id": "AWARD-016",
+  "film_id": "FILM-003",
+  "ceremony_year": 1974,
+  "organization": "Filmfare Awards",
+  "category": "Best Actress",
+  "recipient": "Dimple Kapadia",
+  "recipient_type": "Actress",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "Tied with Jaya Bhaduri for Abhimaan, the first tie for an acting award in Filmfare history. Kapadia's debut, opposite Kapoor's.",
+  "source_ids": [
+   "SOURCE-004",
+   "SOURCE-434"
+  ],
+  "confidence": "High"
+ },
+ {
+  "award_id": "AWARD-017",
+  "film_id": "FILM-003",
+  "ceremony_year": 1974,
+  "organization": "Filmfare Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "Narendra Chanchal",
+  "recipient_type": "Playback singer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "For \"Beshak Mandir Masjid\".",
+  "source_ids": [
+   "SOURCE-004",
+   "SOURCE-434"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-018",
+  "film_id": "FILM-003",
+  "ceremony_year": 1974,
+  "organization": "Filmfare Awards",
+  "category": "Best Art Direction",
+  "recipient": "A. Rangaraj",
+  "recipient_type": "Technician",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-004",
+   "SOURCE-434"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-019",
+  "film_id": "FILM-003",
+  "ceremony_year": 1974,
+  "organization": "Filmfare Awards",
+  "category": "Best Sound Design",
+  "recipient": "Allauddin Khan Qureshi",
+  "recipient_type": "Technician",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-004",
+   "SOURCE-434"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-020",
+  "film_id": "FILM-003",
+  "ceremony_year": 1974,
+  "organization": "Filmfare Awards",
+  "category": "Best Film",
+  "recipient": "Raj Kapoor",
+  "recipient_type": "Producer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "Lost to Anuraag, which won Best Film without winning anything else.",
+  "source_ids": [
+   "SOURCE-004",
+   "SOURCE-434"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-021",
+  "film_id": "FILM-003",
+  "ceremony_year": 1974,
+  "organization": "Filmfare Awards",
+  "category": "Best Director",
+  "recipient": "Raj Kapoor",
+  "recipient_type": "Director",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-004",
+   "SOURCE-434"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-022",
+  "film_id": "FILM-003",
+  "ceremony_year": 1974,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Prem Nath",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "As Bobby's father Jack Braganza, the source of the film's external opposition.",
+  "source_ids": [
+   "SOURCE-004",
+   "SOURCE-434"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-023",
+  "film_id": "FILM-003",
+  "ceremony_year": 1974,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actress",
+  "recipient": "Aruna Irani",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-004",
+   "SOURCE-434"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-024",
+  "film_id": "FILM-003",
+  "ceremony_year": 1974,
+  "organization": "Filmfare Awards",
+  "category": "Best Music Director",
+  "recipient": "Laxmikant–Pyarelal",
+  "recipient_type": "Music director",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-004",
+   "SOURCE-434"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-025",
+  "film_id": "FILM-003",
+  "ceremony_year": 1974,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Anand Bakshi",
+  "recipient_type": "Lyricist",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Hum Tum Ek Kamre Mein Band Ho\", the film's central romantic song. One of three Best Lyricist nominations Bobby received.",
+  "source_ids": [
+   "SOURCE-004",
+   "SOURCE-434"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-026",
+  "film_id": "FILM-003",
+  "ceremony_year": 1974,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Anand Bakshi",
+  "recipient_type": "Lyricist",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Main Shayar To Nahin\".",
+  "source_ids": [
+   "SOURCE-004",
+   "SOURCE-434"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-027",
+  "film_id": "FILM-003",
+  "ceremony_year": 1974,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Vitthalbhai Patel",
+  "recipient_type": "Lyricist",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Jhoot Bole Kauwa Kaate\".",
+  "source_ids": [
+   "SOURCE-004",
+   "SOURCE-434"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-028",
+  "film_id": "FILM-003",
+  "ceremony_year": 1974,
+  "organization": "Filmfare Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "Shailendra Singh",
+  "recipient_type": "Playback singer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Main Shayar To Nahin\". Singh was Kapoor's playback voice here and across much of his early career.",
+  "source_ids": [
+   "SOURCE-004",
+   "SOURCE-434"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-029",
+  "film_id": "FILM-006",
+  "ceremony_year": 1976,
+  "organization": "Filmfare Awards",
+  "category": "Best Music Director",
+  "recipient": "R. D. Burman",
+  "recipient_type": "Music director",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "23rd Filmfare Awards, held in Bombay on 30 March 1976.",
+  "source_ids": [
+   "SOURCE-006",
+   "SOURCE-435"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-030",
+  "film_id": "FILM-006",
+  "ceremony_year": 1976,
+  "organization": "Filmfare Awards",
+  "category": "Best Female Playback Singer",
+  "recipient": "Asha Bhosle",
+  "recipient_type": "Playback singer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Sapna Mera Toot Gaya\".",
+  "source_ids": [
+   "SOURCE-006",
+   "SOURCE-435"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-031",
+  "film_id": "FILM-007",
+  "ceremony_year": 1976,
+  "organization": "Filmfare Awards",
+  "category": "Best Performance in a Comic Role",
+  "recipient": "Asrani",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "23rd Filmfare Awards.",
+  "source_ids": [
+   "SOURCE-007",
+   "SOURCE-435"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-032",
+  "film_id": "FILM-009",
+  "ceremony_year": 1977,
+  "organization": "Filmfare Awards",
+  "category": "Best Music Director",
+  "recipient": "Khayyam",
+  "recipient_type": "Music director",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "24th Filmfare Awards, held in Bombay on 20 June 1977. Kapoor plays the supporting role in an ensemble led by Amitabh Bachchan and Raakhee.",
+  "source_ids": [
+   "SOURCE-010",
+   "SOURCE-436"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-033",
+  "film_id": "FILM-009",
+  "ceremony_year": 1977,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Sahir Ludhianvi",
+  "recipient_type": "Lyricist",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "For \"Kabhi Kabhie Mere Dil Mein\".",
+  "source_ids": [
+   "SOURCE-010",
+   "SOURCE-436"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-034",
+  "film_id": "FILM-009",
+  "ceremony_year": 1977,
+  "organization": "Filmfare Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "Mukesh",
+  "recipient_type": "Playback singer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "For \"Kabhi Kabhie Mere Dil Mein\".",
+  "source_ids": [
+   "SOURCE-010",
+   "SOURCE-436"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-035",
+  "film_id": "FILM-009",
+  "ceremony_year": 1977,
+  "organization": "Filmfare Awards",
+  "category": "Best Dialogue",
+  "recipient": "Sagar Sarhadi",
+  "recipient_type": "Writer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-010",
+   "SOURCE-436"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-036",
+  "film_id": "FILM-009",
+  "ceremony_year": 1977,
+  "organization": "Filmfare Awards",
+  "category": "Best Film",
+  "recipient": "Yash Chopra",
+  "recipient_type": "Producer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-010",
+   "SOURCE-436"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-037",
+  "film_id": "FILM-009",
+  "ceremony_year": 1977,
+  "organization": "Filmfare Awards",
+  "category": "Best Director",
+  "recipient": "Yash Chopra",
+  "recipient_type": "Director",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-010",
+   "SOURCE-436"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-038",
+  "film_id": "FILM-009",
+  "ceremony_year": 1977,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-010",
+   "SOURCE-436"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-039",
+  "film_id": "FILM-009",
+  "ceremony_year": 1977,
+  "organization": "Filmfare Awards",
+  "category": "Best Actress",
+  "recipient": "Raakhee",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-010",
+   "SOURCE-436"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-040",
+  "film_id": "FILM-009",
+  "ceremony_year": 1977,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Shashi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "Kapoor's uncle, in one of the four films the two appear in together.",
+  "source_ids": [
+   "SOURCE-010",
+   "SOURCE-436"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-041",
+  "film_id": "FILM-009",
+  "ceremony_year": 1977,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actress",
+  "recipient": "Waheeda Rehman",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-010",
+   "SOURCE-436"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-042",
+  "film_id": "FILM-009",
+  "ceremony_year": 1977,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Sahir Ludhianvi",
+  "recipient_type": "Lyricist",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Main Pal Do Pal Ka Shayar Hoon\".",
+  "source_ids": [
+   "SOURCE-010",
+   "SOURCE-436"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-043",
+  "film_id": "FILM-009",
+  "ceremony_year": 1977,
+  "organization": "Filmfare Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "Mukesh",
+  "recipient_type": "Playback singer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Main Pal Do Pal Ka Shayar Hoon\".",
+  "source_ids": [
+   "SOURCE-010",
+   "SOURCE-436"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-044",
+  "film_id": "FILM-009",
+  "ceremony_year": 1977,
+  "organization": "Filmfare Awards",
+  "category": "Best Story",
+  "recipient": "Pamela Chopra",
+  "recipient_type": "Writer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-010",
+   "SOURCE-436"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-045",
+  "film_id": "FILM-010",
+  "ceremony_year": 1977,
+  "organization": "Filmfare Awards",
+  "category": "Best Female Playback Singer",
+  "recipient": "Asha Bhosle",
+  "recipient_type": "Playback singer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"I Love You\". 24th Filmfare Awards; lost to Hemlata for Chitchor.",
+  "source_ids": [
+   "SOURCE-014",
+   "SOURCE-436"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-046",
+  "film_id": "FILM-014",
+  "ceremony_year": 1978,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Amitabh Bachchan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "25th Filmfare Awards, held in Bombay in 1978. Amar Akbar Anthony and Hum Kisise Kum Naheen, both Kapoor films, led the ceremony with 7 nominations each and won 3 apiece.",
+  "source_ids": [
+   "SOURCE-015",
+   "SOURCE-437"
+  ],
+  "confidence": "High"
+ },
+ {
+  "award_id": "AWARD-047",
+  "film_id": "FILM-014",
+  "ceremony_year": 1978,
+  "organization": "Filmfare Awards",
+  "category": "Best Music Director",
+  "recipient": "Laxmikant–Pyarelal",
+  "recipient_type": "Music director",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-015",
+   "SOURCE-437"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-048",
+  "film_id": "FILM-014",
+  "ceremony_year": 1978,
+  "organization": "Filmfare Awards",
+  "category": "Best Editing",
+  "recipient": "Kamlakar Karkhanis",
+  "recipient_type": "Editor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-015",
+   "SOURCE-437"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-049",
+  "film_id": "FILM-014",
+  "ceremony_year": 1978,
+  "organization": "Filmfare Awards",
+  "category": "Best Film",
+  "recipient": "Manmohan Desai",
+  "recipient_type": "Producer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "Lost to Shyam Benegal's Bhumika.",
+  "source_ids": [
+   "SOURCE-015",
+   "SOURCE-437"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-050",
+  "film_id": "FILM-014",
+  "ceremony_year": 1978,
+  "organization": "Filmfare Awards",
+  "category": "Best Director",
+  "recipient": "Manmohan Desai",
+  "recipient_type": "Director",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-015",
+   "SOURCE-437"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-051",
+  "film_id": "FILM-014",
+  "ceremony_year": 1978,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Anand Bakshi",
+  "recipient_type": "Lyricist",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Parda Hai Parda\", the qawwali staged on Kapoor as Akbar.",
+  "source_ids": [
+   "SOURCE-015",
+   "SOURCE-437"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-052",
+  "film_id": "FILM-014",
+  "ceremony_year": 1978,
+  "organization": "Filmfare Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "Mohammed Rafi",
+  "recipient_type": "Playback singer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Parda Hai Parda\", sung for Kapoor; Rafi won the category the same night for another Kapoor film, Hum Kisise Kum Naheen.",
+  "source_ids": [
+   "SOURCE-015",
+   "SOURCE-437"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-053",
+  "film_id": "FILM-015",
+  "ceremony_year": 1978,
+  "organization": "National Film Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "Mohammed Rafi",
+  "recipient_type": "Playback singer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "For \"Kya Hua Tera Vaada\". 25th National Film Awards, presented 27 April 1978.",
+  "source_ids": [
+   "SOURCE-016",
+   "SOURCE-438"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-054",
+  "film_id": "FILM-015",
+  "ceremony_year": 1978,
+  "organization": "Filmfare Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "Mohammed Rafi",
+  "recipient_type": "Playback singer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "For \"Kya Hua Tera Vaada\", sung for Kapoor; the same performance took the National Film Award that year. 25th Filmfare Awards.",
+  "source_ids": [
+   "SOURCE-016",
+   "SOURCE-437"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-055",
+  "film_id": "FILM-015",
+  "ceremony_year": 1978,
+  "organization": "Filmfare Awards",
+  "category": "Best Cinematography",
+  "recipient": "Munir Khan",
+  "recipient_type": "Cinematographer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-016",
+   "SOURCE-437"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-056",
+  "film_id": "FILM-015",
+  "ceremony_year": 1978,
+  "organization": "Filmfare Awards",
+  "category": "Best Art Direction",
+  "recipient": "Shanti Das",
+  "recipient_type": "Technician",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-016",
+   "SOURCE-437"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-057",
+  "film_id": "FILM-015",
+  "ceremony_year": 1978,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Tariq",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-016",
+   "SOURCE-437"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-058",
+  "film_id": "FILM-015",
+  "ceremony_year": 1978,
+  "organization": "Filmfare Awards",
+  "category": "Best Music Director",
+  "recipient": "R. D. Burman",
+  "recipient_type": "Music director",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-016",
+   "SOURCE-437"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-059",
+  "film_id": "FILM-015",
+  "ceremony_year": 1978,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Majrooh Sultanpuri",
+  "recipient_type": "Lyricist",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Kya Hua Tera Vaada\".",
+  "source_ids": [
+   "SOURCE-016",
+   "SOURCE-437"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-060",
+  "film_id": "FILM-015",
+  "ceremony_year": 1978,
+  "organization": "Filmfare Awards",
+  "category": "Best Female Playback Singer",
+  "recipient": "Sushma Shrestha",
+  "recipient_type": "Playback singer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Kya Hua Tera Vaada\".",
+  "source_ids": [
+   "SOURCE-016",
+   "SOURCE-437"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-061",
+  "film_id": "FILM-016",
+  "ceremony_year": 1978,
+  "organization": "Filmfare Awards",
+  "category": "Best Actress",
+  "recipient": "Raakhee",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "25th Filmfare Awards. Raakhee was nominated twice for this film, in the lead and supporting categories, for the older woman Kapoor's character leaves his marriage for.",
+  "source_ids": [
+   "SOURCE-017",
+   "SOURCE-437"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-062",
+  "film_id": "FILM-016",
+  "ceremony_year": 1978,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actress",
+  "recipient": "Raakhee",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "Her second nomination for the same performance, in the supporting category.",
+  "source_ids": [
+   "SOURCE-017",
+   "SOURCE-437"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-063",
+  "film_id": "FILM-016",
+  "ceremony_year": 1978,
+  "organization": "Filmfare Awards",
+  "category": "Best Performance in a Comic Role",
+  "recipient": "Deven Verma",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-017",
+   "SOURCE-437"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-064",
+  "film_id": "FILM-016",
+  "ceremony_year": 1978,
+  "organization": "Filmfare Awards",
+  "category": "Best Story",
+  "recipient": "Raju Saigal",
+  "recipient_type": "Writer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-017",
+   "SOURCE-437"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-065",
+  "film_id": "FILM-017",
+  "ceremony_year": 1978,
+  "organization": "Filmfare Awards",
+  "category": "Best Performance in a Comic Role",
+  "recipient": "Paintal",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "25th Filmfare Awards. Kapoor appears as himself in Asrani's film about an aspiring actor.",
+  "source_ids": [
+   "SOURCE-018",
+   "SOURCE-437"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-066",
+  "film_id": "FILM-017",
+  "ceremony_year": 1978,
+  "organization": "Filmfare Awards",
+  "category": "Best Director",
+  "recipient": "Asrani",
+  "recipient_type": "Director",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-018",
+   "SOURCE-437"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-067",
+  "film_id": "FILM-017",
+  "ceremony_year": 1978,
+  "organization": "Filmfare Awards",
+  "category": "Best Story",
+  "recipient": "Asrani",
+  "recipient_type": "Writer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-018",
+   "SOURCE-437"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-068",
+  "film_id": "FILM-020",
+  "ceremony_year": 1979,
+  "organization": "Filmfare Awards",
+  "category": "Best Screenplay",
+  "recipient": "Kamleshwar",
+  "recipient_type": "Writer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "26th Filmfare Awards, held 6 April 1979. Kapoor appears in an extended special appearance.",
+  "source_ids": [
+   "SOURCE-022",
+   "SOURCE-439"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-069",
+  "film_id": "FILM-020",
+  "ceremony_year": 1979,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Sanjeev Kumar",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "One of Kumar's two Best Actor nominations that year; both lost to Amitabh Bachchan.",
+  "source_ids": [
+   "SOURCE-022",
+   "SOURCE-439"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-070",
+  "film_id": "FILM-020",
+  "ceremony_year": 1979,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actress",
+  "recipient": "Ranjeeta Kaur",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-022",
+   "SOURCE-439"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-071",
+  "film_id": "FILM-020",
+  "ceremony_year": 1979,
+  "organization": "Filmfare Awards",
+  "category": "Best Performance in a Comic Role",
+  "recipient": "Asrani",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "Recorded in the ceremony article rather than the film's own award table.",
+  "source_ids": [
+   "SOURCE-439"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-072",
+  "film_id": "FILM-022",
+  "ceremony_year": 1979,
+  "organization": "Filmfare Awards",
+  "category": "Best Editing",
+  "recipient": "B. Prasad",
+  "recipient_type": "Editor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "26th Filmfare Awards.",
+  "source_ids": [
+   "SOURCE-020",
+   "SOURCE-439"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-073",
+  "film_id": "FILM-023",
+  "ceremony_year": 1980,
+  "organization": "Filmfare Awards",
+  "category": "Best Music Director",
+  "recipient": "Laxmikant–Pyarelal",
+  "recipient_type": "Music director",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "27th Filmfare Awards, held in Bombay in 1980. Sargam took 7 nominations and won this one.",
+  "source_ids": [
+   "SOURCE-024",
+   "SOURCE-440"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-074",
+  "film_id": "FILM-023",
+  "ceremony_year": 1980,
+  "organization": "Filmfare Awards",
+  "category": "Best Film",
+  "recipient": "N. N. Sippy",
+  "recipient_type": "Producer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-024",
+   "SOURCE-440"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-075",
+  "film_id": "FILM-023",
+  "ceremony_year": 1980,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "His second Best Actor nomination, as the mute dafli player; one of five Filmfare acting nominations he received without winning.",
+  "source_ids": [
+   "SOURCE-024",
+   "SOURCE-440"
+  ],
+  "confidence": "High"
+ },
+ {
+  "award_id": "AWARD-076",
+  "film_id": "FILM-023",
+  "ceremony_year": 1980,
+  "organization": "Filmfare Awards",
+  "category": "Best Actress",
+  "recipient": "Jaya Prada",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "Her Hindi debut, opposite Kapoor.",
+  "source_ids": [
+   "SOURCE-024",
+   "SOURCE-440"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-077",
+  "film_id": "FILM-023",
+  "ceremony_year": 1980,
+  "organization": "Filmfare Awards",
+  "category": "Best Performance in a Comic Role",
+  "recipient": "Asrani",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-024",
+   "SOURCE-440"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-078",
+  "film_id": "FILM-023",
+  "ceremony_year": 1980,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Anand Bakshi",
+  "recipient_type": "Lyricist",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Dafliwale\".",
+  "source_ids": [
+   "SOURCE-024",
+   "SOURCE-440"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-079",
+  "film_id": "FILM-023",
+  "ceremony_year": 1980,
+  "organization": "Filmfare Awards",
+  "category": "Best Story",
+  "recipient": "K. Viswanath",
+  "recipient_type": "Writer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-024",
+   "SOURCE-440"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-080",
+  "film_id": "FILM-023",
+  "ceremony_year": 1981,
+  "organization": "Filmfare Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "Mohammed Rafi",
+  "recipient_type": "Playback singer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Dafliwale Dafli Baja\". Listed at the 28th Filmfare Awards (1981) although Sargam is a 1979 release whose other seven nominations came at the 27th; the film's own article does not record this nomination. Year and placement are therefore uncertain.",
+  "source_ids": [
+   "SOURCE-441"
+  ],
+  "confidence": "Low"
+ },
+ {
+  "award_id": "AWARD-081",
+  "film_id": "FILM-031",
+  "ceremony_year": 1981,
+  "organization": "Filmfare Awards",
+  "category": "Best Music Director",
+  "recipient": "Laxmikant–Pyarelal",
+  "recipient_type": "Music director",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "28th Filmfare Awards, held in Bombay in 1981. Karz took 6 nominations and won this one; its score, and \"Om Shanti Om\" in particular, became the film's lasting legacy.",
+  "source_ids": [
+   "SOURCE-031",
+   "SOURCE-441"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-082",
+  "film_id": "FILM-031",
+  "ceremony_year": 1981,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actress",
+  "recipient": "Simi Garewal",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "As Kamini, the wife who murders Kapoor's character in his previous life.",
+  "source_ids": [
+   "SOURCE-031",
+   "SOURCE-441"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-083",
+  "film_id": "FILM-031",
+  "ceremony_year": 1981,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Anand Bakshi",
+  "recipient_type": "Lyricist",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Dard-E-Dil\".",
+  "source_ids": [
+   "SOURCE-031",
+   "SOURCE-441"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-084",
+  "film_id": "FILM-031",
+  "ceremony_year": 1981,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Anand Bakshi",
+  "recipient_type": "Lyricist",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Om Shanti Om\". Farah Khan's 2007 film takes its title from this song, and Kapoor appears as himself in it.",
+  "source_ids": [
+   "SOURCE-031",
+   "SOURCE-441"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-085",
+  "film_id": "FILM-031",
+  "ceremony_year": 1981,
+  "organization": "Filmfare Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "Kishore Kumar",
+  "recipient_type": "Playback singer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Om Shanti Om\".",
+  "source_ids": [
+   "SOURCE-031",
+   "SOURCE-441"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-086",
+  "film_id": "FILM-031",
+  "ceremony_year": 1981,
+  "organization": "Filmfare Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "Mohammed Rafi",
+  "recipient_type": "Playback singer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Dard-E-Dil\".",
+  "source_ids": [
+   "SOURCE-031",
+   "SOURCE-441"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-087",
+  "film_id": "FILM-032",
+  "ceremony_year": 1982,
+  "organization": "Filmfare Awards",
+  "category": "Best Actress",
+  "recipient": "Hema Malini",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "29th Filmfare Awards, held 1982. Kapoor plays a supporting role in Manmohan Desai's multi-starrer.",
+  "source_ids": [
+   "SOURCE-032",
+   "SOURCE-442"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-088",
+  "film_id": "FILM-037",
+  "ceremony_year": 1983,
+  "organization": "Filmfare Awards",
+  "category": "Best Director",
+  "recipient": "Raj Kapoor",
+  "recipient_type": "Director",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "30th Filmfare Awards, held 25 September 1983. Prem Rog led the ceremony with 12 nominations and won 4, tying Shakti as the night's most-awarded film; it is the film on which Kapoor's father directed him to his strongest reviews.",
+  "source_ids": [
+   "SOURCE-037",
+   "SOURCE-443"
+  ],
+  "confidence": "High"
+ },
+ {
+  "award_id": "AWARD-089",
+  "film_id": "FILM-037",
+  "ceremony_year": 1983,
+  "organization": "Filmfare Awards",
+  "category": "Best Actress",
+  "recipient": "Padmini Kolhapure",
+  "recipient_type": "Actress",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "As the widowed Manorama, opposite Kapoor; the second of their six films together.",
+  "source_ids": [
+   "SOURCE-037",
+   "SOURCE-443"
+  ],
+  "confidence": "High"
+ },
+ {
+  "award_id": "AWARD-090",
+  "film_id": "FILM-037",
+  "ceremony_year": 1983,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Santosh Anand",
+  "recipient_type": "Lyricist",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "For \"Mohabbat Hai Kya Cheez\".",
+  "source_ids": [
+   "SOURCE-037",
+   "SOURCE-443"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-091",
+  "film_id": "FILM-037",
+  "ceremony_year": 1983,
+  "organization": "Filmfare Awards",
+  "category": "Best Editing",
+  "recipient": "Raj Kapoor",
+  "recipient_type": "Editor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-037",
+   "SOURCE-443"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-092",
+  "film_id": "FILM-037",
+  "ceremony_year": 1983,
+  "organization": "Filmfare Awards",
+  "category": "Best Film",
+  "recipient": "Raj Kapoor",
+  "recipient_type": "Producer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For R. K. Films; lost to Shakti.",
+  "source_ids": [
+   "SOURCE-037",
+   "SOURCE-443"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-093",
+  "film_id": "FILM-037",
+  "ceremony_year": 1983,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "His third Best Actor nomination, as the chauffeur Devdhar who marries a widow against his village; lost to Dilip Kumar for Shakti.",
+  "source_ids": [
+   "SOURCE-037",
+   "SOURCE-240",
+   "SOURCE-443"
+  ],
+  "confidence": "High"
+ },
+ {
+  "award_id": "AWARD-094",
+  "film_id": "FILM-037",
+  "ceremony_year": 1983,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actress",
+  "recipient": "Nanda",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-037",
+   "SOURCE-443"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-095",
+  "film_id": "FILM-037",
+  "ceremony_year": 1983,
+  "organization": "Filmfare Awards",
+  "category": "Best Story",
+  "recipient": "Kamna Chandra",
+  "recipient_type": "Writer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-037",
+   "SOURCE-443"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-096",
+  "film_id": "FILM-037",
+  "ceremony_year": 1983,
+  "organization": "Filmfare Awards",
+  "category": "Best Music Director",
+  "recipient": "Laxmikant–Pyarelal",
+  "recipient_type": "Music director",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-037",
+   "SOURCE-443"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-097",
+  "film_id": "FILM-037",
+  "ceremony_year": 1983,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Ameer Qazalbash",
+  "recipient_type": "Lyricist",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Meri Kismat Mein Tu\".",
+  "source_ids": [
+   "SOURCE-037",
+   "SOURCE-443"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-098",
+  "film_id": "FILM-037",
+  "ceremony_year": 1983,
+  "organization": "Filmfare Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "Suresh Wadkar",
+  "recipient_type": "Playback singer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Main Hoon Prem Rogi\", sung for Kapoor.",
+  "source_ids": [
+   "SOURCE-037",
+   "SOURCE-443"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-099",
+  "film_id": "FILM-037",
+  "ceremony_year": 1983,
+  "organization": "Filmfare Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "Suresh Wadkar",
+  "recipient_type": "Playback singer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Meri Kismat Mein Tu\".",
+  "source_ids": [
+   "SOURCE-037",
+   "SOURCE-443"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-100",
+  "film_id": "FILM-039",
+  "ceremony_year": 1984,
+  "organization": "Filmfare Awards",
+  "category": "Best Performance in a Comic Role",
+  "recipient": "Dharmendra",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "31st Filmfare Awards, held 1984. Kapoor appears as himself.",
+  "source_ids": [
+   "SOURCE-041",
+   "SOURCE-444"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-101",
+  "film_id": "FILM-049",
+  "ceremony_year": 1987,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Kamal Haasan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "33rd Filmfare Awards, held in Mumbai in 1987 for films of 1985. Saagar took 10 nominations, tying Ram Teri Ganga Maili as the most-nominated film, and won 4. Kapoor, the film's other lead, received no nomination for it.",
+  "source_ids": [
+   "SOURCE-049",
+   "SOURCE-445"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-102",
+  "film_id": "FILM-049",
+  "ceremony_year": 1987,
+  "organization": "Filmfare Awards",
+  "category": "Best Actress",
+  "recipient": "Dimple Kapadia",
+  "recipient_type": "Actress",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "Kapadia's comeback film and her second Filmfare acting win opposite Kapoor, twelve years after Bobby.",
+  "source_ids": [
+   "SOURCE-049",
+   "SOURCE-445"
+  ],
+  "confidence": "High"
+ },
+ {
+  "award_id": "AWARD-103",
+  "film_id": "FILM-049",
+  "ceremony_year": 1987,
+  "organization": "Filmfare Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "Kishore Kumar",
+  "recipient_type": "Playback singer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "For \"Saagar Kinare\".",
+  "source_ids": [
+   "SOURCE-049",
+   "SOURCE-445"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-104",
+  "film_id": "FILM-049",
+  "ceremony_year": 1987,
+  "organization": "Filmfare Awards",
+  "category": "Best Cinematography",
+  "recipient": "S. M. Anwar",
+  "recipient_type": "Cinematographer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-049",
+   "SOURCE-445"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-105",
+  "film_id": "FILM-049",
+  "ceremony_year": 1987,
+  "organization": "Filmfare Awards",
+  "category": "Best Film",
+  "recipient": "G. P. Sippy",
+  "recipient_type": "Producer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-049",
+   "SOURCE-445"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-106",
+  "film_id": "FILM-049",
+  "ceremony_year": 1987,
+  "organization": "Filmfare Awards",
+  "category": "Best Director",
+  "recipient": "Ramesh Sippy",
+  "recipient_type": "Director",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-049",
+   "SOURCE-445"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-107",
+  "film_id": "FILM-049",
+  "ceremony_year": 1987,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Kamal Haasan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "Haasan was nominated in both acting categories for the same performance and won the lead award.",
+  "source_ids": [
+   "SOURCE-049",
+   "SOURCE-445"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-108",
+  "film_id": "FILM-049",
+  "ceremony_year": 1987,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actress",
+  "recipient": "Madhur Jaffrey",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-049",
+   "SOURCE-445"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-109",
+  "film_id": "FILM-049",
+  "ceremony_year": 1987,
+  "organization": "Filmfare Awards",
+  "category": "Best Music Director",
+  "recipient": "R. D. Burman",
+  "recipient_type": "Music director",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-049",
+   "SOURCE-445"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-110",
+  "film_id": "FILM-049",
+  "ceremony_year": 1987,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Javed Akhtar",
+  "recipient_type": "Lyricist",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Saagar Kinare\".",
+  "source_ids": [
+   "SOURCE-049",
+   "SOURCE-445"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-111",
+  "film_id": "FILM-050",
+  "ceremony_year": 1987,
+  "organization": "Filmfare Awards",
+  "category": "Best Story",
+  "recipient": "Dr. Aleem Masroor",
+  "recipient_type": "Writer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "33rd Filmfare Awards. Tawaif took 7 nominations; the ceremony article's tally credits the film with 3 wins, one more than the two its own article records, and the third could not be identified.",
+  "source_ids": [
+   "SOURCE-046",
+   "SOURCE-445"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-112",
+  "film_id": "FILM-050",
+  "ceremony_year": 1987,
+  "organization": "Filmfare Awards",
+  "category": "Best Dialogue",
+  "recipient": "Rahi Masoom Raza",
+  "recipient_type": "Writer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-046",
+   "SOURCE-445"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-113",
+  "film_id": "FILM-050",
+  "ceremony_year": 1987,
+  "organization": "Filmfare Awards",
+  "category": "Best Film",
+  "recipient": "R. C. Kumar",
+  "recipient_type": "Producer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-046",
+   "SOURCE-445"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-114",
+  "film_id": "FILM-050",
+  "ceremony_year": 1987,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "His fourth Best Actor nomination, as the man who takes in a courtesan; one of two nominations he drew at the same ceremony's pair of Kapoor films, the other film being Saagar, for which he was not nominated.",
+  "source_ids": [
+   "SOURCE-046",
+   "SOURCE-240",
+   "SOURCE-445"
+  ],
+  "confidence": "High"
+ },
+ {
+  "award_id": "AWARD-115",
+  "film_id": "FILM-050",
+  "ceremony_year": 1987,
+  "organization": "Filmfare Awards",
+  "category": "Best Actress",
+  "recipient": "Rati Agnihotri",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-046",
+   "SOURCE-445"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-116",
+  "film_id": "FILM-050",
+  "ceremony_year": 1987,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actress",
+  "recipient": "Sushma Seth",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-046",
+   "SOURCE-445"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-117",
+  "film_id": "FILM-050",
+  "ceremony_year": 1987,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Hasan Kamal",
+  "recipient_type": "Lyricist",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Bohot Der Se\".",
+  "source_ids": [
+   "SOURCE-046",
+   "SOURCE-445"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-118",
+  "film_id": "FILM-065",
+  "ceremony_year": 1989,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Anupam Kher",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "34th Filmfare Awards, held in 1989 after a two-year gap. Vijay's only nomination and its only win. Kapoor plays a supporting role.",
+  "source_ids": [
+   "SOURCE-062",
+   "SOURCE-446"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-119",
+  "film_id": "FILM-074",
+  "ceremony_year": 1990,
+  "organization": "National Film Awards",
+  "category": "Best Popular Film Providing Wholesome Entertainment",
+  "recipient": "Yash Chopra and T. Subbarami Reddy",
+  "recipient_type": "Producer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "37th National Film Awards, presented in May 1990. The only National Film Award won by a film in which Kapoor plays a romantic lead.",
+  "source_ids": [
+   "SOURCE-067",
+   "SOURCE-447"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-120",
+  "film_id": "FILM-074",
+  "ceremony_year": 1990,
+  "organization": "Filmfare Awards",
+  "category": "Best Cinematography",
+  "recipient": "Manmohan Singh",
+  "recipient_type": "Cinematographer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "35th Filmfare Awards, held 1990. Chandni took 10 nominations, second only to Maine Pyar Kiya, and converted just this one.",
+  "source_ids": [
+   "SOURCE-067",
+   "SOURCE-448"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-121",
+  "film_id": "FILM-074",
+  "ceremony_year": 1990,
+  "organization": "Filmfare Awards",
+  "category": "Best Film",
+  "recipient": "Yash Chopra and T. Subbarami Reddy",
+  "recipient_type": "Producer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-067",
+   "SOURCE-448"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-122",
+  "film_id": "FILM-074",
+  "ceremony_year": 1990,
+  "organization": "Filmfare Awards",
+  "category": "Best Director",
+  "recipient": "Yash Chopra",
+  "recipient_type": "Director",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-067",
+   "SOURCE-448"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-123",
+  "film_id": "FILM-074",
+  "ceremony_year": 1990,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "His fifth and last Filmfare Best Actor nomination, and the end of the run of lead nominations that began with Bobby sixteen years earlier.",
+  "source_ids": [
+   "SOURCE-067",
+   "SOURCE-240",
+   "SOURCE-448"
+  ],
+  "confidence": "High"
+ },
+ {
+  "award_id": "AWARD-124",
+  "film_id": "FILM-074",
+  "ceremony_year": 1990,
+  "organization": "Filmfare Awards",
+  "category": "Best Actress",
+  "recipient": "Sridevi",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "One of her two Best Actress nominations that year; she won for Chaalbaaz instead.",
+  "source_ids": [
+   "SOURCE-067",
+   "SOURCE-448"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-125",
+  "film_id": "FILM-074",
+  "ceremony_year": 1990,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Vinod Khanna",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "As Lalit, the second man in the film's triangle.",
+  "source_ids": [
+   "SOURCE-067",
+   "SOURCE-448"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-126",
+  "film_id": "FILM-074",
+  "ceremony_year": 1990,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actress",
+  "recipient": "Waheeda Rehman",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-067",
+   "SOURCE-448"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-127",
+  "film_id": "FILM-074",
+  "ceremony_year": 1990,
+  "organization": "Filmfare Awards",
+  "category": "Best Music Director",
+  "recipient": "Shiv–Hari",
+  "recipient_type": "Music director",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-067",
+   "SOURCE-448"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-128",
+  "film_id": "FILM-074",
+  "ceremony_year": 1990,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Anand Bakshi",
+  "recipient_type": "Lyricist",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Lagi Aaj Sawan Ki\".",
+  "source_ids": [
+   "SOURCE-067",
+   "SOURCE-448"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-129",
+  "film_id": "FILM-074",
+  "ceremony_year": 1990,
+  "organization": "Filmfare Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "Suresh Wadkar",
+  "recipient_type": "Playback singer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Lagi Aaj Sawan Ki\", sung for Kapoor.",
+  "source_ids": [
+   "SOURCE-067",
+   "SOURCE-448"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-130",
+  "film_id": "FILM-081",
+  "ceremony_year": 1992,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actress",
+  "recipient": "Farida Jalal",
+  "recipient_type": "Actress",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "37th Filmfare Awards, held 1992. Henna took 8 nominations and won 2. The film was begun by Kapoor's father Raj Kapoor and completed after his death by his brother Randhir.",
+  "source_ids": [
+   "SOURCE-076",
+   "SOURCE-449"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-131",
+  "film_id": "FILM-081",
+  "ceremony_year": 1992,
+  "organization": "Filmfare Awards",
+  "category": "Best Cinematography",
+  "recipient": "Radhu Karmakar",
+  "recipient_type": "Cinematographer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "Karmakar's third award connected to a Kapoor film, after Shree 420 and Mera Naam Joker.",
+  "source_ids": [
+   "SOURCE-076",
+   "SOURCE-449"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-132",
+  "film_id": "FILM-081",
+  "ceremony_year": 1992,
+  "organization": "Filmfare Awards",
+  "category": "Best Film",
+  "recipient": "Randhir Kapoor and Rajiv Kapoor",
+  "recipient_type": "Producer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-076",
+   "SOURCE-449"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-133",
+  "film_id": "FILM-081",
+  "ceremony_year": 1992,
+  "organization": "Filmfare Awards",
+  "category": "Best Director",
+  "recipient": "Randhir Kapoor",
+  "recipient_type": "Director",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "Kapoor's elder brother, directing him.",
+  "source_ids": [
+   "SOURCE-076",
+   "SOURCE-449"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-134",
+  "film_id": "FILM-081",
+  "ceremony_year": 1992,
+  "organization": "Filmfare Awards",
+  "category": "Best Actress",
+  "recipient": "Zeba Bakhtiar",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "The Pakistani actress cast in the title role, opposite Kapoor.",
+  "source_ids": [
+   "SOURCE-076",
+   "SOURCE-449"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-135",
+  "film_id": "FILM-081",
+  "ceremony_year": 1992,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Saeed Jaffrey",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-076",
+   "SOURCE-449"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-136",
+  "film_id": "FILM-081",
+  "ceremony_year": 1992,
+  "organization": "Filmfare Awards",
+  "category": "Best Female Debut",
+  "recipient": "Zeba Bakhtiar",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-076",
+   "SOURCE-449"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-137",
+  "film_id": "FILM-081",
+  "ceremony_year": 1992,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Ravindra Jain",
+  "recipient_type": "Lyricist",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Main Hoon Khush Rang Henna\".",
+  "source_ids": [
+   "SOURCE-076",
+   "SOURCE-449"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-138",
+  "film_id": "FILM-087",
+  "ceremony_year": 1993,
+  "organization": "Filmfare Awards",
+  "category": "Best Male Debut",
+  "recipient": "Shah Rukh Khan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "38th Filmfare Awards, held 1993. Deewana took 9 nominations and won 5, tying Beta as the night's most-awarded film. Kapoor is the film's first-half lead and Khan, in his debut, the second.",
+  "source_ids": [
+   "SOURCE-081",
+   "SOURCE-450"
+  ],
+  "confidence": "High"
+ },
+ {
+  "award_id": "AWARD-139",
+  "film_id": "FILM-087",
+  "ceremony_year": 1993,
+  "organization": "Filmfare Awards",
+  "category": "Best Female Debut",
+  "recipient": "Divya Bharti",
+  "recipient_type": "Actress",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "The film's own article records this win under the name Face of the Year; the ceremony article places her as the Best Female Debut winner.",
+  "source_ids": [
+   "SOURCE-081",
+   "SOURCE-450"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-140",
+  "film_id": "FILM-087",
+  "ceremony_year": 1993,
+  "organization": "Filmfare Awards",
+  "category": "Best Music Director",
+  "recipient": "Nadeem–Shravan",
+  "recipient_type": "Music director",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-081",
+   "SOURCE-450"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-141",
+  "film_id": "FILM-087",
+  "ceremony_year": 1993,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Sameer",
+  "recipient_type": "Lyricist",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "For \"Teri Umeed\".",
+  "source_ids": [
+   "SOURCE-081",
+   "SOURCE-450"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-142",
+  "film_id": "FILM-087",
+  "ceremony_year": 1993,
+  "organization": "Filmfare Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "Kumar Sanu",
+  "recipient_type": "Playback singer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "For \"Sochenge Tumhein\".",
+  "source_ids": [
+   "SOURCE-081",
+   "SOURCE-450"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-143",
+  "film_id": "FILM-087",
+  "ceremony_year": 1993,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Sameer",
+  "recipient_type": "Lyricist",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Aisi Deewangi\". Five wins and three nominations are documented against the nine nominations the ceremony credits the film with; the ninth could not be identified.",
+  "source_ids": [
+   "SOURCE-081",
+   "SOURCE-450"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-144",
+  "film_id": "FILM-087",
+  "ceremony_year": 1993,
+  "organization": "Filmfare Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "Vinod Rathod",
+  "recipient_type": "Playback singer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Aisi Deewangi\".",
+  "source_ids": [
+   "SOURCE-081",
+   "SOURCE-450"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-145",
+  "film_id": "FILM-087",
+  "ceremony_year": 1993,
+  "organization": "Filmfare Awards",
+  "category": "Best Female Playback Singer",
+  "recipient": "Alka Yagnik",
+  "recipient_type": "Playback singer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Aisi Deewangi\".",
+  "source_ids": [
+   "SOURCE-081",
+   "SOURCE-450"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-146",
+  "film_id": "FILM-089",
+  "ceremony_year": 1993,
+  "organization": "Filmfare Awards",
+  "category": "Best Actress",
+  "recipient": "Juhi Chawla",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "38th Filmfare Awards. Chawla opposite Kapoor in a double role comedy.",
+  "source_ids": [
+   "SOURCE-082",
+   "SOURCE-450"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-147",
+  "film_id": "FILM-093",
+  "ceremony_year": 1993,
+  "organization": "National Film Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Sunny Deol",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "40th National Film Awards, presented in 1993. Both the film's article and the ceremony's list the award here, although the 40th nominally honoured films of 1992 and Damini was released on 30 April 1993; the 41st gave the same category to Paresh Rawal. The placement is recorded as Wikipedia gives it.",
+  "source_ids": [
+   "SOURCE-086",
+   "SOURCE-451"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-148",
+  "film_id": "FILM-092",
+  "ceremony_year": 1994,
+  "organization": "Filmfare Awards",
+  "category": "Best Performance in a Comic Role",
+  "recipient": "Anupam Kher",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "39th Filmfare Awards. Kher was nominated three times in the category that year and won for Darr.",
+  "source_ids": [
+   "SOURCE-085",
+   "SOURCE-452"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-149",
+  "film_id": "FILM-093",
+  "ceremony_year": 1994,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Sunny Deol",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "39th Filmfare Awards, held 1994. Damini and Baazigar were the night's most-awarded films with 4 each. Deol's lawyer, not Kapoor's husband, is the role the film is remembered for.",
+  "source_ids": [
+   "SOURCE-086",
+   "SOURCE-452"
+  ],
+  "confidence": "High"
+ },
+ {
+  "award_id": "AWARD-150",
+  "film_id": "FILM-093",
+  "ceremony_year": 1994,
+  "organization": "Filmfare Awards",
+  "category": "Best Director",
+  "recipient": "Rajkumar Santoshi",
+  "recipient_type": "Director",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-086",
+   "SOURCE-452"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-151",
+  "film_id": "FILM-093",
+  "ceremony_year": 1994,
+  "organization": "Filmfare Awards",
+  "category": "Best Story",
+  "recipient": "Sutanu Gupta",
+  "recipient_type": "Writer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-086",
+   "SOURCE-452"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-152",
+  "film_id": "FILM-093",
+  "ceremony_year": 1994,
+  "organization": "Filmfare Awards",
+  "category": "Best Sound",
+  "recipient": "Rakesh Ranjan",
+  "recipient_type": "Technician",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-086",
+   "SOURCE-452"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-153",
+  "film_id": "FILM-093",
+  "ceremony_year": 1994,
+  "organization": "Filmfare Awards",
+  "category": "Best Film",
+  "recipient": "Damini",
+  "recipient_type": "Film",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-086",
+   "SOURCE-452"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-154",
+  "film_id": "FILM-093",
+  "ceremony_year": 1994,
+  "organization": "Filmfare Awards",
+  "category": "Best Actress",
+  "recipient": "Meenakshi Seshadri",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "In the title role, as the wife of Kapoor's character.",
+  "source_ids": [
+   "SOURCE-086",
+   "SOURCE-452"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-155",
+  "film_id": "FILM-093",
+  "ceremony_year": 1994,
+  "organization": "Filmfare Awards",
+  "category": "Best Villain",
+  "recipient": "Amrish Puri",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-086",
+   "SOURCE-452"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-156",
+  "film_id": "FILM-106",
+  "ceremony_year": 1996,
+  "organization": "Filmfare Awards",
+  "category": "Best Female Playback Singer",
+  "recipient": "Kavita Krishnamurthy",
+  "recipient_type": "Playback singer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "41st Filmfare Awards, held 2 March 1996. For \"Mera Piya Ghar Aaya\".",
+  "source_ids": [
+   "SOURCE-099",
+   "SOURCE-453"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-157",
+  "film_id": "FILM-106",
+  "ceremony_year": 1996,
+  "organization": "Filmfare Awards",
+  "category": "Best Actress",
+  "recipient": "Madhuri Dixit",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "One of Dixit's two Best Actress nominations that year; both lost to Kajol for Dilwale Dulhania Le Jayenge.",
+  "source_ids": [
+   "SOURCE-099",
+   "SOURCE-453"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-158",
+  "film_id": "FILM-108",
+  "ceremony_year": 1997,
+  "organization": "Filmfare Awards",
+  "category": "Best Villain",
+  "recipient": "Arbaaz Khan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "42nd Filmfare Awards, held 23 February 1997 in Mumbai. Khan plays the violent first husband against whom Kapoor's character is the second.",
+  "source_ids": [
+   "SOURCE-101",
+   "SOURCE-454"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-159",
+  "film_id": "FILM-108",
+  "ceremony_year": 1997,
+  "organization": "Filmfare Awards",
+  "category": "Best Actress",
+  "recipient": "Juhi Chawla",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-101",
+   "SOURCE-454"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-160",
+  "film_id": "FILM-117",
+  "ceremony_year": 2004,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actress",
+  "recipient": "Shabana Azmi",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "49th Filmfare Awards, held 20 February 2004. Kapoor appears in an extended special appearance as Azmi's husband.",
+  "source_ids": [
+   "SOURCE-109",
+   "SOURCE-455"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-161",
+  "film_id": "FILM-118",
+  "ceremony_year": 2005,
+  "organization": "National Film Awards",
+  "category": "Best Actor",
+  "recipient": "Saif Ali Khan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "52nd National Film Awards, announced 13 July 2005. Kapoor plays Khan's father.",
+  "source_ids": [
+   "SOURCE-110",
+   "SOURCE-456"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-162",
+  "film_id": "FILM-118",
+  "ceremony_year": 2005,
+  "organization": "Filmfare Awards",
+  "category": "Best Director",
+  "recipient": "Kunal Kohli",
+  "recipient_type": "Director",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "50th Filmfare Awards, held 26 February 2005, the awards' golden jubilee. Hum Tum took 8 nominations and won 5.",
+  "source_ids": [
+   "SOURCE-110",
+   "SOURCE-457"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-163",
+  "film_id": "FILM-118",
+  "ceremony_year": 2005,
+  "organization": "Filmfare Awards",
+  "category": "Best Actress",
+  "recipient": "Rani Mukerji",
+  "recipient_type": "Actress",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "Mukerji became the only actress to win both popular female acting awards in one year, taking this and Best Supporting Actress for Yuva.",
+  "source_ids": [
+   "SOURCE-110",
+   "SOURCE-457"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-164",
+  "film_id": "FILM-118",
+  "ceremony_year": 2005,
+  "organization": "Filmfare Awards",
+  "category": "Best Performance in a Comic Role",
+  "recipient": "Saif Ali Khan",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-110",
+   "SOURCE-457"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-165",
+  "film_id": "FILM-118",
+  "ceremony_year": 2005,
+  "organization": "Filmfare Awards",
+  "category": "Best Female Playback Singer",
+  "recipient": "Alka Yagnik",
+  "recipient_type": "Playback singer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "For \"Hum Tum\".",
+  "source_ids": [
+   "SOURCE-110",
+   "SOURCE-457"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-166",
+  "film_id": "FILM-118",
+  "ceremony_year": 2005,
+  "organization": "Filmfare Awards",
+  "category": "Best Scene of the Year",
+  "recipient": "Hum Tum",
+  "recipient_type": "Film",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-110",
+   "SOURCE-457"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-167",
+  "film_id": "FILM-118",
+  "ceremony_year": 2005,
+  "organization": "Filmfare Awards",
+  "category": "Best Film",
+  "recipient": "Hum Tum",
+  "recipient_type": "Film",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "Lost to Veer-Zaara.",
+  "source_ids": [
+   "SOURCE-110",
+   "SOURCE-457"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-168",
+  "film_id": "FILM-118",
+  "ceremony_year": 2005,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Saif Ali Khan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "Khan lost the lead award to Shah Rukh Khan for Swades but took the comic-role award for the same performance.",
+  "source_ids": [
+   "SOURCE-110",
+   "SOURCE-457"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-169",
+  "film_id": "FILM-118",
+  "ceremony_year": 2005,
+  "organization": "Filmfare Awards",
+  "category": "Best Music Director",
+  "recipient": "Jatin–Lalit",
+  "recipient_type": "Music director",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-110",
+   "SOURCE-457"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-170",
+  "film_id": "FILM-120",
+  "ceremony_year": 2007,
+  "organization": "Filmfare Awards",
+  "category": "Best Actress",
+  "recipient": "Kajol",
+  "recipient_type": "Actress",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "52nd Filmfare Awards, held 17 February 2007. Kapoor plays the father of Kajol's character.",
+  "source_ids": [
+   "SOURCE-112",
+   "SOURCE-458"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-171",
+  "film_id": "FILM-120",
+  "ceremony_year": 2007,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Prasoon Joshi",
+  "recipient_type": "Lyricist",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "For \"Chand Sifarish\".",
+  "source_ids": [
+   "SOURCE-112",
+   "SOURCE-458"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-172",
+  "film_id": "FILM-120",
+  "ceremony_year": 2007,
+  "organization": "Filmfare Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "Shaan and Kailash Kher",
+  "recipient_type": "Playback singer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "For \"Chand Sifarish\".",
+  "source_ids": [
+   "SOURCE-112",
+   "SOURCE-458"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-173",
+  "film_id": "FILM-120",
+  "ceremony_year": 2007,
+  "organization": "Filmfare Awards",
+  "category": "Best Music Director",
+  "recipient": "Jatin–Lalit",
+  "recipient_type": "Music director",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-112",
+   "SOURCE-458"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-174",
+  "film_id": "FILM-123",
+  "ceremony_year": 2008,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Akshay Kumar",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "53rd Filmfare Awards, held 16 February 2008. The film's only nomination. Kapoor plays Kumar's prospective father-in-law.",
+  "source_ids": [
+   "SOURCE-114",
+   "SOURCE-459"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-175",
+  "film_id": "FILM-125",
+  "ceremony_year": 2008,
+  "organization": "Filmfare Awards",
+  "category": "Best Female Debut",
+  "recipient": "Deepika Padukone",
+  "recipient_type": "Actress",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "53rd Filmfare Awards. Om Shanti Om took 12 nominations and won 2. Kapoor appears as himself; the film's title comes from the song in his own Karz (1980).",
+  "source_ids": [
+   "SOURCE-116",
+   "SOURCE-459"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-176",
+  "film_id": "FILM-125",
+  "ceremony_year": 2008,
+  "organization": "Filmfare Awards",
+  "category": "Best Special Effects",
+  "recipient": "Red Chillies VFX",
+  "recipient_type": "Technician",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-116",
+   "SOURCE-459"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-177",
+  "film_id": "FILM-125",
+  "ceremony_year": 2008,
+  "organization": "Filmfare Awards",
+  "category": "Best Film",
+  "recipient": "Om Shanti Om",
+  "recipient_type": "Film",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-116",
+   "SOURCE-459"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-178",
+  "film_id": "FILM-125",
+  "ceremony_year": 2008,
+  "organization": "Filmfare Awards",
+  "category": "Best Director",
+  "recipient": "Farah Khan",
+  "recipient_type": "Director",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-116",
+   "SOURCE-459"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-179",
+  "film_id": "FILM-125",
+  "ceremony_year": 2008,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Shah Rukh Khan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-116",
+   "SOURCE-459"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-180",
+  "film_id": "FILM-125",
+  "ceremony_year": 2008,
+  "organization": "Filmfare Awards",
+  "category": "Best Actress",
+  "recipient": "Deepika Padukone",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-116",
+   "SOURCE-459"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-181",
+  "film_id": "FILM-125",
+  "ceremony_year": 2008,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Shreyas Talpade",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-116",
+   "SOURCE-459"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-182",
+  "film_id": "FILM-125",
+  "ceremony_year": 2008,
+  "organization": "Filmfare Awards",
+  "category": "Best Music Director",
+  "recipient": "Vishal–Shekhar",
+  "recipient_type": "Music director",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-116",
+   "SOURCE-459"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-183",
+  "film_id": "FILM-125",
+  "ceremony_year": 2008,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Javed Akhtar",
+  "recipient_type": "Lyricist",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Main Agar Kahoon\".",
+  "source_ids": [
+   "SOURCE-116",
+   "SOURCE-459"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-184",
+  "film_id": "FILM-125",
+  "ceremony_year": 2008,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Vishal Dadlani",
+  "recipient_type": "Lyricist",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Ajab Si\".",
+  "source_ids": [
+   "SOURCE-116",
+   "SOURCE-459"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-185",
+  "film_id": "FILM-125",
+  "ceremony_year": 2008,
+  "organization": "Filmfare Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "KK",
+  "recipient_type": "Playback singer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Ajab Si\".",
+  "source_ids": [
+   "SOURCE-116",
+   "SOURCE-459"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-186",
+  "film_id": "FILM-125",
+  "ceremony_year": 2008,
+  "organization": "Filmfare Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "Sonu Nigam",
+  "recipient_type": "Playback singer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Main Agar Kahoon\".",
+  "source_ids": [
+   "SOURCE-116",
+   "SOURCE-459"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-187",
+  "film_id": "FILM-125",
+  "ceremony_year": 2008,
+  "organization": "CAAMFest",
+  "category": "Best Narrative",
+  "recipient": "Om Shanti Om",
+  "recipient_type": "Film",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "Festival prize to the film, 13–23 March 2008.",
+  "source_ids": [
+   "SOURCE-116"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-188",
+  "film_id": "FILM-125",
+  "ceremony_year": 2008,
+  "organization": "Neuchâtel International Fantastic Film Festival",
+  "category": "Mad Movies Award",
+  "recipient": "Om Shanti Om",
+  "recipient_type": "Film",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "Festival prize to the film, July 2008.",
+  "source_ids": [
+   "SOURCE-116"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-189",
+  "film_id": "FILM-125",
+  "ceremony_year": 2008,
+  "organization": "Asia Pacific Screen Awards",
+  "category": "Best Feature Film",
+  "recipient": "Om Shanti Om",
+  "recipient_type": "Film",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "11 November 2008.",
+  "source_ids": [
+   "SOURCE-116"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-190",
+  "ceremony_year": 2008,
+  "organization": "Filmfare Awards",
+  "category": "Lifetime Achievement Award",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor (honorary)",
+  "result": "Win",
+  "competitive": "Honorary",
+  "notes": "53rd Filmfare Awards, 16 February 2008. Awarded for his career as a whole rather than for a film, at fifty-five and twelve years before his death.",
+  "source_ids": [
+   "SOURCE-240",
+   "SOURCE-459"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-191",
+  "film_id": "FILM-125",
+  "ceremony_year": 2009,
+  "organization": "National Film Awards",
+  "category": "Best Art Direction",
+  "recipient": "Sabu Cyril",
+  "recipient_type": "Technician",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "55th National Film Awards, announced 7 September 2009 for films of 2007.",
+  "source_ids": [
+   "SOURCE-116",
+   "SOURCE-460"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-192",
+  "ceremony_year": 2009,
+  "organization": "International honour",
+  "category": "Honoured by the Government of Russia for his contribution to cinema",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor (honorary)",
+  "result": "Win",
+  "competitive": "Honorary",
+  "notes": "November 2009. Recognition of the Kapoor family's standing in Russia, where Bobby drew 62.6 million admissions and was the most popular Indian film of the 1970s.",
+  "source_ids": [
+   "SOURCE-240"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-193",
+  "film_id": "FILM-128",
+  "ceremony_year": 2010,
+  "organization": "Filmfare Awards",
+  "category": "Best Debut Director",
+  "recipient": "Zoya Akhtar",
+  "recipient_type": "Director",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "55th Filmfare Awards, held 27 February 2010. Shared with Ayan Mukerji for Wake Up Sid.",
+  "source_ids": [
+   "SOURCE-120",
+   "SOURCE-461"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-194",
+  "film_id": "FILM-128",
+  "ceremony_year": 2010,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "As the producer Rommy Rolly. His first Filmfare acting nomination in twenty years and the first in the supporting category, marking the start of the late character-actor run that his final reputation rests on.",
+  "source_ids": [
+   "SOURCE-120",
+   "SOURCE-461"
+  ],
+  "confidence": "High"
+ },
+ {
+  "award_id": "AWARD-195",
+  "film_id": "FILM-128",
+  "ceremony_year": 2010,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actress",
+  "recipient": "Dimple Kapadia",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "Kapadia and Kapoor nominated from the same film, thirty-six years after Bobby.",
+  "source_ids": [
+   "SOURCE-120",
+   "SOURCE-461"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-196",
+  "film_id": "FILM-128",
+  "ceremony_year": 2010,
+  "organization": "Filmfare Awards",
+  "category": "Best Story",
+  "recipient": "Zoya Akhtar",
+  "recipient_type": "Writer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-120",
+   "SOURCE-461"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-197",
+  "film_id": "FILM-128",
+  "ceremony_year": 2010,
+  "organization": "Filmfare Awards",
+  "category": "Best Screenplay",
+  "recipient": "Zoya Akhtar",
+  "recipient_type": "Writer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-120",
+   "SOURCE-461"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-198",
+  "film_id": "FILM-129",
+  "ceremony_year": 2010,
+  "organization": "National Film Awards",
+  "category": "Best Feature Film on National Integration (Nargis Dutt Award)",
+  "recipient": "Delhi-6",
+  "recipient_type": "Film",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "57th National Film Awards, announced 15 September 2010.",
+  "source_ids": [
+   "SOURCE-121",
+   "SOURCE-462"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-199",
+  "film_id": "FILM-129",
+  "ceremony_year": 2010,
+  "organization": "National Film Awards",
+  "category": "Best Production Design",
+  "recipient": "Samir Chanda",
+  "recipient_type": "Technician",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "57th National Film Awards.",
+  "source_ids": [
+   "SOURCE-121",
+   "SOURCE-462"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-200",
+  "film_id": "FILM-129",
+  "ceremony_year": 2010,
+  "organization": "Filmfare Awards",
+  "category": "Best Music Director",
+  "recipient": "A. R. Rahman",
+  "recipient_type": "Music director",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "55th Filmfare Awards, held 27 February 2010.",
+  "source_ids": [
+   "SOURCE-121",
+   "SOURCE-461"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-201",
+  "film_id": "FILM-129",
+  "ceremony_year": 2010,
+  "organization": "Filmfare Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "Mohit Chauhan",
+  "recipient_type": "Playback singer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "For \"Masakali\".",
+  "source_ids": [
+   "SOURCE-121",
+   "SOURCE-461"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-202",
+  "film_id": "FILM-129",
+  "ceremony_year": 2010,
+  "organization": "Filmfare Awards",
+  "category": "Best Female Playback Singer",
+  "recipient": "Rekha Bhardwaj",
+  "recipient_type": "Playback singer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "For \"Genda Phool\"; the ceremony article records the award as a tie.",
+  "source_ids": [
+   "SOURCE-121",
+   "SOURCE-461"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-203",
+  "film_id": "FILM-129",
+  "ceremony_year": 2010,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actress",
+  "recipient": "Divya Dutta",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-121",
+   "SOURCE-461"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-204",
+  "film_id": "FILM-129",
+  "ceremony_year": 2010,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Prasoon Joshi",
+  "recipient_type": "Lyricist",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Masakali\".",
+  "source_ids": [
+   "SOURCE-121",
+   "SOURCE-461"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-205",
+  "film_id": "FILM-129",
+  "ceremony_year": 2010,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Prasoon Joshi",
+  "recipient_type": "Lyricist",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Rehna Tu\".",
+  "source_ids": [
+   "SOURCE-121",
+   "SOURCE-461"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-206",
+  "film_id": "FILM-129",
+  "ceremony_year": 2010,
+  "organization": "Filmfare Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "Javed Ali and Kailash Kher",
+  "recipient_type": "Playback singer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Arziyan\".",
+  "source_ids": [
+   "SOURCE-121",
+   "SOURCE-461"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-207",
+  "film_id": "FILM-131",
+  "ceremony_year": 2010,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Irshad Kamil",
+  "recipient_type": "Lyricist",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "55th Filmfare Awards. For \"Aaj Din Chadheya\". Love Aaj Kal led the ceremony with 12 nominations.",
+  "source_ids": [
+   "SOURCE-123",
+   "SOURCE-461"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-208",
+  "film_id": "FILM-131",
+  "ceremony_year": 2010,
+  "organization": "Filmfare Awards",
+  "category": "Best Choreography",
+  "recipient": "Bosco–Caesar",
+  "recipient_type": "Choreographer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "For \"Chor Bazaari\".",
+  "source_ids": [
+   "SOURCE-123",
+   "SOURCE-461"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-209",
+  "film_id": "FILM-131",
+  "ceremony_year": 2010,
+  "organization": "Filmfare Awards",
+  "category": "Best Film",
+  "recipient": "Saif Ali Khan and Dinesh Vijan",
+  "recipient_type": "Producer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-123",
+   "SOURCE-461"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-210",
+  "film_id": "FILM-131",
+  "ceremony_year": 2010,
+  "organization": "Filmfare Awards",
+  "category": "Best Director",
+  "recipient": "Imtiaz Ali",
+  "recipient_type": "Director",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-123",
+   "SOURCE-461"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-211",
+  "film_id": "FILM-131",
+  "ceremony_year": 2010,
+  "organization": "Filmfare Awards",
+  "category": "Best Story",
+  "recipient": "Imtiaz Ali",
+  "recipient_type": "Writer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-123",
+   "SOURCE-461"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-212",
+  "film_id": "FILM-131",
+  "ceremony_year": 2010,
+  "organization": "Filmfare Awards",
+  "category": "Best Screenplay",
+  "recipient": "Imtiaz Ali",
+  "recipient_type": "Writer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-123",
+   "SOURCE-461"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-213",
+  "film_id": "FILM-131",
+  "ceremony_year": 2010,
+  "organization": "Filmfare Awards",
+  "category": "Best Dialogue",
+  "recipient": "Imtiaz Ali",
+  "recipient_type": "Writer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-123",
+   "SOURCE-461"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-214",
+  "film_id": "FILM-131",
+  "ceremony_year": 2010,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Saif Ali Khan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-123",
+   "SOURCE-461"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-215",
+  "film_id": "FILM-131",
+  "ceremony_year": 2010,
+  "organization": "Filmfare Awards",
+  "category": "Best Actress",
+  "recipient": "Deepika Padukone",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-123",
+   "SOURCE-461"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-216",
+  "film_id": "FILM-131",
+  "ceremony_year": 2010,
+  "organization": "Filmfare Awards",
+  "category": "Best Music Director",
+  "recipient": "Pritam",
+  "recipient_type": "Music director",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-123",
+   "SOURCE-461"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-217",
+  "film_id": "FILM-131",
+  "ceremony_year": 2010,
+  "organization": "Filmfare Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "Rahat Fateh Ali Khan",
+  "recipient_type": "Playback singer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Aaj Din Chadheya\".",
+  "source_ids": [
+   "SOURCE-123",
+   "SOURCE-461"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-218",
+  "film_id": "FILM-131",
+  "ceremony_year": 2010,
+  "organization": "Filmfare Awards",
+  "category": "Best Female Playback Singer",
+  "recipient": "Sunidhi Chauhan",
+  "recipient_type": "Playback singer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Chor Bazaari\".",
+  "source_ids": [
+   "SOURCE-123",
+   "SOURCE-461"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-219",
+  "film_id": "FILM-131",
+  "ceremony_year": 2010,
+  "organization": "Producers Guild Film Awards",
+  "category": "Best Actor in a Supporting Role",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "5th Apsara Film & Television Producers Guild Awards, 8 January 2010, as Veer Singh. The first of the late-career supporting awards.",
+  "source_ids": [
+   "SOURCE-123",
+   "SOURCE-240"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-220",
+  "film_id": "FILM-131",
+  "ceremony_year": 2010,
+  "organization": "Screen Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "9 January 2010.",
+  "source_ids": [
+   "SOURCE-123",
+   "SOURCE-240"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-221",
+  "film_id": "FILM-131",
+  "ceremony_year": 2010,
+  "organization": "IIFA Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "5 June 2010.",
+  "source_ids": [
+   "SOURCE-123"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-222",
+  "film_id": "FILM-134",
+  "ceremony_year": 2011,
+  "organization": "National Film Awards",
+  "category": "Best Feature Film in Hindi",
+  "recipient": "Do Dooni Chaar",
+  "recipient_type": "Film",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "58th National Film Awards, announced 19 May 2011. The only National Film Award won by a film Kapoor carries as the lead.",
+  "source_ids": [
+   "SOURCE-126",
+   "SOURCE-463"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-223",
+  "film_id": "FILM-134",
+  "ceremony_year": 2011,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor (Critics)",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "56th Filmfare Awards, held 29 January 2011, as the schoolteacher Santosh Duggal. His second Filmfare acting win, thirty-seven years after Bobby, and his first in the critics' category.",
+  "source_ids": [
+   "SOURCE-126",
+   "SOURCE-240",
+   "SOURCE-464"
+  ],
+  "confidence": "High"
+ },
+ {
+  "award_id": "AWARD-224",
+  "film_id": "FILM-134",
+  "ceremony_year": 2011,
+  "organization": "Filmfare Awards",
+  "category": "Best Dialogue",
+  "recipient": "Habib Faisal",
+  "recipient_type": "Writer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-126",
+   "SOURCE-464"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-225",
+  "film_id": "FILM-134",
+  "ceremony_year": 2011,
+  "organization": "Filmfare Awards",
+  "category": "Best Costume Design",
+  "recipient": "Varsha and Shilpa",
+  "recipient_type": "Technician",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-126",
+   "SOURCE-464"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-226",
+  "film_id": "FILM-134",
+  "ceremony_year": 2011,
+  "organization": "Filmfare Awards",
+  "category": "Best Production Design",
+  "recipient": "Mukund Gupta",
+  "recipient_type": "Technician",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-126",
+   "SOURCE-464"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-227",
+  "ceremony_year": 2011,
+  "organization": "Zee Cine Awards",
+  "category": "Best Lifetime Jodi",
+  "recipient": "Rishi Kapoor and Neetu Singh",
+  "recipient_type": "Actor (honorary)",
+  "result": "Win",
+  "competitive": "Honorary",
+  "notes": "14 January 2011. Awarded jointly to Kapoor and his wife Neetu Singh for their work as a screen pair; they appeared together in twelve films before her retirement.",
+  "source_ids": [
+   "SOURCE-240"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-228",
+  "film_id": "FILM-056",
+  "ceremony_year": 2013,
+  "organization": "Filmfare Awards",
+  "category": "Filmfare Special Award",
+  "recipient": "Sridevi",
+  "recipient_type": "Actress",
+  "result": "Win",
+  "competitive": "Honorary",
+  "notes": "Given in 2013 for her performances in Nagina and Mr. India, long after the 1986 release. Kapoor is Nagina's male lead.",
+  "source_ids": [
+   "SOURCE-054"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-229",
+  "film_id": "FILM-137",
+  "ceremony_year": 2013,
+  "organization": "Zee Cine Awards",
+  "category": "Best Actor in a Negative Role",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "20 January 2013, as the flesh-trader Rauf Lala. The first of three negative-role wins for the same performance, and the role that reopened villainy to him at sixty.",
+  "source_ids": [
+   "SOURCE-129"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-230",
+  "film_id": "FILM-137",
+  "ceremony_year": 2013,
+  "organization": "IIFA Awards",
+  "category": "Best Actor in a Negative Role",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "6 July 2013.",
+  "source_ids": [
+   "SOURCE-129"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-231",
+  "film_id": "FILM-137",
+  "ceremony_year": 2013,
+  "organization": "Times of India Film Awards",
+  "category": "Best Actor in a Negative Role",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "TOIFA, 6 April 2013, Vancouver.",
+  "source_ids": [
+   "SOURCE-240"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-232",
+  "film_id": "FILM-137",
+  "ceremony_year": 2013,
+  "organization": "Screen Awards",
+  "category": "Best Villain",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "2 January 2013; Sanjay Dutt was nominated in the same category for the same film.",
+  "source_ids": [
+   "SOURCE-129"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-233",
+  "film_id": "FILM-137",
+  "ceremony_year": 2013,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "58th Filmfare Awards, 13 January 2013. Agneepath took 5 nominations and won none.",
+  "source_ids": [
+   "SOURCE-129",
+   "SOURCE-465"
+  ],
+  "confidence": "High"
+ },
+ {
+  "award_id": "AWARD-234",
+  "film_id": "FILM-137",
+  "ceremony_year": 2013,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Hrithik Roshan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-129",
+   "SOURCE-465"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-235",
+  "film_id": "FILM-137",
+  "ceremony_year": 2013,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Amitabh Bhattacharya",
+  "recipient_type": "Lyricist",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Abhi Mujh Mein Kahin\".",
+  "source_ids": [
+   "SOURCE-129",
+   "SOURCE-465"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-236",
+  "film_id": "FILM-137",
+  "ceremony_year": 2013,
+  "organization": "Filmfare Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "Sonu Nigam",
+  "recipient_type": "Playback singer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Abhi Mujh Mein Kahin\".",
+  "source_ids": [
+   "SOURCE-129",
+   "SOURCE-465"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-237",
+  "film_id": "FILM-137",
+  "ceremony_year": 2013,
+  "organization": "Filmfare Awards",
+  "category": "Best Female Playback Singer",
+  "recipient": "Shreya Ghoshal",
+  "recipient_type": "Playback singer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Chikni Chameli\".",
+  "source_ids": [
+   "SOURCE-129",
+   "SOURCE-465"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-238",
+  "film_id": "FILM-139",
+  "ceremony_year": 2013,
+  "organization": "Filmfare Awards",
+  "category": "R. D. Burman Award for New Music Talent",
+  "recipient": "Neeti Mohan",
+  "recipient_type": "Playback singer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "58th Filmfare Awards. For \"Ishq Wala Love\". Mohan's award at this ceremony is also recorded against Jab Tak Hai Jaan for \"Jiya Re\"; the two films' articles each claim it, and it appears to be one award citing her work in both.",
+  "source_ids": [
+   "SOURCE-131",
+   "SOURCE-465"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-239",
+  "film_id": "FILM-139",
+  "ceremony_year": 2013,
+  "organization": "Filmfare Awards",
+  "category": "Best Music Director",
+  "recipient": "Vishal–Shekhar",
+  "recipient_type": "Music director",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-131",
+   "SOURCE-465"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-240",
+  "film_id": "FILM-139",
+  "ceremony_year": 2013,
+  "organization": "Filmfare Awards",
+  "category": "Best Debutant – Male",
+  "recipient": "Sidharth Malhotra",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-131",
+   "SOURCE-465"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-241",
+  "film_id": "FILM-139",
+  "ceremony_year": 2013,
+  "organization": "Filmfare Awards",
+  "category": "Best Debutant – Male",
+  "recipient": "Varun Dhawan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-131",
+   "SOURCE-465"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-242",
+  "film_id": "FILM-139",
+  "ceremony_year": 2013,
+  "organization": "Filmfare Awards",
+  "category": "Best Debutant – Female",
+  "recipient": "Alia Bhatt",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-131",
+   "SOURCE-465"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-243",
+  "film_id": "FILM-139",
+  "ceremony_year": 2013,
+  "organization": "Producers Guild Film Awards",
+  "category": "Best Actor in a Comic Role",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "8th Apsara Film & Television Producers Guild Awards, as the dean Yoginder Vashisht.",
+  "source_ids": [
+   "SOURCE-131"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-244",
+  "film_id": "FILM-140",
+  "ceremony_year": 2013,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actress",
+  "recipient": "Anushka Sharma",
+  "recipient_type": "Actress",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "58th Filmfare Awards, 20 January 2013. The film took 7 nominations and won 4. Kapoor appears in an extended special appearance.",
+  "source_ids": [
+   "SOURCE-132",
+   "SOURCE-465"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-245",
+  "film_id": "FILM-140",
+  "ceremony_year": 2013,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Gulzar",
+  "recipient_type": "Lyricist",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "For \"Challa\".",
+  "source_ids": [
+   "SOURCE-132",
+   "SOURCE-465"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-246",
+  "film_id": "FILM-140",
+  "ceremony_year": 2013,
+  "organization": "Filmfare Awards",
+  "category": "Lifetime Achievement Award",
+  "recipient": "Yash Chopra",
+  "recipient_type": "Director",
+  "result": "Win",
+  "competitive": "Honorary",
+  "notes": "Awarded for his whole body of work, after his death in October 2012; this was his last film. Chopra directed Kapoor in Kabhie Kabhie and Chandni.",
+  "source_ids": [
+   "SOURCE-132",
+   "SOURCE-465"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-247",
+  "film_id": "FILM-140",
+  "ceremony_year": 2013,
+  "organization": "Filmfare Awards",
+  "category": "R. D. Burman Award for New Music Talent",
+  "recipient": "Neeti Mohan",
+  "recipient_type": "Playback singer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "For \"Jiya Re\"; see the matching row under Student of the Year, which the same ceremony's award is also recorded against.",
+  "source_ids": [
+   "SOURCE-132",
+   "SOURCE-465"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-248",
+  "film_id": "FILM-140",
+  "ceremony_year": 2013,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor",
+  "recipient": "Shah Rukh Khan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-132",
+   "SOURCE-465"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-249",
+  "film_id": "FILM-140",
+  "ceremony_year": 2013,
+  "organization": "Filmfare Awards",
+  "category": "Best Lyricist",
+  "recipient": "Gulzar",
+  "recipient_type": "Lyricist",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Saans\".",
+  "source_ids": [
+   "SOURCE-132",
+   "SOURCE-465"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-250",
+  "film_id": "FILM-140",
+  "ceremony_year": 2013,
+  "organization": "Filmfare Awards",
+  "category": "Best Male Playback Singer",
+  "recipient": "Rabbi Shergill",
+  "recipient_type": "Playback singer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Challa\".",
+  "source_ids": [
+   "SOURCE-132",
+   "SOURCE-465"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-251",
+  "film_id": "FILM-140",
+  "ceremony_year": 2013,
+  "organization": "Filmfare Awards",
+  "category": "Best Female Playback Singer",
+  "recipient": "Neeti Mohan",
+  "recipient_type": "Playback singer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Jiya Re\".",
+  "source_ids": [
+   "SOURCE-132",
+   "SOURCE-465"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-252",
+  "film_id": "FILM-140",
+  "ceremony_year": 2013,
+  "organization": "Filmfare Awards",
+  "category": "Best Female Playback Singer",
+  "recipient": "Shreya Ghoshal",
+  "recipient_type": "Playback singer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "For \"Saans\".",
+  "source_ids": [
+   "SOURCE-132",
+   "SOURCE-465"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-253",
+  "film_id": "FILM-143",
+  "ceremony_year": 2014,
+  "organization": "Filmfare Awards",
+  "category": "Best Editing",
+  "recipient": "Aarif Sheikh",
+  "recipient_type": "Editor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "59th Filmfare Awards, for films of 2013. D-Day was one of six films to win 2 awards. Kapoor plays the Dawood Ibrahim figure Iqbal Seth, his most unsparing antagonist.",
+  "source_ids": [
+   "SOURCE-135",
+   "SOURCE-466"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-254",
+  "film_id": "FILM-143",
+  "ceremony_year": 2014,
+  "organization": "Filmfare Awards",
+  "category": "Best Action",
+  "recipient": "Thomas Struthers and Guru Bachchan",
+  "recipient_type": "Technician",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-135",
+   "SOURCE-466"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-255",
+  "film_id": "FILM-143",
+  "ceremony_year": 2014,
+  "organization": "Filmfare Awards",
+  "category": "Best Screenplay",
+  "recipient": "Nikkhil Advani, Ritesh Shah, Suresh Nair and Niranjan Iyengar",
+  "recipient_type": "Writer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-135",
+   "SOURCE-466"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-256",
+  "film_id": "FILM-144",
+  "ceremony_year": 2014,
+  "organization": "Filmfare Awards",
+  "category": "Best Female Debut",
+  "recipient": "Vaani Kapoor",
+  "recipient_type": "Actress",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "59th Filmfare Awards. Kapoor plays the wedding contractor Goyal.",
+  "source_ids": [
+   "SOURCE-136",
+   "SOURCE-466"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-257",
+  "film_id": "FILM-144",
+  "ceremony_year": 2014,
+  "organization": "Filmfare Awards",
+  "category": "Best Actress",
+  "recipient": "Parineeti Chopra",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-136",
+   "SOURCE-466"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-258",
+  "film_id": "FILM-144",
+  "ceremony_year": 2014,
+  "organization": "Filmfare Awards",
+  "category": "Best Story",
+  "recipient": "Jaideep Sahni",
+  "recipient_type": "Writer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "Recorded in the ceremony article rather than the film's own award list.",
+  "source_ids": [
+   "SOURCE-466"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-259",
+  "film_id": "FILM-144",
+  "ceremony_year": 2014,
+  "organization": "Filmfare Awards",
+  "category": "Best Dialogue",
+  "recipient": "Jaideep Sahni",
+  "recipient_type": "Writer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "Recorded in the ceremony article rather than the film's own award list.",
+  "source_ids": [
+   "SOURCE-466"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-260",
+  "film_id": "FILM-152",
+  "ceremony_year": 2016,
+  "organization": "Indian Film Festival of Melbourne",
+  "category": "Best Film",
+  "recipient": "Kapoor & Sons",
+  "recipient_type": "Film",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "11 August 2016.",
+  "source_ids": [
+   "SOURCE-144"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-261",
+  "film_id": "FILM-152",
+  "ceremony_year": 2016,
+  "organization": "Indian Film Festival of Melbourne",
+  "category": "Best Director",
+  "recipient": "Shakun Batra",
+  "recipient_type": "Director",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-144"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-262",
+  "film_id": "FILM-152",
+  "ceremony_year": 2016,
+  "organization": "Screen Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "Star Screen Awards, 4 December 2016, as the ninety-year-old Amarjeet \"Dadu\" Kapoor, played under extensive prosthetic makeup.",
+  "source_ids": [
+   "SOURCE-144"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-263",
+  "film_id": "FILM-152",
+  "ceremony_year": 2016,
+  "organization": "Stardust Awards",
+  "category": "Best Supporting Role (Male)",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "19 December 2016. The citation covers this film and Sanam Re (FILM-151) together, so no separate row is recorded against that film.",
+  "source_ids": [
+   "SOURCE-144"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-264",
+  "film_id": "FILM-152",
+  "ceremony_year": 2017,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "62nd Filmfare Awards, 14 January 2017. His third and last Filmfare acting win, and the award that closed the arc from Best Actor for Bobby in 1974. Kapoor & Sons won 5 awards, the second-most of the night.",
+  "source_ids": [
+   "SOURCE-144",
+   "SOURCE-240",
+   "SOURCE-467"
+  ],
+  "confidence": "High"
+ },
+ {
+  "award_id": "AWARD-265",
+  "film_id": "FILM-152",
+  "ceremony_year": 2017,
+  "organization": "Filmfare Awards",
+  "category": "Best Story",
+  "recipient": "Shakun Batra and Ayesha Devitre Dhillon",
+  "recipient_type": "Writer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-144",
+   "SOURCE-467"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-266",
+  "film_id": "FILM-152",
+  "ceremony_year": 2017,
+  "organization": "Filmfare Awards",
+  "category": "Best Screenplay",
+  "recipient": "Shakun Batra and Ayesha Devitre Dhillon",
+  "recipient_type": "Writer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-144",
+   "SOURCE-467"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-267",
+  "film_id": "FILM-152",
+  "ceremony_year": 2017,
+  "organization": "Filmfare Awards",
+  "category": "Best Background Score",
+  "recipient": "Sameer Uddin",
+  "recipient_type": "Music director",
+  "result": "Win",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-144",
+   "SOURCE-467"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-268",
+  "film_id": "FILM-152",
+  "ceremony_year": 2017,
+  "organization": "Filmfare Awards",
+  "category": "Best Choreography",
+  "recipient": "Adil Shaikh",
+  "recipient_type": "Choreographer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "For \"Kar Gayi Chull\".",
+  "source_ids": [
+   "SOURCE-144",
+   "SOURCE-467"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-269",
+  "film_id": "FILM-152",
+  "ceremony_year": 2017,
+  "organization": "Filmfare Awards",
+  "category": "Best Film",
+  "recipient": "Hiroo Yash Johar, Karan Johar and Apoorva Mehta",
+  "recipient_type": "Producer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "The ceremony's lead credits the film with 8 nominations; 11 Filmfare results are documented in the film's own article.",
+  "source_ids": [
+   "SOURCE-144",
+   "SOURCE-467"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-270",
+  "film_id": "FILM-152",
+  "ceremony_year": 2017,
+  "organization": "Filmfare Awards",
+  "category": "Best Director",
+  "recipient": "Shakun Batra",
+  "recipient_type": "Director",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-144",
+   "SOURCE-467"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-271",
+  "film_id": "FILM-152",
+  "ceremony_year": 2017,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Fawad Khan",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "Three of the film's actors were nominated in this category; Kapoor won.",
+  "source_ids": [
+   "SOURCE-144",
+   "SOURCE-467"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-272",
+  "film_id": "FILM-152",
+  "ceremony_year": 2017,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Rajat Kapoor",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-144",
+   "SOURCE-467"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-273",
+  "film_id": "FILM-152",
+  "ceremony_year": 2017,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actress",
+  "recipient": "Ratna Pathak Shah",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-144",
+   "SOURCE-467"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-274",
+  "film_id": "FILM-152",
+  "ceremony_year": 2017,
+  "organization": "Filmfare Awards",
+  "category": "Best Music Director",
+  "recipient": "Amaal Mallik, Badshah, Arko Pravo Mukherjee, Tanishk Bagchi, Benny Dayal and Nucleya",
+  "recipient_type": "Music director",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-144",
+   "SOURCE-467"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-275",
+  "film_id": "FILM-152",
+  "ceremony_year": 2017,
+  "organization": "Zee Cine Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "11 March 2017.",
+  "source_ids": [
+   "SOURCE-144",
+   "SOURCE-240"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-276",
+  "film_id": "FILM-152",
+  "ceremony_year": 2017,
+  "organization": "Zee Cine Awards",
+  "category": "Best Actor in a Comic Role",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "A second Zee Cine award for the same performance.",
+  "source_ids": [
+   "SOURCE-144",
+   "SOURCE-240"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-277",
+  "film_id": "FILM-152",
+  "ceremony_year": 2017,
+  "organization": "IIFA Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "14 July 2017.",
+  "source_ids": [
+   "SOURCE-144"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-278",
+  "film_id": "FILM-152",
+  "ceremony_year": 2017,
+  "organization": "IIFA Awards",
+  "category": "Best Actor in a Comic Role",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-144"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-279",
+  "film_id": "FILM-155",
+  "ceremony_year": 2018,
+  "organization": "Screen Awards",
+  "category": "Best Film (Critics)",
+  "recipient": "Mulk",
+  "recipient_type": "Film",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "16 December 2018. Kapoor leads as Murad Ali Mohammed, the last of his major lead roles.",
+  "source_ids": [
+   "SOURCE-148"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-280",
+  "film_id": "FILM-156",
+  "ceremony_year": 2018,
+  "organization": "Toronto International Film Festival",
+  "category": "People's Choice Award",
+  "recipient": "Manto",
+  "recipient_type": "Film",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "notes": "The film also played Cannes in the Un Certain Regard section; a festival selection is not recorded here as an award. Kapoor appears in a cameo.",
+  "source_ids": [
+   "SOURCE-147"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-281",
+  "film_id": "FILM-155",
+  "ceremony_year": 2019,
+  "organization": "Filmfare Awards",
+  "category": "Best Story",
+  "recipient": "Anubhav Sinha",
+  "recipient_type": "Writer",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "64th Filmfare Awards, 23 March 2019. Mulk took 6 nominations. Kapoor himself was not nominated for the performance widely called among his best.",
+  "source_ids": [
+   "SOURCE-148",
+   "SOURCE-468"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-282",
+  "film_id": "FILM-155",
+  "ceremony_year": 2019,
+  "organization": "Filmfare Awards",
+  "category": "Best Actress (Critics)",
+  "recipient": "Taapsee Pannu",
+  "recipient_type": "Actress",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-148",
+   "SOURCE-468"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-283",
+  "film_id": "FILM-155",
+  "ceremony_year": 2019,
+  "organization": "Filmfare Awards",
+  "category": "Best Supporting Actor",
+  "recipient": "Manoj Pahwa",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-148",
+   "SOURCE-468"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-284",
+  "film_id": "FILM-155",
+  "ceremony_year": 2019,
+  "organization": "Filmfare Awards",
+  "category": "Best Screenplay",
+  "recipient": "Anubhav Sinha",
+  "recipient_type": "Writer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-148",
+   "SOURCE-468"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-285",
+  "film_id": "FILM-155",
+  "ceremony_year": 2019,
+  "organization": "Filmfare Awards",
+  "category": "Best Dialogue",
+  "recipient": "Anubhav Sinha",
+  "recipient_type": "Writer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-148",
+   "SOURCE-468"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-286",
+  "film_id": "FILM-155",
+  "ceremony_year": 2019,
+  "organization": "Filmfare Awards",
+  "category": "Best Editing",
+  "recipient": "Ballu Saluja",
+  "recipient_type": "Editor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-148",
+   "SOURCE-468"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-287",
+  "film_id": "FILM-156",
+  "ceremony_year": 2019,
+  "organization": "Filmfare Awards",
+  "category": "Best Costume Design",
+  "recipient": "Sheetal Sharma",
+  "recipient_type": "Technician",
+  "result": "Win",
+  "competitive": "Competitive",
+  "notes": "64th Filmfare Awards, 23 March 2019. Manto took 7 nominations. The results column of the film's own award table is malformed; win and nomination here follow the ceremony article's markup.",
+  "source_ids": [
+   "SOURCE-147",
+   "SOURCE-468"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-288",
+  "film_id": "FILM-156",
+  "ceremony_year": 2019,
+  "organization": "Filmfare Awards",
+  "category": "Best Film (Critics)",
+  "recipient": "Nandita Das",
+  "recipient_type": "Director",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-147",
+   "SOURCE-468"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-289",
+  "film_id": "FILM-156",
+  "ceremony_year": 2019,
+  "organization": "Filmfare Awards",
+  "category": "Best Actor (Critics)",
+  "recipient": "Nawazuddin Siddiqui",
+  "recipient_type": "Actor",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-147",
+   "SOURCE-468"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-290",
+  "film_id": "FILM-156",
+  "ceremony_year": 2019,
+  "organization": "Filmfare Awards",
+  "category": "Best Screenplay",
+  "recipient": "Nandita Das",
+  "recipient_type": "Writer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-147",
+   "SOURCE-468"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-291",
+  "film_id": "FILM-156",
+  "ceremony_year": 2019,
+  "organization": "Filmfare Awards",
+  "category": "Best Dialogue",
+  "recipient": "Nandita Das",
+  "recipient_type": "Writer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-147",
+   "SOURCE-468"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-292",
+  "film_id": "FILM-156",
+  "ceremony_year": 2019,
+  "organization": "Filmfare Awards",
+  "category": "Best Cinematography",
+  "recipient": "Kartik Vijay",
+  "recipient_type": "Cinematographer",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-147",
+   "SOURCE-468"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-293",
+  "film_id": "FILM-156",
+  "ceremony_year": 2019,
+  "organization": "Filmfare Awards",
+  "category": "Best Production Design",
+  "recipient": "Rita Ghosh",
+  "recipient_type": "Technician",
+  "result": "Nomination",
+  "competitive": "Competitive",
+  "source_ids": [
+   "SOURCE-147",
+   "SOURCE-468"
+  ],
+  "confidence": "Medium"
+ },
+ {
+  "award_id": "AWARD-294",
+  "ceremony_year": 2019,
+  "organization": "Other award",
+  "category": "Most Stylish Award",
+  "recipient": "Rishi Kapoor",
+  "recipient_type": "Actor (honorary)",
+  "result": "Win",
+  "competitive": "Honorary",
+  "notes": "Adidas Most Stylish Awards. His article's accolade list gives the category as \"Best Projected By Adidas\", which is garbled, and cites no source; recorded at low confidence because the award's exact name could not be verified.",
+  "source_ids": [
+   "SOURCE-240"
+  ],
+  "confidence": "Low"
+ }
+]
