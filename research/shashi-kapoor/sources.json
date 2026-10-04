@@ -4243,5 +4243,447 @@
   "source_type": "Encyclopedia article",
   "reliability": "C",
   "notes": "Downloaded as raw wikitext."
+ },
+ {
+  "source_id": "SOURCE-306",
+  "title": "10th Filmfare Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/10th_Filmfare_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Ceremony date 13 June 1963 and the Best Dialogue win for Dharmputra.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext. Winners are bolded in the category lists; nominees are indented beneath them.",
+  "film_ids": [
+   "FILM-007"
+  ]
+ },
+ {
+  "source_id": "SOURCE-307",
+  "title": "13th Filmfare Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/13th_Filmfare_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Ceremony date 7 May 1966; Waqt's five wins and two further nominations.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext. The page's prose says Raaj Kumar won Best Supporting Actor for Kaajal, but its own winners list bolds him for Waqt and lists Kaajal as the nominee; the winners list is followed here.",
+  "film_ids": [
+   "FILM-017"
+  ]
+ },
+ {
+  "source_id": "SOURCE-308",
+  "title": "14th Filmfare Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/14th_Filmfare_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Best Comedian win and nomination for Pyar Kiye Jaa.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext.",
+  "film_ids": [
+   "FILM-019"
+  ]
+ },
+ {
+  "source_id": "SOURCE-309",
+  "title": "18th Filmfare Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/18th_Filmfare_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Ceremony date 18 April 1971 and Sharda's Best Female Playback Singer win for Jahan Pyar Mile.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext.",
+  "film_ids": [
+   "FILM-035"
+  ]
+ },
+ {
+  "source_id": "SOURCE-310",
+  "title": "21st Filmfare Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/21st_Filmfare_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Ceremony date 11 April 1974; Asha Bhosle's Best Female Playback Singer win and Mohammed Rafi's male-category nomination for Naina, and the Best Female Playback Singer nomination for Aa Gale Lag Jaa.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext. Places Naina's two Filmfare citations at the 21st ceremony, which the film article does not date. The ceremony page credits the Aa Gale Lag Jaa nominee as Sushma Shrestha; the film article uses her later screen name, Poornima.",
+  "film_ids": [
+   "FILM-042",
+   "FILM-043"
+  ]
+ },
+ {
+  "source_id": "SOURCE-311",
+  "title": "22nd Filmfare Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/22nd_Filmfare_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Roti Kapda Aur Makaan's three wins from eleven nominations and Asrani's Best Comedian nomination for Chor Machaye Shor.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext.",
+  "film_ids": [
+   "FILM-048",
+   "FILM-050"
+  ]
+ },
+ {
+  "source_id": "SOURCE-312",
+  "title": "23rd Filmfare Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/23rd_Filmfare_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Deewaar's seven wins from nine nominations, Kapoor's Best Supporting Actor win, and Deven Verma's Best Comedian win for Chori Mera Kaam.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext. The page notes this was Kapoor's sole acting Filmfare award.",
+  "film_ids": [
+   "FILM-052",
+   "FILM-054"
+  ]
+ },
+ {
+  "source_id": "SOURCE-313",
+  "title": "24th Filmfare Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/24th_Filmfare_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Ceremony date 20 June 1977; Kabhi Kabhie's four wins from a leading thirteen nominations and Fakira's two wins from four.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext.",
+  "film_ids": [
+   "FILM-060",
+   "FILM-062"
+  ]
+ },
+ {
+  "source_id": "SOURCE-314",
+  "title": "25th Filmfare Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/25th_Filmfare_Awards",
+  "access_date": "2026-10-04",
+  "claims": "The four nominations and no wins for Doosra Aadmi.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext.",
+  "film_ids": [
+   "FILM-069"
+  ]
+ },
+ {
+  "source_id": "SOURCE-315",
+  "title": "26th Filmfare Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/26th_Filmfare_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Ceremony date 6 April 1979; Satyam Shivam Sundaram's two wins from six nominations, Trishul's five nominations without a win, and Raakhee's Best Actress nomination for Trishna.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext. Supplies Radhu Karmakar's Best Cinematography win for Satyam Shivam Sundaram, which the film article omits from its own awards list.",
+  "film_ids": [
+   "FILM-072",
+   "FILM-076",
+   "FILM-078"
+  ]
+ },
+ {
+  "source_id": "SOURCE-316",
+  "title": "27th Filmfare Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/27th_Filmfare_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Junoon's six wins from a leading nine nominations, including Best Film to Kapoor as producer, and Kaala Patthar's eight nominations without a win.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext.",
+  "film_ids": [
+   "FILM-084",
+   "FILM-085"
+  ]
+ },
+ {
+  "source_id": "SOURCE-317",
+  "title": "28th Filmfare Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/28th_Filmfare_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Shaan's Best Cinematography win and Best Music Director nomination.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext.",
+  "film_ids": [
+   "FILM-094"
+  ]
+ },
+ {
+  "source_id": "SOURCE-318",
+  "title": "29th Filmfare Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/29th_Filmfare_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Kalyug's three wins from five nominations, including Best Film to Kapoor as producer; Baseraa's five nominations without a win; Silsila's three nominations.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext.",
+  "film_ids": [
+   "FILM-095",
+   "FILM-100",
+   "FILM-101"
+  ]
+ },
+ {
+  "source_id": "SOURCE-319",
+  "title": "30th Filmfare Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/30th_Filmfare_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Ceremony date 25 September 1983 and Namak Halaal's one win from five nominations, including Kapoor's Best Supporting Actor nomination.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext.",
+  "film_ids": [
+   "FILM-105"
+  ]
+ },
+ {
+  "source_id": "SOURCE-320",
+  "title": "31st Filmfare Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/31st_Filmfare_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Vijeta's three wins from three nominations.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext.",
+  "film_ids": [
+   "FILM-103"
+  ]
+ },
+ {
+  "source_id": "SOURCE-321",
+  "title": "33rd Filmfare Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/33rd_Filmfare_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Ceremony date 28 January 1987 and Utsav's two wins from four nominations.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext.",
+  "film_ids": [
+   "FILM-114"
+  ]
+ },
+ {
+  "source_id": "SOURCE-322",
+  "title": "34th Filmfare Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/34th_Filmfare_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Ijaazat's Best Story and Best Lyricist wins and Anuradha Patel's Best Supporting Actress nomination.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext. Supplies the Best Story win for Subodh Ghosh, which the film article's own accolades table omits.",
+  "film_ids": [
+   "FILM-131"
+  ]
+ },
+ {
+  "source_id": "SOURCE-323",
+  "title": "55th Filmfare Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/55th_Filmfare_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Ceremony date 27 February 2010 and Shashi Kapoor as the Lifetime Achievement awardee.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext. Honorary award for a career rather than for a film, so the row carries no Film ID."
+ },
+ {
+  "source_id": "SOURCE-324",
+  "title": "9th National Film Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/9th_National_Film_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Presented 21 April 1962; the President's Silver Medal for Best Feature Film in Hindi to Dharmputra.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext.",
+  "film_ids": [
+   "FILM-007"
+  ]
+ },
+ {
+  "source_id": "SOURCE-325",
+  "title": "26th National Film Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/26th_National_Film_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Presented April 1979; Junoon's Best Feature Film in Hindi to Kapoor as producer, Best Cinematography and Best Sound Recording.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext. The ceremony names the third award Best Sound Recording; the film article calls it Best Audiography.",
+  "film_ids": [
+   "FILM-084"
+  ]
+ },
+ {
+  "source_id": "SOURCE-326",
+  "title": "32nd National Film Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/32nd_National_Film_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Presented June 1985; Utsav's Best Art Direction win.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext.",
+  "film_ids": [
+   "FILM-114"
+  ]
+ },
+ {
+  "source_id": "SOURCE-327",
+  "title": "33rd National Film Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/33rd_National_Film_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Presented June 1986; New Delhi Times as a most-awarded film with Best Actor for Shashi Kapoor, Best Cinematography for Subrata Mitra and the debut-director award for Ramesh Sharma.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext. Confirms these awards belong to the 33rd ceremony, for films of 1985, and not to the 34th, which does not mention the film at all.",
+  "film_ids": [
+   "FILM-120"
+  ]
+ },
+ {
+  "source_id": "SOURCE-328",
+  "title": "35th National Film Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/35th_National_Film_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Presented April 1988; Ijaazat's Best Lyrics and Best Female Playback Singer wins for 'Mera Kuchh Saamaan'.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext.",
+  "film_ids": [
+   "FILM-131"
+  ]
+ },
+ {
+  "source_id": "SOURCE-329",
+  "title": "41st National Film Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/41st_National_Film_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Announced 21 April 1994 and presented 30 September 1994; the Special Jury Award to Shashi Kapoor for In Custody, which the ceremony lists under its Urdu title Muhafiz as one of the two most-awarded films with four wins.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext. The film is indexed as Muhafiz throughout this ceremony page.",
+  "film_ids": [
+   "FILM-148"
+  ]
+ },
+ {
+  "source_id": "SOURCE-330",
+  "title": "43rd National Film Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/43rd_National_Film_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Presented 6 August 1996; Mithun Chakraborty's Best Supporting Actor win for Swami Vivekananda (Part I).",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext. Locates the award at the 43rd ceremony, for films of 1995, consistent with the film article's note that it was considered for the 1995 awards despite its delayed 1998 release.",
+  "film_ids": [
+   "FILM-152"
+  ]
+ },
+ {
+  "source_id": "SOURCE-331",
+  "title": "62nd National Film Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/62nd_National_Film_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Dadasaheb Phalke Award to Shashi Kapoor for the year 2014, announced 23–24 March 2015 and presented 3 May 2015.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext. Honorary career award, so the row carries no Film ID."
+ },
+ {
+  "source_id": "SOURCE-332",
+  "title": "37th British Academy Film Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/37th_British_Academy_Film_Awards",
+  "access_date": "2026-10-04",
+  "claims": "Ceremony date 25 March 1984 and Heat and Dust's eight nominations with the Best Adapted Screenplay win.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext.",
+  "film_ids": [
+   "FILM-109"
+  ]
+ },
+ {
+  "source_id": "SOURCE-333",
+  "title": "1953 Cannes Film Festival",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/1953_Cannes_Film_Festival",
+  "access_date": "2026-10-04",
+  "claims": "Awaara's selection in the main competition for the Grand Prize of the Festival, which went to The Wages of Fear.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext. Competing in the main competition is recorded as a nomination; the film won nothing.",
+  "film_ids": [
+   "FILM-004"
+  ]
+ },
+ {
+  "source_id": "SOURCE-334",
+  "title": "15th Berlin International Film Festival",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/15th_Berlin_International_Film_Festival",
+  "access_date": "2026-10-04",
+  "claims": "Madhur Jaffrey's Silver Bear for Best Actress for Shakespeare Wallah and the film's main-competition selection.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext. Confirms the 15th festival, held 25 June – 6 July 1965; the film article gives the same number.",
+  "film_ids": [
+   "FILM-015"
+  ]
+ },
+ {
+  "source_id": "SOURCE-335",
+  "title": "List of Padma Bhushan award recipients (2010–2019)",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/List_of_Padma_Bhushan_award_recipients_(2010%E2%80%932019)",
+  "access_date": "2026-10-04",
+  "claims": "Shashi Kapoor's 2011 Padma Bhushan in the Arts category, from Maharashtra.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext. The general Padma Bhushan article does not itemise recipients, so the decade list is used instead."
+ },
+ {
+  "source_id": "SOURCE-336",
+  "title": "Dadasaheb Phalke Award",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Dadasaheb_Phalke_Award",
+  "access_date": "2026-10-04",
+  "claims": "Shashi Kapoor as the award's recipient for 2014, and that Prithviraj, Raj and Shashi Kapoor are the only father and sons to have received it.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext. Lists the award by its year of award, 2014, rather than by the 2015 presentation."
+ },
+ {
+  "source_id": "SOURCE-337",
+  "title": "Filmfare Lifetime Achievement Award",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Filmfare_Lifetime_Achievement_Award",
+  "access_date": "2026-10-04",
+  "claims": "Shashi Kapoor among the recipients of the Filmfare Lifetime Achievement Award.",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext. Corroborates the 55th Filmfare Awards page."
  }
 ]
