@@ -1,0 +1,42 @@
+{
+  "_about": "Scope decisions for Rishi Kapoor, keyed by 'Title|Year' exactly as the Wikipedia filmography table gives them. Keep this file so `extract_wiki.py films` can be re-run when a new film surfaces. Spine page: 'Rishi Kapoor filmography' (a real article, not a redirect).",
+
+  "_rerun_warning": "Three session-local repairs were made in the scratchpad and are NOT stored here, so a fresh `table`/`fetch` undoes them and they must be re-applied: (1) The filmography table links Naqab (1989) as [[Naqab 1989|Naqab]] — a malformed target. No article exists under any spelling: 'Naqab (1989 film)' is a 404, plain 'Naqab' redirects to [[Negev]], and 'Naqaab' is a disambiguation page pointing at the 1955 film. The target was nulled in table.json and the 'Naqab 1989' key removed from pages.json so the film is treated as article-less. (2) Hamara Khandaan (1988) is a {{Redirect from film}} into [[List of Hindi films of 1988]]; cmd_films' existing startswith('List of') guard already handles it, so no repair was needed, but the film has no article of its own. (3) THE WORST ONE: [[Janam Janam]] is a redirect to [[Dilwale (2015 film)#Soundtrack]], because 'Janam Janam' is a *song* in that film. The 1988 Rishi Kapoor film has no article under any spelling. Left unrepaired, every mechanical field on the Janam Janam row came from Rohit Shetty's 2015 Dilwale — director, language, runtime, banner, composers — and its Wikipedia source row pointed at that film. The target was nulled in table.json and the 'Janam Janam' key removed from pages.json.",
+
+  "exclude": {
+    "Ek Do Teen Chaar|1980": "Never completed, so never released. Vijay Anand's multi-starrer was launched with Dharmendra, Hema Malini, Shashi Kapoor (replacing Vinod Khanna), Rishi Kapoor, Rakhee, Parveen Babi and Tina Munim, had a scheduled release of 3 October 1980, and was abandoned. The Shashi Kapoor run excluded the same film for the same reason (research/shashi-kapoor/extract_config.json). Note that [[List of Hindi films of 1980]] does list it, with a partly different cast, so that list is not evidence of release.",
+    "Apna Ghar|1989": "Unreleased. The Shashi Kapoor filmography marks it unreleased and the Shashi run excluded it on that basis; Rishi's own row gives the role as 'N/A', and the film is absent from [[List of Hindi films of 1989]]. No release date or review has been located.",
+    "Raj Kapoor|1987": "Documentary about his father in which he appears as himself, per the filmography table's own note. Excluded under the skill's rule against documentaries featuring only interview footage."
+  },
+
+  "overrides": {
+    "Shree 420|1955": {
+      "role_type": "Child role"
+    }
+  },
+
+  "notes": {
+    "Shree 420|1955": "A child appearance at roughly three years old, in the song 'Pyar Hua Iqrar Hua' in his father Raj Kapoor's film. The filmography table gives the role as 'Himself' but notes 'Child artist'; it is a child role, not a self appearance. The main Rishi Kapoor article's career section garbles this, appending 'and earned him the Filmfare Award for Best Actor' to the sentence about this cameo, which cannot be right for a three-year-old's walk-on; the claim is not carried over.",
+    "Mera Naam Joker|1970": "His credited debut, as the adolescent Raju, for which he won the National Film Award for Best Child Artist.",
+    "Naqab|1989": "No Wikipedia article under any spelling; see _rerun_warning. Released in 1989, directed by Raj Khosla, with Kapoor as Imran (matching the table's role) opposite Farha Naaz. Reportedly he replaced Vinod Khanna. Sourced only from search summaries and aggregator listings, so the row stays at Low confidence.",
+    "Gunahgaar|1980": "No Wikipedia article. Released 1980, Rahul Rawail's directorial debut, music by R. D. Burman, with Rajendra Kumar, Parveen Babi and Asha Parekh. Search summaries and aggregator listings only.",
+    "Pahunche Huwey Log|1986": "No Wikipedia article. Released 18 April 1986, the only film written and directed by the comedian Johnny Walker, produced by his sons Nazim and Kazim. Kapoor appears as himself in a guest appearance. Search summaries only.",
+    "Hamara Khandaan|1988": "No article of its own; the title is a redirect into [[List of Hindi films of 1988]], which gives the director as Anwar Pasha and the cast as Kapoor, Farha Naaz and Kiran Juneja.",
+    "Inteha Pyar Ki|1992": "No Wikipedia article. [[List of Hindi films of 1992]] gives J. K. Bihari as director and Kapoor and Rukhsar Rehman as leads; search summaries give a release of 13 April 1992. The table's role 'Rohit Shankar Walia' matches the reported character Rohit.",
+    "Sadhna|1993": "No Wikipedia article. Released 1993, directed by K. Ravi Shankar, with Raj Babbar and Sujata Mehta; Kapoor plays Karan, matching the table. Search summaries only.",
+    "Mohabbat Ki Arzoo|1994": "No Wikipedia article. The filmography row cites Box Office India, whose archived page gives a release of 13 May 1994, a runtime of 149 minutes and K. C. Bokadia as director. That page is the one tier-B fact available for the film.",
+    "Jai Hind|1999": "No Wikipedia article. [[List of Hindi films of 1999]] gives Manoj Kumar as director with Kapoor, Kunal Goswami, Shilpa Shirodkar and Pran; search summaries give a release of 23 April 1999. The row's own Box Office India citation is archived only at archive.today, which serves a CAPTCHA.",
+    "Manto|2018": "The table's role field reads 'Producer', which is the character, not a production credit: the film's cast list reads 'Rishi Kapoor as Film Producer'. Kept as an acting appearance.",
+    "Sharmaji Namkeen|2022": "Released posthumously in 2022. Kapoor died on 30 April 2020 with the film incomplete; the role was finished by another actor. The Body (December 2019) was the last film released in his lifetime.",
+    "Janam Janam|1988": "No Wikipedia article; see _rerun_warning item 3, where the title is a redirect to a song section of Dilwale (2015). Released 1988. [[List of Hindi films of 1988]] gives the director as Vijay Sadanah and the cast as Kapoor, Danny Denzongpa and Amrish Puri, genre Drama; the filmography table gives his character as Sunil. Those year-list facts are the only sourcing available, so the row stays at Low confidence.",
+    "Katilon Ke Kaatil|1982": "The filmography table lists 1982; the film article's infobox gives {{Film date|1981|12|11}}, a clean mid-December date rather than a 31-December year-end listing artefact, so the infobox date is used and the Film ID sits in 1981. Directed by Arjun Hingorani.",
+    "Biwi-O-Biwi|1981": "The film article never mentions Rishi Kapoor, but it is the right film: its infobox year matches, and it stars Sanjeev Kumar and his brother Randhir Kapoor. His credit here is a guest appearance as a hotel singer, which the article's cast list simply omits. Do NOT read the article's silence as evidence he is absent.",
+    "Ram Tere Kitne Nam|1985": "As with Biwi-O-Biwi, the article (Sanjeev Kumar and Rekha, released 15 February 1985) does not mention Kapoor at all; his credit is a guest appearance as himself that the cast list omits. The year matches, so the article is the right film.",
+    "Allah Rakha|1986": "As above: the article (Jackie Shroff, Dimple Kapadia, Meenakshi Sheshadri, 1986) does not mention Kapoor, whose credit is a guest appearance as himself. Resolved via the title 'Allah Rakha (film)'.",
+    "_title_spellings": "Nine rows carry a title spelled differently from the article they resolve to, and the workbook keeps the filmography table's spelling: Kabhie Kabhie -> Kabhi Kabhie, Doosra Aadmi -> Doosara Aadmi, Badaltey Rishtey -> Badalte Rishtey, Bade Dilwala -> Bade Dil Wala, Rishta To Ho Aisa -> Rishta Ho To Aisa, Nigahen -> 'Nigahen: Nagina Part II', Chashme Buddoor -> 'Chashme Baddoor (2013 film)', Kaanchi: The Unbreakable -> 'Kaanchi (2014 film)'. All were verified as the right films by mention count and release year; only Janam Janam's mismatch was a genuine wrong-subject resolution."
+  },
+
+  "extra_sources": {},
+
+  "add": []
+}
