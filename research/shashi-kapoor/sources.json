@@ -4685,5 +4685,246 @@
   "source_type": "Reference encyclopedia",
   "reliability": "C",
   "notes": "Downloaded as raw wikitext. Corroborates the 55th Filmfare Awards page."
+ },
+ {
+  "source_id": "SOURCE-338",
+  "title": "Box Office India: Box Office 1965 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=171&catName=MTk2NQ==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1965 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-017",
+   "FILM-018"
+  ]
+ },
+ {
+  "source_id": "SOURCE-339",
+  "title": "Box Office India: Box Office 1966 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=172&catName=MTk2Ng==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1966 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-020"
+  ]
+ },
+ {
+  "source_id": "SOURCE-340",
+  "title": "Box Office India: Box Office 1967 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=173&catName=MTk2Nw==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1967 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-022",
+   "FILM-023"
+  ]
+ },
+ {
+  "source_id": "SOURCE-341",
+  "title": "Box Office India: Box Office 1968 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=174&catName=MTk2OA==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1968 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-025",
+   "FILM-026"
+  ]
+ },
+ {
+  "source_id": "SOURCE-342",
+  "title": "Box Office India: Box Office 1973 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=179&catName=MTk3Mw==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1973 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-043"
+  ]
+ },
+ {
+  "source_id": "SOURCE-343",
+  "title": "Box Office India: Box Office 1974 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=180&catName=MTk3NA==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1974 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-048",
+   "FILM-050"
+  ]
+ },
+ {
+  "source_id": "SOURCE-344",
+  "title": "Box Office India: Box Office 1976 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=182&catName=MTk3Ng==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1976 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-059",
+   "FILM-060",
+   "FILM-061",
+   "FILM-062"
+  ]
+ },
+ {
+  "source_id": "SOURCE-345",
+  "title": "Box Office India: Box Office 1977 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=183&catName=MTk3Nw==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1977 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-066",
+   "FILM-067"
+  ]
+ },
+ {
+  "source_id": "SOURCE-346",
+  "title": "Box Office India: Box Office 1978 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=184&catName=MTk3OA==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1978 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-073",
+   "FILM-076",
+   "FILM-078"
+  ]
+ },
+ {
+  "source_id": "SOURCE-347",
+  "title": "Box Office India: Box Office 1979 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=185&catName=MTk3OQ==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1979 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-083",
+   "FILM-085",
+   "FILM-086",
+   "FILM-087"
+  ]
+ },
+ {
+  "source_id": "SOURCE-348",
+  "title": "Box Office India: Box Office 1980 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=186&catName=MTk4MA==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1980 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-088",
+   "FILM-092",
+   "FILM-094"
+  ]
+ },
+ {
+  "source_id": "SOURCE-349",
+  "title": "Box Office India: Box Office 1981 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=187&catName=MTk4MQ==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1981 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-097",
+   "FILM-098",
+   "FILM-099"
+  ]
+ },
+ {
+  "source_id": "SOURCE-350",
+  "title": "Box Office India: Box Office 1982 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=188&catName=MTk4Mg==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1982 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-105"
+  ]
+ },
+ {
+  "source_id": "SOURCE-351",
+  "title": "Box Office India: Box Office 1991 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=197&catName=MTk5MQ==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1991 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-146"
+  ]
+ },
+ {
+  "source_id": "SOURCE-352",
+  "title": "Box Office India: Muhafiz",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://www.boxofficeindia.com/movie.php?movieid=3163",
+  "claims": "Nett gross, India gross, overseas gross, worldwide gross, budget and footfalls.",
+  "source_type": "Trade box-office database",
+  "reliability": "B",
+  "notes": "Live Box Office India movie page. Identity confirmed from the credits listed on the page.",
+  "film_ids": [
+   "FILM-148"
+  ]
+ },
+ {
+  "source_id": "SOURCE-353",
+  "title": "Box Office India: Ghar Bazar",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://www.boxofficeindia.com/movie.php?movieid=2587",
+  "claims": "Nett gross, India gross, overseas gross, worldwide gross, budget and footfalls.",
+  "source_type": "Trade box-office database",
+  "reliability": "B",
+  "notes": "Live Box Office India movie page. Identity confirmed from the credits listed on the page.",
+  "film_ids": [
+   "FILM-151"
+  ]
  }
 ]
