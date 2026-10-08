@@ -3,7 +3,7 @@
   "name": "Laxmikant–Pyarelal",
   "slug": "laxmikant_pyarelal",
   "functions": "Song composer",
-  "count": 27,
+  "count": 28,
   "film_ids": [
    "FILM-019",
    "FILM-032",
@@ -22,6 +22,7 @@
    "FILM-077",
    "FILM-083",
    "FILM-087",
+   "FILM-090",
    "FILM-091",
    "FILM-097",
    "FILM-098",
@@ -40,9 +41,11 @@
   "name": "Kalyanji–Anandji",
   "slug": "kalyanji_anandji",
   "functions": "Song composer; Background-score composer",
-  "count": 19,
+  "count": 21,
   "film_ids": [
+   "FILM-009",
    "FILM-018",
+   "FILM-022",
    "FILM-023",
    "FILM-025",
    "FILM-029",
@@ -90,8 +93,9 @@
   "name": "Bappi Lahiri",
   "slug": "bappi_lahiri",
   "functions": "Song composer",
-  "count": 9,
+  "count": 10,
   "film_ids": [
+   "FILM-082",
    "FILM-105",
    "FILM-116",
    "FILM-119",
@@ -283,8 +287,9 @@
   "name": "Khayyam",
   "slug": "khayyam",
   "functions": "Song composer",
-  "count": 4,
+  "count": 5,
   "film_ids": [
+   "FILM-016",
    "FILM-060",
    "FILM-078",
    "FILM-106",
@@ -297,11 +302,13 @@
   "name": "Rajesh Roshan",
   "slug": "rajesh_roshan",
   "functions": "Song composer",
-  "count": 4,
+  "count": 6,
   "film_ids": [
    "FILM-069",
+   "FILM-073",
    "FILM-085",
    "FILM-086",
+   "FILM-088",
    "FILM-092"
   ],
   "tier": "B",
@@ -488,8 +495,9 @@
   "name": "Gulzar",
   "slug": "gulzar",
   "functions": "Director; Writer",
-  "count": 3,
+  "count": 4,
   "film_ids": [
+   "FILM-088",
    "FILM-095",
    "FILM-120",
    "FILM-131"
@@ -631,8 +639,9 @@
   "name": "Salil Chowdhury",
   "slug": "salil_chowdhury",
   "functions": "Song composer; Background-score composer; Writer",
-  "count": 3,
+  "count": 4,
   "film_ids": [
+   "FILM-006",
    "FILM-008",
    "FILM-085",
    "FILM-152"
@@ -683,8 +692,9 @@
   "name": "Suraj Prakash",
   "slug": "suraj_prakash",
   "functions": "Director; Producer",
-  "count": 3,
+  "count": 4,
   "film_ids": [
+   "FILM-009",
    "FILM-018",
    "FILM-023",
    "FILM-030"
@@ -770,9 +780,10 @@
   "name": "Anu Malik",
   "slug": "anu_malik",
   "functions": "Song composer",
-  "count": 2,
+  "count": 3,
   "film_ids": [
    "FILM-128",
+   "FILM-138",
    "FILM-140"
   ],
   "tier": "C",
@@ -842,9 +853,10 @@
   "name": "G. P. Sippy",
   "slug": "g_p_sippy",
   "functions": "Producer",
-  "count": 2,
+  "count": 3,
   "film_ids": [
    "FILM-072",
+   "FILM-082",
    "FILM-094"
   ],
   "tier": "C",
@@ -1190,9 +1202,10 @@
   "name": "A. Salaam",
   "slug": "a_salaam",
   "functions": "Director",
-  "count": 1,
+  "count": 2,
   "film_ids": [
-   "FILM-055"
+   "FILM-055",
+   "FILM-090"
   ],
   "tier": "C",
   "person_id": "PERSON-088"
@@ -1245,8 +1258,9 @@
   "name": "Akhtar Mirza",
   "slug": "akhtar_mirza",
   "functions": "Writer",
-  "count": 1,
+  "count": 2,
   "film_ids": [
+   "FILM-016",
    "FILM-017"
   ],
   "tier": "C",
@@ -2202,9 +2216,20 @@
   "name": "Indeevar",
   "slug": "indeevar",
   "functions": "Writer",
-  "count": 1,
+  "count": 12,
   "film_ids": [
-   "FILM-093"
+   "FILM-005",
+   "FILM-022",
+   "FILM-040",
+   "FILM-042",
+   "FILM-047",
+   "FILM-071",
+   "FILM-082",
+   "FILM-093",
+   "FILM-110",
+   "FILM-115",
+   "FILM-128",
+   "FILM-142"
   ],
   "tier": "C",
   "person_id": "PERSON-180"
@@ -2367,9 +2392,10 @@
   "name": "Kalpataru",
   "slug": "kalpataru",
   "functions": "Director",
-  "count": 1,
+  "count": 2,
   "film_ids": [
-   "FILM-125"
+   "FILM-125",
+   "FILM-126"
   ],
   "tier": "C",
   "person_id": "PERSON-195"
@@ -3071,9 +3097,10 @@
   "name": "Qamar Jalalabadi",
   "slug": "qamar_jalalabadi",
   "functions": "Writer",
-  "count": 1,
+  "count": 2,
   "film_ids": [
-   "FILM-003"
+   "FILM-003",
+   "FILM-022"
   ],
   "tier": "C",
   "person_id": "PERSON-259"
@@ -3236,8 +3263,9 @@
   "name": "Rajinder Krishan",
   "slug": "rajinder_krishan",
   "functions": "Writer",
-  "count": 1,
+  "count": 2,
   "film_ids": [
+   "FILM-003",
    "FILM-008"
   ],
   "tier": "C",
@@ -3368,9 +3396,10 @@
   "name": "Ravi",
   "slug": "ravi",
   "functions": "Song composer",
-  "count": 1,
+  "count": 2,
   "film_ids": [
-   "FILM-017"
+   "FILM-017",
+   "FILM-126"
   ],
   "tier": "C",
   "person_id": "PERSON-286"
@@ -3379,8 +3408,9 @@
   "name": "Ravi Tandon",
   "slug": "ravi_tandon",
   "functions": "Director",
-  "count": 1,
+  "count": 2,
   "film_ids": [
+   "FILM-073",
    "FILM-121"
   ],
   "tier": "C",
@@ -3390,8 +3420,9 @@
   "name": "Ravindra Peepat",
   "slug": "ravindra_peepat",
   "functions": "Director; Producer",
-  "count": 1,
+  "count": 2,
   "film_ids": [
+   "FILM-082",
    "FILM-135"
   ],
   "tier": "C",
@@ -4116,9 +4147,13 @@
   "name": "Verma Malik",
   "slug": "verma_malik",
   "functions": "Writer",
-  "count": 1,
+  "count": 5,
   "film_ids": [
-   "FILM-066"
+   "FILM-050",
+   "FILM-054",
+   "FILM-066",
+   "FILM-070",
+   "FILM-079"
   ],
   "tier": "C",
   "person_id": "PERSON-354"

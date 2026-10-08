@@ -5110,5 +5110,204 @@
    "PAIR-048",
    "PAIR-049"
   ]
+ },
+ {
+  "source_id": "SOURCE-365",
+  "title": "Box Office India: Box Office 1950 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-08",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=156&catName=MTk1MA==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1950 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table, recovered on a second sweep; the first pass missed this year to transient rate limiting rather than a wrong URL.",
+  "film_ids": [
+   "FILM-002",
+   "FILM-003"
+  ]
+ },
+ {
+  "source_id": "SOURCE-366",
+  "title": "Box Office India: Box Office 1975 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-08",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=181&catName=MTk3NQ==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1975 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table, recovered on a second sweep; the first pass missed this year to transient rate limiting rather than a wrong URL.",
+  "film_ids": [
+   "FILM-052",
+   "FILM-053",
+   "FILM-054"
+  ]
+ },
+ {
+  "source_id": "SOURCE-367",
+  "title": "HindiGeetMala: Char Diwari (1961)",
+  "publisher": "HindiGeetMala",
+  "access_date": "2026-10-08",
+  "url": "https://www.hindigeetmala.net/movie/char_diwari.htm",
+  "claims": "Film director, producer, music director, lyricist and billed star cast.",
+  "source_type": "Film-song reference database",
+  "reliability": "D",
+  "notes": "Used only because these films have no Wikipedia article and no stronger source was located. Verified as the right film by matching the page's stated year and, where he is credited, Kapoor's presence in the billed cast. The site splits composing duos and aggregates per-song credits, so values were canonicalised against the workbook's existing spellings and uncorroborated extras dropped.",
+  "film_ids": [
+   "FILM-006"
+  ]
+ },
+ {
+  "source_id": "SOURCE-368",
+  "title": "HindiGeetMala: Mehndi Lagi Mere Haath (1962)",
+  "publisher": "HindiGeetMala",
+  "access_date": "2026-10-08",
+  "url": "https://www.hindigeetmala.net/movie/mehndi_lagi_mere_haath.htm",
+  "claims": "Film director, producer, music director, lyricist and billed star cast.",
+  "source_type": "Film-song reference database",
+  "reliability": "D",
+  "notes": "Used only because these films have no Wikipedia article and no stronger source was located. Verified as the right film by matching the page's stated year and, where he is credited, Kapoor's presence in the billed cast. The site splits composing duos and aggregates per-song credits, so values were canonicalised against the workbook's existing spellings and uncorroborated extras dropped.",
+  "film_ids": [
+   "FILM-009"
+  ]
+ },
+ {
+  "source_id": "SOURCE-369",
+  "title": "HindiGeetMala: Mohabbat Isko Kahete Hain (1965)",
+  "publisher": "HindiGeetMala",
+  "access_date": "2026-10-08",
+  "url": "https://www.hindigeetmala.net/movie/mohabbat_isko_kahete_hain.htm",
+  "claims": "Film director, producer, music director, lyricist and billed star cast.",
+  "source_type": "Film-song reference database",
+  "reliability": "D",
+  "notes": "Used only because these films have no Wikipedia article and no stronger source was located. Verified as the right film by matching the page's stated year and, where he is credited, Kapoor's presence in the billed cast. The site splits composing duos and aggregates per-song credits, so values were canonicalised against the workbook's existing spellings and uncorroborated extras dropped.",
+  "film_ids": [
+   "FILM-016"
+  ]
+ },
+ {
+  "source_id": "SOURCE-370",
+  "title": "HindiGeetMala: Biradari (1966)",
+  "publisher": "HindiGeetMala",
+  "access_date": "2026-10-08",
+  "url": "https://www.hindigeetmala.net/movie/biradari.htm",
+  "claims": "Film director, producer, music director, lyricist and billed star cast.",
+  "source_type": "Film-song reference database",
+  "reliability": "D",
+  "notes": "Used only because these films have no Wikipedia article and no stronger source was located. Verified as the right film by matching the page's stated year and, where he is credited, Kapoor's presence in the billed cast. The site splits composing duos and aggregates per-song credits, so values were canonicalised against the workbook's existing spellings and uncorroborated extras dropped.",
+  "film_ids": [
+   "FILM-021"
+  ]
+ },
+ {
+  "source_id": "SOURCE-371",
+  "title": "HindiGeetMala: Dil Ne Pukara (1967)",
+  "publisher": "HindiGeetMala",
+  "access_date": "2026-10-08",
+  "url": "https://www.hindigeetmala.net/movie/dil_ne_pukara.htm",
+  "claims": "Film director, producer, music director, lyricist and billed star cast.",
+  "source_type": "Film-song reference database",
+  "reliability": "D",
+  "notes": "Used only because these films have no Wikipedia article and no stronger source was located. Verified as the right film by matching the page's stated year and, where he is credited, Kapoor's presence in the billed cast. The site splits composing duos and aggregates per-song credits, so values were canonicalised against the workbook's existing spellings and uncorroborated extras dropped.",
+  "film_ids": [
+   "FILM-022"
+  ]
+ },
+ {
+  "source_id": "SOURCE-372",
+  "title": "HindiGeetMala: Muqaddar (1978)",
+  "publisher": "HindiGeetMala",
+  "access_date": "2026-10-08",
+  "url": "https://www.hindigeetmala.net/movie/muqaddar.htm",
+  "claims": "Film director, producer, music director, lyricist and billed star cast.",
+  "source_type": "Film-song reference database",
+  "reliability": "D",
+  "notes": "Used only because these films have no Wikipedia article and no stronger source was located. Verified as the right film by matching the page's stated year and, where he is credited, Kapoor's presence in the billed cast. The site splits composing duos and aggregates per-song credits, so values were canonicalised against the workbook's existing spellings and uncorroborated extras dropped.",
+  "film_ids": [
+   "FILM-073"
+  ]
+ },
+ {
+  "source_id": "SOURCE-373",
+  "title": "HindiGeetMala: Ahsaas (1979)",
+  "publisher": "HindiGeetMala",
+  "access_date": "2026-10-08",
+  "url": "https://www.hindigeetmala.net/movie/ahsaas.htm",
+  "claims": "Film director, producer, music director, lyricist and billed star cast.",
+  "source_type": "Film-song reference database",
+  "reliability": "D",
+  "notes": "Used only because these films have no Wikipedia article and no stronger source was located. Verified as the right film by matching the page's stated year and, where he is credited, Kapoor's presence in the billed cast. The site splits composing duos and aggregates per-song credits, so values were canonicalised against the workbook's existing spellings and uncorroborated extras dropped.",
+  "film_ids": [
+   "FILM-082"
+  ]
+ },
+ {
+  "source_id": "SOURCE-374",
+  "title": "HindiGeetMala: Swayamvar (1980)",
+  "publisher": "HindiGeetMala",
+  "access_date": "2026-10-08",
+  "url": "https://www.hindigeetmala.net/movie/swayamvar.htm",
+  "claims": "Film director, producer, music director, lyricist and billed star cast.",
+  "source_type": "Film-song reference database",
+  "reliability": "D",
+  "notes": "Used only because these films have no Wikipedia article and no stronger source was located. Verified as the right film by matching the page's stated year and, where he is credited, Kapoor's presence in the billed cast. The site splits composing duos and aggregates per-song credits, so values were canonicalised against the workbook's existing spellings and uncorroborated extras dropped.",
+  "film_ids": [
+   "FILM-088"
+  ]
+ },
+ {
+  "source_id": "SOURCE-375",
+  "title": "HindiGeetMala: Ganga Aur Suraj (1980)",
+  "publisher": "HindiGeetMala",
+  "access_date": "2026-10-08",
+  "url": "https://www.hindigeetmala.net/movie/ganga_aur_suraj.htm",
+  "claims": "Film director, producer, music director, lyricist and billed star cast.",
+  "source_type": "Film-song reference database",
+  "reliability": "D",
+  "notes": "Used only because these films have no Wikipedia article and no stronger source was located. Verified as the right film by matching the page's stated year and, where he is credited, Kapoor's presence in the billed cast. The site splits composing duos and aggregates per-song credits, so values were canonicalised against the workbook's existing spellings and uncorroborated extras dropped.",
+  "film_ids": [
+   "FILM-090"
+  ]
+ },
+ {
+  "source_id": "SOURCE-376",
+  "title": "HindiGeetMala: Ghar Ka Sukh (1987)",
+  "publisher": "HindiGeetMala",
+  "access_date": "2026-10-08",
+  "url": "https://www.hindigeetmala.net/movie/ghar_ka_sukh.htm",
+  "claims": "Film director, producer, music director, lyricist and billed star cast.",
+  "source_type": "Film-song reference database",
+  "reliability": "D",
+  "notes": "Used only because these films have no Wikipedia article and no stronger source was located. Verified as the right film by matching the page's stated year and, where he is credited, Kapoor's presence in the billed cast. The site splits composing duos and aggregates per-song credits, so values were canonicalised against the workbook's existing spellings and uncorroborated extras dropped.",
+  "film_ids": [
+   "FILM-126"
+  ]
+ },
+ {
+  "source_id": "SOURCE-377",
+  "title": "HindiGeetMala: Jaaydaad (1989)",
+  "publisher": "HindiGeetMala",
+  "access_date": "2026-10-08",
+  "url": "https://www.hindigeetmala.net/movie/jaaydaad.htm",
+  "claims": "Film director, producer, music director, lyricist and billed star cast.",
+  "source_type": "Film-song reference database",
+  "reliability": "D",
+  "notes": "Used only because these films have no Wikipedia article and no stronger source was located. Verified as the right film by matching the page's stated year and, where he is credited, Kapoor's presence in the billed cast. The site splits composing duos and aggregates per-song credits, so values were canonicalised against the workbook's existing spellings and uncorroborated extras dropped.",
+  "film_ids": [
+   "FILM-138"
+  ]
+ },
+ {
+  "source_id": "SOURCE-378",
+  "title": "HindiGeetMala: Akhri Muqabla (1988)",
+  "publisher": "HindiGeetMala",
+  "access_date": "2026-10-08",
+  "url": "https://www.hindigeetmala.net/movie/akhri_muqabla.htm",
+  "claims": "Film director, producer, music director, lyricist and billed star cast.",
+  "source_type": "Film-song reference database",
+  "reliability": "D",
+  "notes": "Used only because these films have no Wikipedia article and no stronger source was located. Verified as the right film by matching the page's stated year and, where he is credited, Kapoor's presence in the billed cast. The site splits composing duos and aggregates per-song credits, so values were canonicalised against the workbook's existing spellings and uncorroborated extras dropped.",
+  "film_ids": [
+   "FILM-139"
+  ]
  }
 ]
