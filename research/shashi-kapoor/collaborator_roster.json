@@ -3260,13 +3260,16 @@
   "person_id": "PERSON-273"
  },
  {
-  "name": "Rajinder Krishan",
-  "slug": "rajinder_krishan",
+  "name": "Rajendra Krishan",
+  "slug": "rajendra_krishan",
   "functions": "Writer",
-  "count": 2,
+  "count": 5,
   "film_ids": [
    "FILM-003",
-   "FILM-008"
+   "FILM-008",
+   "FILM-019",
+   "FILM-020",
+   "FILM-101"
   ],
   "tier": "C",
   "person_id": "PERSON-274"
@@ -4289,5 +4292,126 @@
   ],
   "tier": "C",
   "person_id": "PERSON-366"
+ },
+ {
+  "name": "Anand Bakshi",
+  "slug": "anand_bakshi",
+  "functions": "Writer",
+  "count": 13,
+  "film_ids": [
+   "FILM-018",
+   "FILM-034",
+   "FILM-057",
+   "FILM-058",
+   "FILM-068",
+   "FILM-074",
+   "FILM-090",
+   "FILM-091",
+   "FILM-094",
+   "FILM-098",
+   "FILM-112",
+   "FILM-118",
+   "FILM-124"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-367"
+ },
+ {
+  "name": "Sahir Ludhianvi",
+  "slug": "sahir_ludhianvi",
+  "functions": "Writer",
+  "count": 7,
+  "film_ids": [
+   "FILM-007",
+   "FILM-017",
+   "FILM-043",
+   "FILM-052",
+   "FILM-060",
+   "FILM-078",
+   "FILM-085"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-368"
+ },
+ {
+  "name": "Anjaan",
+  "slug": "anjaan",
+  "functions": "Writer",
+  "count": 7,
+  "film_ids": [
+   "FILM-073",
+   "FILM-105",
+   "FILM-113",
+   "FILM-116",
+   "FILM-123",
+   "FILM-134",
+   "FILM-144"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-369"
+ },
+ {
+  "name": "Majrooh Sultanpuri",
+  "slug": "majrooh_sultanpuri",
+  "functions": "Writer",
+  "count": 4,
+  "film_ids": [
+   "FILM-016",
+   "FILM-028",
+   "FILM-069",
+   "FILM-106"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-370"
+ },
+ {
+  "name": "Hasrat Jaipuri",
+  "slug": "hasrat_jaipuri",
+  "functions": "Writer",
+  "count": 4,
+  "film_ids": [
+   "FILM-031",
+   "FILM-042",
+   "FILM-047",
+   "FILM-058"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-371"
+ },
+ {
+  "name": "Gulshan Bawra",
+  "slug": "gulshan_bawra",
+  "functions": "Writer",
+  "count": 2,
+  "film_ids": [
+   "FILM-040",
+   "FILM-086"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-372"
+ },
+ {
+  "name": "Santosh Anand",
+  "slug": "santosh_anand",
+  "functions": "Writer",
+  "count": 2,
+  "film_ids": [
+   "FILM-050",
+   "FILM-097"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-373"
+ },
+ {
+  "name": "Nida Fazli",
+  "slug": "nida_fazli",
+  "functions": "Writer",
+  "count": 2,
+  "film_ids": [
+   "FILM-101",
+   "FILM-117"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-374"
  }
 ]

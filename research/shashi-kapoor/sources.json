@@ -5309,5 +5309,108 @@
   "film_ids": [
    "FILM-139"
   ]
+ },
+ {
+  "source_id": "SOURCE-379",
+  "title": "Anand Bakshi — Wikipedia",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Anand_Bakshi",
+  "access_date": "2026-10-08",
+  "claims": "Indian lyricist. Biography, dates, career background, notable works and awards for Anand Bakshi, used for the collaborator entry.",
+  "source_type": "Encyclopedia article",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext."
+ },
+ {
+  "source_id": "SOURCE-380",
+  "title": "Sahir Ludhianvi — Wikipedia",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Sahir_Ludhianvi",
+  "access_date": "2026-10-08",
+  "claims": "Indian lyricist. Biography, dates, career background, notable works and awards for Sahir Ludhianvi, used for the collaborator entry.",
+  "source_type": "Encyclopedia article",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext."
+ },
+ {
+  "source_id": "SOURCE-381",
+  "title": "Anjaan — Wikipedia",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Anjaan_(lyricist)",
+  "access_date": "2026-10-08",
+  "claims": "Indian lyricist. Biography, dates, career background, notable works and awards for Anjaan, used for the collaborator entry.",
+  "source_type": "Encyclopedia article",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext."
+ },
+ {
+  "source_id": "SOURCE-382",
+  "title": "Majrooh Sultanpuri — Wikipedia",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Majrooh_Sultanpuri",
+  "access_date": "2026-10-08",
+  "claims": "Indian lyricist. Biography, dates, career background, notable works and awards for Majrooh Sultanpuri, used for the collaborator entry.",
+  "source_type": "Encyclopedia article",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext."
+ },
+ {
+  "source_id": "SOURCE-383",
+  "title": "Hasrat Jaipuri — Wikipedia",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Hasrat_Jaipuri",
+  "access_date": "2026-10-08",
+  "claims": "Indian lyricist. Biography, dates, career background, notable works and awards for Hasrat Jaipuri, used for the collaborator entry.",
+  "source_type": "Encyclopedia article",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext."
+ },
+ {
+  "source_id": "SOURCE-384",
+  "title": "Gulshan Bawra — Wikipedia",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Gulshan_Kumar_Mehta",
+  "access_date": "2026-10-08",
+  "claims": "Indian lyricist. Biography, dates, career background, notable works and awards for Gulshan Bawra, used for the collaborator entry.",
+  "source_type": "Encyclopedia article",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext. The title 'Gulshan Bawra' is a redirect to his birth name, Gulshan Kumar Mehta, which is the article used."
+ },
+ {
+  "source_id": "SOURCE-385",
+  "title": "Santosh Anand — Wikipedia",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Santosh_Anand",
+  "access_date": "2026-10-08",
+  "claims": "Indian lyricist. Biography, dates, career background, notable works and awards for Santosh Anand, used for the collaborator entry.",
+  "source_type": "Encyclopedia article",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext."
+ },
+ {
+  "source_id": "SOURCE-386",
+  "title": "Nida Fazli — Wikipedia",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Nida_Fazli",
+  "access_date": "2026-10-08",
+  "claims": "Indian lyricist. Biography, dates, career background, notable works and awards for Nida Fazli, used for the collaborator entry.",
+  "source_type": "Encyclopedia article",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext."
+ },
+ {
+  "source_id": "SOURCE-387",
+  "title": "Rajendra Krishan — Wikipedia",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Rajendra_Krishan",
+  "access_date": "2026-10-08",
+  "claims": "Indian poet, lyricist and screenwriter (1919-1987). Confirms that Rajinder Krishan and Rajendra Krishan are one person, the article giving 'Rajinder Krishan' as an alternate name.",
+  "source_type": "Encyclopedia article",
+  "reliability": "C",
+  "notes": "Downloaded as raw wikitext. Used to reconcile the two spellings used in the Films sheet onto PERSON-274.",
+  "film_ids": [
+   "FILM-003",
+   "FILM-008"
+  ]
  }
 ]
