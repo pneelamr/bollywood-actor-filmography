@@ -4685,5 +4685,629 @@
   "source_type": "Reference encyclopedia",
   "reliability": "C",
   "notes": "Downloaded as raw wikitext. Corroborates the 55th Filmfare Awards page."
+ },
+ {
+  "source_id": "SOURCE-338",
+  "title": "Box Office India: Box Office 1965 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=171&catName=MTk2NQ==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1965 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-017",
+   "FILM-018"
+  ]
+ },
+ {
+  "source_id": "SOURCE-339",
+  "title": "Box Office India: Box Office 1966 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=172&catName=MTk2Ng==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1966 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-020"
+  ]
+ },
+ {
+  "source_id": "SOURCE-340",
+  "title": "Box Office India: Box Office 1967 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=173&catName=MTk2Nw==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1967 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-022",
+   "FILM-023"
+  ]
+ },
+ {
+  "source_id": "SOURCE-341",
+  "title": "Box Office India: Box Office 1968 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=174&catName=MTk2OA==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1968 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-025",
+   "FILM-026"
+  ]
+ },
+ {
+  "source_id": "SOURCE-342",
+  "title": "Box Office India: Box Office 1973 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=179&catName=MTk3Mw==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1973 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-043"
+  ]
+ },
+ {
+  "source_id": "SOURCE-343",
+  "title": "Box Office India: Box Office 1974 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=180&catName=MTk3NA==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1974 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-048",
+   "FILM-050"
+  ]
+ },
+ {
+  "source_id": "SOURCE-344",
+  "title": "Box Office India: Box Office 1976 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=182&catName=MTk3Ng==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1976 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-059",
+   "FILM-060",
+   "FILM-061",
+   "FILM-062"
+  ]
+ },
+ {
+  "source_id": "SOURCE-345",
+  "title": "Box Office India: Box Office 1977 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=183&catName=MTk3Nw==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1977 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-066",
+   "FILM-067"
+  ]
+ },
+ {
+  "source_id": "SOURCE-346",
+  "title": "Box Office India: Box Office 1978 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=184&catName=MTk3OA==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1978 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-073",
+   "FILM-076",
+   "FILM-078"
+  ]
+ },
+ {
+  "source_id": "SOURCE-347",
+  "title": "Box Office India: Box Office 1979 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=185&catName=MTk3OQ==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1979 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-083",
+   "FILM-085",
+   "FILM-086",
+   "FILM-087"
+  ]
+ },
+ {
+  "source_id": "SOURCE-348",
+  "title": "Box Office India: Box Office 1980 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=186&catName=MTk4MA==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1980 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-088",
+   "FILM-092",
+   "FILM-094"
+  ]
+ },
+ {
+  "source_id": "SOURCE-349",
+  "title": "Box Office India: Box Office 1981 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=187&catName=MTk4MQ==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1981 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-097",
+   "FILM-098",
+   "FILM-099"
+  ]
+ },
+ {
+  "source_id": "SOURCE-350",
+  "title": "Box Office India: Box Office 1982 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=188&catName=MTk4Mg==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1982 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-105"
+  ]
+ },
+ {
+  "source_id": "SOURCE-351",
+  "title": "Box Office India: Box Office 1991 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=197&catName=MTk5MQ==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1991 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table; the live site no longer serves pre-1989 years. Figures are nominal rupees; nett and gross are reported separately. Resolves to the capture nearest 1 June 2010.",
+  "film_ids": [
+   "FILM-146"
+  ]
+ },
+ {
+  "source_id": "SOURCE-352",
+  "title": "Box Office India: Muhafiz",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://www.boxofficeindia.com/movie.php?movieid=3163",
+  "claims": "Nett gross, India gross, overseas gross, worldwide gross, budget and footfalls.",
+  "source_type": "Trade box-office database",
+  "reliability": "B",
+  "notes": "Live Box Office India movie page. Identity confirmed from the credits listed on the page.",
+  "film_ids": [
+   "FILM-148"
+  ]
+ },
+ {
+  "source_id": "SOURCE-353",
+  "title": "Box Office India: Ghar Bazar",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-05",
+  "url": "https://www.boxofficeindia.com/movie.php?movieid=2587",
+  "claims": "Nett gross, India gross, overseas gross, worldwide gross, budget and footfalls.",
+  "source_type": "Trade box-office database",
+  "reliability": "B",
+  "notes": "Live Box Office India movie page. Identity confirmed from the credits listed on the page.",
+  "film_ids": [
+   "FILM-151"
+  ]
+ },
+ {
+  "source_id": "SOURCE-354",
+  "title": "Samadhi (1950)",
+  "publisher": "The Hindu",
+  "url": "https://web.archive.org/web/20191213071725/https://www.thehindu.com/features/cinema/Samadhi-1950/article15518037.ece",
+  "access_date": "2026-10-08",
+  "claims": "Retrospective notice: performances, script, and the film as the year's biggest hit with a gross profit of Rs 75 lakh.",
+  "source_type": "Newspaper retrospective notice",
+  "reliability": "B",
+  "notes": "Archived copy; the live URL is retired or the domain is gone.",
+  "author": "Suresh Kohli",
+  "publication_date": "2011-01-13",
+  "film_ids": [
+   "FILM-003"
+  ]
+ },
+ {
+  "source_id": "SOURCE-355",
+  "title": "Abhinetri (1970)",
+  "publisher": "The Hindu",
+  "url": "https://web.archive.org/web/20180522042012/http://www.thehindu.com/features/cinema/Abhinetri-1970/article15577821.ece",
+  "access_date": "2026-10-08",
+  "claims": "Retrospective notice: explicit assessment of the Kapoor and Hema Malini pairing, and of both performances.",
+  "source_type": "Newspaper retrospective notice",
+  "reliability": "B",
+  "notes": "Archived copy; the live URL is retired or the domain is gone.",
+  "author": "A. P. S. Malhotra",
+  "publication_date": "2010-12-02",
+  "film_ids": [
+   "FILM-032"
+  ],
+  "pairing_ids": [
+   "PAIR-017"
+  ]
+ },
+ {
+  "source_id": "SOURCE-356",
+  "title": "Sharmilee (1971)",
+  "publisher": "The Hindu",
+  "url": "https://web.archive.org/web/20130715233400/http://www.thehindu.com/features/cinema/sharmilee-1971/article4905163.ece",
+  "access_date": "2026-10-08",
+  "claims": "Retrospective notice on double roles: Raakhee's dual part, the Kapoor and Raakhee collaboration count, and the soundtrack's role in the film's box-office performance.",
+  "source_type": "Newspaper retrospective notice",
+  "reliability": "B",
+  "notes": "Archived copy; the live URL is retired or the domain is gone.",
+  "film_ids": [
+   "FILM-037"
+  ]
+ },
+ {
+  "source_id": "SOURCE-357",
+  "title": "Chori Mera Kaam (1975)",
+  "publisher": "The Hindu",
+  "url": "https://www.thehindu.com/features/friday-review/chori-mera-kaam-1975/article6683094.ece",
+  "access_date": "2026-10-08",
+  "claims": "Retrospective notice: Deven Verma's Filmfare-winning turn, and the Kapoor and Zeenat Aman romantic pair.",
+  "source_type": "Newspaper retrospective notice",
+  "reliability": "B",
+  "notes": "Live article. The review body sits in the articlebodycontent container; a generic paragraph scrape returns only subscription furniture.",
+  "publication_date": "2014-12-11",
+  "film_ids": [
+   "FILM-054"
+  ]
+ },
+ {
+  "source_id": "SOURCE-358",
+  "title": "Aap Beati (1976)",
+  "publisher": "The Hindu",
+  "url": "https://www.thehindu.com/features/friday-review/aap-beati-1976/article7456284.ece",
+  "access_date": "2026-10-08",
+  "claims": "Retrospective notice: the two lead performances, and the film's flaws despite a successful run.",
+  "source_type": "Newspaper retrospective notice",
+  "reliability": "B",
+  "notes": "Live article. The review body sits in the articlebodycontent container; a generic paragraph scrape returns only subscription furniture.",
+  "publication_date": "2015-07-23",
+  "film_ids": [
+   "FILM-059"
+  ],
+  "pairing_ids": [
+   "PAIR-036"
+  ]
+ },
+ {
+  "source_id": "SOURCE-359",
+  "title": "Immaan Dharam (1977), Blast from the Past",
+  "publisher": "The Hindu",
+  "url": "https://www.thehindu.com/features/friday-review/blast-from-the-past-immaan-dharam-1977/article6913098.ece",
+  "access_date": "2026-10-08",
+  "claims": "Retrospective notice: the film's failure to deliver on its cast, and Rekha's Durga as falling for Kapoor's Mohan.",
+  "source_type": "Newspaper retrospective notice",
+  "reliability": "B",
+  "notes": "Live article. The review body sits in the articlebodycontent container; a generic paragraph scrape returns only subscription furniture.",
+  "publication_date": "2015-02-19",
+  "film_ids": [
+   "FILM-067"
+  ]
+ },
+ {
+  "source_id": "SOURCE-360",
+  "title": "Mukti (1977)",
+  "publisher": "The Hindu",
+  "url": "https://www.thehindu.com/features/friday-review/mukti-1977/article8621742.ece",
+  "access_date": "2026-10-08",
+  "claims": "Retrospective notice: direct assessment of the Kapoor and Vidya Sinha pairing, supporting performances, and a stated box-office status of hit.",
+  "source_type": "Newspaper retrospective notice",
+  "reliability": "B",
+  "notes": "Live article. The review body sits in the articlebodycontent container; a generic paragraph scrape returns only subscription furniture.",
+  "publication_date": "2016-05-19",
+  "film_ids": [
+   "FILM-068"
+  ],
+  "pairing_ids": [
+   "PAIR-040"
+  ]
+ },
+ {
+  "source_id": "SOURCE-361",
+  "title": "Satyam Shivam Sundaram, Blast from the Past",
+  "publisher": "The Hindu",
+  "url": "https://web.archive.org/web/20141202230616/http://www.thehindu.com/features/cinema/cinema-columns/blast-from-the-past-satyam-shivam-sundaram-1977/article6445425.ece",
+  "access_date": "2026-10-08",
+  "claims": "Retrospective notice: dismissive assessment of Kapoor's part and of Zeenat Aman's acting, and of the film's marketing.",
+  "source_type": "Newspaper retrospective notice",
+  "reliability": "B",
+  "notes": "Archived copy; the live URL is retired or the domain is gone.",
+  "film_ids": [
+   "FILM-076"
+  ],
+  "pairing_ids": [
+   "PAIR-043"
+  ]
+ },
+ {
+  "source_id": "SOURCE-362",
+  "title": "Atithee (1978)",
+  "publisher": "The Hindu",
+  "url": "https://www.thehindu.com/features/friday-review/atithee-1978/article7919780.ece",
+  "access_date": "2026-10-08",
+  "claims": "Retrospective notice: the film's weakness against its cast, its unexplained box-office success, and a stated status of hit.",
+  "source_type": "Newspaper retrospective notice",
+  "reliability": "B",
+  "notes": "Live article. The review body sits in the articlebodycontent container; a generic paragraph scrape returns only subscription furniture.",
+  "publication_date": "2015-11-26",
+  "film_ids": [
+   "FILM-079"
+  ]
+ },
+ {
+  "source_id": "SOURCE-363",
+  "title": "Heeralal Pannalal (1978)",
+  "publisher": "The Hindu",
+  "url": "https://web.archive.org/web/20221018055132/https://www.thehindu.com/features/friday-review/heeralal-pannalal-1978/article6422569.ece",
+  "access_date": "2026-10-08",
+  "claims": "Retrospective notice: the four lead performances, R. D. Burman's music, a stated status of hit, and Ashok Roy's only other hit.",
+  "source_type": "Newspaper retrospective notice",
+  "reliability": "B",
+  "notes": "Archived copy; the live URL is retired or the domain is gone.",
+  "publication_date": "2014-09-18",
+  "film_ids": [
+   "FILM-081"
+  ],
+  "pairing_ids": [
+   "PAIR-046"
+  ]
+ },
+ {
+  "source_id": "SOURCE-364",
+  "title": "Junoon, Blast from the Past",
+  "publisher": "The Hindu",
+  "url": "https://www.thehindu.com/features/friday-review/blast-from-the-past-junoon-1978/article6196818.ece",
+  "access_date": "2026-10-08",
+  "claims": "Retrospective notice: Nafisa Ali's debut performance, the wider cast, and a stated box-office status of average.",
+  "source_type": "Newspaper retrospective notice",
+  "reliability": "B",
+  "notes": "Live article. The review body sits in the articlebodycontent container; a generic paragraph scrape returns only subscription furniture.",
+  "publication_date": "2014-07-10",
+  "film_ids": [
+   "FILM-084"
+  ],
+  "pairing_ids": [
+   "PAIR-048",
+   "PAIR-049"
+  ]
+ },
+ {
+  "source_id": "SOURCE-365",
+  "title": "Box Office India: Box Office 1950 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-08",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=156&catName=MTk1MA==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1950 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table, recovered on a second sweep; the first pass missed this year to transient rate limiting rather than a wrong URL.",
+  "film_ids": [
+   "FILM-002",
+   "FILM-003"
+  ]
+ },
+ {
+  "source_id": "SOURCE-366",
+  "title": "Box Office India: Box Office 1975 (archived)",
+  "publisher": "Box Office India",
+  "access_date": "2026-10-08",
+  "url": "https://web.archive.org/web/20100601/http://boxofficeindia.com/showProd.php?itemCat=181&catName=MTk3NQ==",
+  "claims": "Annual box-office rank, India gross, nett gross and trade verdict for 1975 Hindi releases (top-20 table).",
+  "source_type": "Trade box-office archive",
+  "reliability": "B",
+  "notes": "Archived copy of the Box Office India annual table, recovered on a second sweep; the first pass missed this year to transient rate limiting rather than a wrong URL.",
+  "film_ids": [
+   "FILM-052",
+   "FILM-053",
+   "FILM-054"
+  ]
+ },
+ {
+  "source_id": "SOURCE-367",
+  "title": "HindiGeetMala: Char Diwari (1961)",
+  "publisher": "HindiGeetMala",
+  "access_date": "2026-10-08",
+  "url": "https://www.hindigeetmala.net/movie/char_diwari.htm",
+  "claims": "Film director, producer, music director, lyricist and billed star cast.",
+  "source_type": "Film-song reference database",
+  "reliability": "D",
+  "notes": "Used only because these films have no Wikipedia article and no stronger source was located. Verified as the right film by matching the page's stated year and, where he is credited, Kapoor's presence in the billed cast. The site splits composing duos and aggregates per-song credits, so values were canonicalised against the workbook's existing spellings and uncorroborated extras dropped.",
+  "film_ids": [
+   "FILM-006"
+  ]
+ },
+ {
+  "source_id": "SOURCE-368",
+  "title": "HindiGeetMala: Mehndi Lagi Mere Haath (1962)",
+  "publisher": "HindiGeetMala",
+  "access_date": "2026-10-08",
+  "url": "https://www.hindigeetmala.net/movie/mehndi_lagi_mere_haath.htm",
+  "claims": "Film director, producer, music director, lyricist and billed star cast.",
+  "source_type": "Film-song reference database",
+  "reliability": "D",
+  "notes": "Used only because these films have no Wikipedia article and no stronger source was located. Verified as the right film by matching the page's stated year and, where he is credited, Kapoor's presence in the billed cast. The site splits composing duos and aggregates per-song credits, so values were canonicalised against the workbook's existing spellings and uncorroborated extras dropped.",
+  "film_ids": [
+   "FILM-009"
+  ]
+ },
+ {
+  "source_id": "SOURCE-369",
+  "title": "HindiGeetMala: Mohabbat Isko Kahete Hain (1965)",
+  "publisher": "HindiGeetMala",
+  "access_date": "2026-10-08",
+  "url": "https://www.hindigeetmala.net/movie/mohabbat_isko_kahete_hain.htm",
+  "claims": "Film director, producer, music director, lyricist and billed star cast.",
+  "source_type": "Film-song reference database",
+  "reliability": "D",
+  "notes": "Used only because these films have no Wikipedia article and no stronger source was located. Verified as the right film by matching the page's stated year and, where he is credited, Kapoor's presence in the billed cast. The site splits composing duos and aggregates per-song credits, so values were canonicalised against the workbook's existing spellings and uncorroborated extras dropped.",
+  "film_ids": [
+   "FILM-016"
+  ]
+ },
+ {
+  "source_id": "SOURCE-370",
+  "title": "HindiGeetMala: Biradari (1966)",
+  "publisher": "HindiGeetMala",
+  "access_date": "2026-10-08",
+  "url": "https://www.hindigeetmala.net/movie/biradari.htm",
+  "claims": "Film director, producer, music director, lyricist and billed star cast.",
+  "source_type": "Film-song reference database",
+  "reliability": "D",
+  "notes": "Used only because these films have no Wikipedia article and no stronger source was located. Verified as the right film by matching the page's stated year and, where he is credited, Kapoor's presence in the billed cast. The site splits composing duos and aggregates per-song credits, so values were canonicalised against the workbook's existing spellings and uncorroborated extras dropped.",
+  "film_ids": [
+   "FILM-021"
+  ]
+ },
+ {
+  "source_id": "SOURCE-371",
+  "title": "HindiGeetMala: Dil Ne Pukara (1967)",
+  "publisher": "HindiGeetMala",
+  "access_date": "2026-10-08",
+  "url": "https://www.hindigeetmala.net/movie/dil_ne_pukara.htm",
+  "claims": "Film director, producer, music director, lyricist and billed star cast.",
+  "source_type": "Film-song reference database",
+  "reliability": "D",
+  "notes": "Used only because these films have no Wikipedia article and no stronger source was located. Verified as the right film by matching the page's stated year and, where he is credited, Kapoor's presence in the billed cast. The site splits composing duos and aggregates per-song credits, so values were canonicalised against the workbook's existing spellings and uncorroborated extras dropped.",
+  "film_ids": [
+   "FILM-022"
+  ]
+ },
+ {
+  "source_id": "SOURCE-372",
+  "title": "HindiGeetMala: Muqaddar (1978)",
+  "publisher": "HindiGeetMala",
+  "access_date": "2026-10-08",
+  "url": "https://www.hindigeetmala.net/movie/muqaddar.htm",
+  "claims": "Film director, producer, music director, lyricist and billed star cast.",
+  "source_type": "Film-song reference database",
+  "reliability": "D",
+  "notes": "Used only because these films have no Wikipedia article and no stronger source was located. Verified as the right film by matching the page's stated year and, where he is credited, Kapoor's presence in the billed cast. The site splits composing duos and aggregates per-song credits, so values were canonicalised against the workbook's existing spellings and uncorroborated extras dropped.",
+  "film_ids": [
+   "FILM-073"
+  ]
+ },
+ {
+  "source_id": "SOURCE-373",
+  "title": "HindiGeetMala: Ahsaas (1979)",
+  "publisher": "HindiGeetMala",
+  "access_date": "2026-10-08",
+  "url": "https://www.hindigeetmala.net/movie/ahsaas.htm",
+  "claims": "Film director, producer, music director, lyricist and billed star cast.",
+  "source_type": "Film-song reference database",
+  "reliability": "D",
+  "notes": "Used only because these films have no Wikipedia article and no stronger source was located. Verified as the right film by matching the page's stated year and, where he is credited, Kapoor's presence in the billed cast. The site splits composing duos and aggregates per-song credits, so values were canonicalised against the workbook's existing spellings and uncorroborated extras dropped.",
+  "film_ids": [
+   "FILM-082"
+  ]
+ },
+ {
+  "source_id": "SOURCE-374",
+  "title": "HindiGeetMala: Swayamvar (1980)",
+  "publisher": "HindiGeetMala",
+  "access_date": "2026-10-08",
+  "url": "https://www.hindigeetmala.net/movie/swayamvar.htm",
+  "claims": "Film director, producer, music director, lyricist and billed star cast.",
+  "source_type": "Film-song reference database",
+  "reliability": "D",
+  "notes": "Used only because these films have no Wikipedia article and no stronger source was located. Verified as the right film by matching the page's stated year and, where he is credited, Kapoor's presence in the billed cast. The site splits composing duos and aggregates per-song credits, so values were canonicalised against the workbook's existing spellings and uncorroborated extras dropped.",
+  "film_ids": [
+   "FILM-088"
+  ]
+ },
+ {
+  "source_id": "SOURCE-375",
+  "title": "HindiGeetMala: Ganga Aur Suraj (1980)",
+  "publisher": "HindiGeetMala",
+  "access_date": "2026-10-08",
+  "url": "https://www.hindigeetmala.net/movie/ganga_aur_suraj.htm",
+  "claims": "Film director, producer, music director, lyricist and billed star cast.",
+  "source_type": "Film-song reference database",
+  "reliability": "D",
+  "notes": "Used only because these films have no Wikipedia article and no stronger source was located. Verified as the right film by matching the page's stated year and, where he is credited, Kapoor's presence in the billed cast. The site splits composing duos and aggregates per-song credits, so values were canonicalised against the workbook's existing spellings and uncorroborated extras dropped.",
+  "film_ids": [
+   "FILM-090"
+  ]
+ },
+ {
+  "source_id": "SOURCE-376",
+  "title": "HindiGeetMala: Ghar Ka Sukh (1987)",
+  "publisher": "HindiGeetMala",
+  "access_date": "2026-10-08",
+  "url": "https://www.hindigeetmala.net/movie/ghar_ka_sukh.htm",
+  "claims": "Film director, producer, music director, lyricist and billed star cast.",
+  "source_type": "Film-song reference database",
+  "reliability": "D",
+  "notes": "Used only because these films have no Wikipedia article and no stronger source was located. Verified as the right film by matching the page's stated year and, where he is credited, Kapoor's presence in the billed cast. The site splits composing duos and aggregates per-song credits, so values were canonicalised against the workbook's existing spellings and uncorroborated extras dropped.",
+  "film_ids": [
+   "FILM-126"
+  ]
+ },
+ {
+  "source_id": "SOURCE-377",
+  "title": "HindiGeetMala: Jaaydaad (1989)",
+  "publisher": "HindiGeetMala",
+  "access_date": "2026-10-08",
+  "url": "https://www.hindigeetmala.net/movie/jaaydaad.htm",
+  "claims": "Film director, producer, music director, lyricist and billed star cast.",
+  "source_type": "Film-song reference database",
+  "reliability": "D",
+  "notes": "Used only because these films have no Wikipedia article and no stronger source was located. Verified as the right film by matching the page's stated year and, where he is credited, Kapoor's presence in the billed cast. The site splits composing duos and aggregates per-song credits, so values were canonicalised against the workbook's existing spellings and uncorroborated extras dropped.",
+  "film_ids": [
+   "FILM-138"
+  ]
+ },
+ {
+  "source_id": "SOURCE-378",
+  "title": "HindiGeetMala: Akhri Muqabla (1988)",
+  "publisher": "HindiGeetMala",
+  "access_date": "2026-10-08",
+  "url": "https://www.hindigeetmala.net/movie/akhri_muqabla.htm",
+  "claims": "Film director, producer, music director, lyricist and billed star cast.",
+  "source_type": "Film-song reference database",
+  "reliability": "D",
+  "notes": "Used only because these films have no Wikipedia article and no stronger source was located. Verified as the right film by matching the page's stated year and, where he is credited, Kapoor's presence in the billed cast. The site splits composing duos and aggregates per-song credits, so values were canonicalised against the workbook's existing spellings and uncorroborated extras dropped.",
+  "film_ids": [
+   "FILM-139"
+  ]
  }
 ]
