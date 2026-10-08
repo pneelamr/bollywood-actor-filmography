@@ -1,0 +1,2689 @@
+[
+ {
+  "name": "Aamir Khan Productions",
+  "slug": "aamir_khan_productions",
+  "functions": "Production banner",
+  "count": 11,
+  "film_ids": [
+   "FILM-033",
+   "FILM-038",
+   "FILM-042",
+   "FILM-043",
+   "FILM-044",
+   "FILM-045",
+   "FILM-049",
+   "FILM-050",
+   "FILM-053",
+   "FILM-055",
+   "FILM-057"
+  ],
+  "tier": "A",
+  "person_id": "PERSON-001"
+ },
+ {
+  "name": "A. R. Rahman",
+  "slug": "a_r_rahman",
+  "functions": "Song composer; Background-score composer",
+  "count": 6,
+  "film_ids": [
+   "FILM-024",
+   "FILM-031",
+   "FILM-033",
+   "FILM-035",
+   "FILM-036",
+   "FILM-039"
+  ],
+  "tier": "A",
+  "person_id": "PERSON-002"
+ },
+ {
+  "name": "Anand–Milind",
+  "slug": "anandmilind",
+  "functions": "Song composer",
+  "count": 6,
+  "film_ids": [
+   "FILM-004",
+   "FILM-008",
+   "FILM-009",
+   "FILM-010",
+   "FILM-011",
+   "FILM-014"
+  ],
+  "tier": "A",
+  "person_id": "PERSON-003"
+ },
+ {
+  "name": "Bappi Lahiri",
+  "slug": "bappi_lahiri",
+  "functions": "Song composer",
+  "count": 5,
+  "film_ids": [
+   "FILM-006",
+   "FILM-007",
+   "FILM-012",
+   "FILM-016",
+   "FILM-023"
+  ],
+  "tier": "B",
+  "person_id": "PERSON-004"
+ },
+ {
+  "name": "Excel Entertainment",
+  "slug": "excel_entertainment",
+  "functions": "Production banner",
+  "count": 5,
+  "film_ids": [
+   "FILM-034",
+   "FILM-040",
+   "FILM-044",
+   "FILM-045",
+   "FILM-048"
+  ],
+  "tier": "B",
+  "person_id": "PERSON-005"
+ },
+ {
+  "name": "Kiran Rao",
+  "slug": "kiran_rao",
+  "functions": "Director; Producer; Writer",
+  "count": 5,
+  "film_ids": [
+   "FILM-042",
+   "FILM-043",
+   "FILM-049",
+   "FILM-050",
+   "FILM-053"
+  ],
+  "tier": "B",
+  "person_id": "PERSON-006"
+ },
+ {
+  "name": "Shankar–Ehsaan–Loy",
+  "slug": "shankarehsaanloy",
+  "functions": "Song composer; Background-score composer",
+  "count": 5,
+  "film_ids": [
+   "FILM-034",
+   "FILM-038",
+   "FILM-040",
+   "FILM-048",
+   "FILM-055"
+  ],
+  "tier": "B",
+  "person_id": "PERSON-007"
+ },
+ {
+  "name": "Aditya Chopra",
+  "slug": "aditya_chopra",
+  "functions": "Producer; Writer",
+  "count": 4,
+  "film_ids": [
+   "FILM-018",
+   "FILM-037",
+   "FILM-046",
+   "FILM-051"
+  ],
+  "tier": "B",
+  "person_id": "PERSON-008"
+ },
+ {
+  "name": "Anu Malik",
+  "slug": "anu_malik",
+  "functions": "Song composer",
+  "count": 4,
+  "film_ids": [
+   "FILM-022",
+   "FILM-025",
+   "FILM-027",
+   "FILM-032"
+  ],
+  "tier": "B",
+  "person_id": "PERSON-009"
+ },
+ {
+  "name": "Farhan Akhtar",
+  "slug": "farhan_akhtar",
+  "functions": "Director; Producer; Writer",
+  "count": 4,
+  "film_ids": [
+   "FILM-034",
+   "FILM-040",
+   "FILM-044",
+   "FILM-048"
+  ],
+  "tier": "B",
+  "person_id": "PERSON-010"
+ },
+ {
+  "name": "Jatin–Lalit",
+  "slug": "jatinlalit",
+  "functions": "Song composer",
+  "count": 4,
+  "film_ids": [
+   "FILM-015",
+   "FILM-028",
+   "FILM-029",
+   "FILM-037"
+  ],
+  "tier": "B",
+  "person_id": "PERSON-011"
+ },
+ {
+  "name": "Nadeem–Shravan",
+  "slug": "nadeemshravan",
+  "functions": "Song composer; Background-score composer",
+  "count": 4,
+  "film_ids": [
+   "FILM-013",
+   "FILM-017",
+   "FILM-019",
+   "FILM-026"
+  ],
+  "tier": "B",
+  "person_id": "PERSON-012"
+ },
+ {
+  "name": "Nasir Hussain",
+  "slug": "nasir_hussain",
+  "functions": "Director; Producer; Writer",
+  "count": 4,
+  "film_ids": [
+   "FILM-001",
+   "FILM-004",
+   "FILM-015",
+   "FILM-025"
+  ],
+  "tier": "B",
+  "person_id": "PERSON-013"
+ },
+ {
+  "name": "Neeraj Vora",
+  "slug": "neeraj_vora",
+  "functions": "Writer; Song composer",
+  "count": 4,
+  "film_ids": [
+   "FILM-020",
+   "FILM-022",
+   "FILM-024",
+   "FILM-032"
+  ],
+  "tier": "B",
+  "person_id": "PERSON-014"
+ },
+ {
+  "name": "Ritesh Sidhwani",
+  "slug": "ritesh_sidhwani",
+  "functions": "Producer",
+  "count": 4,
+  "film_ids": [
+   "FILM-034",
+   "FILM-040",
+   "FILM-044",
+   "FILM-048"
+  ],
+  "tier": "B",
+  "person_id": "PERSON-015"
+ },
+ {
+  "name": "Robin Bhatt",
+  "slug": "robin_bhatt",
+  "functions": "Writer",
+  "count": 4,
+  "film_ids": [
+   "FILM-013",
+   "FILM-019",
+   "FILM-026",
+   "FILM-032"
+  ],
+  "tier": "B",
+  "person_id": "PERSON-016"
+ },
+ {
+  "name": "Zoya Akhtar",
+  "slug": "zoya_akhtar",
+  "functions": "Director; Writer",
+  "count": 4,
+  "film_ids": [
+   "FILM-040",
+   "FILM-044",
+   "FILM-045",
+   "FILM-048"
+  ],
+  "tier": "B",
+  "person_id": "PERSON-017"
+ },
+ {
+  "name": "Ashutosh Gowariker",
+  "slug": "ashutosh_gowariker",
+  "functions": "Director; Writer",
+  "count": 3,
+  "film_ids": [
+   "FILM-020",
+   "FILM-022",
+   "FILM-033"
+  ],
+  "tier": "B",
+  "person_id": "PERSON-018"
+ },
+ {
+  "name": "Indra Kumar",
+  "slug": "indra_kumar",
+  "functions": "Director; Producer",
+  "count": 3,
+  "film_ids": [
+   "FILM-009",
+   "FILM-027",
+   "FILM-030"
+  ],
+  "tier": "B",
+  "person_id": "PERSON-019"
+ },
+ {
+  "name": "Mansoor Khan",
+  "slug": "mansoor_khan",
+  "functions": "Director; Writer",
+  "count": 3,
+  "film_ids": [
+   "FILM-004",
+   "FILM-015",
+   "FILM-025"
+  ],
+  "tier": "B",
+  "person_id": "PERSON-020"
+ },
+ {
+  "name": "Nasir Hussain Films",
+  "slug": "nasir_hussain_films",
+  "functions": "Production banner",
+  "count": 3,
+  "film_ids": [
+   "FILM-001",
+   "FILM-004",
+   "FILM-015"
+  ],
+  "tier": "B",
+  "person_id": "PERSON-021"
+ },
+ {
+  "name": "Pritam",
+  "slug": "pritam",
+  "functions": "Song composer; Background-score composer",
+  "count": 3,
+  "film_ids": [
+   "FILM-046",
+   "FILM-049",
+   "FILM-053"
+  ],
+  "tier": "B",
+  "person_id": "PERSON-022"
+ },
+ {
+  "name": "Ram Sampath",
+  "slug": "ram_sampath",
+  "functions": "Song composer; Background-score composer",
+  "count": 3,
+  "film_ids": [
+   "FILM-043",
+   "FILM-044",
+   "FILM-055"
+  ],
+  "tier": "B",
+  "person_id": "PERSON-023"
+ },
+ {
+  "name": "Surinder Sodhi",
+  "slug": "surinder_sodhi",
+  "functions": "Background-score composer",
+  "count": 3,
+  "film_ids": [
+   "FILM-026",
+   "FILM-027",
+   "FILM-032"
+  ],
+  "tier": "B",
+  "person_id": "PERSON-024"
+ },
+ {
+  "name": "Tahir Hussain",
+  "slug": "tahir_hussain",
+  "functions": "Director; Producer; Writer",
+  "count": 3,
+  "film_ids": [
+   "FILM-002",
+   "FILM-008",
+   "FILM-019"
+  ],
+  "tier": "B",
+  "person_id": "PERSON-025"
+ },
+ {
+  "name": "Yash Raj Films",
+  "slug": "yash_raj_films",
+  "functions": "Production banner",
+  "count": 3,
+  "film_ids": [
+   "FILM-037",
+   "FILM-046",
+   "FILM-051"
+  ],
+  "tier": "B",
+  "person_id": "PERSON-026"
+ },
+ {
+  "name": "Abhijat Joshi",
+  "slug": "abhijat_joshi",
+  "functions": "Writer",
+  "count": 2,
+  "film_ids": [
+   "FILM-041",
+   "FILM-047"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-027"
+ },
+ {
+  "name": "Advait Chandan",
+  "slug": "advait_chandan",
+  "functions": "Director; Writer",
+  "count": 2,
+  "film_ids": [
+   "FILM-050",
+   "FILM-053"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-028"
+ },
+ {
+  "name": "Ajay–Atul",
+  "slug": "ajayatul",
+  "functions": "Song composer",
+  "count": 2,
+  "film_ids": [
+   "FILM-047",
+   "FILM-051"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-029"
+ },
+ {
+  "name": "Ali Morani",
+  "slug": "ali_morani",
+  "functions": "Producer",
+  "count": 2,
+  "film_ids": [
+   "FILM-017",
+   "FILM-026"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-030"
+ },
+ {
+  "name": "Amit Trivedi",
+  "slug": "amit_trivedi",
+  "functions": "Song composer",
+  "count": 2,
+  "film_ids": [
+   "FILM-045",
+   "FILM-050"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-031"
+ },
+ {
+  "name": "Anurag Kashyap",
+  "slug": "anurag_kashyap",
+  "functions": "Director; Writer",
+  "count": 2,
+  "film_ids": [
+   "FILM-044",
+   "FILM-045"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-032"
+ },
+ {
+  "name": "Aparna Purohit",
+  "slug": "aparna_purohit",
+  "functions": "Producer",
+  "count": 2,
+  "film_ids": [
+   "FILM-055",
+   "FILM-057"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-033"
+ },
+ {
+  "name": "Ashok Thakeria",
+  "slug": "ashok_thakeria",
+  "functions": "Producer",
+  "count": 2,
+  "film_ids": [
+   "FILM-009",
+   "FILM-030"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-034"
+ },
+ {
+  "name": "Atul Raninga",
+  "slug": "atul_raninga",
+  "functions": "Background-score composer",
+  "count": 2,
+  "film_ids": [
+   "FILM-041",
+   "FILM-047"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-035"
+ },
+ {
+  "name": "Bunty Soorma",
+  "slug": "bunty_soorma",
+  "functions": "Producer",
+  "count": 2,
+  "film_ids": [
+   "FILM-017",
+   "FILM-026"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-036"
+ },
+ {
+  "name": "Cineyug Films",
+  "slug": "cineyug_films",
+  "functions": "Production banner",
+  "count": 2,
+  "film_ids": [
+   "FILM-017",
+   "FILM-026"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-037"
+ },
+ {
+  "name": "Dharmesh Darshan",
+  "slug": "dharmesh_darshan",
+  "functions": "Director; Writer",
+  "count": 2,
+  "film_ids": [
+   "FILM-026",
+   "FILM-032"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-038"
+ },
+ {
+  "name": "Dilip Shukla",
+  "slug": "dilip_shukla",
+  "functions": "Writer",
+  "count": 2,
+  "film_ids": [
+   "FILM-017",
+   "FILM-021"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-039"
+ },
+ {
+  "name": "Jhamu Sughand",
+  "slug": "jhamu_sughand",
+  "functions": "Producer",
+  "count": 2,
+  "film_ids": [
+   "FILM-024",
+   "FILM-033"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-040"
+ },
+ {
+  "name": "Kamlesh Pandey",
+  "slug": "kamlesh_pandey",
+  "functions": "Writer",
+  "count": 2,
+  "film_ids": [
+   "FILM-009",
+   "FILM-036"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-041"
+ },
+ {
+  "name": "Karim Morani",
+  "slug": "karim_morani",
+  "functions": "Producer",
+  "count": 2,
+  "film_ids": [
+   "FILM-017",
+   "FILM-026"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-042"
+ },
+ {
+  "name": "Ketan Mehta",
+  "slug": "ketan_mehta",
+  "functions": "Director; Writer",
+  "count": 2,
+  "film_ids": [
+   "FILM-003",
+   "FILM-035"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-043"
+ },
+ {
+  "name": "Mahesh Bhatt",
+  "slug": "mahesh_bhatt",
+  "functions": "Director",
+  "count": 2,
+  "film_ids": [
+   "FILM-013",
+   "FILM-019"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-044"
+ },
+ {
+  "name": "Maruti International",
+  "slug": "maruti_international",
+  "functions": "Production banner",
+  "count": 2,
+  "film_ids": [
+   "FILM-009",
+   "FILM-030"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-045"
+ },
+ {
+  "name": "Mukesh Bhatt",
+  "slug": "mukesh_bhatt",
+  "functions": "Producer",
+  "count": 2,
+  "film_ids": [
+   "FILM-013",
+   "FILM-028"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-046"
+ },
+ {
+  "name": "Nuzhat Khan",
+  "slug": "nuzhat_khan",
+  "functions": "Writer",
+  "count": 2,
+  "film_ids": [
+   "FILM-004",
+   "FILM-005"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-047"
+ },
+ {
+  "name": "Praful Parekh",
+  "slug": "praful_parekh",
+  "functions": "Writer",
+  "count": 2,
+  "film_ids": [
+   "FILM-009",
+   "FILM-027"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-048"
+ },
+ {
+  "name": "R. D. Burman",
+  "slug": "r_d_burman",
+  "functions": "Song composer",
+  "count": 2,
+  "film_ids": [
+   "FILM-001",
+   "FILM-002"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-049"
+ },
+ {
+  "name": "Rajeev Kaul",
+  "slug": "rajeev_kaul",
+  "functions": "Writer",
+  "count": 2,
+  "film_ids": [
+   "FILM-009",
+   "FILM-027"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-050"
+ },
+ {
+  "name": "Rajkumar Hirani",
+  "slug": "rajkumar_hirani",
+  "functions": "Director; Producer; Writer",
+  "count": 2,
+  "film_ids": [
+   "FILM-041",
+   "FILM-047"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-051"
+ },
+ {
+  "name": "Rajkumar Santoshi",
+  "slug": "rajkumar_santoshi",
+  "functions": "Director; Writer",
+  "count": 2,
+  "film_ids": [
+   "FILM-017",
+   "FILM-021"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-052"
+ },
+ {
+  "name": "Reema Kagti",
+  "slug": "reema_kagti",
+  "functions": "Director; Writer",
+  "count": 2,
+  "film_ids": [
+   "FILM-044",
+   "FILM-048"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-053"
+ },
+ {
+  "name": "Ronnie Screwvala",
+  "slug": "ronnie_screwvala",
+  "functions": "Producer",
+  "count": 2,
+  "film_ids": [
+   "FILM-036",
+   "FILM-043"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-054"
+ },
+ {
+  "name": "Sanjay Chhel",
+  "slug": "sanjay_chhel",
+  "functions": "Writer",
+  "count": 2,
+  "film_ids": [
+   "FILM-020",
+   "FILM-024"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-055"
+ },
+ {
+  "name": "Sanjay Wandrekar",
+  "slug": "sanjay_wandrekar",
+  "functions": "Background-score composer",
+  "count": 2,
+  "film_ids": [
+   "FILM-041",
+   "FILM-047"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-056"
+ },
+ {
+  "name": "Shantanu Moitra",
+  "slug": "shantanu_moitra",
+  "functions": "Song composer; Background-score composer",
+  "count": 2,
+  "film_ids": [
+   "FILM-041",
+   "FILM-047"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-057"
+ },
+ {
+  "name": "T-Series",
+  "slug": "t_series",
+  "functions": "Production banner",
+  "count": 2,
+  "film_ids": [
+   "FILM-013",
+   "FILM-052"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-058"
+ },
+ {
+  "name": "Tahir Hussain Enterprises",
+  "slug": "tahir_hussain_enterprises",
+  "functions": "Production banner",
+  "count": 2,
+  "film_ids": [
+   "FILM-008",
+   "FILM-019"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-059"
+ },
+ {
+  "name": "UTV Motion Pictures",
+  "slug": "utv_motion_pictures",
+  "functions": "Production banner",
+  "count": 2,
+  "film_ids": [
+   "FILM-036",
+   "FILM-043"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-060"
+ },
+ {
+  "name": "Venus Movies",
+  "slug": "venus_movies",
+  "functions": "Production banner",
+  "count": 2,
+  "film_ids": [
+   "FILM-025",
+   "FILM-032"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-061"
+ },
+ {
+  "name": "Vidhu Vinod Chopra",
+  "slug": "vidhu_vinod_chopra",
+  "functions": "Producer",
+  "count": 2,
+  "film_ids": [
+   "FILM-041",
+   "FILM-047"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-062"
+ },
+ {
+  "name": "Vijay Krishna Acharya",
+  "slug": "vijay_krishna_acharya",
+  "functions": "Director; Writer",
+  "count": 2,
+  "film_ids": [
+   "FILM-046",
+   "FILM-051"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-063"
+ },
+ {
+  "name": "Vinod Chopra Films",
+  "slug": "vinod_chopra_films",
+  "functions": "Production banner",
+  "count": 2,
+  "film_ids": [
+   "FILM-041",
+   "FILM-047"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-064"
+ },
+ {
+  "name": "Vishesh Films",
+  "slug": "vishesh_films",
+  "functions": "Production banner",
+  "count": 2,
+  "film_ids": [
+   "FILM-013",
+   "FILM-028"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-065"
+ },
+ {
+  "name": "Yash Chopra",
+  "slug": "yash_chopra",
+  "functions": "Director; Producer",
+  "count": 2,
+  "film_ids": [
+   "FILM-018",
+   "FILM-037"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-066"
+ },
+ {
+  "name": "A. R. Murugadoss",
+  "slug": "a_r_murugadoss",
+  "functions": "Director; Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-039"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-067"
+ },
+ {
+  "name": "Aadesh Shrivastava",
+  "slug": "aadesh_shrivastava",
+  "functions": "Background-score composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-022"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-068"
+ },
+ {
+  "name": "Aatish Kapadia",
+  "slug": "aatish_kapadia",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-030"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-069"
+ },
+ {
+  "name": "Abhinay Deo",
+  "slug": "abhinay_deo",
+  "functions": "Director",
+  "count": 1,
+  "film_ids": [
+   "FILM-043"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-070"
+ },
+ {
+  "name": "Aditya Bhattacharya",
+  "slug": "aditya_bhattacharya",
+  "functions": "Director; Producer; Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-005"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-071"
+ },
+ {
+  "name": "Aftab Pictures",
+  "slug": "aftab_pictures",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-022"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-072"
+ },
+ {
+  "name": "Aji",
+  "slug": "aji",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-010"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-073"
+ },
+ {
+  "name": "Ajit Andhare",
+  "slug": "ajit_andhare",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-053"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-074"
+ },
+ {
+  "name": "Akash Chawla",
+  "slug": "akash_chawla",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-050"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-075"
+ },
+ {
+  "name": "Akshat Verma",
+  "slug": "akshat_verma",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-043"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-076"
+ },
+ {
+  "name": "Allu Aravind",
+  "slug": "allu_aravind",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-039"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-077"
+ },
+ {
+  "name": "Amaal Mallik",
+  "slug": "amaal_mallik",
+  "functions": "Song composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-052"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-078"
+ },
+ {
+  "name": "Amar Haldipur",
+  "slug": "amar_haldipur",
+  "functions": "Background-score composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-028"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-079"
+ },
+ {
+  "name": "Amin Hajee",
+  "slug": "amin_hajee",
+  "functions": "Director; Producer; Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-052"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-080"
+ },
+ {
+  "name": "Amin Hajee Film Company",
+  "slug": "amin_hajee_film_company",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-052"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-081"
+ },
+ {
+  "name": "Amole Gupte",
+  "slug": "amole_gupte",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-038"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-082"
+ },
+ {
+  "name": "Anirudh Ravichander",
+  "slug": "anirudh_ravichander",
+  "functions": "Song composer; Background-score composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-056"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-083"
+ },
+ {
+  "name": "Anjum Rajabali",
+  "slug": "anjum_rajabali",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-028"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-084"
+ },
+ {
+  "name": "Ankit Tiwari",
+  "slug": "ankit_tiwari",
+  "functions": "Song composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-047"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-085"
+ },
+ {
+  "name": "Anne Masson",
+  "slug": "anne_masson",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-031"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-086"
+ },
+ {
+  "name": "Arun Bhatt",
+  "slug": "arun_bhatt",
+  "functions": "Director",
+  "count": 1,
+  "film_ids": [
+   "FILM-011"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-087"
+ },
+ {
+  "name": "Arvind Seksaria",
+  "slug": "arvind_seksaria",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-012"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-088"
+ },
+ {
+  "name": "Ashi Dua",
+  "slug": "ashi_dua",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-045"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-089"
+ },
+ {
+  "name": "Asif Noor",
+  "slug": "asif_noor",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-005"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-090"
+ },
+ {
+  "name": "Atul Kulkarni",
+  "slug": "atul_kulkarni",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-053"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-091"
+ },
+ {
+  "name": "B. Subhash Movie Unit",
+  "slug": "b_subhash_movie_unit",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-006"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-092"
+ },
+ {
+  "name": "Baba Films",
+  "slug": "baba_films",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-027"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-093"
+ },
+ {
+  "name": "Babbar Subhash",
+  "slug": "babbar_subhash",
+  "functions": "Director; Producer; Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-006"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-094"
+ },
+ {
+  "name": "Bhushan Kumar",
+  "slug": "bhushan_kumar",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-052"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-095"
+ },
+ {
+  "name": "Bhushan Vanmali",
+  "slug": "bhushan_vanmali",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-011"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-096"
+ },
+ {
+  "name": "Blive Productions",
+  "slug": "blive_productions",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-054"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-097"
+ },
+ {
+  "name": "Bobby Bedi",
+  "slug": "bobby_bedi",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-035"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-098"
+ },
+ {
+  "name": "Bono Deb",
+  "slug": "bono_deb",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-012"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-099"
+ },
+ {
+  "name": "Champak Jain",
+  "slug": "champak_jain",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-025"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-100"
+ },
+ {
+  "name": "Chandhru Anbazhagan",
+  "slug": "chandhru_anbazhagan",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-056"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-101"
+ },
+ {
+  "name": "Cinematt Pictures",
+  "slug": "cinematt_pictures",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-029"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-102"
+ },
+ {
+  "name": "Connekkt Media",
+  "slug": "connekkt_media",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-054"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-103"
+ },
+ {
+  "name": "Deepa Mehta",
+  "slug": "deepa_mehta",
+  "functions": "Director; Producer; Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-031"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-104"
+ },
+ {
+  "name": "Deepa Sahi",
+  "slug": "deepa_sahi",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-035"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-105"
+ },
+ {
+  "name": "Desh Gautam",
+  "slug": "desh_gautam",
+  "functions": "Director",
+  "count": 1,
+  "film_ids": [
+   "FILM-002"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-106"
+ },
+ {
+  "name": "Dev Anand",
+  "slug": "dev_anand",
+  "functions": "Director; Producer; Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-007"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-107"
+ },
+ {
+  "name": "Dharma Productions",
+  "slug": "dharma_productions",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-045"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-108"
+ },
+ {
+  "name": "Dibakar Banerjee",
+  "slug": "dibakar_banerjee",
+  "functions": "Director",
+  "count": 1,
+  "film_ids": [
+   "FILM-045"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-109"
+ },
+ {
+  "name": "Dibakar Banerjee Productions",
+  "slug": "dibakar_banerjee_productions",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-045"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-110"
+ },
+ {
+  "name": "Dilip Shankar",
+  "slug": "dilip_shankar",
+  "functions": "Director; Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-023"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-111"
+ },
+ {
+  "name": "Divy Nidhi Sharma",
+  "slug": "divy_nidhi_sharma",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-055"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-112"
+ },
+ {
+  "name": "Farrukh Dhondy",
+  "slug": "farrukh_dhondy",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-035"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-113"
+ },
+ {
+  "name": "Firoz A. Nadiadwala",
+  "slug": "firoz_a_nadiadwala",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-018"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-114"
+ },
+ {
+  "name": "Flying Unicorn Entertainment",
+  "slug": "flying_unicorn_entertainment",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-045"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-115"
+ },
+ {
+  "name": "Ganesh Jain",
+  "slug": "ganesh_jain",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-032"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-116"
+ },
+ {
+  "name": "Geetha Arts",
+  "slug": "geetha_arts",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-039"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-117"
+ },
+ {
+  "name": "Gordhan Tanwani",
+  "slug": "gordhan_tanwani",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-027"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-118"
+ },
+ {
+  "name": "Gulshan Kumar",
+  "slug": "gulshan_kumar",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-013"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-119"
+ },
+ {
+  "name": "Gustavo Santaolalla",
+  "slug": "gustavo_santaolalla",
+  "functions": "Song composer; Background-score composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-042"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-120"
+ },
+ {
+  "name": "Honey Irani",
+  "slug": "honey_irani",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-018"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-121"
+ },
+ {
+  "name": "Hriday Lani",
+  "slug": "hriday_lani",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-029"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-122"
+ },
+ {
+  "name": "Jalil Ahmed",
+  "slug": "jalil_ahmed",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-014"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-123"
+ },
+ {
+  "name": "Javed Akhtar",
+  "slug": "javed_akhtar",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-040"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-124"
+ },
+ {
+  "name": "Javed Siddiqui",
+  "slug": "javed_siddiqui",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-026"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-125"
+ },
+ {
+  "name": "Jay Mehta",
+  "slug": "jay_mehta",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-011"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-126"
+ },
+ {
+  "name": "Jim Furgele",
+  "slug": "jim_furgele",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-043"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-127"
+ },
+ {
+  "name": "John Matthew Matthan",
+  "slug": "john_matthew_matthan",
+  "functions": "Director; Producer; Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-029"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-128"
+ },
+ {
+  "name": "John Stewart Eduri",
+  "slug": "john_stewart_eduri",
+  "functions": "Background-score composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-051"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-129"
+ },
+ {
+  "name": "Julius Packiam",
+  "slug": "julius_packiam",
+  "functions": "Background-score composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-046"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-130"
+ },
+ {
+  "name": "Junglee Pictures",
+  "slug": "junglee_pictures",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-048"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-131"
+ },
+ {
+  "name": "Jyoti Deshpande",
+  "slug": "jyoti_deshpande",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-053"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-132"
+ },
+ {
+  "name": "K. P. Saxena",
+  "slug": "k_p_saxena",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-033"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-133"
+ },
+ {
+  "name": "Kalanithi Maran",
+  "slug": "kalanithi_maran",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-056"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-134"
+ },
+ {
+  "name": "Kaleidoscope Entertainment",
+  "slug": "kaleidoscope_entertainment",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-035"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-135"
+ },
+ {
+  "name": "Kalidas",
+  "slug": "kalidas",
+  "functions": "Director",
+  "count": 1,
+  "film_ids": [
+   "FILM-016"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-136"
+ },
+ {
+  "name": "Karan Johar",
+  "slug": "karan_johar",
+  "functions": "Director",
+  "count": 1,
+  "film_ids": [
+   "FILM-045"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-137"
+ },
+ {
+  "name": "Kausar Munir",
+  "slug": "kausar_munir",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-054"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-138"
+ },
+ {
+  "name": "Kavi Shastri",
+  "slug": "kavi_shastri",
+  "functions": "Director; Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-057"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-139"
+ },
+ {
+  "name": "Krishan Kumar",
+  "slug": "krishan_kumar",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-052"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-140"
+ },
+ {
+  "name": "Kumar Dave",
+  "slug": "kumar_dave",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-033"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-141"
+ },
+ {
+  "name": "Kunal Kohli",
+  "slug": "kunal_kohli",
+  "functions": "Director; Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-037"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-142"
+ },
+ {
+  "name": "Lesle Lewis",
+  "slug": "lesle_lewis",
+  "functions": "Song composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-032"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-143"
+ },
+ {
+  "name": "Lokesh Kanagaraj",
+  "slug": "lokesh_kanagaraj",
+  "functions": "Director; Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-056"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-144"
+ },
+ {
+  "name": "M. Kaleem Rahi",
+  "slug": "m_kaleem_rahi",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-008"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-145"
+ },
+ {
+  "name": "M. Parvez",
+  "slug": "m_parvez",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-010"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-146"
+ },
+ {
+  "name": "M. R. Shahjahan",
+  "slug": "m_r_shahjahan",
+  "functions": "Director",
+  "count": 1,
+  "film_ids": [
+   "FILM-012"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-147"
+ },
+ {
+  "name": "Madhu Mantena",
+  "slug": "madhu_mantena",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-039"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-148"
+ },
+ {
+  "name": "Mahesh Elkunchwar",
+  "slug": "mahesh_elkunchwar",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-003"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-149"
+ },
+ {
+  "name": "Mangal",
+  "slug": "mangal",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-023"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-150"
+ },
+ {
+  "name": "Manoj Seksaria",
+  "slug": "manoj_seksaria",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-012"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-151"
+ },
+ {
+  "name": "Mithoon",
+  "slug": "mithoon",
+  "functions": "Song composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-054"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-152"
+ },
+ {
+  "name": "Mohammed A. Rahim",
+  "slug": "mohammed_a_rahim",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-020"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-153"
+ },
+ {
+  "name": "Naushil Mehta",
+  "slug": "naushil_mehta",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-022"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-154"
+ },
+ {
+  "name": "Naushir Khatau",
+  "slug": "naushir_khatau",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-009"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-155"
+ },
+ {
+  "name": "Nikhil Mehrotra",
+  "slug": "nikhil_mehrotra",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-049"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-156"
+ },
+ {
+  "name": "Nitesh Tiwari",
+  "slug": "nitesh_tiwari",
+  "functions": "Director; Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-049"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-157"
+ },
+ {
+  "name": "Nitin Keni",
+  "slug": "nitin_keni",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-050"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-158"
+ },
+ {
+  "name": "Paramount Pictures",
+  "slug": "paramount_pictures",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-053"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-159"
+ },
+ {
+  "name": "Pathik Vats",
+  "slug": "pathik_vats",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-029"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-160"
+ },
+ {
+  "name": "Piyush Gupta",
+  "slug": "piyush_gupta",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-049"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-161"
+ },
+ {
+  "name": "Piyush Mishra",
+  "slug": "piyush_mishra",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-039"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-162"
+ },
+ {
+  "name": "Pradeep Uppoor",
+  "slug": "pradeep_uppoor",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-003"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-163"
+ },
+ {
+  "name": "Prasoon Joshi",
+  "slug": "prasoon_joshi",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-036"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-164"
+ },
+ {
+  "name": "Prathima Films",
+  "slug": "prathima_films",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-011"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-165"
+ },
+ {
+  "name": "PVR Pictures",
+  "slug": "pvr_pictures",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-038"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-166"
+ },
+ {
+  "name": "R. S. Prasanna",
+  "slug": "r_s_prasanna",
+  "functions": "Director",
+  "count": 1,
+  "film_ids": [
+   "FILM-055"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-167"
+ },
+ {
+  "name": "Rahi Masoom Raza",
+  "slug": "rahi_masoom_raza",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-018"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-168"
+ },
+ {
+  "name": "Rajat Dholakia",
+  "slug": "rajat_dholakia",
+  "functions": "Song composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-003"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-169"
+ },
+ {
+  "name": "Rajesh Roshan",
+  "slug": "rajesh_roshan",
+  "functions": "Song composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-032"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-170"
+ },
+ {
+  "name": "Rajkumar Hirani Films",
+  "slug": "rajkumar_hirani_films",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-047"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-171"
+ },
+ {
+  "name": "Rakeysh Omprakash Mehra",
+  "slug": "rakeysh_omprakash_mehra",
+  "functions": "Director; Producer; Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-036"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-172"
+ },
+ {
+  "name": "Rakeysh Omprakash Mehra Pictures",
+  "slug": "rakeysh_omprakash_mehra_pictures",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-036"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-173"
+ },
+ {
+  "name": "Ram Gopal Varma",
+  "slug": "ram_gopal_varma",
+  "functions": "Director; Producer; Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-024"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-174"
+ },
+ {
+  "name": "Ramesh Pant",
+  "slug": "ramesh_pant",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-012"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-175"
+ },
+ {
+  "name": "Ranjit Barot",
+  "slug": "ranjit_barot",
+  "functions": "Background-score composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-005"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-176"
+ },
+ {
+  "name": "Ranjit Kapoor",
+  "slug": "ranjit_kapoor",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-035"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-177"
+ },
+ {
+  "name": "Ratan Jain",
+  "slug": "ratan_jain",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-025"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-178"
+ },
+ {
+  "name": "Ratan Mukherjee",
+  "slug": "ratan_mukherjee",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-016"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-179"
+ },
+ {
+  "name": "Rensil D'Silva",
+  "slug": "rensil_d_silva",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-036"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-180"
+ },
+ {
+  "name": "Revathi",
+  "slug": "revathi",
+  "functions": "Director",
+  "count": 1,
+  "film_ids": [
+   "FILM-054"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-181"
+ },
+ {
+  "name": "Rochak Kohli",
+  "slug": "rochak_kohli",
+  "functions": "Song composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-052"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-182"
+ },
+ {
+  "name": "RTake Studios",
+  "slug": "rtake_studios",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-054"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-183"
+ },
+ {
+  "name": "S. A. Kader",
+  "slug": "s_a_kader",
+  "functions": "Director",
+  "count": 1,
+  "film_ids": [
+   "FILM-014"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-184"
+ },
+ {
+  "name": "Salim Akhtar",
+  "slug": "salim_akhtar",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-022"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-185"
+ },
+ {
+  "name": "Salim–Javed",
+  "slug": "salimjaved",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-001"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-186"
+ },
+ {
+  "name": "Salim–Sulaiman",
+  "slug": "salimsulaiman",
+  "functions": "Background-score composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-037"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-187"
+ },
+ {
+  "name": "Sammeer Arora",
+  "slug": "sammeer_arora",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-054"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-188"
+ },
+ {
+  "name": "Sangeeth Sivan",
+  "slug": "sangeeth_sivan",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-005"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-189"
+ },
+ {
+  "name": "Sanjay Dayma",
+  "slug": "sanjay_dayma",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-033"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-190"
+ },
+ {
+  "name": "Sanjay Seksaria",
+  "slug": "sanjay_seksaria",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-012"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-191"
+ },
+ {
+  "name": "Sanjeev Duggal",
+  "slug": "sanjeev_duggal",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-032"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-192"
+ },
+ {
+  "name": "Sanjeev–Darshan",
+  "slug": "sanjeevdarshan",
+  "functions": "Song composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-030"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-193"
+ },
+ {
+  "name": "Sanjoy Chowdhury",
+  "slug": "sanjoy_chowdhury",
+  "functions": "Background-score composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-029"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-194"
+ },
+ {
+  "name": "Santosh Saroj",
+  "slug": "santosh_saroj",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-022"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-195"
+ },
+ {
+  "name": "Shailendra Barve",
+  "slug": "shailendra_barve",
+  "functions": "Song composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-038"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-196"
+ },
+ {
+  "name": "Sharad Joshi",
+  "slug": "sharad_joshi",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-013"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-197"
+ },
+ {
+  "name": "Shibani Bathija",
+  "slug": "shibani_bathija",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-037"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-198"
+ },
+ {
+  "name": "Shiv–Hari",
+  "slug": "shivhari",
+  "functions": "Song composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-018"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-199"
+ },
+ {
+  "name": "Shraddha Agrawal",
+  "slug": "shraddha_agrawal",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-054"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-200"
+ },
+ {
+  "name": "Shreyas Jain",
+  "slug": "shreyas_jain",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-049"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-201"
+ },
+ {
+  "name": "Shrikant Murthy",
+  "slug": "shrikant_murthy",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-054"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-202"
+ },
+ {
+  "name": "Shyam–Surender",
+  "slug": "shyamsurender",
+  "functions": "Background-score composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-019"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-203"
+ },
+ {
+  "name": "Siddharth Roy Kapur",
+  "slug": "siddharth_roy_kapur",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-049"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-204"
+ },
+ {
+  "name": "Sikhya Entertainment",
+  "slug": "sikhya_entertainment",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-045"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-205"
+ },
+ {
+  "name": "Sun Pictures",
+  "slug": "sun_pictures",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-056"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-206"
+ },
+ {
+  "name": "Suneel Darshan",
+  "slug": "suneel_darshan",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-032"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-207"
+ },
+ {
+  "name": "Suraj Singh",
+  "slug": "suraj_singh",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-054"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-208"
+ },
+ {
+  "name": "Surinder Singh",
+  "slug": "surinder_singh",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-008"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-209"
+ },
+ {
+  "name": "Sutanu Gupta",
+  "slug": "sutanu_gupta",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-017"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-210"
+ },
+ {
+  "name": "Suyash Films",
+  "slug": "suyash_films",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-023"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-211"
+ },
+ {
+  "name": "Tagore B. Madhu",
+  "slug": "tagore_b_madhu",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-039"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-212"
+ },
+ {
+  "name": "Tanishk Bagchi",
+  "slug": "tanishk_bagchi",
+  "functions": "Song composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-052"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-213"
+ },
+ {
+  "name": "Tanuj Tiku",
+  "slug": "tanuj_tiku",
+  "functions": "Background-score composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-053"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-214"
+ },
+ {
+  "name": "Tanveer Khan",
+  "slug": "tanveer_khan",
+  "functions": "Writer",
+  "count": 1,
+  "film_ids": [
+   "FILM-027"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-215"
+ },
+ {
+  "name": "The Walt Disney Company India",
+  "slug": "the_walt_disney_company_india",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-049"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-216"
+ },
+ {
+  "name": "TKF Films",
+  "slug": "tkf_films",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-035"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-217"
+ },
+ {
+  "name": "Tushar Bhatia",
+  "slug": "tushar_bhatia",
+  "functions": "Song composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-021"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-218"
+ },
+ {
+  "name": "Uttankk V. Vora",
+  "slug": "uttankk_v_vora",
+  "functions": "Song composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-020"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-219"
+ },
+ {
+  "name": "Vandana Productions",
+  "slug": "vandana_productions",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-010"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-220"
+ },
+ {
+  "name": "Vanraj Bhatia",
+  "slug": "vanraj_bhatia",
+  "functions": "Background-score composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-017"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-221"
+ },
+ {
+  "name": "Varma Creations",
+  "slug": "varma_creations",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-024"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-222"
+ },
+ {
+  "name": "Viacom18 Studios",
+  "slug": "viacom18_studios",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-053"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-223"
+ },
+ {
+  "name": "Viju Shah",
+  "slug": "viju_shah",
+  "functions": "Background-score composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-021"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-224"
+ },
+ {
+  "name": "Vikram Bhatt",
+  "slug": "vikram_bhatt",
+  "functions": "Director",
+  "count": 1,
+  "film_ids": [
+   "FILM-028"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-225"
+ },
+ {
+  "name": "Vikram Negi",
+  "slug": "vikram_negi",
+  "functions": "Song composer",
+  "count": 1,
+  "film_ids": [
+   "FILM-052"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-226"
+ },
+ {
+  "name": "Vinay Kumar Sinha",
+  "slug": "vinay_kumar_sinha",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-021"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-227"
+ },
+ {
+  "name": "Vinay Pictures",
+  "slug": "vinay_pictures",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-021"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-228"
+ },
+ {
+  "name": "Vir Das",
+  "slug": "vir_das",
+  "functions": "Director; Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-057"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-229"
+ },
+ {
+  "name": "Viral Shah",
+  "slug": "viral_shah",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-020"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-230"
+ },
+ {
+  "name": "Xavier Marquis",
+  "slug": "xavier_marquis",
+  "functions": "Producer",
+  "count": 1,
+  "film_ids": [
+   "FILM-023"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-231"
+ },
+ {
+  "name": "Y. Nageshwar Rao",
+  "slug": "y_nageshwar_rao",
+  "functions": "Director",
+  "count": 1,
+  "film_ids": [
+   "FILM-010"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-232"
+ },
+ {
+  "name": "Zee Studios",
+  "slug": "zee_studios",
+  "functions": "Production banner",
+  "count": 1,
+  "film_ids": [
+   "FILM-050"
+  ],
+  "tier": "C",
+  "person_id": "PERSON-233"
+ }
+]
