@@ -4926,5 +4926,189 @@
   "film_ids": [
    "FILM-151"
   ]
+ },
+ {
+  "source_id": "SOURCE-354",
+  "title": "Samadhi (1950)",
+  "publisher": "The Hindu",
+  "url": "https://web.archive.org/web/20191213071725/https://www.thehindu.com/features/cinema/Samadhi-1950/article15518037.ece",
+  "access_date": "2026-10-08",
+  "claims": "Retrospective notice: performances, script, and the film as the year's biggest hit with a gross profit of Rs 75 lakh.",
+  "source_type": "Newspaper retrospective notice",
+  "reliability": "B",
+  "notes": "Archived copy; the live URL is retired or the domain is gone.",
+  "author": "Suresh Kohli",
+  "publication_date": "2011-01-13",
+  "film_ids": [
+   "FILM-003"
+  ]
+ },
+ {
+  "source_id": "SOURCE-355",
+  "title": "Abhinetri (1970)",
+  "publisher": "The Hindu",
+  "url": "https://web.archive.org/web/20180522042012/http://www.thehindu.com/features/cinema/Abhinetri-1970/article15577821.ece",
+  "access_date": "2026-10-08",
+  "claims": "Retrospective notice: explicit assessment of the Kapoor and Hema Malini pairing, and of both performances.",
+  "source_type": "Newspaper retrospective notice",
+  "reliability": "B",
+  "notes": "Archived copy; the live URL is retired or the domain is gone.",
+  "author": "A. P. S. Malhotra",
+  "publication_date": "2010-12-02",
+  "film_ids": [
+   "FILM-032"
+  ],
+  "pairing_ids": [
+   "PAIR-017"
+  ]
+ },
+ {
+  "source_id": "SOURCE-356",
+  "title": "Sharmilee (1971)",
+  "publisher": "The Hindu",
+  "url": "https://web.archive.org/web/20130715233400/http://www.thehindu.com/features/cinema/sharmilee-1971/article4905163.ece",
+  "access_date": "2026-10-08",
+  "claims": "Retrospective notice on double roles: Raakhee's dual part, the Kapoor and Raakhee collaboration count, and the soundtrack's role in the film's box-office performance.",
+  "source_type": "Newspaper retrospective notice",
+  "reliability": "B",
+  "notes": "Archived copy; the live URL is retired or the domain is gone.",
+  "film_ids": [
+   "FILM-037"
+  ]
+ },
+ {
+  "source_id": "SOURCE-357",
+  "title": "Chori Mera Kaam (1975)",
+  "publisher": "The Hindu",
+  "url": "https://www.thehindu.com/features/friday-review/chori-mera-kaam-1975/article6683094.ece",
+  "access_date": "2026-10-08",
+  "claims": "Retrospective notice: Deven Verma's Filmfare-winning turn, and the Kapoor and Zeenat Aman romantic pair.",
+  "source_type": "Newspaper retrospective notice",
+  "reliability": "B",
+  "notes": "Live article. The review body sits in the articlebodycontent container; a generic paragraph scrape returns only subscription furniture.",
+  "publication_date": "2014-12-11",
+  "film_ids": [
+   "FILM-054"
+  ]
+ },
+ {
+  "source_id": "SOURCE-358",
+  "title": "Aap Beati (1976)",
+  "publisher": "The Hindu",
+  "url": "https://www.thehindu.com/features/friday-review/aap-beati-1976/article7456284.ece",
+  "access_date": "2026-10-08",
+  "claims": "Retrospective notice: the two lead performances, and the film's flaws despite a successful run.",
+  "source_type": "Newspaper retrospective notice",
+  "reliability": "B",
+  "notes": "Live article. The review body sits in the articlebodycontent container; a generic paragraph scrape returns only subscription furniture.",
+  "publication_date": "2015-07-23",
+  "film_ids": [
+   "FILM-059"
+  ],
+  "pairing_ids": [
+   "PAIR-036"
+  ]
+ },
+ {
+  "source_id": "SOURCE-359",
+  "title": "Immaan Dharam (1977), Blast from the Past",
+  "publisher": "The Hindu",
+  "url": "https://www.thehindu.com/features/friday-review/blast-from-the-past-immaan-dharam-1977/article6913098.ece",
+  "access_date": "2026-10-08",
+  "claims": "Retrospective notice: the film's failure to deliver on its cast, and Rekha's Durga as falling for Kapoor's Mohan.",
+  "source_type": "Newspaper retrospective notice",
+  "reliability": "B",
+  "notes": "Live article. The review body sits in the articlebodycontent container; a generic paragraph scrape returns only subscription furniture.",
+  "publication_date": "2015-02-19",
+  "film_ids": [
+   "FILM-067"
+  ]
+ },
+ {
+  "source_id": "SOURCE-360",
+  "title": "Mukti (1977)",
+  "publisher": "The Hindu",
+  "url": "https://www.thehindu.com/features/friday-review/mukti-1977/article8621742.ece",
+  "access_date": "2026-10-08",
+  "claims": "Retrospective notice: direct assessment of the Kapoor and Vidya Sinha pairing, supporting performances, and a stated box-office status of hit.",
+  "source_type": "Newspaper retrospective notice",
+  "reliability": "B",
+  "notes": "Live article. The review body sits in the articlebodycontent container; a generic paragraph scrape returns only subscription furniture.",
+  "publication_date": "2016-05-19",
+  "film_ids": [
+   "FILM-068"
+  ],
+  "pairing_ids": [
+   "PAIR-040"
+  ]
+ },
+ {
+  "source_id": "SOURCE-361",
+  "title": "Satyam Shivam Sundaram, Blast from the Past",
+  "publisher": "The Hindu",
+  "url": "https://web.archive.org/web/20141202230616/http://www.thehindu.com/features/cinema/cinema-columns/blast-from-the-past-satyam-shivam-sundaram-1977/article6445425.ece",
+  "access_date": "2026-10-08",
+  "claims": "Retrospective notice: dismissive assessment of Kapoor's part and of Zeenat Aman's acting, and of the film's marketing.",
+  "source_type": "Newspaper retrospective notice",
+  "reliability": "B",
+  "notes": "Archived copy; the live URL is retired or the domain is gone.",
+  "film_ids": [
+   "FILM-076"
+  ],
+  "pairing_ids": [
+   "PAIR-043"
+  ]
+ },
+ {
+  "source_id": "SOURCE-362",
+  "title": "Atithee (1978)",
+  "publisher": "The Hindu",
+  "url": "https://www.thehindu.com/features/friday-review/atithee-1978/article7919780.ece",
+  "access_date": "2026-10-08",
+  "claims": "Retrospective notice: the film's weakness against its cast, its unexplained box-office success, and a stated status of hit.",
+  "source_type": "Newspaper retrospective notice",
+  "reliability": "B",
+  "notes": "Live article. The review body sits in the articlebodycontent container; a generic paragraph scrape returns only subscription furniture.",
+  "publication_date": "2015-11-26",
+  "film_ids": [
+   "FILM-079"
+  ]
+ },
+ {
+  "source_id": "SOURCE-363",
+  "title": "Heeralal Pannalal (1978)",
+  "publisher": "The Hindu",
+  "url": "https://web.archive.org/web/20221018055132/https://www.thehindu.com/features/friday-review/heeralal-pannalal-1978/article6422569.ece",
+  "access_date": "2026-10-08",
+  "claims": "Retrospective notice: the four lead performances, R. D. Burman's music, a stated status of hit, and Ashok Roy's only other hit.",
+  "source_type": "Newspaper retrospective notice",
+  "reliability": "B",
+  "notes": "Archived copy; the live URL is retired or the domain is gone.",
+  "publication_date": "2014-09-18",
+  "film_ids": [
+   "FILM-081"
+  ],
+  "pairing_ids": [
+   "PAIR-046"
+  ]
+ },
+ {
+  "source_id": "SOURCE-364",
+  "title": "Junoon, Blast from the Past",
+  "publisher": "The Hindu",
+  "url": "https://www.thehindu.com/features/friday-review/blast-from-the-past-junoon-1978/article6196818.ece",
+  "access_date": "2026-10-08",
+  "claims": "Retrospective notice: Nafisa Ali's debut performance, the wider cast, and a stated box-office status of average.",
+  "source_type": "Newspaper retrospective notice",
+  "reliability": "B",
+  "notes": "Live article. The review body sits in the articlebodycontent container; a generic paragraph scrape returns only subscription furniture.",
+  "publication_date": "2014-07-10",
+  "film_ids": [
+   "FILM-084"
+  ],
+  "pairing_ids": [
+   "PAIR-048",
+   "PAIR-049"
+  ]
  }
 ]
