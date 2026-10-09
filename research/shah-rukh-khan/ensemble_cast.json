@@ -49,6 +49,18 @@
  },
  {
   "cast_id": "CAST-005",
+  "film_id": "FILM-001",
+  "actor": "Mohnish Bahl",
+  "character": "Narendra Pratap Singh",
+  "cast_function": "Antagonist",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Cousin of Ravi, Kajal's first husband; not directly linked to Raja.",
+  "relationship_to_romance": "His attack on Ravi leaves Kajal widowed, which sets up her later romance with Raja.",
+  "character_gist": "Dhirendra's son, who joined the hired hoodlums in trying to murder Ravi for the family inheritance and was killed when both fell from a cliff. Credited as a special appearance.",
+  "source_ids": "SOURCE-004"
+ },
+ {
+  "cast_id": "CAST-006",
   "film_id": "FILM-002",
   "actor": "Naseeruddin Shah",
   "character": "Amar Kumar (Marco)",
@@ -60,7 +72,7 @@
   "source_ids": "SOURCE-005"
  },
  {
-  "cast_id": "CAST-006",
+  "cast_id": "CAST-007",
   "film_id": "FILM-002",
   "actor": "Tinnu Anand",
   "character": "Kunta",
@@ -72,7 +84,7 @@
   "source_ids": "SOURCE-005"
  },
  {
-  "cast_id": "CAST-007",
+  "cast_id": "CAST-008",
   "film_id": "FILM-002",
   "actor": "Shammi Kapoor",
   "character": "Mr. Kaul",
@@ -84,7 +96,31 @@
   "source_ids": "SOURCE-005"
  },
  {
-  "cast_id": "CAST-008",
+  "cast_id": "CAST-009",
+  "film_id": "FILM-002",
+  "actor": "Malvika Tiwari",
+  "character": "Savitri Kaul",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Daughter of Mr. Kaul, at whose school Sunder becomes cricket coach.",
+  "relationship_to_romance": "Mother of Mala, Sunder's love interest.",
+  "character_gist": "Marco's beloved, who asked him to give up crime before marrying him. After his murder Kunta deceived and threatened her, and she died soon after, leaving a daughter, Mala.",
+  "source_ids": "SOURCE-005"
+ },
+ {
+  "cast_id": "CAST-010",
+  "film_id": "FILM-002",
+  "actor": "Avinash Kharshikar",
+  "character": "Prem",
+  "cast_function": "Friend",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Sunder's childhood friend, who cheats him.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A conman in Mumbai who persuaded Sunder to hand over his money against a mortgage and fled to Dubai, leaving Sunder stranded in the city.",
+  "source_ids": "SOURCE-005"
+ },
+ {
+  "cast_id": "CAST-011",
   "film_id": "FILM-003",
   "actor": "Nana Patekar",
   "character": "Jai",
@@ -97,7 +133,7 @@
   "source_ids": "SOURCE-006"
  },
  {
-  "cast_id": "CAST-009",
+  "cast_id": "CAST-012",
   "film_id": "FILM-003",
   "actor": "Navin Nischol",
   "character": "Lalkishan Chhabria",
@@ -109,7 +145,7 @@
   "source_ids": "SOURCE-006"
  },
  {
-  "cast_id": "CAST-010",
+  "cast_id": "CAST-013",
   "film_id": "FILM-004",
   "actor": "Dimple Kapadia",
   "character": "Barkha",
@@ -121,7 +157,7 @@
   "source_ids": "SOURCE-007"
  },
  {
-  "cast_id": "CAST-011",
+  "cast_id": "CAST-014",
   "film_id": "FILM-004",
   "actor": "Kabir Bedi",
   "character": "Rai Bahadur Digvijay Singh",
@@ -133,7 +169,7 @@
   "source_ids": "SOURCE-007"
  },
  {
-  "cast_id": "CAST-012",
+  "cast_id": "CAST-015",
   "film_id": "FILM-004",
   "actor": "Jeetendra",
   "character": "Prince Arjun Singh",
@@ -145,7 +181,7 @@
   "source_ids": "SOURCE-007"
  },
  {
-  "cast_id": "CAST-013",
+  "cast_id": "CAST-016",
   "film_id": "FILM-004",
   "actor": "Mithun Chakraborty",
   "character": "Sunil",
@@ -157,7 +193,7 @@
   "source_ids": "SOURCE-007"
  },
  {
-  "cast_id": "CAST-014",
+  "cast_id": "CAST-017",
   "film_id": "FILM-004",
   "actor": "Amrita Singh",
   "character": "Rajlaxmi Singh",
@@ -169,7 +205,31 @@
   "source_ids": "SOURCE-007"
  },
  {
-  "cast_id": "CAST-015",
+  "cast_id": "CAST-018",
+  "film_id": "FILM-004",
+  "actor": "Sonu Walia",
+  "character": "Salma Baig",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "One of the three women Karan traces in the search for Laila's mother.",
+  "relationship_to_romance": "Her past bears on the identity of Laila, Karan's love interest.",
+  "character_gist": "One of three college friends who left a baby girl with Razia; now married to Akram and principal of St. Teresa's college. She was the first of them to marry but was afraid to tell her in-laws about the child.",
+  "source_ids": "SOURCE-007"
+ },
+ {
+  "cast_id": "CAST-019",
+  "film_id": "FILM-004",
+  "actor": "Farida Jalal",
+  "character": "Razia",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Leads Karan and Laila to the story of Laila's birth.",
+  "relationship_to_romance": "Her account drives the search that Karan undertakes with Laila.",
+  "character_gist": "The woman with whom the three friends left the infant 18 years earlier; she reveals their story to Karan and Laila.",
+  "source_ids": "SOURCE-007"
+ },
+ {
+  "cast_id": "CAST-020",
   "film_id": "FILM-005",
   "actor": "Jackie Shroff",
   "character": "Ashok Bansal (King Uncle)",
@@ -182,7 +242,7 @@
   "source_ids": "SOURCE-008"
  },
  {
-  "cast_id": "CAST-016",
+  "cast_id": "CAST-021",
   "film_id": "FILM-005",
   "actor": "Pooja Ruparel",
   "character": "Munna",
@@ -195,7 +255,7 @@
   "source_ids": "SOURCE-008"
  },
  {
-  "cast_id": "CAST-017",
+  "cast_id": "CAST-022",
   "film_id": "FILM-005",
   "actor": "Paresh Rawal",
   "character": "Pratap",
@@ -207,7 +267,7 @@
   "source_ids": "SOURCE-008"
  },
  {
-  "cast_id": "CAST-018",
+  "cast_id": "CAST-023",
   "film_id": "FILM-005",
   "actor": "Nivedita Joshi",
   "character": "Suneeta Bansal",
@@ -219,7 +279,43 @@
   "source_ids": "SOURCE-008"
  },
  {
-  "cast_id": "CAST-019",
+  "cast_id": "CAST-024",
+  "film_id": "FILM-005",
+  "actor": "Dalip Tahil",
+  "character": "Pradeep",
+  "cast_function": "Antagonist",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Brother-in-law of Anil through his marriage to Suneeta.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "The man Ashok married Suneeta to, although she loved Kamal. He had an affair and abused Suneeta, until Ashok freed her from the marriage.",
+  "source_ids": "SOURCE-008"
+ },
+ {
+  "cast_id": "CAST-025",
+  "film_id": "FILM-005",
+  "actor": "Vivek Vaswani",
+  "character": "Kamal",
+  "cast_function": "Supporting",
+  "importance": "Minor",
+  "relationship_to_protagonist": "The man his sister Suneeta loves.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Suneeta's love interest, set aside when Ashok arranged her marriage to Pradeep.",
+  "source_ids": "SOURCE-008"
+ },
+ {
+  "cast_id": "CAST-026",
+  "film_id": "FILM-005",
+  "actor": "Sushmita Mukherjee",
+  "character": "Shanti",
+  "cast_function": "Antagonist",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Not directly linked to Anil; she runs the orphanage Munna comes from.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Principal of Munna's orphanage. The plot describes the warden's alcoholism, exposed by Munna, and her criminal boyfriend, from whom Ashok saves Munna.",
+  "source_ids": "SOURCE-008"
+ },
+ {
+  "cast_id": "CAST-027",
   "film_id": "FILM-006",
   "actor": "Farooq Shaikh",
   "character": "Dr. Charu Das",
@@ -231,7 +327,7 @@
   "source_ids": "SOURCE-009"
  },
  {
-  "cast_id": "CAST-020",
+  "cast_id": "CAST-028",
   "film_id": "FILM-006",
   "actor": "Raj Babbar",
   "character": "Rudra Pratap Singh",
@@ -243,7 +339,7 @@
   "source_ids": "SOURCE-009"
  },
  {
-  "cast_id": "CAST-021",
+  "cast_id": "CAST-029",
   "film_id": "FILM-006",
   "actor": "Paresh Rawal",
   "character": "Lalaji",
@@ -255,7 +351,43 @@
   "source_ids": "SOURCE-009"
  },
  {
-  "cast_id": "CAST-022",
+  "cast_id": "CAST-030",
+  "film_id": "FILM-006",
+  "actor": "Shreeram Lagoo",
+  "character": "Maya's father",
+  "cast_function": "Family",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Father of Maya, Lalit's lover.",
+  "relationship_to_romance": "His illness brings Dr. Charu into Maya's life, before her later affairs.",
+  "character_gist": "Maya's father, whose stroke led her to call Dr. Charu Das, whom she later married.",
+  "source_ids": "SOURCE-009"
+ },
+ {
+  "cast_id": "CAST-031",
+  "film_id": "FILM-006",
+  "actor": "Om Puri",
+  "character": "Detective",
+  "cast_function": "Authority figure",
+  "importance": "Medium",
+  "relationship_to_protagonist": "One of the investigators examining the death of Maya, Lalit's former lover.",
+  "relationship_to_romance": "Investigates the fate of Maya after her affairs, including the one with Lalit.",
+  "character_gist": "One of the two investigators left to probe who or what killed Maya after her disappearance.",
+  "source_ids": "SOURCE-009"
+ },
+ {
+  "cast_id": "CAST-032",
+  "film_id": "FILM-006",
+  "actor": "Shrivallabh Vyas",
+  "character": "Detective",
+  "cast_function": "Authority figure",
+  "importance": "Medium",
+  "relationship_to_protagonist": "One of the investigators examining the death of Maya, Lalit's former lover.",
+  "relationship_to_romance": "Investigates the fate of Maya after her affairs, including the one with Lalit.",
+  "character_gist": "The second of the two investigators probing Maya's disappearance.",
+  "source_ids": "SOURCE-009"
+ },
+ {
+  "cast_id": "CAST-033",
   "film_id": "FILM-007",
   "actor": "Deepak Tijori",
   "character": "Deepak Bakshi",
@@ -267,7 +399,7 @@
   "source_ids": "SOURCE-010"
  },
  {
-  "cast_id": "CAST-023",
+  "cast_id": "CAST-034",
   "film_id": "FILM-007",
   "actor": "Aamir Khan",
   "character": "Himself",
@@ -279,7 +411,7 @@
   "source_ids": "SOURCE-010"
  },
  {
-  "cast_id": "CAST-024",
+  "cast_id": "CAST-035",
   "film_id": "FILM-007",
   "actor": "Saif Ali Khan",
   "character": "Himself",
@@ -291,7 +423,31 @@
   "source_ids": "SOURCE-010"
  },
  {
-  "cast_id": "CAST-025",
+  "cast_id": "CAST-036",
+  "film_id": "FILM-007",
+  "actor": "Pooja Bhatt",
+  "character": "Monica",
+  "cast_function": "Co-lead",
+  "importance": "Major",
+  "relationship_to_protagonist": "One of the film's leads; Shah Rukh Khan appears only as himself and is not linked to her character.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Listed among the film's starring cast alongside Deepak Tijori and Raveena Tandon.",
+  "source_ids": "SOURCE-010"
+ },
+ {
+  "cast_id": "CAST-037",
+  "film_id": "FILM-007",
+  "actor": "Raveena Tandon",
+  "character": "Mrs. Avantika Bajaj",
+  "cast_function": "Co-lead",
+  "importance": "Major",
+  "relationship_to_protagonist": "One of the film's leads; Shah Rukh Khan appears only as himself and is not linked to her character.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Listed among the film's starring cast alongside Deepak Tijori and Pooja Bhatt.",
+  "source_ids": "SOURCE-010"
+ },
+ {
+  "cast_id": "CAST-038",
   "film_id": "FILM-008",
   "actor": "Dalip Tahil",
   "character": "Madan Chopra",
@@ -303,7 +459,7 @@
   "source_ids": "SOURCE-011"
  },
  {
-  "cast_id": "CAST-026",
+  "cast_id": "CAST-039",
   "film_id": "FILM-008",
   "actor": "Raakhee Gulzar",
   "character": "Shobha Sharma",
@@ -315,7 +471,7 @@
   "source_ids": "SOURCE-011"
  },
  {
-  "cast_id": "CAST-027",
+  "cast_id": "CAST-040",
   "film_id": "FILM-008",
   "actor": "Siddharth Ray",
   "character": "Inspector Karan Saxena",
@@ -327,7 +483,7 @@
   "source_ids": "SOURCE-011"
  },
  {
-  "cast_id": "CAST-028",
+  "cast_id": "CAST-041",
   "film_id": "FILM-008",
   "actor": "Anant Mahadevan",
   "character": "Vishwanath Sharma",
@@ -339,7 +495,44 @@
   "source_ids": "SOURCE-011"
  },
  {
-  "cast_id": "CAST-029",
+  "cast_id": "CAST-042",
+  "film_id": "FILM-008",
+  "actor": "Johnny Lever",
+  "character": "Babulal",
+  "cast_function": "Comic support",
+  "importance": "Medium",
+  "relationship_to_protagonist": "A comic supporting character in Ajay's story; the plot summary does not describe him.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Comic role credited in the cast list; the plot summary does not describe the character.",
+  "performance_recognition": "Filmfare Award for Best Comedian nomination",
+  "source_ids": "SOURCE-011"
+ },
+ {
+  "cast_id": "CAST-043",
+  "film_id": "FILM-008",
+  "actor": "Daboo Malik",
+  "character": "Ravi Shukla",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "A witness Ajay kills to protect his false identity.",
+  "relationship_to_romance": "Holds a photograph of Seema with Ajay, a threat to Ajay's deception of Priya.",
+  "character_gist": "Seema's friend who told Priya he had photographed Seema and Ajay together. Ajay forced him to write a suicide note framing himself for Seema's murder and hanged him.",
+  "source_ids": "SOURCE-011"
+ },
+ {
+  "cast_id": "CAST-044",
+  "film_id": "FILM-008",
+  "actor": "Resham Tipnis",
+  "character": "Anjali Sinha",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "A witness Ajay kills to protect his false identity.",
+  "relationship_to_romance": "Her phone call during Priya and Vicky's engagement threatens to expose Ajay.",
+  "character_gist": "Seema's college friend, who had seen Seema with a man resembling Ajay and had a photograph of them. Ajay killed her at her hotel and disposed of her body in a river.",
+  "source_ids": "SOURCE-011"
+ },
+ {
+  "cast_id": "CAST-045",
   "film_id": "FILM-009",
   "actor": "Sunny Deol",
   "character": "Lt. Sunil Malhotra",
@@ -351,7 +544,7 @@
   "source_ids": "SOURCE-012"
  },
  {
-  "cast_id": "CAST-030",
+  "cast_id": "CAST-046",
   "film_id": "FILM-009",
   "actor": "Anupam Kher",
   "character": "Vijay Awasthi",
@@ -364,7 +557,7 @@
   "source_ids": "SOURCE-012"
  },
  {
-  "cast_id": "CAST-031",
+  "cast_id": "CAST-047",
   "film_id": "FILM-009",
   "actor": "Tanvi Azmi",
   "character": "Poonam Awasthi",
@@ -376,7 +569,7 @@
   "source_ids": "SOURCE-012"
  },
  {
-  "cast_id": "CAST-032",
+  "cast_id": "CAST-048",
   "film_id": "FILM-009",
   "actor": "Dalip Tahil",
   "character": "Captain Avinash Mehra",
@@ -388,7 +581,7 @@
   "source_ids": "SOURCE-012"
  },
  {
-  "cast_id": "CAST-033",
+  "cast_id": "CAST-049",
   "film_id": "FILM-009",
   "actor": "Annu Kapoor",
   "character": "Vikram \"Vicky\" Oberoi",
@@ -400,7 +593,7 @@
   "source_ids": "SOURCE-012"
  },
  {
-  "cast_id": "CAST-034",
+  "cast_id": "CAST-050",
   "film_id": "FILM-010",
   "actor": "Deepak Tijori",
   "character": "Chris",
@@ -412,7 +605,7 @@
   "source_ids": "SOURCE-013"
  },
  {
-  "cast_id": "CAST-035",
+  "cast_id": "CAST-051",
   "film_id": "FILM-010",
   "actor": "Naseeruddin Shah",
   "character": "Father Braganza",
@@ -424,7 +617,7 @@
   "source_ids": "SOURCE-013"
  },
  {
-  "cast_id": "CAST-036",
+  "cast_id": "CAST-052",
   "film_id": "FILM-010",
   "actor": "Anjan Srivastav",
   "character": "Vinayak",
@@ -436,7 +629,7 @@
   "source_ids": "SOURCE-013"
  },
  {
-  "cast_id": "CAST-037",
+  "cast_id": "CAST-053",
   "film_id": "FILM-010",
   "actor": "Satish Shah",
   "character": "Simon Gonsalves",
@@ -448,7 +641,7 @@
   "source_ids": "SOURCE-013"
  },
  {
-  "cast_id": "CAST-038",
+  "cast_id": "CAST-054",
   "film_id": "FILM-010",
   "actor": "Goga Kapoor",
   "character": "Anthony Gomez",
@@ -460,7 +653,7 @@
   "source_ids": "SOURCE-013"
  },
  {
-  "cast_id": "CAST-039",
+  "cast_id": "CAST-055",
   "film_id": "FILM-010",
   "actor": "Juhi Chawla",
   "character": "Herself",
@@ -472,7 +665,19 @@
   "source_ids": "SOURCE-013"
  },
  {
-  "cast_id": "CAST-040",
+  "cast_id": "CAST-056",
+  "film_id": "FILM-010",
+  "actor": "Sadiya Siddiqui",
+  "character": "Nikki",
+  "cast_function": "Family",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Sunil's younger sister.",
+  "relationship_to_romance": "Watches Sunil with a heavy heart as he hides Chris's dropped ring at the wedding.",
+  "character_gist": "Sunil's younger sister, who wakes him from his dream of marrying Anna at the start of the film.",
+  "source_ids": "SOURCE-013"
+ },
+ {
+  "cast_id": "CAST-057",
   "film_id": "FILM-011",
   "actor": "Deepak Tijori",
   "character": "Ashok Chopra",
@@ -484,7 +689,7 @@
   "source_ids": "SOURCE-014"
  },
  {
-  "cast_id": "CAST-041",
+  "cast_id": "CAST-058",
   "film_id": "FILM-011",
   "actor": "Kiran Kumar",
   "character": "Inspector Arjun Singh",
@@ -496,7 +701,7 @@
   "source_ids": "SOURCE-014"
  },
  {
-  "cast_id": "CAST-042",
+  "cast_id": "CAST-059",
   "film_id": "FILM-011",
   "actor": "Kalpana Iyer",
   "character": "Prison warden",
@@ -508,7 +713,7 @@
   "source_ids": "SOURCE-014"
  },
  {
-  "cast_id": "CAST-043",
+  "cast_id": "CAST-060",
   "film_id": "FILM-011",
   "actor": "Tinnu Anand",
   "character": "Mohanlal Singh",
@@ -520,7 +725,7 @@
   "source_ids": "SOURCE-014"
  },
  {
-  "cast_id": "CAST-044",
+  "cast_id": "CAST-061",
   "film_id": "FILM-011",
   "actor": "Sudha Chandran",
   "character": "Padmisha Singh",
@@ -532,7 +737,7 @@
   "source_ids": "SOURCE-014"
  },
  {
-  "cast_id": "CAST-045",
+  "cast_id": "CAST-062",
   "film_id": "FILM-011",
   "actor": "Himani Shivpuri",
   "character": "Nisha",
@@ -544,7 +749,19 @@
   "source_ids": "SOURCE-014"
  },
  {
-  "cast_id": "CAST-046",
+  "cast_id": "CAST-063",
+  "film_id": "FILM-011",
+  "actor": "Beena Banerjee",
+  "character": "Padma Agnihotri",
+  "cast_function": "Family",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Vijay's mother.",
+  "relationship_to_romance": "Vijay tells her he will marry only Shivani, and she accompanies him to seek Shivani's hand.",
+  "character_gist": "Vijay's mother, who approached Shivani's family with him for a marriage proposal and whose later marriage proposals for him he kept rejecting.",
+  "source_ids": "SOURCE-014"
+ },
+ {
+  "cast_id": "CAST-064",
   "film_id": "FILM-012",
   "actor": "Salman Khan",
   "character": "Karan Singh / Ajay",
@@ -557,7 +774,7 @@
   "source_ids": "SOURCE-015"
  },
  {
-  "cast_id": "CAST-047",
+  "cast_id": "CAST-065",
   "film_id": "FILM-012",
   "actor": "Raakhee",
   "character": "Durga Singh",
@@ -570,7 +787,7 @@
   "source_ids": "SOURCE-015"
  },
  {
-  "cast_id": "CAST-048",
+  "cast_id": "CAST-066",
   "film_id": "FILM-012",
   "actor": "Amrish Puri",
   "character": "Thakur Durjan Singh",
@@ -583,7 +800,7 @@
   "source_ids": "SOURCE-015"
  },
  {
-  "cast_id": "CAST-049",
+  "cast_id": "CAST-067",
   "film_id": "FILM-012",
   "actor": "Ranjeet",
   "character": "Govind Saxena",
@@ -595,7 +812,7 @@
   "source_ids": "SOURCE-015"
  },
  {
-  "cast_id": "CAST-050",
+  "cast_id": "CAST-068",
   "film_id": "FILM-012",
   "actor": "Aasif Sheikh",
   "character": "Suraj Singh",
@@ -607,7 +824,7 @@
   "source_ids": "SOURCE-015"
  },
  {
-  "cast_id": "CAST-051",
+  "cast_id": "CAST-069",
   "film_id": "FILM-012",
   "actor": "Johnny Lever",
   "character": "Lingayya",
@@ -620,7 +837,31 @@
   "source_ids": "SOURCE-015"
  },
  {
-  "cast_id": "CAST-052",
+  "cast_id": "CAST-070",
+  "film_id": "FILM-012",
+  "actor": "Mamta Kulkarni",
+  "character": "Bindiya",
+  "cast_function": "Co-lead",
+  "importance": "Major",
+  "relationship_to_protagonist": "Love interest of Ajay (Karan), Vijay's reincarnated brother.",
+  "relationship_to_romance": "Not part of Vijay and Sonia's romance; she has her own romance with Ajay.",
+  "character_gist": "A tomboyish girl in love with Ajay who follows him around, later joins the brothers, and marries Ajay at the end.",
+  "source_ids": "SOURCE-015"
+ },
+ {
+  "cast_id": "CAST-071",
+  "film_id": "FILM-012",
+  "actor": "Ashok Saraf",
+  "character": "Badal Munshi (Munshiji)",
+  "cast_function": "Supporting",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Munshi of Thakur Sangram Singh, the grandfather of Karan and Arjun.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Comes to speak with Durga on behalf of Thakur Sangram Singh, at the time the Thakur plans to sign the estate over to Karan and Arjun.",
+  "source_ids": "SOURCE-015"
+ },
+ {
+  "cast_id": "CAST-072",
   "film_id": "FILM-013",
   "actor": "Shatrughan Sinha",
   "character": "Suraj Pratap Singh",
@@ -632,7 +873,7 @@
   "source_ids": "SOURCE-016"
  },
  {
-  "cast_id": "CAST-053",
+  "cast_id": "CAST-073",
   "film_id": "FILM-013",
   "actor": "Jeetendra",
   "character": "Madanlal \"Lala\" Malhotra",
@@ -644,7 +885,7 @@
   "source_ids": "SOURCE-016"
  },
  {
-  "cast_id": "CAST-054",
+  "cast_id": "CAST-074",
   "film_id": "FILM-013",
   "actor": "Anupam Kher",
   "character": "Kamdev Singh (K.D.)",
@@ -656,7 +897,7 @@
   "source_ids": "SOURCE-016"
  },
  {
-  "cast_id": "CAST-055",
+  "cast_id": "CAST-075",
   "film_id": "FILM-013",
   "actor": "Tinnu Anand",
   "character": "Sundar",
@@ -668,7 +909,43 @@
   "source_ids": "SOURCE-016"
  },
  {
-  "cast_id": "CAST-056",
+  "cast_id": "CAST-076",
+  "film_id": "FILM-013",
+  "actor": "Raveena Tandon",
+  "character": "Priya Malhotra",
+  "cast_function": "Co-lead",
+  "importance": "Major",
+  "relationship_to_protagonist": "Daughter of Lala, the enemy of Rahul's father Suraj.",
+  "relationship_to_romance": "Rahul's love interest; the psychologists' plot brings the two together.",
+  "character_gist": "Lala's daughter, whom KD and Shalini bring close to Rahul in the hope of reconciling the two feuding families.",
+  "source_ids": "SOURCE-016"
+ },
+ {
+  "cast_id": "CAST-077",
+  "film_id": "FILM-013",
+  "actor": "Prem Chopra",
+  "character": "Assistant Commissioner of Police",
+  "cast_function": "Authority figure",
+  "importance": "Medium",
+  "relationship_to_protagonist": "The police officer behind the plan involving Rahul.",
+  "relationship_to_romance": "Sets in motion the plan to bring Rahul and Priya together.",
+  "character_gist": "Engages two criminal psychologists to unite Rahul and Priya and so end the gang war between Suraj and Lala.",
+  "source_ids": "SOURCE-016"
+ },
+ {
+  "cast_id": "CAST-078",
+  "film_id": "FILM-013",
+  "actor": "Kiran Juneja",
+  "character": "Shalini Shrivastav",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "One of the psychologists who steer Rahul towards Priya.",
+  "relationship_to_romance": "Helps engineer Rahul and Priya's coming together.",
+  "character_gist": "A criminal psychologist who, with KD, weaves the plot to bring Rahul close to Priya.",
+  "source_ids": "SOURCE-016"
+ },
+ {
+  "cast_id": "CAST-079",
   "film_id": "FILM-014",
   "actor": "Mukesh Khanna",
   "character": "Vikram Bahadur",
@@ -680,7 +957,7 @@
   "source_ids": "SOURCE-017"
  },
  {
-  "cast_id": "CAST-057",
+  "cast_id": "CAST-080",
   "film_id": "FILM-014",
   "actor": "Deepti Naval",
   "character": "Kavita Bahadur",
@@ -692,7 +969,7 @@
   "source_ids": "SOURCE-017"
  },
  {
-  "cast_id": "CAST-058",
+  "cast_id": "CAST-081",
   "film_id": "FILM-015",
   "actor": "Deepa Sahi",
   "character": "Miss India",
@@ -704,7 +981,7 @@
   "source_ids": "SOURCE-018"
  },
  {
-  "cast_id": "CAST-059",
+  "cast_id": "CAST-082",
   "film_id": "FILM-015",
   "actor": "Amrish Puri",
   "character": "Don Quixote",
@@ -716,7 +993,7 @@
   "source_ids": "SOURCE-018"
  },
  {
-  "cast_id": "CAST-060",
+  "cast_id": "CAST-083",
   "film_id": "FILM-015",
   "actor": "Jaaved Jaffrey",
   "character": "Prince",
@@ -728,7 +1005,7 @@
   "source_ids": "SOURCE-018"
  },
  {
-  "cast_id": "CAST-061",
+  "cast_id": "CAST-084",
   "film_id": "FILM-015",
   "actor": "Anupam Kher",
   "character": "President / lookalike",
@@ -740,7 +1017,7 @@
   "source_ids": "SOURCE-018"
  },
  {
-  "cast_id": "CAST-062",
+  "cast_id": "CAST-085",
   "film_id": "FILM-016",
   "actor": "Amrish Puri",
   "character": "Chaudhary Baldev Singh",
@@ -752,7 +1029,7 @@
   "source_ids": "SOURCE-019"
  },
  {
-  "cast_id": "CAST-063",
+  "cast_id": "CAST-086",
   "film_id": "FILM-016",
   "actor": "Farida Jalal",
   "character": "Lajwant \"Lajjo\" Singh",
@@ -764,7 +1041,7 @@
   "source_ids": "SOURCE-019"
  },
  {
-  "cast_id": "CAST-064",
+  "cast_id": "CAST-087",
   "film_id": "FILM-016",
   "actor": "Anupam Kher",
   "character": "Dharamvir Malhotra",
@@ -776,7 +1053,7 @@
   "source_ids": "SOURCE-019"
  },
  {
-  "cast_id": "CAST-065",
+  "cast_id": "CAST-088",
   "film_id": "FILM-016",
   "actor": "Parmeet Sethi",
   "character": "Kuljeet Singh",
@@ -788,7 +1065,43 @@
   "source_ids": "SOURCE-019"
  },
  {
-  "cast_id": "CAST-066",
+  "cast_id": "CAST-089",
+  "film_id": "FILM-016",
+  "actor": "Pooja Ruparel",
+  "character": "Rajeshwari \"Chutki\" Singh",
+  "cast_function": "Family",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Simran's younger sister, part of the household Raj wins over in Punjab.",
+  "relationship_to_romance": "Sister of Simran, Raj's love interest.",
+  "character_gist": "Simran's sister in the Singh family. The article notes the film helped her young career.",
+  "source_ids": "SOURCE-019"
+ },
+ {
+  "cast_id": "CAST-090",
+  "film_id": "FILM-016",
+  "actor": "Achala Sachdev",
+  "character": "Simran's grandmother",
+  "cast_function": "Family",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Member of the Singh household that Raj sets out to win over.",
+  "relationship_to_romance": "Her final wishes bring forward Simran's wedding to Kuljeet, adding pressure on Raj and Simran.",
+  "character_gist": "Simran's ailing grandmother; the wedding date is advanced to fulfil her final wishes.",
+  "source_ids": "SOURCE-019"
+ },
+ {
+  "cast_id": "CAST-091",
+  "film_id": "FILM-016",
+  "actor": "Satish Shah",
+  "character": "Ajit Singh",
+  "cast_function": "Supporting",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Father of Kuljeet, the fiance Raj competes with.",
+  "relationship_to_romance": "His son is Simran's childhood betrothed, the obstacle to Raj and Simran.",
+  "character_gist": "Baldev's friend and Kuljeet's father, on the other side of Simran's arranged marriage.",
+  "source_ids": "SOURCE-019"
+ },
+ {
+  "cast_id": "CAST-092",
   "film_id": "FILM-017",
   "actor": "Vivek Mushran",
   "character": "Murli",
@@ -800,7 +1113,7 @@
   "source_ids": "SOURCE-020"
  },
  {
-  "cast_id": "CAST-067",
+  "cast_id": "CAST-093",
   "film_id": "FILM-017",
   "actor": "Puneet Issar",
   "character": "Inspector Chewte",
@@ -812,7 +1125,7 @@
   "source_ids": "SOURCE-020"
  },
  {
-  "cast_id": "CAST-068",
+  "cast_id": "CAST-094",
   "film_id": "FILM-017",
   "actor": "Pankaj Kapur",
   "character": "Pannu Technicolor",
@@ -824,7 +1137,7 @@
   "source_ids": "SOURCE-020"
  },
  {
-  "cast_id": "CAST-069",
+  "cast_id": "CAST-095",
   "film_id": "FILM-017",
   "actor": "Tinnu Anand",
   "character": "Sameer Sanavla",
@@ -836,7 +1149,31 @@
   "source_ids": "SOURCE-020"
  },
  {
-  "cast_id": "CAST-070",
+  "cast_id": "CAST-096",
+  "film_id": "FILM-017",
+  "actor": "Gulshan Grover",
+  "character": "Bhau",
+  "cast_function": "Antagonist",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Ram Jaane's rival.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Plotted with Technicolor to kill Ram Jaane, who killed them both on discovering the plot.",
+  "source_ids": "SOURCE-020"
+ },
+ {
+  "cast_id": "CAST-097",
+  "film_id": "FILM-017",
+  "actor": "G.P Singh",
+  "character": "Baweja Builder",
+  "cast_function": "Antagonist",
+  "importance": "Medium",
+  "relationship_to_protagonist": "A criminal with a vendetta against Ram Jaane.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Ordered his gang to attack Apna Ghar and its residents; Ram Jaane thwarted the attack and later shot him dead, prompting Chewte's pursuit.",
+  "source_ids": "SOURCE-020"
+ },
+ {
+  "cast_id": "CAST-098",
   "film_id": "FILM-018",
   "actor": "Anil Kapoor",
   "character": "Anand Singh / Sikander",
@@ -848,7 +1185,7 @@
   "source_ids": "SOURCE-021"
  },
  {
-  "cast_id": "CAST-071",
+  "cast_id": "CAST-099",
   "film_id": "FILM-018",
   "actor": "Jackie Shroff",
   "character": "Shakti Singh",
@@ -860,7 +1197,7 @@
   "source_ids": "SOURCE-021"
  },
  {
-  "cast_id": "CAST-072",
+  "cast_id": "CAST-100",
   "film_id": "FILM-018",
   "actor": "Priya Tendulkar",
   "character": "Satyadevi Singh",
@@ -872,7 +1209,7 @@
   "source_ids": "SOURCE-021"
  },
  {
-  "cast_id": "CAST-073",
+  "cast_id": "CAST-101",
   "film_id": "FILM-018",
   "actor": "Mohan Agashe",
   "character": "Khokha Singh",
@@ -884,7 +1221,19 @@
   "source_ids": "SOURCE-021"
  },
  {
-  "cast_id": "CAST-074",
+  "cast_id": "CAST-102",
+  "film_id": "FILM-018",
+  "actor": "Saeed Jaffrey",
+  "character": "Bhanuwala",
+  "cast_function": "Family",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Uncle of Romi and his brothers, Satyadevi's brother.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Satyadevi's brother Bhanu, who tells the brothers their mother hopes they will again become her Trimurti, and tells Satyadevi on her release that all is not well with her sons.",
+  "source_ids": "SOURCE-021"
+ },
+ {
+  "cast_id": "CAST-103",
   "film_id": "FILM-019",
   "actor": "Arhhan Singh",
   "character": "Nandlal \"Nandu\" Mayur",
@@ -896,7 +1245,7 @@
   "source_ids": "SOURCE-022"
  },
  {
-  "cast_id": "CAST-075",
+  "cast_id": "CAST-104",
   "film_id": "FILM-019",
   "actor": "Saeed Jaffrey",
   "character": "Lawyer Madadgar",
@@ -908,7 +1257,7 @@
   "source_ids": "SOURCE-022"
  },
  {
-  "cast_id": "CAST-076",
+  "cast_id": "CAST-105",
   "film_id": "FILM-019",
   "actor": "Kiran Kumar",
   "character": "Bheema Khalasi",
@@ -920,7 +1269,7 @@
   "source_ids": "SOURCE-022"
  },
  {
-  "cast_id": "CAST-077",
+  "cast_id": "CAST-106",
   "film_id": "FILM-020",
   "actor": "Naseeruddin Shah",
   "character": "Ajay Narang",
@@ -932,7 +1281,7 @@
   "source_ids": "SOURCE-023"
  },
  {
-  "cast_id": "CAST-078",
+  "cast_id": "CAST-107",
   "film_id": "FILM-020",
   "actor": "Anupam Kher",
   "character": "Shambunath Singh Rathod",
@@ -944,7 +1293,19 @@
   "source_ids": "SOURCE-023"
  },
  {
-  "cast_id": "CAST-079",
+  "cast_id": "CAST-108",
+  "film_id": "FILM-020",
+  "actor": "Shrivallabh Vyas",
+  "character": "Patel",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Ajay Narang's rival, for whom Roop briefly works.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A hotel owner Roop chose to work for instead of taking Reshma's offer; Ajay beat him until he agreed to throw Roop out.",
+  "source_ids": "SOURCE-023"
+ },
+ {
+  "cast_id": "CAST-109",
   "film_id": "FILM-021",
   "actor": "Danny Denzongpa",
   "character": "Naagraj",
@@ -956,7 +1317,7 @@
   "source_ids": "SOURCE-024"
  },
  {
-  "cast_id": "CAST-080",
+  "cast_id": "CAST-110",
   "film_id": "FILM-021",
   "actor": "Kiran Kumar",
   "character": "Jailer Raghuveer Singh",
@@ -968,7 +1329,7 @@
   "source_ids": "SOURCE-024"
  },
  {
-  "cast_id": "CAST-081",
+  "cast_id": "CAST-111",
   "film_id": "FILM-022",
   "actor": "Jeetendra",
   "character": "Mahesh Thakur",
@@ -980,7 +1341,7 @@
   "source_ids": "SOURCE-025"
  },
  {
-  "cast_id": "CAST-082",
+  "cast_id": "CAST-112",
   "film_id": "FILM-022",
   "actor": "Sumalatha",
   "character": "Reshma",
@@ -992,7 +1353,7 @@
   "source_ids": "SOURCE-025"
  },
  {
-  "cast_id": "CAST-083",
+  "cast_id": "CAST-113",
   "film_id": "FILM-022",
   "actor": "Salman Khan",
   "character": "Himself",
@@ -1004,7 +1365,31 @@
   "source_ids": "SOURCE-025"
  },
  {
-  "cast_id": "CAST-084",
+  "cast_id": "CAST-114",
+  "film_id": "FILM-022",
+  "actor": "Manzoor Ali",
+  "character": "Lucky",
+  "cast_function": "Co-lead",
+  "importance": "Major",
+  "relationship_to_protagonist": "Son of Mahesh, the protagonist; Badru, Mahesh's friend, dies during a chase involving the young Lucky.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Mahesh and Reshma's son, who falls into drug addiction and crime, kills his mother while trying to take her mangalsutra, and is mercy-killed by his father. The article notes this as Manzoor Ali's debut.",
+  "source_ids": "SOURCE-025"
+ },
+ {
+  "cast_id": "CAST-115",
+  "film_id": "FILM-022",
+  "actor": "Laila",
+  "character": "Lata",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Lucky's fiancee; not linked to Badru.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Lucky's partner, whom he was about to marry; she broke up with him after his father cast him out. The article notes this as Laila's debut.",
+  "source_ids": "SOURCE-025"
+ },
+ {
+  "cast_id": "CAST-116",
   "film_id": "FILM-023",
   "actor": "Anupam Kher",
   "character": "Ajay Prasad",
@@ -1016,7 +1401,31 @@
   "source_ids": "SOURCE-026"
  },
  {
-  "cast_id": "CAST-085",
+  "cast_id": "CAST-117",
+  "film_id": "FILM-023",
+  "actor": "Pratibha Sinha",
+  "character": "Chandni",
+  "cast_function": "Co-lead",
+  "importance": "Major",
+  "relationship_to_protagonist": "Neighbour of the film's protagonist Ajay Prasad; Shah Rukh Khan appears as himself.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Ajay's single neighbour in Bombay who acts in commercials, and with whom he begins a comic affair.",
+  "source_ids": "SOURCE-026"
+ },
+ {
+  "cast_id": "CAST-118",
+  "film_id": "FILM-023",
+  "actor": "Satish Kaushik",
+  "character": "Ravindranath \"Ravi\"",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Host of the film's protagonist Ajay Prasad in Bombay; Shah Rukh Khan appears as himself.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Meets Ajay at the airport and drives him to his apartment in a wealthy area of Bombay.",
+  "source_ids": "SOURCE-026"
+ },
+ {
+  "cast_id": "CAST-119",
   "film_id": "FILM-024",
   "actor": "Amrish Puri",
   "character": "Raja Saab",
@@ -1029,7 +1438,7 @@
   "source_ids": "SOURCE-027"
  },
  {
-  "cast_id": "CAST-086",
+  "cast_id": "CAST-120",
   "film_id": "FILM-024",
   "actor": "Salim Ghouse",
   "character": "Brijwa Chaudhry",
@@ -1041,7 +1450,7 @@
   "source_ids": "SOURCE-027"
  },
  {
-  "cast_id": "CAST-087",
+  "cast_id": "CAST-121",
   "film_id": "FILM-024",
   "actor": "Mohnish Behl",
   "character": "Ashok Singh",
@@ -1053,7 +1462,7 @@
   "source_ids": "SOURCE-027"
  },
  {
-  "cast_id": "CAST-088",
+  "cast_id": "CAST-122",
   "film_id": "FILM-024",
   "actor": "Deepshikha Nagpal",
   "character": "Bindiya",
@@ -1065,7 +1474,7 @@
   "source_ids": "SOURCE-027"
  },
  {
-  "cast_id": "CAST-089",
+  "cast_id": "CAST-123",
   "film_id": "FILM-025",
   "actor": "Aditya Pancholi",
   "character": "Siddharth Chaudhary",
@@ -1078,7 +1487,7 @@
   "source_ids": "SOURCE-028"
  },
  {
-  "cast_id": "CAST-090",
+  "cast_id": "CAST-124",
   "film_id": "FILM-025",
   "actor": "Reema Lagoo",
   "character": "Sonali Joshi",
@@ -1090,7 +1499,7 @@
   "source_ids": "SOURCE-028"
  },
  {
-  "cast_id": "CAST-091",
+  "cast_id": "CAST-125",
   "film_id": "FILM-025",
   "actor": "Gulshan Grover",
   "character": "Bhushan",
@@ -1102,7 +1511,19 @@
   "source_ids": "SOURCE-028"
  },
  {
-  "cast_id": "CAST-092",
+  "cast_id": "CAST-126",
+  "film_id": "FILM-025",
+  "actor": "Kashmera Shah",
+  "character": "Sheela Chaudhary",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Connected to Rahul's boss Siddharth, whose secrets Rahul keeps.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "The rich Sheela whom Siddharth has deviously trapped; her cousin Bhushan tells Rahul's mother that Rahul has married Seema.",
+  "source_ids": "SOURCE-028"
+ },
+ {
+  "cast_id": "CAST-127",
   "film_id": "FILM-026",
   "actor": "Apurva Agnihotri",
   "character": "Rajiv",
@@ -1114,7 +1535,7 @@
   "source_ids": "SOURCE-029"
  },
  {
-  "cast_id": "CAST-093",
+  "cast_id": "CAST-128",
   "film_id": "FILM-026",
   "actor": "Amrish Puri",
   "character": "Kishorilal",
@@ -1126,7 +1547,7 @@
   "source_ids": "SOURCE-029"
  },
  {
-  "cast_id": "CAST-094",
+  "cast_id": "CAST-129",
   "film_id": "FILM-026",
   "actor": "Alok Nath",
   "character": "Suraj Dev",
@@ -1138,7 +1559,7 @@
   "source_ids": "SOURCE-029"
  },
  {
-  "cast_id": "CAST-095",
+  "cast_id": "CAST-130",
   "film_id": "FILM-027",
   "actor": "Akshay Kumar",
   "character": "Ajay",
@@ -1151,7 +1572,7 @@
   "source_ids": "SOURCE-030"
  },
  {
-  "cast_id": "CAST-096",
+  "cast_id": "CAST-131",
   "film_id": "FILM-027",
   "actor": "Aruna Irani",
   "character": "Pooja's dance teacher (Tai)",
@@ -1163,7 +1584,31 @@
   "source_ids": "SOURCE-030"
  },
  {
-  "cast_id": "CAST-097",
+  "cast_id": "CAST-132",
+  "film_id": "FILM-027",
+  "actor": "Farida Jalal",
+  "character": "Ajay's mother",
+  "cast_function": "Family",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Mother of Rahul's romantic rival Ajay and foster mother of Pooja.",
+  "relationship_to_romance": "Her son Ajay is engaged to Pooja, the woman Rahul loves.",
+  "character_gist": "One of the close family friends who raised the orphaned Pooja; her son Ajay grew up as Pooja's best friend and later proposes to her.",
+  "source_ids": "SOURCE-030"
+ },
+ {
+  "cast_id": "CAST-133",
+  "film_id": "FILM-027",
+  "actor": "Deven Verma",
+  "character": "Ajay's father",
+  "cast_function": "Family",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Father of Rahul's romantic rival Ajay and foster father of Pooja.",
+  "relationship_to_romance": "His son Ajay is engaged to Pooja, the woman Rahul loves.",
+  "character_gist": "One of the close family friends who raised the orphaned Pooja after her parents died.",
+  "source_ids": "SOURCE-030"
+ },
+ {
+  "cast_id": "CAST-134",
   "film_id": "FILM-028",
   "actor": "Mohnish Behl",
   "character": "Ravi Lamba",
@@ -1175,7 +1620,7 @@
   "source_ids": "SOURCE-031"
  },
  {
-  "cast_id": "CAST-098",
+  "cast_id": "CAST-135",
   "film_id": "FILM-028",
   "actor": "Farida Jalal",
   "character": "\"Bebe\" Chaudhary",
@@ -1187,7 +1632,7 @@
   "source_ids": "SOURCE-031"
  },
  {
-  "cast_id": "CAST-099",
+  "cast_id": "CAST-136",
   "film_id": "FILM-028",
   "actor": "Tiku Talsania",
   "character": "Inspector R. K. Thakur",
@@ -1199,7 +1644,7 @@
   "source_ids": "SOURCE-031"
  },
  {
-  "cast_id": "CAST-100",
+  "cast_id": "CAST-137",
   "film_id": "FILM-028",
   "actor": "Kajol",
   "character": "Simran Singh",
@@ -1211,7 +1656,7 @@
   "source_ids": "SOURCE-031"
  },
  {
-  "cast_id": "CAST-101",
+  "cast_id": "CAST-138",
   "film_id": "FILM-029",
   "actor": "Govinda",
   "character": "Arjun Nanda",
@@ -1223,7 +1668,7 @@
   "source_ids": "SOURCE-032"
  },
  {
-  "cast_id": "CAST-102",
+  "cast_id": "CAST-139",
   "film_id": "FILM-029",
   "actor": "Sanjay Dutt",
   "character": "Himself",
@@ -1235,7 +1680,19 @@
   "source_ids": "SOURCE-032"
  },
  {
-  "cast_id": "CAST-103",
+  "cast_id": "CAST-140",
+  "film_id": "FILM-029",
+  "actor": "Manisha Koirala",
+  "character": "Pooja",
+  "cast_function": "Co-lead",
+  "importance": "Major",
+  "relationship_to_protagonist": "Love interest of the film's protagonist Arjun Nanda; Shah Rukh Khan appears only as himself in a cameo.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Arjun falls in love with her; she is wrongly convicted of murder, and the two later work together to expose the truth while on the run from the police and criminals.",
+  "source_ids": "SOURCE-032"
+ },
+ {
+  "cast_id": "CAST-141",
   "film_id": "FILM-030",
   "actor": "Preity Zinta",
   "character": "Preeti Nair",
@@ -1248,7 +1705,7 @@
   "source_ids": "SOURCE-033"
  },
  {
-  "cast_id": "CAST-104",
+  "cast_id": "CAST-142",
   "film_id": "FILM-030",
   "actor": "Piyush Mishra",
   "character": "CBI Officer Arun Kashyap",
@@ -1260,7 +1717,7 @@
   "source_ids": "SOURCE-033"
  },
  {
-  "cast_id": "CAST-105",
+  "cast_id": "CAST-143",
   "film_id": "FILM-030",
   "actor": "Malaika Arora",
   "character": "Dancer in 'Chaiyya Chaiyya'",
@@ -1272,7 +1729,31 @@
   "source_ids": "SOURCE-033"
  },
  {
-  "cast_id": "CAST-106",
+  "cast_id": "CAST-144",
+  "film_id": "FILM-030",
+  "actor": "Zohra Sehgal",
+  "character": "Amar's grandmother",
+  "cast_function": "Family",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Amar's grandmother.",
+  "relationship_to_romance": "Part of the family that arranges Amar's marriage proposal with Preeti Nair.",
+  "character_gist": "Credited as Amar's grandmother; Amar's family arranges his match with Preeti after he returns to Delhi.",
+  "source_ids": "SOURCE-033"
+ },
+ {
+  "cast_id": "CAST-145",
+  "film_id": "FILM-030",
+  "actor": "Arundathi Nag",
+  "character": "Kanval Dev Burman",
+  "cast_function": "Authority figure",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Station director at All India Radio, where Amar works as a program executive.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Credited as the All India Radio station director; Amar is an AIR program executive sent to Assam on assignment.",
+  "source_ids": "SOURCE-033"
+ },
+ {
+  "cast_id": "CAST-146",
   "film_id": "FILM-031",
   "actor": "Salman Khan",
   "character": "Aman Mehra",
@@ -1285,7 +1766,7 @@
   "source_ids": "SOURCE-034"
  },
  {
-  "cast_id": "CAST-107",
+  "cast_id": "CAST-147",
   "film_id": "FILM-031",
   "actor": "Sana Saeed",
   "character": "Anjali Khanna",
@@ -1297,7 +1778,7 @@
   "source_ids": "SOURCE-034"
  },
  {
-  "cast_id": "CAST-108",
+  "cast_id": "CAST-148",
   "film_id": "FILM-031",
   "actor": "Farida Jalal",
   "character": "Mrs. Khanna",
@@ -1309,7 +1790,7 @@
   "source_ids": "SOURCE-034"
  },
  {
-  "cast_id": "CAST-109",
+  "cast_id": "CAST-149",
   "film_id": "FILM-031",
   "actor": "Anupam Kher",
   "character": "Mr. Malhotra",
@@ -1321,7 +1802,45 @@
   "source_ids": "SOURCE-034"
  },
  {
-  "cast_id": "CAST-110",
+  "cast_id": "CAST-150",
+  "film_id": "FILM-031",
+  "actor": "Reema Lagoo",
+  "character": "Mrs. Sharma",
+  "cast_function": "Family",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Mother of Rahul's college best friend Anjali Sharma.",
+  "relationship_to_romance": "Mother of Anjali Sharma, whom Rahul eventually marries.",
+  "character_gist": "Credited as Anjali Sharma's mother; Anjali's wedding to Aman is called off and Rahul takes his place as the groom.",
+  "source_ids": "SOURCE-034"
+ },
+ {
+  "cast_id": "CAST-151",
+  "film_id": "FILM-031",
+  "actor": "Archana Puran Singh",
+  "character": "Ms. Braganza",
+  "cast_function": "Comic support",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Not described in the plot summary.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Credited as Ms. Braganza; the plot summary does not describe her role.",
+  "performance_recognition": "Screen Award for Best Comedian win; Filmfare Award for Best Performance in a Comic Role nomination",
+  "source_ids": "SOURCE-034"
+ },
+ {
+  "cast_id": "CAST-152",
+  "film_id": "FILM-031",
+  "actor": "Johnny Lever",
+  "character": "Colonel Joshua Almeida",
+  "cast_function": "Comic support",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Manager of the Shimla summer camp where Rahul reunites with Anjali Sharma.",
+  "relationship_to_romance": "Runs the camp where Rahul and Anjali Sharma meet again and grow close.",
+  "character_gist": "Credited as the summer camp manager at the Shimla workshop attended by young Anjali, where Sharma is an instructor.",
+  "performance_recognition": "Filmfare Award for Best Performance in a Comic Role nomination",
+  "source_ids": "SOURCE-034"
+ },
+ {
+  "cast_id": "CAST-153",
   "film_id": "FILM-032",
   "actor": "Amrish Puri",
   "character": "Suraj Singh Thapar",
@@ -1334,7 +1853,7 @@
   "source_ids": "SOURCE-035"
  },
  {
-  "cast_id": "CAST-111",
+  "cast_id": "CAST-154",
   "film_id": "FILM-032",
   "actor": "Raakhee Gulzar",
   "character": "Gayatri Devi Bachchan",
@@ -1346,7 +1865,7 @@
   "source_ids": "SOURCE-035"
  },
  {
-  "cast_id": "CAST-112",
+  "cast_id": "CAST-155",
   "film_id": "FILM-032",
   "actor": "Johnny Lever",
   "character": "Ram Lal",
@@ -1358,7 +1877,7 @@
   "source_ids": "SOURCE-035"
  },
  {
-  "cast_id": "CAST-113",
+  "cast_id": "CAST-156",
   "film_id": "FILM-032",
   "actor": "Sharat Saxena",
   "character": "Moti",
@@ -1370,7 +1889,43 @@
   "source_ids": "SOURCE-035"
  },
  {
-  "cast_id": "CAST-114",
+  "cast_id": "CAST-157",
+  "film_id": "FILM-032",
+  "actor": "Deepshikha Nagpal",
+  "character": "Rani",
+  "cast_function": "Antagonist",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Suraj Singh Thapar's assistant in the assassination plot that Baadshah becomes caught up in.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Hires the contract killer Shiva to assassinate the Chief Minister, then sends her boyfriend Moti to eliminate \"Baadshah\" and take his identity; she realises Moti killed the wrong man.",
+  "source_ids": "SOURCE-035"
+ },
+ {
+  "cast_id": "CAST-158",
+  "film_id": "FILM-032",
+  "actor": "Avtar Gill",
+  "character": "K. Jhunjhunwala",
+  "cast_function": "Antagonist",
+  "importance": "Minor",
+  "relationship_to_protagonist": "A client who deceives Baadshah with a false case.",
+  "relationship_to_romance": "His scheme leads Baadshah to woo Seema.",
+  "character_gist": "Claims to be dying and hires Baadshah to stop his daughter Seema from refusing Nitin; he and Nitin are actually a father-son duo wanted by the CBI for bank fraud, and are arrested.",
+  "source_ids": "SOURCE-035"
+ },
+ {
+  "cast_id": "CAST-159",
+  "film_id": "FILM-032",
+  "actor": "Razak Khan",
+  "character": "Manik Chand",
+  "cast_function": "Antagonist",
+  "importance": "Medium",
+  "relationship_to_protagonist": "One of the kidnappers Baadshah is hired to track down.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Saxena's partner; the two kidnap Mahendra Seth's child for ransom and hold him in Goa. The article names Razak Khan among the main cast.",
+  "source_ids": "SOURCE-035"
+ },
+ {
+  "cast_id": "CAST-160",
   "film_id": "FILM-033",
   "actor": "Paresh Rawal",
   "character": "Mohan Joshi",
@@ -1382,7 +1937,7 @@
   "source_ids": "SOURCE-036"
  },
  {
-  "cast_id": "CAST-115",
+  "cast_id": "CAST-161",
   "film_id": "FILM-033",
   "actor": "Johnny Lever",
   "character": "Pappu Junior (Choti)",
@@ -1395,7 +1950,7 @@
   "source_ids": "SOURCE-036"
  },
  {
-  "cast_id": "CAST-116",
+  "cast_id": "CAST-162",
   "film_id": "FILM-033",
   "actor": "Shakti Kapoor",
   "character": "Minister Ramakant Dua",
@@ -1407,7 +1962,7 @@
   "source_ids": "SOURCE-036"
  },
  {
-  "cast_id": "CAST-117",
+  "cast_id": "CAST-163",
   "film_id": "FILM-033",
   "actor": "Satish Shah",
   "character": "Kaka",
@@ -1419,7 +1974,31 @@
   "source_ids": "SOURCE-036"
  },
  {
-  "cast_id": "CAST-118",
+  "cast_id": "CAST-164",
+  "film_id": "FILM-033",
+  "actor": "Mahavir Shah",
+  "character": "Madanlal Gupta",
+  "cast_function": "Antagonist",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Target of Ajay's staged on-air attack.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Minister Ramakant Dua's brother-in-law; Ajay's publicity stunt against him goes wrong when Mohan Joshi kills him, later revealed as revenge for the rape and murder of Mohan's daughter.",
+  "source_ids": "SOURCE-036"
+ },
+ {
+  "cast_id": "CAST-165",
+  "film_id": "FILM-033",
+  "actor": "Dalip Tahil",
+  "character": "Shenoy",
+  "cast_function": "Antagonist",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Head of the rival Galaxy TV channel.",
+  "relationship_to_romance": "Boss of Ajay's rival and later love interest Ria.",
+  "character_gist": "Ria's boss at Galaxy TV; among the media superiors who deceive Ajay and Ria and confiscate Mohan's confession tape, and who fall after the public outcry.",
+  "source_ids": "SOURCE-036"
+ },
+ {
+  "cast_id": "CAST-166",
   "film_id": "FILM-034",
   "actor": "Kamal Haasan",
   "character": "Saket Ram",
@@ -1431,7 +2010,7 @@
   "source_ids": "SOURCE-037"
  },
  {
-  "cast_id": "CAST-119",
+  "cast_id": "CAST-167",
   "film_id": "FILM-034",
   "actor": "Atul Kulkarni",
   "character": "Shriram Abhyankar",
@@ -1444,7 +2023,7 @@
   "source_ids": "SOURCE-037"
  },
  {
-  "cast_id": "CAST-120",
+  "cast_id": "CAST-168",
   "film_id": "FILM-034",
   "actor": "Naseeruddin Shah",
   "character": "Mahatma Gandhi",
@@ -1456,7 +2035,7 @@
   "source_ids": "SOURCE-037"
  },
  {
-  "cast_id": "CAST-121",
+  "cast_id": "CAST-169",
   "film_id": "FILM-034",
   "actor": "Rani Mukerji",
   "character": "Aparna Ram",
@@ -1468,7 +2047,32 @@
   "source_ids": "SOURCE-037"
  },
  {
-  "cast_id": "CAST-122",
+  "cast_id": "CAST-170",
+  "film_id": "FILM-034",
+  "actor": "Vasundhara Das",
+  "character": "Mythili Ram Iyengar",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Second wife of Amjad's closest friend, Saket Ram.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Ram marries her under family pressure after Aparna's death; she and her family are devout followers of Gandhi, and Ram later abandons her while she is pregnant.",
+  "performance_recognition": "Screen Award for Most Promising Newcomer (Female) nomination",
+  "source_ids": "SOURCE-037"
+ },
+ {
+  "cast_id": "CAST-171",
+  "film_id": "FILM-034",
+  "actor": "Iravati Harshe",
+  "character": "Nafisa",
+  "cast_function": "Family",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Amjad's wife.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Among the displaced Muslim families Amjad shelters inside the Chandni Chowk soda factory.",
+  "source_ids": "SOURCE-037"
+ },
+ {
+  "cast_id": "CAST-172",
   "film_id": "FILM-035",
   "actor": "Aishwarya Rai",
   "character": "Shirley Dias",
@@ -1480,7 +2084,7 @@
   "source_ids": "SOURCE-038"
  },
  {
-  "cast_id": "CAST-123",
+  "cast_id": "CAST-173",
   "film_id": "FILM-035",
   "actor": "Chandrachur Singh",
   "character": "Rahul Sharma",
@@ -1493,7 +2097,7 @@
   "source_ids": "SOURCE-038"
  },
  {
-  "cast_id": "CAST-124",
+  "cast_id": "CAST-174",
   "film_id": "FILM-035",
   "actor": "Sharad Kapoor",
   "character": "Prakash Sharma",
@@ -1506,7 +2110,7 @@
   "source_ids": "SOURCE-038"
  },
  {
-  "cast_id": "CAST-125",
+  "cast_id": "CAST-175",
   "film_id": "FILM-035",
   "actor": "Priya Gill",
   "character": "Rosanne",
@@ -1518,7 +2122,31 @@
   "source_ids": "SOURCE-038"
  },
  {
-  "cast_id": "CAST-126",
+  "cast_id": "CAST-176",
+  "film_id": "FILM-035",
+  "actor": "Sharat Saxena",
+  "character": "Police Inspector",
+  "cast_function": "Authority figure",
+  "importance": "Minor",
+  "relationship_to_protagonist": "The town inspector who intervenes in fights between Max's Eagles and the Bichhoos.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "With Fr. Jacob, usually steps in when the rival gangs of Vasco clash.",
+  "source_ids": "SOURCE-038"
+ },
+ {
+  "cast_id": "CAST-177",
+  "film_id": "FILM-035",
+  "actor": "Raymond Albuquerque",
+  "character": "Alberto Vasco",
+  "cast_function": "Family",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Max's biological father.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Vasco's landlord, after whom the town is named; Max and Shirley are his illegitimate children, and the disputed village ground he placed in their mother's name proves to be their inheritance.",
+  "source_ids": "SOURCE-038"
+ },
+ {
+  "cast_id": "CAST-178",
   "film_id": "FILM-036",
   "actor": "Salman Khan",
   "character": "Raj Sharma / Romi",
@@ -1530,7 +2158,7 @@
   "source_ids": "SOURCE-039"
  },
  {
-  "cast_id": "CAST-127",
+  "cast_id": "CAST-179",
   "film_id": "FILM-036",
   "actor": "Rani Mukerji",
   "character": "Pooja Oberoi",
@@ -1543,7 +2171,7 @@
   "source_ids": "SOURCE-039"
  },
  {
-  "cast_id": "CAST-128",
+  "cast_id": "CAST-180",
   "film_id": "FILM-036",
   "actor": "Preity Zinta",
   "character": "Jahnvi Verma",
@@ -1555,7 +2183,7 @@
   "source_ids": "SOURCE-039"
  },
  {
-  "cast_id": "CAST-129",
+  "cast_id": "CAST-181",
   "film_id": "FILM-036",
   "actor": "Sana Saeed",
   "character": "Anjali Khanna",
@@ -1567,7 +2195,7 @@
   "source_ids": "SOURCE-039"
  },
  {
-  "cast_id": "CAST-130",
+  "cast_id": "CAST-182",
   "film_id": "FILM-037",
   "actor": "Amitabh Bachchan",
   "character": "Narayan Shankar",
@@ -1580,7 +2208,7 @@
   "source_ids": "SOURCE-040"
  },
  {
-  "cast_id": "CAST-131",
+  "cast_id": "CAST-183",
   "film_id": "FILM-037",
   "actor": "Uday Chopra",
   "character": "Vikram \"Vicky\" Oberoi",
@@ -1592,7 +2220,7 @@
   "source_ids": "SOURCE-040"
  },
  {
-  "cast_id": "CAST-132",
+  "cast_id": "CAST-184",
   "film_id": "FILM-037",
   "actor": "Jugal Hansraj",
   "character": "Sameer Sharma",
@@ -1604,7 +2232,7 @@
   "source_ids": "SOURCE-040"
  },
  {
-  "cast_id": "CAST-133",
+  "cast_id": "CAST-185",
   "film_id": "FILM-037",
   "actor": "Jimmy Sheirgill",
   "character": "Karan Choudhary",
@@ -1616,7 +2244,43 @@
   "source_ids": "SOURCE-040"
  },
  {
-  "cast_id": "CAST-134",
+  "cast_id": "CAST-186",
+  "film_id": "FILM-037",
+  "actor": "Shamita Shetty",
+  "character": "Ishika \"Isha\" Dhanrajgir",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Love interest of Vicky, one of the students Raj encourages to love.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A student at the neighbouring girls' school; after being paired with Vicky for a dance competition, she falls in love with him and accepts him when he admits lying about his family's status.",
+  "source_ids": "SOURCE-040"
+ },
+ {
+  "cast_id": "CAST-187",
+  "film_id": "FILM-037",
+  "actor": "Kim Sharma",
+  "character": "Sanjana \"Sanju\" Paul",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Love interest of Sameer, one of the students Raj encourages to love.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Sameer's childhood sweetheart, initially in a relationship with Deepak; after Deepak mistreats her she realises Sameer is her soulmate.",
+  "source_ids": "SOURCE-040"
+ },
+ {
+  "cast_id": "CAST-188",
+  "film_id": "FILM-037",
+  "actor": "Preeti Jhangiani",
+  "character": "Kiran Khanna",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Love interest of Karan, one of the students Raj encourages to love.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A widow whom Karan falls for; with Raj's help Karan becomes piano teacher to her nephew and slowly wins her love.",
+  "source_ids": "SOURCE-040"
+ },
+ {
+  "cast_id": "CAST-189",
   "film_id": "FILM-038",
   "actor": "Madhuri Dixit",
   "character": "Gaja Gamini / Sangeeta / Shakuntala / Monika / Mona Lisa",
@@ -1628,7 +2292,31 @@
   "source_ids": "SOURCE-041"
  },
  {
-  "cast_id": "CAST-135",
+  "cast_id": "CAST-190",
+  "film_id": "FILM-038",
+  "actor": "Naseeruddin Shah",
+  "character": "Leonardo da Vinci",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Obsessed with Gaja Gamini in her Mona Lisa incarnation; Shah Rukh Khan appears as himself in a cameo.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "The Renaissance painter whose obsession with Gaja Gamini inspires the 'Mona Lisa'.",
+  "source_ids": "SOURCE-041"
+ },
+ {
+  "cast_id": "CAST-191",
+  "film_id": "FILM-038",
+  "actor": "Inder Kumar",
+  "character": "Kamdev",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Pursues the film's central figure, Gaja Gamini; Shah Rukh Khan appears as himself in a cameo.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "The God of Love, who walks the earth throughout history trying to win Gaja Gamini's love.",
+  "source_ids": "SOURCE-041"
+ },
+ {
+  "cast_id": "CAST-192",
   "film_id": "FILM-039",
   "actor": "Jackie Shroff",
   "character": "SSP Javed Abbas",
@@ -1640,7 +2328,7 @@
   "source_ids": "SOURCE-042"
  },
  {
-  "cast_id": "CAST-136",
+  "cast_id": "CAST-193",
   "film_id": "FILM-039",
   "actor": "Nirmal Pandey",
   "character": "Krishan Kant Virmani (KKV)",
@@ -1652,7 +2340,7 @@
   "source_ids": "SOURCE-042"
  },
  {
-  "cast_id": "CAST-137",
+  "cast_id": "CAST-194",
   "film_id": "FILM-039",
   "actor": "Raj Zutshi",
   "character": "Inspector Sawant",
@@ -1664,7 +2352,31 @@
   "source_ids": "SOURCE-042"
  },
  {
-  "cast_id": "CAST-138",
+  "cast_id": "CAST-195",
+  "film_id": "FILM-039",
+  "actor": "Keith Stevenson",
+  "character": "CBI chief",
+  "cast_function": "Antagonist",
+  "importance": "Medium",
+  "relationship_to_protagonist": "The hidden head of the police conspiracy Arun uncovers.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Arun's investigation into Javed's death traces the conspiracy to the CBI Chief, who has been secretly collaborating with KKV; KKV kills him at the airport as he tries to flee the country.",
+  "source_ids": "SOURCE-042"
+ },
+ {
+  "cast_id": "CAST-196",
+  "film_id": "FILM-039",
+  "actor": "Madhur Mittal",
+  "character": "Michael Abbas",
+  "cast_function": "Family",
+  "importance": "Minor",
+  "relationship_to_protagonist": "One of Javed's four children, whom Arun takes responsibility for.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Javed's son; after Javed's death Arun reluctantly takes on the care of the children and reunites with them at the end.",
+  "source_ids": "SOURCE-042"
+ },
+ {
+  "cast_id": "CAST-197",
   "film_id": "FILM-040",
   "actor": "Danny Denzongpa",
   "character": "Virat",
@@ -1676,7 +2388,7 @@
   "source_ids": "SOURCE-043"
  },
  {
-  "cast_id": "CAST-139",
+  "cast_id": "CAST-198",
   "film_id": "FILM-040",
   "actor": "Ajith Kumar",
   "character": "Susima",
@@ -1688,7 +2400,7 @@
   "source_ids": "SOURCE-043"
  },
  {
-  "cast_id": "CAST-140",
+  "cast_id": "CAST-199",
   "film_id": "FILM-040",
   "actor": "Rahul Dev",
   "character": "Bheema",
@@ -1700,7 +2412,7 @@
   "source_ids": "SOURCE-043"
  },
  {
-  "cast_id": "CAST-141",
+  "cast_id": "CAST-200",
   "film_id": "FILM-040",
   "actor": "Subhashini Ali",
   "character": "Empress Dharma",
@@ -1712,7 +2424,43 @@
   "source_ids": "SOURCE-043"
  },
  {
-  "cast_id": "CAST-142",
+  "cast_id": "CAST-201",
+  "film_id": "FILM-040",
+  "actor": "Sooraj Balaji",
+  "character": "Arya",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Kaurwaki's little brother, with whom Asoka develops a close bond.",
+  "relationship_to_romance": "Brother of Asoka's beloved Kaurwaki.",
+  "character_gist": "The prince of Kalinga who flees with Kaurwaki and Bheema; he dies in Asoka's arms after the Kalinga war, prompting Asoka's realisation of what his conquest has cost.",
+  "source_ids": "SOURCE-043"
+ },
+ {
+  "cast_id": "CAST-202",
+  "film_id": "FILM-040",
+  "actor": "Gerson Da Cunha",
+  "character": "Bindusara",
+  "cast_function": "Family",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Asoka's father, the Maurya emperor.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Succeeds Chandragupta, favours Susima over Asoka, and is unhappy with the princes' rivalry; his illness and death precede the final struggle for the throne.",
+  "source_ids": "SOURCE-043"
+ },
+ {
+  "cast_id": "CAST-203",
+  "film_id": "FILM-040",
+  "actor": "Umesh Mehra",
+  "character": "Chandragupta Maurya",
+  "cast_function": "Family",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Asoka's grandfather.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Abdicates to embrace Jainism and warns the young Asoka that his sword is evil; Asoka finally throws the sword into the water at the same spot.",
+  "source_ids": "SOURCE-043"
+ },
+ {
+  "cast_id": "CAST-204",
   "film_id": "FILM-041",
   "actor": "Amitabh Bachchan",
   "character": "Yashvardhan \"Yash\" Raichand",
@@ -1724,7 +2472,7 @@
   "source_ids": "SOURCE-044"
  },
  {
-  "cast_id": "CAST-143",
+  "cast_id": "CAST-205",
   "film_id": "FILM-041",
   "actor": "Jaya Bachchan",
   "character": "Nandini Raichand",
@@ -1736,7 +2484,7 @@
   "source_ids": "SOURCE-044"
  },
  {
-  "cast_id": "CAST-144",
+  "cast_id": "CAST-206",
   "film_id": "FILM-041",
   "actor": "Hrithik Roshan",
   "character": "Rohan Raichand",
@@ -1748,7 +2496,7 @@
   "source_ids": "SOURCE-044"
  },
  {
-  "cast_id": "CAST-145",
+  "cast_id": "CAST-207",
   "film_id": "FILM-041",
   "actor": "Kareena Kapoor",
   "character": "Pooja Sharma",
@@ -1760,7 +2508,7 @@
   "source_ids": "SOURCE-044"
  },
  {
-  "cast_id": "CAST-146",
+  "cast_id": "CAST-208",
   "film_id": "FILM-041",
   "actor": "Rani Mukerji",
   "character": "Naina Kapoor",
@@ -1772,7 +2520,31 @@
   "source_ids": "SOURCE-044"
  },
  {
-  "cast_id": "CAST-147",
+  "cast_id": "CAST-209",
+  "film_id": "FILM-041",
+  "actor": "Farida Jalal",
+  "character": "Sayeeda Begum",
+  "cast_function": "Family",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Rahul's childhood nanny.",
+  "relationship_to_romance": "Accompanies Rahul and Anjali to London after their marriage.",
+  "character_gist": "The family nanny whom Nandini sends with Rahul, Anjali and Pooja when Yash disowns Rahul.",
+  "source_ids": "SOURCE-044"
+ },
+ {
+  "cast_id": "CAST-210",
+  "film_id": "FILM-041",
+  "actor": "Alok Nath",
+  "character": "Om Sharma",
+  "cast_function": "Family",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Father of Rahul's wife Anjali.",
+  "relationship_to_romance": "His sudden death leads Rahul to marry Anjali.",
+  "character_gist": "Anjali and Pooja's father; Rahul marries Anjali after his sudden death, defying Yash.",
+  "source_ids": "SOURCE-044"
+ },
+ {
+  "cast_id": "CAST-211",
   "film_id": "FILM-042",
   "actor": "Salman Khan",
   "character": "Suraj Chauhan",
@@ -1784,7 +2556,7 @@
   "source_ids": "SOURCE-045"
  },
  {
-  "cast_id": "CAST-148",
+  "cast_id": "CAST-212",
   "film_id": "FILM-042",
   "actor": "Alok Nath",
   "character": "Dev Narayan",
@@ -1796,7 +2568,7 @@
   "source_ids": "SOURCE-045"
  },
  {
-  "cast_id": "CAST-149",
+  "cast_id": "CAST-213",
   "film_id": "FILM-042",
   "actor": "Aishwarya Rai",
   "character": "Suman",
@@ -1808,7 +2580,43 @@
   "source_ids": "SOURCE-045"
  },
  {
-  "cast_id": "CAST-150",
+  "cast_id": "CAST-214",
+  "film_id": "FILM-042",
+  "actor": "Atul Agnihotri",
+  "character": "Prashant Chauhan",
+  "cast_function": "Family",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Gopal's brother-in-law.",
+  "relationship_to_romance": "Brother of Gopal's wife Radha.",
+  "character_gist": "Radha's brother, who moves into Dev's house with her; an incident results in Prashant being thrown out as Gopal's suspicions grow.",
+  "source_ids": "SOURCE-045"
+ },
+ {
+  "cast_id": "CAST-215",
+  "film_id": "FILM-042",
+  "actor": "Aruna Irani",
+  "character": "Laxmi Chauhan",
+  "cast_function": "Family",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Gopal's future mother-in-law.",
+  "relationship_to_romance": "Mother of Gopal's wife Radha.",
+  "character_gist": "Dev's daughter, who leaves with her children after he refuses to pay for her husband's surgery and adopts the orphan Suraj; her death in an accident brings Radha back to Dev's house.",
+  "source_ids": "SOURCE-045"
+ },
+ {
+  "cast_id": "CAST-216",
+  "film_id": "FILM-042",
+  "actor": "Suman Ranganathan",
+  "character": "Nita Sharma",
+  "cast_function": "Family",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Gopal's sister.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "One of the two orphans, with Gopal, raised by Dev Narayan.",
+  "source_ids": "SOURCE-045"
+ },
+ {
+  "cast_id": "CAST-217",
   "film_id": "FILM-043",
   "actor": "Jackie Shroff",
   "character": "Chunnilal",
@@ -1820,7 +2628,7 @@
   "source_ids": "SOURCE-046"
  },
  {
-  "cast_id": "CAST-151",
+  "cast_id": "CAST-218",
   "film_id": "FILM-043",
   "actor": "Kirron Kher",
   "character": "Sumitra Chakraborty",
@@ -1832,7 +2640,7 @@
   "source_ids": "SOURCE-046"
  },
  {
-  "cast_id": "CAST-152",
+  "cast_id": "CAST-219",
   "film_id": "FILM-043",
   "actor": "Smita Jaykar",
   "character": "Kaushalya Mukherjee",
@@ -1844,7 +2652,7 @@
   "source_ids": "SOURCE-046"
  },
  {
-  "cast_id": "CAST-153",
+  "cast_id": "CAST-220",
   "film_id": "FILM-043",
   "actor": "Ananya Khare",
   "character": "Kumud Mukherjee",
@@ -1856,7 +2664,7 @@
   "source_ids": "SOURCE-046"
  },
  {
-  "cast_id": "CAST-154",
+  "cast_id": "CAST-221",
   "film_id": "FILM-043",
   "actor": "Vijayendra Ghatge",
   "character": "Bhuvan Chaudhry",
@@ -1868,7 +2676,7 @@
   "source_ids": "SOURCE-046"
  },
  {
-  "cast_id": "CAST-155",
+  "cast_id": "CAST-222",
   "film_id": "FILM-043",
   "actor": "Milind Gunaji",
   "character": "Kalibabu",
@@ -1880,7 +2688,19 @@
   "source_ids": "SOURCE-046"
  },
  {
-  "cast_id": "CAST-156",
+  "cast_id": "CAST-223",
+  "film_id": "FILM-043",
+  "actor": "Vijay Crishna",
+  "character": "Narayan Mukherjee",
+  "cast_function": "Family",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Devdas' father.",
+  "relationship_to_romance": "Publicly disgraces Paro when he finds her secretly meeting Devdas.",
+  "character_gist": "Devdas' rigid father, whose patriarchal household Devdas lacks the courage to defy; his death leaves Devdas estranged from his mother.",
+  "source_ids": "SOURCE-046"
+ },
+ {
+  "cast_id": "CAST-224",
   "film_id": "FILM-044",
   "actor": "Karisma Kapoor",
   "character": "Nandini",
@@ -1893,7 +2713,7 @@
   "source_ids": "SOURCE-047"
  },
  {
-  "cast_id": "CAST-157",
+  "cast_id": "CAST-225",
   "film_id": "FILM-044",
   "actor": "Nana Patekar",
   "character": "Narasimha",
@@ -1906,7 +2726,7 @@
   "source_ids": "SOURCE-047"
  },
  {
-  "cast_id": "CAST-158",
+  "cast_id": "CAST-226",
   "film_id": "FILM-044",
   "actor": "Sanjay Kapoor",
   "character": "Shekhar",
@@ -1918,7 +2738,19 @@
   "source_ids": "SOURCE-047"
  },
  {
-  "cast_id": "CAST-159",
+  "cast_id": "CAST-227",
+  "film_id": "FILM-044",
+  "actor": "Jai Gidwani",
+  "character": "Raja",
+  "cast_function": "Family",
+  "importance": "Medium",
+  "relationship_to_protagonist": "The child Jai helps Nandini take away from Narasimha's household.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Nandini and Shekhar's young son, whom Narasimha refuses to let leave India because he intends to raise him as the family's heir.",
+  "source_ids": "SOURCE-047"
+ },
+ {
+  "cast_id": "CAST-228",
   "film_id": "FILM-045",
   "actor": "Rani Mukerji",
   "character": "Suhani Sharma Sehgal",
@@ -1930,7 +2762,7 @@
   "source_ids": "SOURCE-048"
  },
  {
-  "cast_id": "CAST-160",
+  "cast_id": "CAST-229",
   "film_id": "FILM-045",
   "actor": "Vivek Oberoi",
   "character": "Aditya Sehgal",
@@ -1942,7 +2774,7 @@
   "source_ids": "SOURCE-048"
  },
  {
-  "cast_id": "CAST-161",
+  "cast_id": "CAST-230",
   "film_id": "FILM-045",
   "actor": "Tabu",
   "character": "Savitri Rao",
@@ -1954,7 +2786,7 @@
   "source_ids": "SOURCE-048"
  },
  {
-  "cast_id": "CAST-162",
+  "cast_id": "CAST-231",
   "film_id": "FILM-046",
   "actor": "Jas Arora",
   "character": "Sameer Arora",
@@ -1966,7 +2798,7 @@
   "source_ids": "SOURCE-049"
  },
  {
-  "cast_id": "CAST-163",
+  "cast_id": "CAST-232",
   "film_id": "FILM-046",
   "actor": "Lilette Dubey",
   "character": "Anna Mausi",
@@ -1978,7 +2810,7 @@
   "source_ids": "SOURCE-049"
  },
  {
-  "cast_id": "CAST-164",
+  "cast_id": "CAST-233",
   "film_id": "FILM-046",
   "actor": "Satish Shah",
   "character": "Manubhai Marfatiya",
@@ -1990,7 +2822,31 @@
   "source_ids": "SOURCE-049"
  },
  {
-  "cast_id": "CAST-165",
+  "cast_id": "CAST-234",
+  "film_id": "FILM-046",
+  "actor": "Rajeev Verma",
+  "character": "Kishore Chopra",
+  "cast_function": "Family",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Raj's father-in-law.",
+  "relationship_to_romance": "Priya's father; Raj and Priya marry after persuading her parents.",
+  "character_gist": "Priya's father; after the couple's quarrel Priya runs back to her parents and Raj is insulted by her family when he follows her.",
+  "source_ids": "SOURCE-049"
+ },
+ {
+  "cast_id": "CAST-235",
+  "film_id": "FILM-046",
+  "actor": "Meghna Malik",
+  "character": "Farah Zafar",
+  "cast_function": "Friend",
+  "importance": "Minor",
+  "relationship_to_protagonist": "One of Raj's close friends.",
+  "relationship_to_romance": "Raj and Priya meet again at her wedding to Salim and become friends.",
+  "character_gist": "Salim's wife; she and Salim are among the friends who tell Raj and Priya's story and plan their surprise anniversary party.",
+  "source_ids": "SOURCE-049"
+ },
+ {
+  "cast_id": "CAST-236",
   "film_id": "FILM-047",
   "actor": "Saif Ali Khan",
   "character": "Rohit Patel",
@@ -2003,7 +2859,7 @@
   "source_ids": "SOURCE-050"
  },
  {
-  "cast_id": "CAST-166",
+  "cast_id": "CAST-237",
   "film_id": "FILM-047",
   "actor": "Jaya Bachchan",
   "character": "Jennifer \"Jenny\" Kapur",
@@ -2016,7 +2872,7 @@
   "source_ids": "SOURCE-050"
  },
  {
-  "cast_id": "CAST-167",
+  "cast_id": "CAST-238",
   "film_id": "FILM-047",
   "actor": "Sushma Seth",
   "character": "Lajwanti \"Lajjo\" Kapur",
@@ -2028,7 +2884,7 @@
   "source_ids": "SOURCE-050"
  },
  {
-  "cast_id": "CAST-168",
+  "cast_id": "CAST-239",
   "film_id": "FILM-047",
   "actor": "Reema Lagoo",
   "character": "Namrata Mathur",
@@ -2040,7 +2896,7 @@
   "source_ids": "SOURCE-050"
  },
  {
-  "cast_id": "CAST-169",
+  "cast_id": "CAST-240",
   "film_id": "FILM-047",
   "actor": "Sonali Bendre",
   "character": "Dr. Priya Malhotra",
@@ -2052,7 +2908,31 @@
   "source_ids": "SOURCE-050"
  },
  {
-  "cast_id": "CAST-170",
+  "cast_id": "CAST-241",
+  "film_id": "FILM-047",
+  "actor": "Jhanak Shukla",
+  "character": "Jiya Kapur",
+  "cast_function": "Family",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Naina's adopted sister, who turns to Aman for help.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Lajjo blames her adoption for her son's suicide; Aman reveals that Jiya is her son's child from an extramarital affair, leading Lajjo to reconcile with Jennifer and Jiya.",
+  "source_ids": "SOURCE-050"
+ },
+ {
+  "cast_id": "CAST-242",
+  "film_id": "FILM-047",
+  "actor": "Dara Singh",
+  "character": "Pritam Chaddha",
+  "cast_function": "Family",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Aman's uncle.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Aman and his mother move in with him next door to Naina's family.",
+  "source_ids": "SOURCE-050"
+ },
+ {
+  "cast_id": "CAST-243",
   "film_id": "FILM-048",
   "actor": "Raveena Tandon",
   "character": "Jaya",
@@ -2064,7 +2944,7 @@
   "source_ids": "SOURCE-051"
  },
  {
-  "cast_id": "CAST-171",
+  "cast_id": "CAST-244",
   "film_id": "FILM-048",
   "actor": "Mohnish Behl",
   "character": "Sujit",
@@ -2076,7 +2956,7 @@
   "source_ids": "SOURCE-051"
  },
  {
-  "cast_id": "CAST-172",
+  "cast_id": "CAST-245",
   "film_id": "FILM-048",
   "actor": "Navneet Nishan",
   "character": "Nisha Dhingra",
@@ -2088,7 +2968,55 @@
   "source_ids": "SOURCE-051"
  },
  {
-  "cast_id": "CAST-173",
+  "cast_id": "CAST-246",
+  "film_id": "FILM-048",
+  "actor": "Kiran Kumar",
+  "character": "Rajpal",
+  "cast_function": "Mentor",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Dushyant's mentor.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Jaya complains to him that Dushyant is too busy to see her; he dismisses Kamlesh Dhingra's business proposal to Dushyant.",
+  "source_ids": "SOURCE-051"
+ },
+ {
+  "cast_id": "CAST-247",
+  "film_id": "FILM-048",
+  "actor": "Rashmi Desai",
+  "character": "Sheetal",
+  "cast_function": "Family",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Younger sister of Dushyant's childhood friend Jaya.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Jaya's sister, who studies abroad; after Jaya's death Inspector Rahul romances her to gather clues about Jaya and Dushyant.",
+  "source_ids": "SOURCE-051"
+ },
+ {
+  "cast_id": "CAST-248",
+  "film_id": "FILM-048",
+  "actor": "Amit Kumar",
+  "character": "Rahul",
+  "cast_function": "Authority figure",
+  "importance": "Medium",
+  "relationship_to_protagonist": "The police inspector investigating the death of Dushyant's former love Jaya.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Assigned Jaya's death, which is treated as murder; he travels abroad to Sheetal and romances her to get information on Jaya and Dushyant's relationship.",
+  "source_ids": "SOURCE-051"
+ },
+ {
+  "cast_id": "CAST-249",
+  "film_id": "FILM-048",
+  "actor": "Avtar Gill",
+  "character": "Kamlesh Dhingra",
+  "cast_function": "Antagonist",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Father of Nisha, whom Dushyant proposes to.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Nisha's father; his business proposal to Dushyant is dismissed by Rajpal, and he calls in goons to kill Jaya.",
+  "source_ids": "SOURCE-051"
+ },
+ {
+  "cast_id": "CAST-250",
   "film_id": "FILM-049",
   "actor": "Zayed Khan",
   "character": "Lakshman Prasad Sharma \"Lucky\"",
@@ -2101,7 +3029,7 @@
   "source_ids": "SOURCE-052"
  },
  {
-  "cast_id": "CAST-174",
+  "cast_id": "CAST-251",
   "film_id": "FILM-049",
   "actor": "Suniel Shetty",
   "character": "Raghavan Dutta",
@@ -2113,7 +3041,7 @@
   "source_ids": "SOURCE-052"
  },
  {
-  "cast_id": "CAST-175",
+  "cast_id": "CAST-252",
   "film_id": "FILM-049",
   "actor": "Amrita Rao",
   "character": "Sanjana Bakshi",
@@ -2126,7 +3054,7 @@
   "source_ids": "SOURCE-052"
  },
  {
-  "cast_id": "CAST-176",
+  "cast_id": "CAST-253",
   "film_id": "FILM-049",
   "actor": "Kirron Kher",
   "character": "Madhu Sharma",
@@ -2138,7 +3066,7 @@
   "source_ids": "SOURCE-052"
  },
  {
-  "cast_id": "CAST-177",
+  "cast_id": "CAST-254",
   "film_id": "FILM-049",
   "actor": "Naseeruddin Shah",
   "character": "Brigadier Shekhar Prasad Sharma",
@@ -2150,7 +3078,7 @@
   "source_ids": "SOURCE-052"
  },
  {
-  "cast_id": "CAST-178",
+  "cast_id": "CAST-255",
   "film_id": "FILM-049",
   "actor": "Boman Irani",
   "character": "Yogendra \"Yogi\" Agarwal",
@@ -2162,7 +3090,19 @@
   "source_ids": "SOURCE-052"
  },
  {
-  "cast_id": "CAST-179",
+  "cast_id": "CAST-256",
+  "film_id": "FILM-049",
+  "actor": "Kabir Bedi",
+  "character": "General Amarjeet Bakshi",
+  "cast_function": "Authority figure",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Ram's superior officer.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Survives Raghavan's assassination attempt when Brigadier Shekhar takes the bullet, then sends Ram undercover as a student to protect his estranged daughter Sanjana, with whom he later reconciles.",
+  "source_ids": "SOURCE-052"
+ },
+ {
+  "cast_id": "CAST-257",
   "film_id": "FILM-050",
   "actor": "Rani Mukerji",
   "character": "Saamiya Siddiqui",
@@ -2174,7 +3114,7 @@
   "source_ids": "SOURCE-053"
  },
  {
-  "cast_id": "CAST-180",
+  "cast_id": "CAST-258",
   "film_id": "FILM-050",
   "actor": "Manoj Bajpayee",
   "character": "Raza Sharazi",
@@ -2186,7 +3126,7 @@
   "source_ids": "SOURCE-053"
  },
  {
-  "cast_id": "CAST-181",
+  "cast_id": "CAST-259",
   "film_id": "FILM-050",
   "actor": "Divya Dutta",
   "character": "Shabina \"Shabbo\" Ibrahim",
@@ -2198,7 +3138,7 @@
   "source_ids": "SOURCE-053"
  },
  {
-  "cast_id": "CAST-182",
+  "cast_id": "CAST-260",
   "film_id": "FILM-050",
   "actor": "Amitabh Bachchan",
   "character": "Chaudhary Sumer Singh",
@@ -2210,7 +3150,7 @@
   "source_ids": "SOURCE-053"
  },
  {
-  "cast_id": "CAST-183",
+  "cast_id": "CAST-261",
   "film_id": "FILM-050",
   "actor": "Hema Malini",
   "character": "Saraswati Kaur",
@@ -2222,7 +3162,7 @@
   "source_ids": "SOURCE-053"
  },
  {
-  "cast_id": "CAST-184",
+  "cast_id": "CAST-262",
   "film_id": "FILM-050",
   "actor": "Kirron Kher",
   "character": "Mariam Hayaat Khan",
@@ -2234,7 +3174,19 @@
   "source_ids": "SOURCE-053"
  },
  {
-  "cast_id": "CAST-185",
+  "cast_id": "CAST-263",
+  "film_id": "FILM-050",
+  "actor": "Boman Irani",
+  "character": "Jehangir Hayat Khan",
+  "cast_function": "Family",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Father of Veer's beloved Zaara.",
+  "relationship_to_romance": "His heart attack leads Zaara's mother to plead with Veer to give Zaara up.",
+  "character_gist": "A powerful Pakistani politician; he suffers a heart attack when Zaara embraces Veer at a shrine in front of the family.",
+  "source_ids": "SOURCE-053"
+ },
+ {
+  "cast_id": "CAST-264",
   "film_id": "FILM-051",
   "actor": "Kishori Ballal",
   "character": "Kaveri Amma",
@@ -2246,7 +3198,7 @@
   "source_ids": "SOURCE-054"
  },
  {
-  "cast_id": "CAST-186",
+  "cast_id": "CAST-265",
   "film_id": "FILM-051",
   "actor": "Rajesh Vivek",
   "character": "Nivaaran Dayal Shrivastav",
@@ -2258,7 +3210,7 @@
   "source_ids": "SOURCE-054"
  },
  {
-  "cast_id": "CAST-187",
+  "cast_id": "CAST-266",
   "film_id": "FILM-051",
   "actor": "Daya Shankar Pandey",
   "character": "Mela Ram",
@@ -2270,7 +3222,7 @@
   "source_ids": "SOURCE-054"
  },
  {
-  "cast_id": "CAST-188",
+  "cast_id": "CAST-267",
   "film_id": "FILM-051",
   "actor": "Lekh Tandon",
   "character": "Dadaji",
@@ -2282,7 +3234,43 @@
   "source_ids": "SOURCE-054"
  },
  {
-  "cast_id": "CAST-189",
+  "cast_id": "CAST-268",
+  "film_id": "FILM-051",
+  "actor": "Smith Seth",
+  "character": "Nandan 'Chiku'",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Younger brother of Mohan's childhood friend Geeta, living in the household where Kaveri Amma stays.",
+  "relationship_to_romance": "Geeta's younger brother; Geeta fears Mohan will take Kaveri Amma away and leave her and Nandan isolated.",
+  "character_gist": "Geeta's younger brother in Charanpur. His presence is part of Geeta's initial resentment of Mohan's visit.",
+  "source_ids": "SOURCE-054"
+ },
+ {
+  "cast_id": "CAST-269",
+  "film_id": "FILM-051",
+  "actor": "Rahul Vohra",
+  "character": "Vinod Raaz",
+  "cast_function": "Supporting",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Mohan's colleague.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Mohan's colleague, part of the NASA working life Mohan must weigh against his new purpose in Charanpur.",
+  "source_ids": "SOURCE-054"
+ },
+ {
+  "cast_id": "CAST-270",
+  "film_id": "FILM-051",
+  "actor": "Makarand Deshpande",
+  "character": "Fakir",
+  "cast_function": "Supporting",
+  "importance": "Minor",
+  "relationship_to_protagonist": "A traveller who shows Mohan the way to Charanpur.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A traveller Mohan meets on his road journey, who shows him the way to Charanpur.",
+  "source_ids": "SOURCE-054"
+ },
+ {
+  "cast_id": "CAST-271",
   "film_id": "FILM-052",
   "actor": "Arshad Warsi",
   "character": "S. R. Khan",
@@ -2294,7 +3282,7 @@
   "source_ids": "SOURCE-055"
  },
  {
-  "cast_id": "CAST-190",
+  "cast_id": "CAST-272",
   "film_id": "FILM-052",
   "actor": "Mahima Chaudhry",
   "character": "Gulab Khan",
@@ -2306,7 +3294,19 @@
   "source_ids": "SOURCE-055"
  },
  {
-  "cast_id": "CAST-191",
+  "cast_id": "CAST-273",
+  "film_id": "FILM-052",
+  "actor": "Parvin Dabas",
+  "character": "Siddharth",
+  "cast_function": "Co-lead",
+  "importance": "Medium",
+  "relationship_to_protagonist": "One of the stranded passengers in the ensemble; does not share a storyline with Shah Rukh Khan's cameo as himself.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A stranded passenger who has only a few hours to decide whether to marry Anita Ahuja or Manju Narang, cousins who both want to be his wife. Billed third among the film's stars.",
+  "source_ids": "SOURCE-055"
+ },
+ {
+  "cast_id": "CAST-274",
   "film_id": "FILM-053",
   "actor": "Ajay Devgn",
   "character": "Kaali Pratap Singh",
@@ -2318,7 +3318,7 @@
   "source_ids": "SOURCE-056"
  },
  {
-  "cast_id": "CAST-192",
+  "cast_id": "CAST-275",
   "film_id": "FILM-053",
   "actor": "John Abraham",
   "character": "Krish Thapar",
@@ -2330,7 +3330,7 @@
   "source_ids": "SOURCE-056"
  },
  {
-  "cast_id": "CAST-193",
+  "cast_id": "CAST-276",
   "film_id": "FILM-053",
   "actor": "Malaika Arora",
   "character": "Herself",
@@ -2342,7 +3342,43 @@
   "source_ids": "SOURCE-056"
  },
  {
-  "cast_id": "CAST-194",
+  "cast_id": "CAST-277",
+  "film_id": "FILM-053",
+  "actor": "Vivek Oberoi",
+  "character": "Dev Malhotra",
+  "cast_function": "Co-lead",
+  "importance": "Major",
+  "relationship_to_protagonist": "One of the film's leads; no storyline with Shah Rukh Khan, who appears only in the song \"Kaal Dhamaal\".",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A young man on a hunting trip with his girlfriend Ishika and friends. He discovers that Kaali has no reflection and does not appear in Vishal's videos, realises Kaali is a ghost, and escapes the jungle with Krish and Ishika.",
+  "source_ids": "SOURCE-056"
+ },
+ {
+  "cast_id": "CAST-278",
+  "film_id": "FILM-053",
+  "actor": "Esha Deol",
+  "character": "Riya Thapar",
+  "cast_function": "Co-lead",
+  "importance": "Medium",
+  "relationship_to_protagonist": "One of the film's credited stars; no storyline with Shah Rukh Khan's song appearance.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Wife of National Geographic correspondent Krish Thapar, who accompanies him to the park. Ignoring Kaali's warning, she goes to the well at night, is pulled in and drowns.",
+  "source_ids": "SOURCE-056"
+ },
+ {
+  "cast_id": "CAST-279",
+  "film_id": "FILM-053",
+  "actor": "Lara Dutta",
+  "character": "Ishika Malhotra",
+  "cast_function": "Co-lead",
+  "importance": "Medium",
+  "relationship_to_protagonist": "One of the film's credited stars; no storyline with Shah Rukh Khan's song appearance.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Dev's girlfriend on the hunting trip. She is one of the three survivors who escape the jungle with Krish and Dev.",
+  "source_ids": "SOURCE-056"
+ },
+ {
+  "cast_id": "CAST-280",
   "film_id": "FILM-054",
   "actor": "Tabu",
   "character": "Rehana Ahmed Bhoy",
@@ -2354,7 +3390,7 @@
   "source_ids": "SOURCE-057"
  },
  {
-  "cast_id": "CAST-195",
+  "cast_id": "CAST-281",
   "film_id": "FILM-054",
   "actor": "Bhumika Chawla",
   "character": "Ziya Rao Katyal",
@@ -2366,7 +3402,43 @@
   "source_ids": "SOURCE-057"
  },
  {
-  "cast_id": "CAST-196",
+  "cast_id": "CAST-282",
+  "film_id": "FILM-054",
+  "actor": "Riya Sen",
+  "character": "Anushka Verma",
+  "cast_function": "Co-lead",
+  "importance": "Major",
+  "relationship_to_protagonist": "Heroine of one of the film's three stories, which Shah Rukh Khan's Sutradhaar narrates.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A telephone receptionist who longs for tenderness with her wealthy suitor Nikhil while her colleague Tarun loves her silently; she must choose between them in a finale with a twist.",
+  "source_ids": "SOURCE-057"
+ },
+ {
+  "cast_id": "CAST-283",
+  "film_id": "FILM-054",
+  "actor": "Rahul Bose",
+  "character": "Neel Kashyap",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Part of Ziya's story, which the narrator presents.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "The man who groomed Ziya for a film career and is her live-in partner. He does not want the responsibility of a child, and moves on to another girlfriend.",
+  "source_ids": "SOURCE-057"
+ },
+ {
+  "cast_id": "CAST-284",
+  "film_id": "FILM-054",
+  "actor": "Kay Kay Menon",
+  "character": "Anwar Ahmed Bhoy",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Part of Rehana's story, which the narrator presents.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Rehana's husband, who is unfaithful to her with an air hostess, Preeti.",
+  "source_ids": "SOURCE-057"
+ },
+ {
+  "cast_id": "CAST-285",
   "film_id": "FILM-055",
   "actor": "Anupam Kher",
   "character": "Bhanwarlal",
@@ -2378,7 +3450,7 @@
   "source_ids": "SOURCE-058"
  },
  {
-  "cast_id": "CAST-197",
+  "cast_id": "CAST-286",
   "film_id": "FILM-055",
   "actor": "Amitabh Bachchan",
   "character": "Gadariya (the shepherd)",
@@ -2390,7 +3462,7 @@
   "source_ids": "SOURCE-058"
  },
  {
-  "cast_id": "CAST-198",
+  "cast_id": "CAST-287",
   "film_id": "FILM-055",
   "actor": "Juhi Chawla",
   "character": "Gajrobai",
@@ -2402,7 +3474,7 @@
   "source_ids": "SOURCE-058"
  },
  {
-  "cast_id": "CAST-199",
+  "cast_id": "CAST-288",
   "film_id": "FILM-055",
   "actor": "Rajpal Yadav",
   "character": "Bhoja",
@@ -2414,7 +3486,43 @@
   "source_ids": "SOURCE-058"
  },
  {
-  "cast_id": "CAST-200",
+  "cast_id": "CAST-289",
+  "film_id": "FILM-055",
+  "actor": "Suniel Shetty",
+  "character": "Sunderlal",
+  "cast_function": "Family",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Kishanlal's estranged brother (special appearance).",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Gajrobai's husband, who left home after losing a camel race and disappeared without informing the family. He returns as Lachchi gives birth and apologises to Gajrobai.",
+  "source_ids": "SOURCE-058"
+ },
+ {
+  "cast_id": "CAST-290",
+  "film_id": "FILM-055",
+  "actor": "Naseeruddin Shah",
+  "character": "Male puppet (voice only)",
+  "cast_function": "Supporting",
+  "importance": "Minor",
+  "relationship_to_protagonist": "One of the two puppets who narrate Kishanlal and Lachchi's story.",
+  "relationship_to_romance": "Narrates the story of Lachchi, Kishanlal and the ghost.",
+  "character_gist": "Voices one of the two puppets that open and close the film, remarking at the end that it is a very old folk tale.",
+  "source_ids": "SOURCE-058"
+ },
+ {
+  "cast_id": "CAST-291",
+  "film_id": "FILM-055",
+  "actor": "Ratna Pathak Shah",
+  "character": "Female puppet (voice only)",
+  "cast_function": "Supporting",
+  "importance": "Minor",
+  "relationship_to_protagonist": "One of the two puppets who narrate Kishanlal and Lachchi's story.",
+  "relationship_to_romance": "Narrates the story of Lachchi, Kishanlal and the ghost.",
+  "character_gist": "Voices the second of the two puppet narrators who frame the film.",
+  "source_ids": "SOURCE-058"
+ },
+ {
+  "cast_id": "CAST-292",
   "film_id": "FILM-056",
   "actor": "Akshay Kapoor",
   "character": "Tejas Rastogi",
@@ -2426,7 +3534,7 @@
   "source_ids": "SOURCE-059"
  },
  {
-  "cast_id": "CAST-201",
+  "cast_id": "CAST-293",
   "film_id": "FILM-056",
   "actor": "Dia Mirza",
   "character": "Purva Rana",
@@ -2438,7 +3546,7 @@
   "source_ids": "SOURCE-059"
  },
  {
-  "cast_id": "CAST-202",
+  "cast_id": "CAST-294",
   "film_id": "FILM-057",
   "actor": "Abhishek Bachchan",
   "character": "Rishi Talwar",
@@ -2451,7 +3559,7 @@
   "source_ids": "SOURCE-060"
  },
  {
-  "cast_id": "CAST-203",
+  "cast_id": "CAST-295",
   "film_id": "FILM-057",
   "actor": "Amitabh Bachchan",
   "character": "Samarjit \"Sam\" Talwar",
@@ -2463,7 +3571,7 @@
   "source_ids": "SOURCE-060"
  },
  {
-  "cast_id": "CAST-204",
+  "cast_id": "CAST-296",
   "film_id": "FILM-057",
   "actor": "Kirron Kher",
   "character": "Kamaljit \"Kamal\" Saran",
@@ -2475,7 +3583,7 @@
   "source_ids": "SOURCE-060"
  },
  {
-  "cast_id": "CAST-205",
+  "cast_id": "CAST-297",
   "film_id": "FILM-057",
   "actor": "Arjun Rampal",
   "character": "Jai Mehra",
@@ -2487,7 +3595,32 @@
   "source_ids": "SOURCE-060"
  },
  {
-  "cast_id": "CAST-206",
+  "cast_id": "CAST-298",
+  "film_id": "FILM-057",
+  "actor": "Ahsaas Channa",
+  "character": "Arjun Saran",
+  "cast_function": "Family",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Dev and Rhea's son; Dev struggles to bond with him.",
+  "relationship_to_romance": "Dev's son; after the divorce he stays with Rhea, which forms part of the cost of Dev's affair with Maya.",
+  "character_gist": "Dev's young son, who would rather play the violin than soccer. After Dev and Rhea divorce, Arjun lives with Rhea and Kamal.",
+  "performance_recognition": "The article states that Channa's performance as Arjun was well received.",
+  "source_ids": "SOURCE-060"
+ },
+ {
+  "cast_id": "CAST-299",
+  "film_id": "FILM-057",
+  "actor": "Saira Mohan",
+  "character": "Catherine Talwar",
+  "cast_function": "Supporting",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Rishi's colleague and later second wife, a friend of Rhea.",
+  "relationship_to_romance": "Her wedding to Rishi is where Rhea and Rishi encourage Maya to find Dev, leading to the reunion.",
+  "character_gist": "Rishi's colleague who becomes his second wife; she is also friends with Rhea and Jai.",
+  "source_ids": "SOURCE-060"
+ },
+ {
+  "cast_id": "CAST-300",
   "film_id": "FILM-058",
   "actor": "Boman Irani",
   "character": "DCP D'Silva / Vardhaan",
@@ -2499,7 +3632,7 @@
   "source_ids": "SOURCE-061"
  },
  {
-  "cast_id": "CAST-207",
+  "cast_id": "CAST-301",
   "film_id": "FILM-058",
   "actor": "Arjun Rampal",
   "character": "Jasjit \"J. J.\" Ahuja",
@@ -2511,7 +3644,7 @@
   "source_ids": "SOURCE-061"
  },
  {
-  "cast_id": "CAST-208",
+  "cast_id": "CAST-302",
   "film_id": "FILM-058",
   "actor": "Om Puri",
   "character": "Interpol Officer Vishal Malik",
@@ -2523,7 +3656,7 @@
   "source_ids": "SOURCE-061"
  },
  {
-  "cast_id": "CAST-209",
+  "cast_id": "CAST-303",
   "film_id": "FILM-058",
   "actor": "Kareena Kapoor",
   "character": "Kamini Arora",
@@ -2535,7 +3668,43 @@
   "source_ids": "SOURCE-061"
  },
  {
-  "cast_id": "CAST-210",
+  "cast_id": "CAST-304",
+  "film_id": "FILM-058",
+  "actor": "Rajesh Khattar",
+  "character": "Singhania",
+  "cast_function": "Antagonist",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Don's boss, the cartel leader whose drug operation Don manages.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Cartel leader in Kuala Lumpur and one of two lieutenants of the dead kingpin Boris. He is poisoned by D'Silva, acting as Vardhaan, during a raid on his club.",
+  "source_ids": "SOURCE-061"
+ },
+ {
+  "cast_id": "CAST-305",
+  "film_id": "FILM-058",
+  "actor": "Isha Koppikar",
+  "character": "Anita Sinha",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Don's associate.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Don's associate, who boards a private aircraft with him in the final revelation once he has secured control of the Asian drug cartel.",
+  "source_ids": "SOURCE-061"
+ },
+ {
+  "cast_id": "CAST-306",
+  "film_id": "FILM-058",
+  "actor": "Tanay Chheda",
+  "character": "Deepu Ahuja",
+  "cast_function": "Supporting",
+  "importance": "Minor",
+  "relationship_to_protagonist": "An orphaned boy under Vijay's care; Vijay takes the undercover mission in exchange for funding Deepu's education.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "JJ's son. He is kidnapped and used as ransom for the disc, and is rescued by Jasjit.",
+  "source_ids": "SOURCE-061"
+ },
+ {
+  "cast_id": "CAST-307",
   "film_id": "FILM-059",
   "actor": "Arjun Rampal",
   "character": "Raj Jaiswal",
@@ -2547,7 +3716,7 @@
   "source_ids": "SOURCE-062"
  },
  {
-  "cast_id": "CAST-211",
+  "cast_id": "CAST-308",
   "film_id": "FILM-059",
   "actor": "Hrithik Roshan",
   "character": "Himself",
@@ -2559,7 +3728,19 @@
   "source_ids": "SOURCE-062"
  },
  {
-  "cast_id": "CAST-212",
+  "cast_id": "CAST-309",
+  "film_id": "FILM-059",
+  "actor": "Vipasha Agarwal",
+  "character": "Shivani Dutt",
+  "cast_function": "Co-lead",
+  "importance": "Major",
+  "relationship_to_protagonist": "Female lead opposite Raj, the film's protagonist; no storyline with Shah Rukh Khan, who appears only in the song \"Subah Subah\".",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A mysterious woman whom only Raj can see and touch; she is in a coma in hospital and her doctor wants her dead after she witnessed an illegal kidney operation. She wakes with no memory of Raj, who sets out to know her anew.",
+  "source_ids": "SOURCE-062"
+ },
+ {
+  "cast_id": "CAST-310",
   "film_id": "FILM-060",
   "actor": "Vidya Malvade",
   "character": "Vidya Sharma",
@@ -2572,7 +3753,7 @@
   "source_ids": "SOURCE-063"
  },
  {
-  "cast_id": "CAST-213",
+  "cast_id": "CAST-311",
   "film_id": "FILM-060",
   "actor": "Shilpa Shukla",
   "character": "Bindiya Naik",
@@ -2585,7 +3766,7 @@
   "source_ids": "SOURCE-063"
  },
  {
-  "cast_id": "CAST-214",
+  "cast_id": "CAST-312",
   "film_id": "FILM-060",
   "actor": "Sagarika Ghatge",
   "character": "Preeti Sabarwal",
@@ -2598,7 +3779,7 @@
   "source_ids": "SOURCE-063"
  },
  {
-  "cast_id": "CAST-215",
+  "cast_id": "CAST-313",
   "film_id": "FILM-060",
   "actor": "Chitrashi Rawat",
   "character": "Komal Chautala",
@@ -2611,7 +3792,44 @@
   "source_ids": "SOURCE-063"
  },
  {
-  "cast_id": "CAST-216",
+  "cast_id": "CAST-314",
+  "film_id": "FILM-060",
+  "actor": "Tanya Abrol",
+  "character": "Balbir Kaur",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "A player on the women's hockey team Kabir coaches.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "The short-tempered fullback from Punjab who bullies teammates from Jharkhand, then starts the restaurant brawl when local men harass Mary, the moment the team first acts as a unit.",
+  "performance_recognition": "Part of the \"Chak De! Girls\" ensemble awarded Screen Award for Best Supporting Actress at the 14th Screen Awards",
+  "source_ids": "SOURCE-063"
+ },
+ {
+  "cast_id": "CAST-315",
+  "film_id": "FILM-060",
+  "actor": "Mohit Chauhan",
+  "character": "Uttam Singh",
+  "cast_function": "Friend",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Kabir's former hockey teammate and friend.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A field hockey advocate who convinces Mr. Tripathi to appoint Kabir as head coach of the women's national team, seven years after Kabir's disgrace.",
+  "source_ids": "SOURCE-063"
+ },
+ {
+  "cast_id": "CAST-316",
+  "film_id": "FILM-060",
+  "actor": "Aanjjan Srivastav",
+  "character": "Mr. Vishal Tripathi",
+  "cast_function": "Authority figure",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Head Indian hockey official who controls Kabir's appointment and the team's funding.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "The skeptical head of the hockey association. He refuses to fund the World Cup trip until the women's exhibition match against the men's team changes the association's mind.",
+  "source_ids": "SOURCE-063"
+ },
+ {
+  "cast_id": "CAST-317",
   "film_id": "FILM-061",
   "actor": "Akshay Kumar",
   "character": "Aarush Mehra",
@@ -2623,7 +3841,7 @@
   "source_ids": "SOURCE-064"
  },
  {
-  "cast_id": "CAST-217",
+  "cast_id": "CAST-318",
   "film_id": "FILM-061",
   "actor": "Anupam Kher",
   "character": "Dharamvir Malhotra",
@@ -2635,7 +3853,43 @@
   "source_ids": "SOURCE-064"
  },
  {
-  "cast_id": "CAST-218",
+  "cast_id": "CAST-319",
+  "film_id": "FILM-061",
+  "actor": "Vidya Balan",
+  "character": "Isha Sahni Mehra",
+  "cast_function": "Co-lead",
+  "importance": "Major",
+  "relationship_to_protagonist": "Female lead and mother of Angel, opposite the film's protagonist Aarush; Shah Rukh Khan appears only in the song \"Mast Kalandar\".",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Angel's mother, who arrives to take the baby back. Aarush challenges her to marry a faithful man within seven days who will accept Angel, and she later discovers she has been cheated.",
+  "source_ids": "SOURCE-064"
+ },
+ {
+  "cast_id": "CAST-320",
+  "film_id": "FILM-061",
+  "actor": "Riteish Deshmukh",
+  "character": "Tanmay Joglekar / Eddy Teddy",
+  "cast_function": "Co-lead",
+  "importance": "Major",
+  "relationship_to_protagonist": "One of Aarush's roommates in the film's central trio; no storyline with Shah Rukh Khan's song cameo.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Aarush's roommate, who entertains children as Eddy Teddy and helps raise Angel; Bharat later decides Tanmay is the right man for Isha.",
+  "source_ids": "SOURCE-064"
+ },
+ {
+  "cast_id": "CAST-321",
+  "film_id": "FILM-061",
+  "actor": "Fardeen Khan",
+  "character": "Ali \"Al\" Haider / Professor Parimal Tripathi",
+  "cast_function": "Co-lead",
+  "importance": "Major",
+  "relationship_to_protagonist": "One of Aarush's roommates in the film's central trio; no storyline with Shah Rukh Khan's song cameo.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Aarush's roommate, who helps raise Angel and poses as a pure Hindi-speaking botany professor, Parimal Tripathi, to impress Isha's father.",
+  "source_ids": "SOURCE-064"
+ },
+ {
+  "cast_id": "CAST-322",
   "film_id": "FILM-062",
   "actor": "Arjun Rampal",
   "character": "Mukesh \"Mike\" Mehra",
@@ -2647,7 +3901,7 @@
   "source_ids": "SOURCE-065"
  },
  {
-  "cast_id": "CAST-219",
+  "cast_id": "CAST-323",
   "film_id": "FILM-062",
   "actor": "Shreyas Talpade",
   "character": "Pappu Master",
@@ -2659,7 +3913,7 @@
   "source_ids": "SOURCE-065"
  },
  {
-  "cast_id": "CAST-220",
+  "cast_id": "CAST-324",
   "film_id": "FILM-062",
   "actor": "Kirron Kher",
   "character": "Bela Makhija",
@@ -2671,7 +3925,7 @@
   "source_ids": "SOURCE-065"
  },
  {
-  "cast_id": "CAST-221",
+  "cast_id": "CAST-325",
   "film_id": "FILM-062",
   "actor": "Deepika Padukone",
   "character": "Sandhya \"Sandy\" Bansal",
@@ -2683,7 +3937,43 @@
   "source_ids": "SOURCE-065"
  },
  {
-  "cast_id": "CAST-222",
+  "cast_id": "CAST-326",
+  "film_id": "FILM-062",
+  "actor": "Javed Sheikh",
+  "character": "Rajesh Kapoor",
+  "cast_function": "Family",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Father of Om Kapoor, the reincarnated Omi; his car strikes the dying Omi.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "An actor whose car hits Omi while his wife Lovely is in labour; Omi dies in hospital as Rajesh's son Om Kapoor is born.",
+  "source_ids": "SOURCE-065"
+ },
+ {
+  "cast_id": "CAST-327",
+  "film_id": "FILM-062",
+  "actor": "Asavari Joshi",
+  "character": "Lovely Kapoor",
+  "cast_function": "Family",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Mother of Om Kapoor, the reincarnated Omi.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Rajesh Kapoor's wife, who gives birth to Om Kapoor on the night Omi dies.",
+  "source_ids": "SOURCE-065"
+ },
+ {
+  "cast_id": "CAST-328",
+  "film_id": "FILM-062",
+  "actor": "Nitesh Pandey",
+  "character": "Anwar Sheikh",
+  "cast_function": "Supporting",
+  "importance": "Minor",
+  "relationship_to_protagonist": "O.K.'s assistant, who joins his plan to expose Mukesh.",
+  "relationship_to_romance": "Arrives with Pappu and the real Sandy, revealing that the woman with Om was Shanti's ghost.",
+  "character_gist": "O.K.'s assistant, who plans with Om, Bela and Pappu to expose Mukesh's crimes.",
+  "source_ids": "SOURCE-065"
+ },
+ {
+  "cast_id": "CAST-329",
   "film_id": "FILM-063",
   "actor": "Rahul Bose",
   "character": "Major Siddhant \"Sid\" Chaudhary",
@@ -2695,7 +3985,7 @@
   "source_ids": "SOURCE-066"
  },
  {
-  "cast_id": "CAST-223",
+  "cast_id": "CAST-330",
   "film_id": "FILM-063",
   "actor": "Kay Kay Menon",
   "character": "Brigadier Rudra Pratap Singh",
@@ -2708,7 +3998,7 @@
   "source_ids": "SOURCE-066"
  },
  {
-  "cast_id": "CAST-224",
+  "cast_id": "CAST-331",
   "film_id": "FILM-063",
   "actor": "Deepak Dobriyal",
   "character": "Captain Javed Khan",
@@ -2720,7 +4010,32 @@
   "source_ids": "SOURCE-066"
  },
  {
-  "cast_id": "CAST-225",
+  "cast_id": "CAST-332",
+  "film_id": "FILM-063",
+  "actor": "Javed Jaffrey",
+  "character": "Major Akash Kapoor",
+  "cast_function": "Co-lead",
+  "importance": "Major",
+  "relationship_to_protagonist": "Sid's best friend and the prosecuting lawyer in the court martial; Shah Rukh Khan is only the end-credits narrator.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A dedicated army lawyer and Sid's best friend, appointed to prosecute Captain Javed Khan. After Sid exposes Brigadier Pratap, Akash announces the charges and Javed's acquittal.",
+  "performance_recognition": "The article states that reviews praised the lead performances, in particular Menon and Jaffrey",
+  "source_ids": "SOURCE-066"
+ },
+ {
+  "cast_id": "CAST-333",
+  "film_id": "FILM-063",
+  "actor": "Minissha Lamba",
+  "character": "Journalist Kavya Shastri",
+  "cast_function": "Co-lead",
+  "importance": "Medium",
+  "relationship_to_protagonist": "A Srinagar journalist who helps Sid build Javed's defence; Shah Rukh Khan is only the end-credits narrator.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "An aspiring journalist who pursues the Rathore murder story, publishes an article naming Sid as her source, then helps him uncover the cover-up and is arrested for trespassing on army property.",
+  "source_ids": "SOURCE-066"
+ },
+ {
+  "cast_id": "CAST-334",
   "film_id": "FILM-064",
   "actor": "Juhi Chawla",
   "character": "Dr. Sonali R. Sanyal",
@@ -2732,7 +4047,7 @@
   "source_ids": "SOURCE-067"
  },
  {
-  "cast_id": "CAST-226",
+  "cast_id": "CAST-335",
   "film_id": "FILM-064",
   "actor": "Arshad Warsi",
   "character": "Raja",
@@ -2744,7 +4059,7 @@
   "source_ids": "SOURCE-067"
  },
  {
-  "cast_id": "CAST-227",
+  "cast_id": "CAST-336",
   "film_id": "FILM-064",
   "actor": "Irrfan Khan",
   "character": "Dr. Mukherjee",
@@ -2756,7 +4071,31 @@
   "source_ids": "SOURCE-067"
  },
  {
-  "cast_id": "CAST-228",
+  "cast_id": "CAST-337",
+  "film_id": "FILM-064",
+  "actor": "Rajpal Yadav",
+  "character": "Gangadhar",
+  "cast_function": "Co-lead",
+  "importance": "Major",
+  "relationship_to_protagonist": "One of the four patients at the centre of the film; Shah Rukh Khan appears only as a dancer in the song \"Break Free\".",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A patient of Dr. Sonali with schizophrenia who believes he is living in India's freedom-struggle era. He joins the search for Sonali after her kidnapping.",
+  "source_ids": "SOURCE-067"
+ },
+ {
+  "cast_id": "CAST-338",
+  "film_id": "FILM-064",
+  "actor": "Suresh Menon",
+  "character": "Dabboo",
+  "cast_function": "Co-lead",
+  "importance": "Major",
+  "relationship_to_protagonist": "One of the four patients at the centre of the film; Shah Rukh Khan appears only as a dancer in the song \"Break Free\".",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A patient with selective mutism who secretly witnesses Sonali's kidnapping but, unable to speak, cannot alert the others.",
+  "source_ids": "SOURCE-067"
+ },
+ {
+  "cast_id": "CAST-339",
   "film_id": "FILM-065",
   "actor": "Amitabh Bachchan",
   "character": "Kailash Nath (Bhoothnath)",
@@ -2768,7 +4107,7 @@
   "source_ids": "SOURCE-068"
  },
  {
-  "cast_id": "CAST-229",
+  "cast_id": "CAST-340",
   "film_id": "FILM-065",
   "actor": "Juhi Chawla",
   "character": "Anjali Sharma",
@@ -2780,7 +4119,7 @@
   "source_ids": "SOURCE-068"
  },
  {
-  "cast_id": "CAST-230",
+  "cast_id": "CAST-341",
   "film_id": "FILM-065",
   "actor": "Aman Siddiqui",
   "character": "Aman \"Banku\" Sharma",
@@ -2792,7 +4131,7 @@
   "source_ids": "SOURCE-068"
  },
  {
-  "cast_id": "CAST-231",
+  "cast_id": "CAST-342",
   "film_id": "FILM-065",
   "actor": "Priyanshu Chatterjee",
   "character": "Vijay Nath",
@@ -2804,7 +4143,7 @@
   "source_ids": "SOURCE-068"
  },
  {
-  "cast_id": "CAST-232",
+  "cast_id": "CAST-343",
   "film_id": "FILM-066",
   "actor": "Shahid Kapoor",
   "character": "Raj Malhotra",
@@ -2816,7 +4155,7 @@
   "source_ids": "SOURCE-069"
  },
  {
-  "cast_id": "CAST-233",
+  "cast_id": "CAST-344",
   "film_id": "FILM-066",
   "actor": "Vidya Balan",
   "character": "Priya Saluja",
@@ -2828,7 +4167,19 @@
   "source_ids": "SOURCE-069"
  },
  {
-  "cast_id": "CAST-234",
+  "cast_id": "CAST-345",
+  "film_id": "FILM-066",
+  "actor": "Juhi Chawla",
+  "character": "Haseena Bano Jaan",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "A fortune teller whom the film's protagonist Raj consults (guest appearance); Shah Rukh Khan is the narrator.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A Romani fortune teller who tells Raj he is unlucky and needs a good luck charm, setting up his belief that Priya is his lucky charm.",
+  "source_ids": "SOURCE-069"
+ },
+ {
+  "cast_id": "CAST-346",
   "film_id": "FILM-067",
   "actor": "Vinay Pathak",
   "character": "Balwinder \"Bobby\" Khosla",
@@ -2841,7 +4192,7 @@
   "source_ids": "SOURCE-070"
  },
  {
-  "cast_id": "CAST-235",
+  "cast_id": "CAST-347",
   "film_id": "FILM-067",
   "actor": "M. K. Raina",
   "character": "Professor Shirish Gupta",
@@ -2853,7 +4204,7 @@
   "source_ids": "SOURCE-070"
  },
  {
-  "cast_id": "CAST-236",
+  "cast_id": "CAST-348",
   "film_id": "FILM-067",
   "actor": "Kajol",
   "character": "Nargis (in 'Phir Milenge Chalte Chalte')",
@@ -2865,7 +4216,19 @@
   "source_ids": "SOURCE-070"
  },
  {
-  "cast_id": "CAST-237",
+  "cast_id": "CAST-349",
+  "film_id": "FILM-067",
+  "actor": "Rajesh Jais",
+  "character": "Khanna",
+  "cast_function": "Supporting",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Surinder's colleague at Punjab Power.",
+  "relationship_to_romance": "One of the office colleagues whose self-invited party forces Suri to introduce his new wife, Taani.",
+  "character_gist": "Suri's office colleague; the colleagues invite themselves to Suri's house after learning of his marriage.",
+  "source_ids": "SOURCE-070"
+ },
+ {
+  "cast_id": "CAST-350",
   "film_id": "FILM-068",
   "actor": "Farhan Akhtar",
   "character": "Vikram Jaisingh",
@@ -2877,7 +4240,7 @@
   "source_ids": "SOURCE-071"
  },
  {
-  "cast_id": "CAST-238",
+  "cast_id": "CAST-351",
   "film_id": "FILM-068",
   "actor": "Konkona Sen Sharma",
   "character": "Sona Mishra",
@@ -2889,7 +4252,7 @@
   "source_ids": "SOURCE-071"
  },
  {
-  "cast_id": "CAST-239",
+  "cast_id": "CAST-352",
   "film_id": "FILM-068",
   "actor": "Aamir Khan",
   "character": "Himself",
@@ -2901,7 +4264,45 @@
   "source_ids": "SOURCE-071"
  },
  {
-  "cast_id": "CAST-240",
+  "cast_id": "CAST-353",
+  "film_id": "FILM-068",
+  "actor": "Rishi Kapoor",
+  "character": "Rommy Rolly",
+  "cast_function": "Supporting",
+  "importance": "Major",
+  "relationship_to_protagonist": "The producer whose film gives Vikram, the protagonist, his break; Shah Rukh Khan appears as himself.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "One of Bollywood's biggest producers. Vikram auditions for and wins the male lead in Rolly's film, which becomes a hit.",
+  "performance_recognition": "Filmfare Award for Best Supporting Actor nomination",
+  "source_ids": "SOURCE-071"
+ },
+ {
+  "cast_id": "CAST-354",
+  "film_id": "FILM-068",
+  "actor": "Dimple Kapadia",
+  "character": "Neena Walia",
+  "cast_function": "Supporting",
+  "importance": "Major",
+  "relationship_to_protagonist": "Yesteryear actress and mother of Vikram's co-star Nikki; Vikram, the protagonist, wins her over. Shah Rukh Khan appears as himself.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A legendary yesteryear actress and Nikki's mother. Vikram wins her over on location, and gossip later links him to flirting with her.",
+  "performance_recognition": "Filmfare Award for Best Supporting Actress nomination",
+  "source_ids": "SOURCE-071"
+ },
+ {
+  "cast_id": "CAST-355",
+  "film_id": "FILM-068",
+  "actor": "Juhi Chawla",
+  "character": "Minty Rolly",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Wife of producer Rolly, whose film launches Vikram, the protagonist; Shah Rukh Khan appears as himself.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Producer Rolly's wife, one of the film's billed stars in a supporting role.",
+  "source_ids": "SOURCE-071"
+ },
+ {
+  "cast_id": "CAST-356",
   "film_id": "FILM-069",
   "actor": "Irrfan Khan",
   "character": "Bilas Rao \"Billu\" Pardesi",
@@ -2913,7 +4314,7 @@
   "source_ids": "SOURCE-072"
  },
  {
-  "cast_id": "CAST-241",
+  "cast_id": "CAST-357",
   "film_id": "FILM-069",
   "actor": "Lara Dutta",
   "character": "Bindiya Pardesi",
@@ -2925,7 +4326,7 @@
   "source_ids": "SOURCE-072"
  },
  {
-  "cast_id": "CAST-242",
+  "cast_id": "CAST-358",
   "film_id": "FILM-069",
   "actor": "Om Puri",
   "character": "Sahukaar Daamchand",
@@ -2937,7 +4338,7 @@
   "source_ids": "SOURCE-072"
  },
  {
-  "cast_id": "CAST-243",
+  "cast_id": "CAST-359",
   "film_id": "FILM-069",
   "actor": "Kareena Kapoor",
   "character": "Sahir Khan's heroine in 'Marjaani'",
@@ -2949,7 +4350,7 @@
   "source_ids": "SOURCE-072"
  },
  {
-  "cast_id": "CAST-244",
+  "cast_id": "CAST-360",
   "film_id": "FILM-069",
   "actor": "Priyanka Chopra",
   "character": "Sahir Khan's heroine in 'You Get Me Rockin & Reeling'",
@@ -2961,7 +4362,7 @@
   "source_ids": "SOURCE-072"
  },
  {
-  "cast_id": "CAST-245",
+  "cast_id": "CAST-361",
   "film_id": "FILM-069",
   "actor": "Deepika Padukone",
   "character": "Sahir Khan's heroine in 'Love Mera Hit Hit'",
@@ -2973,7 +4374,31 @@
   "source_ids": "SOURCE-072"
  },
  {
-  "cast_id": "CAST-246",
+  "cast_id": "CAST-362",
+  "film_id": "FILM-069",
+  "actor": "Asrani",
+  "character": "Naubat Chacha",
+  "cast_function": "Supporting",
+  "importance": "Minor",
+  "relationship_to_protagonist": "A close friend of Billu, Sahir's childhood friend.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "One of Billu's close friends in the village of Budbuda.",
+  "source_ids": "SOURCE-072"
+ },
+ {
+  "cast_id": "CAST-363",
+  "film_id": "FILM-069",
+  "actor": "Rajpal Yadav",
+  "character": "Zallan Kumar / Budbudiya",
+  "cast_function": "Comic support",
+  "importance": "Minor",
+  "relationship_to_protagonist": "A close friend of Billu, Sahir's childhood friend.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Budbudiya is one of Billu's close friends in the village of Budbuda.",
+  "source_ids": "SOURCE-072"
+ },
+ {
+  "cast_id": "CAST-364",
   "film_id": "FILM-070",
   "actor": "Sushmita Sen",
   "character": "Shimmer Canhai",
@@ -2985,7 +4410,7 @@
   "source_ids": "SOURCE-073"
  },
  {
-  "cast_id": "CAST-247",
+  "cast_id": "CAST-365",
   "film_id": "FILM-070",
   "actor": "Fardeen Khan",
   "character": "Tej \"Donsai\" Dhanraj",
@@ -2997,7 +4422,7 @@
   "source_ids": "SOURCE-073"
  },
  {
-  "cast_id": "CAST-248",
+  "cast_id": "CAST-366",
   "film_id": "FILM-070",
   "actor": "Ishita Sharma",
   "character": "Samarpreet Kapoor Dhanraj / Samara",
@@ -3009,7 +4434,7 @@
   "source_ids": "SOURCE-073"
  },
  {
-  "cast_id": "CAST-249",
+  "cast_id": "CAST-367",
   "film_id": "FILM-071",
   "actor": "Arjan Aujla",
   "character": "Sameer \"Sam\" Khan",
@@ -3021,7 +4446,7 @@
   "source_ids": "SOURCE-074"
  },
  {
-  "cast_id": "CAST-250",
+  "cast_id": "CAST-368",
   "film_id": "FILM-071",
   "actor": "Jimmy Sheirgill",
   "character": "Zakir Khan",
@@ -3033,7 +4458,7 @@
   "source_ids": "SOURCE-074"
  },
  {
-  "cast_id": "CAST-251",
+  "cast_id": "CAST-369",
   "film_id": "FILM-071",
   "actor": "Sonya Jehan",
   "character": "Hasina Khan",
@@ -3045,7 +4470,7 @@
   "source_ids": "SOURCE-074"
  },
  {
-  "cast_id": "CAST-252",
+  "cast_id": "CAST-370",
   "film_id": "FILM-071",
   "actor": "Zarina Wahab",
   "character": "Razia Khan",
@@ -3057,7 +4482,7 @@
   "source_ids": "SOURCE-074"
  },
  {
-  "cast_id": "CAST-253",
+  "cast_id": "CAST-371",
   "film_id": "FILM-071",
   "actor": "Jennifer Echols",
   "character": "Mama Jenny",
@@ -3069,7 +4494,7 @@
   "source_ids": "SOURCE-074"
  },
  {
-  "cast_id": "CAST-254",
+  "cast_id": "CAST-372",
   "film_id": "FILM-071",
   "actor": "Arif Zakaria",
   "character": "Dr. Faisal Rahman",
@@ -3081,7 +4506,7 @@
   "source_ids": "SOURCE-074"
  },
  {
-  "cast_id": "CAST-255",
+  "cast_id": "CAST-373",
   "film_id": "FILM-071",
   "actor": "Kenton Duty",
   "character": "Reese Garrick",
@@ -3093,7 +4518,19 @@
   "source_ids": "SOURCE-074"
  },
  {
-  "cast_id": "CAST-256",
+  "cast_id": "CAST-374",
+  "film_id": "FILM-071",
+  "actor": "Christopher B. Duncan",
+  "character": "Barack Obama",
+  "cast_function": "Authority figure",
+  "importance": "Medium",
+  "relationship_to_protagonist": "The newly elected President whom Rizvan finally meets at the end of his journey.",
+  "relationship_to_romance": "Rizvan's meeting with the President fulfils the condition Mandira set for his return, before they go home together.",
+  "character_gist": "The President publicly acknowledges Rizvan, saying \"Your name is Khan and you are not a terrorist\".",
+  "source_ids": "SOURCE-074"
+ },
+ {
+  "cast_id": "CAST-375",
   "film_id": "FILM-072",
   "actor": "Preetika Chawla",
   "character": "Laali",
@@ -3105,7 +4542,7 @@
   "source_ids": "SOURCE-075"
  },
  {
-  "cast_id": "CAST-257",
+  "cast_id": "CAST-376",
   "film_id": "FILM-072",
   "actor": "Afzaal Khan",
   "character": "Vicky",
@@ -3117,7 +4554,7 @@
   "source_ids": "SOURCE-075"
  },
  {
-  "cast_id": "CAST-258",
+  "cast_id": "CAST-377",
   "film_id": "FILM-073",
   "actor": "Ali Fazal",
   "character": "Sameer \"Sam\" Khanna",
@@ -3129,7 +4566,7 @@
   "source_ids": "SOURCE-076"
  },
  {
-  "cast_id": "CAST-259",
+  "cast_id": "CAST-378",
   "film_id": "FILM-073",
   "actor": "Giselli Monteiro",
   "character": "Aishwarya \"Aish\" Dhawan",
@@ -3141,7 +4578,31 @@
   "source_ids": "SOURCE-076"
  },
  {
-  "cast_id": "CAST-260",
+  "cast_id": "CAST-379",
+  "film_id": "FILM-073",
+  "actor": "Zoa Morani",
+  "character": "Nandini Oberoi (Nandy Bull)",
+  "cast_function": "Co-lead",
+  "importance": "Major",
+  "relationship_to_protagonist": "One of the four students at the centre of the film; Shah Rukh Khan appears only in the song \"Antenna\".",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A student whose parents are always travelling; she argues constantly with Tariq until they realise they love each other, after she forwards his MIT denial letter.",
+  "source_ids": "SOURCE-076"
+ },
+ {
+  "cast_id": "CAST-380",
+  "film_id": "FILM-073",
+  "actor": "Satyajeet Dubey",
+  "character": "Tariq Naqvi (Einstein)",
+  "cast_function": "Co-lead",
+  "importance": "Major",
+  "relationship_to_protagonist": "One of the four students at the centre of the film; Shah Rukh Khan appears only in the song \"Antenna\".",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A student burdened by his parents' dream that he study at MIT. He falls for Nandini and later gets into IIT, trying to make his father see it as equal to MIT.",
+  "source_ids": "SOURCE-076"
+ },
+ {
+  "cast_id": "CAST-381",
   "film_id": "FILM-074",
   "actor": "Zayed Khan",
   "character": "Jai Malhotra",
@@ -3153,7 +4614,7 @@
   "source_ids": "SOURCE-077"
  },
  {
-  "cast_id": "CAST-261",
+  "cast_id": "CAST-382",
   "film_id": "FILM-074",
   "actor": "Dia Mirza",
   "character": "Naina Kapoor",
@@ -3165,7 +4626,31 @@
   "source_ids": "SOURCE-077"
  },
  {
-  "cast_id": "CAST-262",
+  "cast_id": "CAST-383",
+  "film_id": "FILM-074",
+  "actor": "Cyrus Sahukar",
+  "character": "Govind",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "One of the ensemble's interlinked characters; Shah Rukh Khan appears as himself in a cameo.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A man with a colourful past on his way into another seemingly all-wrong relationship that may be the love he has been looking for.",
+  "source_ids": "SOURCE-077"
+ },
+ {
+  "cast_id": "CAST-384",
+  "film_id": "FILM-074",
+  "actor": "Tisca Chopra",
+  "character": "Sheila Thapar",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "One of the ensemble's interlinked characters; Shah Rukh Khan appears as himself in a cameo.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A woman who has stayed single a long time waiting for Mr. Perfect and must decide whether to take her chance when he appears.",
+  "source_ids": "SOURCE-077"
+ },
+ {
+  "cast_id": "CAST-385",
   "film_id": "FILM-075",
   "actor": "Arjun Rampal",
   "character": "Ra.One",
@@ -3177,7 +4662,7 @@
   "source_ids": "SOURCE-078"
  },
  {
-  "cast_id": "CAST-263",
+  "cast_id": "CAST-386",
   "film_id": "FILM-075",
   "actor": "Armaan Verma",
   "character": "Prateek Subramaniam (Lucifer)",
@@ -3189,7 +4674,7 @@
   "source_ids": "SOURCE-078"
  },
  {
-  "cast_id": "CAST-264",
+  "cast_id": "CAST-387",
   "film_id": "FILM-075",
   "actor": "Shahana Goswami",
   "character": "Jenny Nayar",
@@ -3201,7 +4686,7 @@
   "source_ids": "SOURCE-078"
  },
  {
-  "cast_id": "CAST-265",
+  "cast_id": "CAST-388",
   "film_id": "FILM-075",
   "actor": "Rajinikanth",
   "character": "Chitti the Robot",
@@ -3213,7 +4698,19 @@
   "source_ids": "SOURCE-078"
  },
  {
-  "cast_id": "CAST-266",
+  "cast_id": "CAST-389",
+  "film_id": "FILM-075",
+  "actor": "Tom Wu",
+  "character": "Akashi / Ra.One (disguised)",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Shekhar's colleague who does the motion capture for the game's characters.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Akashi ignores malfunctions while the game is designed; Ra.One assumes his form and murders him, then uses his shape to chase Prateek and Jenny.",
+  "source_ids": "SOURCE-078"
+ },
+ {
+  "cast_id": "CAST-390",
   "film_id": "FILM-076",
   "actor": "Boman Irani",
   "character": "Vardhaan Makhija",
@@ -3225,7 +4722,7 @@
   "source_ids": "SOURCE-079"
  },
  {
-  "cast_id": "CAST-267",
+  "cast_id": "CAST-391",
   "film_id": "FILM-076",
   "actor": "Lara Dutta",
   "character": "Ayesha Singh",
@@ -3237,7 +4734,7 @@
   "source_ids": "SOURCE-079"
  },
  {
-  "cast_id": "CAST-268",
+  "cast_id": "CAST-392",
   "film_id": "FILM-076",
   "actor": "Kunal Kapoor",
   "character": "Sameer \"Sam\" Ali",
@@ -3249,7 +4746,7 @@
   "source_ids": "SOURCE-079"
  },
  {
-  "cast_id": "CAST-269",
+  "cast_id": "CAST-393",
   "film_id": "FILM-076",
   "actor": "Om Puri",
   "character": "Detective Vishal Malik",
@@ -3261,7 +4758,7 @@
   "source_ids": "SOURCE-079"
  },
  {
-  "cast_id": "CAST-270",
+  "cast_id": "CAST-394",
   "film_id": "FILM-076",
   "actor": "Nawwab Shah",
   "character": "Abdul Jabbar",
@@ -3273,7 +4770,7 @@
   "source_ids": "SOURCE-079"
  },
  {
-  "cast_id": "CAST-271",
+  "cast_id": "CAST-395",
   "film_id": "FILM-076",
   "actor": "Hrithik Roshan",
   "character": "Don (disguised face)",
@@ -3285,7 +4782,19 @@
   "source_ids": "SOURCE-079"
  },
  {
-  "cast_id": "CAST-272",
+  "cast_id": "CAST-396",
+  "film_id": "FILM-076",
+  "actor": "Alyy Khan",
+  "character": "J. K. Diwan",
+  "cast_function": "Antagonist",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Bank vice president blackmailed by Don and later killed by him.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Vice president of the Deutsche Zentral-Bank in Berlin, recorded paying Singhania to have James Werden killed. Don blackmails him into handing over the vault blueprints, and after Diwan sends Jabbar after him, Don kills him with a car bomb.",
+  "source_ids": "SOURCE-079"
+ },
+ {
+  "cast_id": "CAST-397",
   "film_id": "FILM-077",
   "actor": "Sharib Hashmi",
   "character": "Zain Mirza",
@@ -3297,7 +4806,7 @@
   "source_ids": "SOURCE-080"
  },
  {
-  "cast_id": "CAST-273",
+  "cast_id": "CAST-398",
   "film_id": "FILM-077",
   "actor": "Neetu Kapoor",
   "character": "Pooja Thappar Sharqazi",
@@ -3309,7 +4818,7 @@
   "source_ids": "SOURCE-080"
  },
  {
-  "cast_id": "CAST-274",
+  "cast_id": "CAST-399",
   "film_id": "FILM-077",
   "actor": "Anupam Kher",
   "character": "Kamal Thappar",
@@ -3321,7 +4830,43 @@
   "source_ids": "SOURCE-080"
  },
  {
-  "cast_id": "CAST-275",
+  "cast_id": "CAST-400",
+  "film_id": "FILM-077",
+  "actor": "Sarika",
+  "character": "Dr. Zoya Ali Khan",
+  "cast_function": "Supporting",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Samar's doctor.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A neurologist who is Samar's doctor, per the cast list.",
+  "source_ids": "SOURCE-080"
+ },
+ {
+  "cast_id": "CAST-401",
+  "film_id": "FILM-077",
+  "actor": "Rishi Kapoor",
+  "character": "Imraan Sharqazi",
+  "cast_function": "Family",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Stepfather of Samar's love interest Meera.",
+  "relationship_to_romance": "Husband of the mother Samar helps Meera reconcile with.",
+  "character_gist": "Meera's stepfather, the man for whom her mother left the family; appears in a special appearance.",
+  "source_ids": "SOURCE-080"
+ },
+ {
+  "cast_id": "CAST-402",
+  "film_id": "FILM-077",
+  "actor": "Jay Conroy",
+  "character": "Roger",
+  "cast_function": "Romantic rival",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Meera's fiance when Samar meets her.",
+  "relationship_to_romance": "Meera plans to break off the engagement for Samar; she later reveals she never married him.",
+  "character_gist": "Samar first meets Meera at her engagement party to Roger. Meera later says she never married him and only helps his daughter with events.",
+  "source_ids": "SOURCE-080"
+ },
+ {
+  "cast_id": "CAST-403",
   "film_id": "FILM-078",
   "actor": "Rani Mukerji",
   "character": "Gayatri",
@@ -3333,7 +4878,7 @@
   "source_ids": "SOURCE-081"
  },
  {
-  "cast_id": "CAST-276",
+  "cast_id": "CAST-404",
   "film_id": "FILM-078",
   "actor": "Nawazuddin Siddiqui",
   "character": "Purandar",
@@ -3345,7 +4890,43 @@
   "source_ids": "SOURCE-081"
  },
  {
-  "cast_id": "CAST-277",
+  "cast_id": "CAST-405",
+  "film_id": "FILM-078",
+  "actor": "Saqib Saleem",
+  "character": "Avinash",
+  "cast_function": "Co-lead",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Lead of the Ajeeb Dastaan Hai Yeh segment; not connected to Shah Rukh Khan's self appearance.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A young gay man who leaves his family home, befriends his colleague Gayatri and realises her husband Dev is a closeted homosexual.",
+  "source_ids": "SOURCE-081"
+ },
+ {
+  "cast_id": "CAST-406",
+  "film_id": "FILM-078",
+  "actor": "Randeep Hooda",
+  "character": "Dev",
+  "cast_function": "Co-lead",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Co-lead of the Ajeeb Dastaan Hai Yeh segment; not connected to Shah Rukh Khan's self appearance.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Gayatri's husband, whose repressed attraction to Avinash leads to violence and the end of his marriage.",
+  "source_ids": "SOURCE-081"
+ },
+ {
+  "cast_id": "CAST-407",
+  "film_id": "FILM-078",
+  "actor": "Vineet Kumar Singh",
+  "character": "Vijay",
+  "cast_function": "Co-lead",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Lead of the Murabba segment; not connected to Shah Rukh Khan's self appearance.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A young man from Allahabad who travels to Mumbai to meet Amitabh Bachchan and fulfil his ailing father's wish.",
+  "source_ids": "SOURCE-081"
+ },
+ {
+  "cast_id": "CAST-408",
   "film_id": "FILM-079",
   "actor": "Sathyaraj",
   "character": "Durgeshwara \"Durgesh\" Azhagusundaram",
@@ -3357,7 +4938,7 @@
   "source_ids": "SOURCE-082"
  },
  {
-  "cast_id": "CAST-278",
+  "cast_id": "CAST-409",
   "film_id": "FILM-079",
   "actor": "Nikitin Dheer",
   "character": "Tangaballi",
@@ -3369,7 +4950,7 @@
   "source_ids": "SOURCE-082"
  },
  {
-  "cast_id": "CAST-279",
+  "cast_id": "CAST-410",
   "film_id": "FILM-079",
   "actor": "Kamini Kaushal",
   "character": "Neetu Mithaiwala",
@@ -3381,7 +4962,31 @@
   "source_ids": "SOURCE-082"
  },
  {
-  "cast_id": "CAST-280",
+  "cast_id": "CAST-411",
+  "film_id": "FILM-079",
+  "actor": "Lekh Tandon",
+  "character": "Y. Y. Mithaiwala",
+  "cast_function": "Family",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Rahul's grandfather.",
+  "relationship_to_romance": "His ashes set off the journey on which Rahul meets Meenamma.",
+  "character_gist": "Confectionery-chain owner who dies on the eve of his 100th birthday. His wish to have his ashes immersed in Rameswaram sends Rahul onto the Chennai Express.",
+  "source_ids": "SOURCE-082"
+ },
+ {
+  "cast_id": "CAST-412",
+  "film_id": "FILM-079",
+  "actor": "Mukesh Tiwari",
+  "character": "Inspector Shamsher Singh",
+  "cast_function": "Authority figure",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Local policeman who helps Rahul escape.",
+  "relationship_to_romance": "Helps Rahul flee before his duel with Tangaballi.",
+  "character_gist": "A local policeman who helps Rahul escape on the night of the duel, after which Rahul ends up among Sri Lankan smugglers.",
+  "source_ids": "SOURCE-082"
+ },
+ {
+  "cast_id": "CAST-413",
   "film_id": "FILM-080",
   "actor": "Amitabh Bachchan",
   "character": "Kailash Nath (Bhoothnath)",
@@ -3393,7 +4998,7 @@
   "source_ids": "SOURCE-083"
  },
  {
-  "cast_id": "CAST-281",
+  "cast_id": "CAST-414",
   "film_id": "FILM-080",
   "actor": "Boman Irani",
   "character": "Bhau Sahib",
@@ -3405,7 +5010,7 @@
   "source_ids": "SOURCE-083"
  },
  {
-  "cast_id": "CAST-282",
+  "cast_id": "CAST-415",
   "film_id": "FILM-080",
   "actor": "Parth Bhalerao",
   "character": "Akhrot",
@@ -3417,7 +5022,7 @@
   "source_ids": "SOURCE-083"
  },
  {
-  "cast_id": "CAST-283",
+  "cast_id": "CAST-416",
   "film_id": "FILM-081",
   "actor": "Abhishek Bachchan",
   "character": "Nandan \"Nandu\" Bhide / Vicky Grover",
@@ -3429,7 +5034,7 @@
   "source_ids": "SOURCE-084"
  },
  {
-  "cast_id": "CAST-284",
+  "cast_id": "CAST-417",
   "film_id": "FILM-081",
   "actor": "Jackie Shroff",
   "character": "Charan Grover",
@@ -3441,7 +5046,7 @@
   "source_ids": "SOURCE-084"
  },
  {
-  "cast_id": "CAST-285",
+  "cast_id": "CAST-418",
   "film_id": "FILM-081",
   "actor": "Sonu Sood",
   "character": "Captain Jagmohan \"Jag\" Prakash",
@@ -3453,7 +5058,7 @@
   "source_ids": "SOURCE-084"
  },
  {
-  "cast_id": "CAST-286",
+  "cast_id": "CAST-419",
   "film_id": "FILM-081",
   "actor": "Boman Irani",
   "character": "Tehmton \"Tammy\" Irani",
@@ -3465,7 +5070,7 @@
   "source_ids": "SOURCE-084"
  },
  {
-  "cast_id": "CAST-287",
+  "cast_id": "CAST-420",
   "film_id": "FILM-081",
   "actor": "Vivaan Shah",
   "character": "Rohan Singh",
@@ -3477,7 +5082,19 @@
   "source_ids": "SOURCE-084"
  },
  {
-  "cast_id": "CAST-288",
+  "cast_id": "CAST-421",
+  "film_id": "FILM-081",
+  "actor": "Anupam Kher",
+  "character": "Manohar Sharma",
+  "cast_function": "Family",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Charlie's father, whose framing drives Charlie's revenge.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "An honest businessman who built the Shalimar safe and was framed by Charan Grover for the diamond theft. Charlie later reveals he died by suicide in prison.",
+  "source_ids": "SOURCE-084"
+ },
+ {
+  "cast_id": "CAST-422",
   "film_id": "FILM-082",
   "actor": "Varun Dhawan",
   "character": "Veer Bakshi",
@@ -3489,7 +5106,7 @@
   "source_ids": "SOURCE-085"
  },
  {
-  "cast_id": "CAST-289",
+  "cast_id": "CAST-423",
   "film_id": "FILM-082",
   "actor": "Kriti Sanon",
   "character": "Ishita Malik",
@@ -3501,7 +5118,7 @@
   "source_ids": "SOURCE-085"
  },
  {
-  "cast_id": "CAST-290",
+  "cast_id": "CAST-424",
   "film_id": "FILM-082",
   "actor": "Boman Irani",
   "character": "King",
@@ -3513,7 +5130,7 @@
   "source_ids": "SOURCE-085"
  },
  {
-  "cast_id": "CAST-291",
+  "cast_id": "CAST-425",
   "film_id": "FILM-082",
   "actor": "Vinod Khanna",
   "character": "Randhir Bakshi",
@@ -3525,7 +5142,7 @@
   "source_ids": "SOURCE-085"
  },
  {
-  "cast_id": "CAST-292",
+  "cast_id": "CAST-426",
   "film_id": "FILM-082",
   "actor": "Kabir Bedi",
   "character": "Dev Malik",
@@ -3537,7 +5154,31 @@
   "source_ids": "SOURCE-085"
  },
  {
-  "cast_id": "CAST-293",
+  "cast_id": "CAST-427",
+  "film_id": "FILM-082",
+  "actor": "Mukesh Tiwari",
+  "character": "Shakti Saigal",
+  "cast_function": "Friend",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Kaali's right-hand man and friend.",
+  "relationship_to_romance": "Persuades Kaali to forget the past after his break with Meera.",
+  "character_gist": "Helps Raj thrash King's gang and, with Anwar, convinces Kaali to start a new life with Veer. He is Sidhu's brother.",
+  "source_ids": "SOURCE-085"
+ },
+ {
+  "cast_id": "CAST-428",
+  "film_id": "FILM-082",
+  "actor": "Pankaj Tripathi",
+  "character": "Anwar Ali Mirza",
+  "cast_function": "Friend",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Kaali's right-hand man and friend.",
+  "relationship_to_romance": "Persuades Kaali to forget the past after his break with Meera.",
+  "character_gist": "Helps Raj fight King's gang and, with Shakti, convinces Kaali to start afresh with Veer.",
+  "source_ids": "SOURCE-085"
+ },
+ {
+  "cast_id": "CAST-429",
   "film_id": "FILM-083",
   "actor": "Shriya Pilgaonkar",
   "character": "Neha Singh",
@@ -3549,7 +5190,7 @@
   "source_ids": "SOURCE-086"
  },
  {
-  "cast_id": "CAST-294",
+  "cast_id": "CAST-430",
   "film_id": "FILM-083",
   "actor": "Waluscha De Sousa",
   "character": "Bella Khanna",
@@ -3561,7 +5202,7 @@
   "source_ids": "SOURCE-086"
  },
  {
-  "cast_id": "CAST-295",
+  "cast_id": "CAST-431",
   "film_id": "FILM-083",
   "actor": "Sayani Gupta",
   "character": "Sunaina",
@@ -3573,7 +5214,7 @@
   "source_ids": "SOURCE-086"
  },
  {
-  "cast_id": "CAST-296",
+  "cast_id": "CAST-432",
   "film_id": "FILM-083",
   "actor": "Yogendra Tikku",
   "character": "Mr. Chandna",
@@ -3585,7 +5226,31 @@
   "source_ids": "SOURCE-086"
  },
  {
-  "cast_id": "CAST-297",
+  "cast_id": "CAST-433",
+  "film_id": "FILM-083",
+  "actor": "Deepika Amin",
+  "character": "Mrs. Chandna",
+  "cast_function": "Family",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Gaurav's mother.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Gaurav's mother, who with her husband encourages his trip to Mumbai and later helps Aryan when he visits Delhi.",
+  "source_ids": "SOURCE-086"
+ },
+ {
+  "cast_id": "CAST-434",
+  "film_id": "FILM-083",
+  "actor": "Taher Shabbir",
+  "character": "Sid Kapoor",
+  "cast_function": "Supporting",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Aryan's rival, attacked by Gaurav.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "An actor who criticises Aryan to the press. Gaurav beats him and records his forced apology, which leads to Gaurav's arrest.",
+  "source_ids": "SOURCE-086"
+ },
+ {
+  "cast_id": "CAST-435",
   "film_id": "FILM-084",
   "actor": "Aishwarya Rai Bachchan",
   "character": "Saba Tahir Khan",
@@ -3597,7 +5262,7 @@
   "source_ids": "SOURCE-087"
  },
  {
-  "cast_id": "CAST-298",
+  "cast_id": "CAST-436",
   "film_id": "FILM-084",
   "actor": "Ranbir Kapoor",
   "character": "Ayan Sanger",
@@ -3609,7 +5274,7 @@
   "source_ids": "SOURCE-087"
  },
  {
-  "cast_id": "CAST-299",
+  "cast_id": "CAST-437",
   "film_id": "FILM-084",
   "actor": "Anushka Sharma",
   "character": "Alizeh Khan",
@@ -3621,7 +5286,19 @@
   "source_ids": "SOURCE-087"
  },
  {
-  "cast_id": "CAST-300",
+  "cast_id": "CAST-438",
+  "film_id": "FILM-084",
+  "actor": "Fawad Khan",
+  "character": "DJ Ali Ahmed",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Not connected to Tahir; Ali is the ex-boyfriend and later husband of Alizeh, a lead character.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Alizeh's ex-boyfriend, whom she reunites with and marries. He later tells Ayan that they have separated. The article describes the role as the backbone for a certain conflict of a character.",
+  "source_ids": "SOURCE-087"
+ },
+ {
+  "cast_id": "CAST-439",
   "film_id": "FILM-085",
   "actor": "Alia Bhatt",
   "character": "Kaira",
@@ -3633,7 +5310,7 @@
   "source_ids": "SOURCE-088"
  },
  {
-  "cast_id": "CAST-301",
+  "cast_id": "CAST-440",
   "film_id": "FILM-085",
   "actor": "Kunal Kapoor",
   "character": "Raghuvendra",
@@ -3645,7 +5322,7 @@
   "source_ids": "SOURCE-088"
  },
  {
-  "cast_id": "CAST-302",
+  "cast_id": "CAST-441",
   "film_id": "FILM-085",
   "actor": "Ali Zafar",
   "character": "Rumi",
@@ -3657,7 +5334,7 @@
   "source_ids": "SOURCE-088"
  },
  {
-  "cast_id": "CAST-303",
+  "cast_id": "CAST-442",
   "film_id": "FILM-085",
   "actor": "Rohit Saraf",
   "character": "Kabir \"Kiddo\"",
@@ -3669,7 +5346,43 @@
   "source_ids": "SOURCE-088"
  },
  {
-  "cast_id": "CAST-304",
+  "cast_id": "CAST-443",
+  "film_id": "FILM-085",
+  "actor": "Angad Bedi",
+  "character": "Sid",
+  "cast_function": "Supporting",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Ex-boyfriend of Jug's patient Kaira.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Restobar owner and Kaira's childhood sweetheart, whom she breaks up with as her life takes a downturn.",
+  "source_ids": "SOURCE-088"
+ },
+ {
+  "cast_id": "CAST-444",
+  "film_id": "FILM-085",
+  "actor": "Aban Deohans",
+  "character": "Kaira's mother",
+  "cast_function": "Family",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Mother of Jug's patient Kaira; Kaira's resentment of her parents is central to the therapy.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "She and her husband left Kaira with her grandparents as a child. Kaira confronts her parents at a family event and later tries to reconcile.",
+  "source_ids": "SOURCE-088"
+ },
+ {
+  "cast_id": "CAST-445",
+  "film_id": "FILM-085",
+  "actor": "Atul Kale",
+  "character": "Kaira's father",
+  "cast_function": "Family",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Father of Jug's patient Kaira; Kaira's resentment of her parents is central to the therapy.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "He and his wife left Kaira with her grandparents after their business failed. Jug advises Kaira to see her parents as people capable of mistakes.",
+  "source_ids": "SOURCE-088"
+ },
+ {
+  "cast_id": "CAST-446",
   "film_id": "FILM-086",
   "actor": "Nawazuddin Siddiqui",
   "character": "ACP Jaideep Ambalal Majmudar",
@@ -3681,7 +5394,7 @@
   "source_ids": "SOURCE-089"
  },
  {
-  "cast_id": "CAST-305",
+  "cast_id": "CAST-447",
   "film_id": "FILM-086",
   "actor": "Mahira Khan",
   "character": "Aasiya Qazi Alam",
@@ -3693,7 +5406,7 @@
   "source_ids": "SOURCE-089"
  },
  {
-  "cast_id": "CAST-306",
+  "cast_id": "CAST-448",
   "film_id": "FILM-086",
   "actor": "Mohammed Zeeshan Ayyub",
   "character": "Sadiq Khan",
@@ -3705,7 +5418,7 @@
   "source_ids": "SOURCE-089"
  },
  {
-  "cast_id": "CAST-307",
+  "cast_id": "CAST-449",
   "film_id": "FILM-086",
   "actor": "Sheeba Chaddha",
   "character": "Amina Hussain Alam",
@@ -3717,7 +5430,7 @@
   "source_ids": "SOURCE-089"
  },
  {
-  "cast_id": "CAST-308",
+  "cast_id": "CAST-450",
   "film_id": "FILM-086",
   "actor": "Narendra Jha",
   "character": "Musa Bhai",
@@ -3729,7 +5442,7 @@
   "source_ids": "SOURCE-089"
  },
  {
-  "cast_id": "CAST-309",
+  "cast_id": "CAST-451",
   "film_id": "FILM-086",
   "actor": "Atul Kulkarni",
   "character": "Jairaj Seth",
@@ -3741,7 +5454,19 @@
   "source_ids": "SOURCE-089"
  },
  {
-  "cast_id": "CAST-310",
+  "cast_id": "CAST-452",
+  "film_id": "FILM-086",
+  "actor": "Uday Tikekar",
+  "character": "Pasha Bhai",
+  "cast_function": "Supporting",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Opposition politician who backs and later works against Raees.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Opposition leader who gives Raees political backing. After a dispute he has Raees briefly imprisoned, and he later allies with the Chief Minister.",
+  "source_ids": "SOURCE-089"
+ },
+ {
+  "cast_id": "CAST-453",
   "film_id": "FILM-087",
   "actor": "Salman Khan",
   "character": "Laxman Singh Bisht (Tubelight)",
@@ -3753,7 +5478,7 @@
   "source_ids": "SOURCE-090"
  },
  {
-  "cast_id": "CAST-311",
+  "cast_id": "CAST-454",
   "film_id": "FILM-087",
   "actor": "Om Puri",
   "character": "Banne Chacha",
@@ -3765,7 +5490,43 @@
   "source_ids": "SOURCE-090"
  },
  {
-  "cast_id": "CAST-312",
+  "cast_id": "CAST-455",
+  "film_id": "FILM-087",
+  "actor": "Sohail Khan",
+  "character": "Bharat Singh Bisht",
+  "cast_function": "Family",
+  "importance": "Major",
+  "relationship_to_protagonist": "Younger brother of the protagonist Laxman (Gogo Pasha's role is a cameo).",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Laxman's protective younger brother, who is recruited into the army, captured during the 1962 war and wrongly declared dead before being found alive.",
+  "source_ids": "SOURCE-090"
+ },
+ {
+  "cast_id": "CAST-456",
+  "film_id": "FILM-087",
+  "actor": "Zhu Zhu",
+  "character": "Li Leing",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Neighbour befriended by the protagonist Laxman (Gogo Pasha's role is a cameo).",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A woman Laxman first takes for Chinese and later befriends. She consoles him after his brother's capture and encourages his faith.",
+  "source_ids": "SOURCE-090"
+ },
+ {
+  "cast_id": "CAST-457",
+  "film_id": "FILM-087",
+  "actor": "Matin Rey Tangu",
+  "character": "Gu Won",
+  "cast_function": "Supporting",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Boy befriended by the protagonist Laxman (Gogo Pasha's role is a cameo).",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Li Leing's son, whom Laxman defends when his friend Narayan tries to attack him as a Chinese boy.",
+  "source_ids": "SOURCE-090"
+ },
+ {
+  "cast_id": "CAST-458",
   "film_id": "FILM-088",
   "actor": "Aru Krishansh Verma",
   "character": "Mayank",
@@ -3777,7 +5538,7 @@
   "source_ids": "SOURCE-091"
  },
  {
-  "cast_id": "CAST-313",
+  "cast_id": "CAST-459",
   "film_id": "FILM-088",
   "actor": "Chandan Roy Sanyal",
   "character": "Ghyassuddin \"Gas\" Mohammed Qureshi",
@@ -3789,7 +5550,7 @@
   "source_ids": "SOURCE-091"
  },
  {
-  "cast_id": "CAST-314",
+  "cast_id": "CAST-460",
   "film_id": "FILM-088",
   "actor": "Kavi Shastri",
   "character": "Rupen",
@@ -3801,7 +5562,31 @@
   "source_ids": "SOURCE-091"
  },
  {
-  "cast_id": "CAST-315",
+  "cast_id": "CAST-461",
+  "film_id": "FILM-088",
+  "actor": "Evelyn Sharma",
+  "character": "Irina",
+  "cast_function": "Friend",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Bride of Harry's friend Mayank.",
+  "relationship_to_romance": "Notices the chemistry between Harry and Sejal at her wedding.",
+  "character_gist": "Mayank's bride. At their wedding in Frankfurt, she and Mayank ask Harry and Sejal about their relationship.",
+  "source_ids": "SOURCE-091"
+ },
+ {
+  "cast_id": "CAST-462",
+  "film_id": "FILM-088",
+  "actor": "Baljeet Kaur Nanda",
+  "character": "Mrs. Nehra",
+  "cast_function": "Family",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Harry's mother.",
+  "relationship_to_romance": "Part of the family Harry returns to with Sejal.",
+  "character_gist": "Harry's mother. Harry reunites with his family in Nurmahal when he visits with Sejal at the end.",
+  "source_ids": "SOURCE-091"
+ },
+ {
+  "cast_id": "CAST-463",
   "film_id": "FILM-089",
   "actor": "Mohammed Zeeshan Ayyub",
   "character": "Guddu Mukhi",
@@ -3813,7 +5598,7 @@
   "source_ids": "SOURCE-092"
  },
  {
-  "cast_id": "CAST-316",
+  "cast_id": "CAST-464",
   "film_id": "FILM-089",
   "actor": "R. Madhavan",
   "character": "Kartik Srinivasan",
@@ -3825,7 +5610,7 @@
   "source_ids": "SOURCE-092"
  },
  {
-  "cast_id": "CAST-317",
+  "cast_id": "CAST-465",
   "film_id": "FILM-089",
   "actor": "Abhay Deol",
   "character": "Aditya Kapoor",
@@ -3837,7 +5622,7 @@
   "source_ids": "SOURCE-092"
  },
  {
-  "cast_id": "CAST-318",
+  "cast_id": "CAST-466",
   "film_id": "FILM-089",
   "actor": "Tigmanshu Dhulia",
   "character": "Ashok Singh",
@@ -3849,7 +5634,19 @@
   "source_ids": "SOURCE-092"
  },
  {
-  "cast_id": "CAST-319",
+  "cast_id": "CAST-467",
+  "film_id": "FILM-089",
+  "actor": "Sheeba Chaddha",
+  "character": "Beena Singh",
+  "cast_function": "Family",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Bauua's mother.",
+  "relationship_to_romance": "Bauua's parents fix his marriage to Aafia.",
+  "character_gist": "Bauua's mother. She and her husband arrange Bauua's marriage to Aafia, which he runs away from.",
+  "source_ids": "SOURCE-092"
+ },
+ {
+  "cast_id": "CAST-468",
   "film_id": "FILM-090",
   "actor": "Dulquer Salmaan",
   "character": "Nikhil Khoda",
@@ -3861,7 +5658,7 @@
   "source_ids": "SOURCE-093"
  },
  {
-  "cast_id": "CAST-320",
+  "cast_id": "CAST-469",
   "film_id": "FILM-090",
   "actor": "Sonam Kapoor",
   "character": "Zoya Singh Solanki",
@@ -3873,7 +5670,19 @@
   "source_ids": "SOURCE-093"
  },
  {
-  "cast_id": "CAST-321",
+  "cast_id": "CAST-470",
+  "film_id": "FILM-090",
+  "actor": "Angad Bedi",
+  "character": "Robin Rawal",
+  "cast_function": "Antagonist",
+  "importance": "Major",
+  "relationship_to_protagonist": "Not connected to the narrator; rival of the protagonist Nikhil, who manipulates Zoya.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Former Indian captain whose uncle heads the Board. He sends Zoya a video to turn her against Nikhil and deliberately loses a match to make her seem indispensable.",
+  "source_ids": "SOURCE-093"
+ },
+ {
+  "cast_id": "CAST-471",
   "film_id": "FILM-091",
   "actor": "R. Madhavan",
   "character": "Nambi Narayanan",
@@ -3885,7 +5694,32 @@
   "source_ids": "SOURCE-094"
  },
  {
-  "cast_id": "CAST-322",
+  "cast_id": "CAST-472",
+  "film_id": "FILM-091",
+  "actor": "Simran",
+  "character": "Meena Narayanan",
+  "cast_function": "Family",
+  "importance": "Major",
+  "relationship_to_protagonist": "Wife of the protagonist Nambi Narayanan; Shah Rukh Khan appears as himself.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Nambi's wife, who is traumatised by the espionage case and requires psychiatric care.",
+  "performance_recognition": "SIIMA Award for Best Actress in a Supporting Role nomination and Filmfare Awards South Best Actress in a Supporting Role (Tamil) nomination; a Cinema Express review credited Madhavan and Simran with propelling the film",
+  "source_ids": "SOURCE-094"
+ },
+ {
+  "cast_id": "CAST-473",
+  "film_id": "FILM-091",
+  "actor": "Rajit Kapur",
+  "character": "Vikram Sarabhai",
+  "cast_function": "Mentor",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Mentor of the protagonist Nambi Narayanan (Hindi version); Shah Rukh Khan appears as himself.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Nambi's mentor at ISRO, whose sudden death stalls Nambi's research; Nambi names the VIKAS engine in his honour. Rajit Kapur plays him in the Hindi version.",
+  "source_ids": "SOURCE-094"
+ },
+ {
+  "cast_id": "CAST-474",
   "film_id": "FILM-092",
   "actor": "Aamir Khan",
   "character": "Laal Singh Chaddha",
@@ -3897,7 +5731,7 @@
   "source_ids": "SOURCE-095"
  },
  {
-  "cast_id": "CAST-323",
+  "cast_id": "CAST-475",
   "film_id": "FILM-092",
   "actor": "Kareena Kapoor",
   "character": "Rupa D'Souza",
@@ -3909,7 +5743,43 @@
   "source_ids": "SOURCE-095"
  },
  {
-  "cast_id": "CAST-324",
+  "cast_id": "CAST-476",
+  "film_id": "FILM-092",
+  "actor": "Naga Chaitanya",
+  "character": "Naik Balaraju \"Bala\" Bodi",
+  "cast_function": "Friend",
+  "importance": "Major",
+  "relationship_to_protagonist": "Army friend of the protagonist Laal; Shah Rukh Khan appears as himself.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Laal's army friend who dreams of starting an undergarment business. After Bala dies in the Kargil War, Laal names his business after him.",
+  "source_ids": "SOURCE-095"
+ },
+ {
+  "cast_id": "CAST-477",
+  "film_id": "FILM-092",
+  "actor": "Mona Singh",
+  "character": "Gurpreet Kaur Chaddha",
+  "cast_function": "Family",
+  "importance": "Major",
+  "relationship_to_protagonist": "Mother of the protagonist Laal; Shah Rukh Khan appears as himself.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Laal's supportive mother, who tells him he can achieve anything and works as a maid to get him into school.",
+  "source_ids": "SOURCE-095"
+ },
+ {
+  "cast_id": "CAST-478",
+  "film_id": "FILM-092",
+  "actor": "Manav Vij",
+  "character": "Muhammad Yakoob",
+  "cast_function": "Friend",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Pakistani soldier saved by the protagonist Laal; Shah Rukh Khan appears as himself.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A Pakistani commander Laal unknowingly saves during the Kargil War, who later helps him rename and market his underwear brand as Rupa.",
+  "source_ids": "SOURCE-095"
+ },
+ {
+  "cast_id": "CAST-479",
   "film_id": "FILM-093",
   "actor": "Ranbir Kapoor",
   "character": "Shiva",
@@ -3921,7 +5791,7 @@
   "source_ids": "SOURCE-096"
  },
  {
-  "cast_id": "CAST-325",
+  "cast_id": "CAST-480",
   "film_id": "FILM-093",
   "actor": "Mouni Roy",
   "character": "Junoon",
@@ -3933,7 +5803,7 @@
   "source_ids": "SOURCE-096"
  },
  {
-  "cast_id": "CAST-326",
+  "cast_id": "CAST-481",
   "film_id": "FILM-093",
   "actor": "Amitabh Bachchan",
   "character": "Raghu (Guru)",
@@ -3945,7 +5815,7 @@
   "source_ids": "SOURCE-096"
  },
  {
-  "cast_id": "CAST-327",
+  "cast_id": "CAST-482",
   "film_id": "FILM-093",
   "actor": "Nagarjuna",
   "character": "Anish Shetty",
@@ -3957,7 +5827,20 @@
   "source_ids": "SOURCE-096"
  },
  {
-  "cast_id": "CAST-328",
+  "cast_id": "CAST-483",
+  "film_id": "FILM-093",
+  "actor": "Alia Bhatt",
+  "character": "Isha Chatterjee",
+  "cast_function": "Co-lead",
+  "importance": "Major",
+  "relationship_to_protagonist": "Girlfriend of the protagonist Shiva; not connected to Mohan Bhargav.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A London resident visiting Mumbai for Durga Puja who falls in love with Shiva and travels with him to the Ashram. Shiva's love for her lets him control the Brahmastra.",
+  "performance_recognition": "The article notes critics praised the cast's performances, particularly Ranbir Kapoor, Alia Bhatt, Amitabh Bachchan, Mouni Roy and Nagarjuna",
+  "source_ids": "SOURCE-096"
+ },
+ {
+  "cast_id": "CAST-484",
   "film_id": "FILM-094",
   "actor": "Deepika Padukone",
   "character": "Dr. Rubina \"Rubai\" Mohsin",
@@ -3969,7 +5852,7 @@
   "source_ids": "SOURCE-097"
  },
  {
-  "cast_id": "CAST-329",
+  "cast_id": "CAST-485",
   "film_id": "FILM-094",
   "actor": "John Abraham",
   "character": "Jim",
@@ -3981,7 +5864,7 @@
   "source_ids": "SOURCE-097"
  },
  {
-  "cast_id": "CAST-330",
+  "cast_id": "CAST-486",
   "film_id": "FILM-094",
   "actor": "Dimple Kapadia",
   "character": "Dr. Nandini Grewal",
@@ -3993,7 +5876,7 @@
   "source_ids": "SOURCE-097"
  },
  {
-  "cast_id": "CAST-331",
+  "cast_id": "CAST-487",
   "film_id": "FILM-094",
   "actor": "Salman Khan",
   "character": "Tiger",
@@ -4005,7 +5888,31 @@
   "source_ids": "SOURCE-097; SOURCE-099"
  },
  {
-  "cast_id": "CAST-332",
+  "cast_id": "CAST-488",
+  "film_id": "FILM-094",
+  "actor": "Ashutosh Rana",
+  "character": "Colonel Sunil Luthra",
+  "cast_function": "Authority figure",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Senior officer overseeing Pathaan's missions.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Briefs Pathaan and Nandini that Jim was a former agent, and goes with Nandini to Jim's lab to bring the virus orb back to India.",
+  "source_ids": "SOURCE-097"
+ },
+ {
+  "cast_id": "CAST-489",
+  "film_id": "FILM-094",
+  "actor": "Manish Wadhwa",
+  "character": "General Qadir",
+  "cast_function": "Antagonist",
+  "importance": "Medium",
+  "relationship_to_protagonist": "Pakistani general whose plot Pathaan fights.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "A cancer-ridden Pakistani Army officer who hires Outfit X to take revenge on India after Article 370 is revoked. Rubai kills him after he activates the missile.",
+  "source_ids": "SOURCE-097"
+ },
+ {
+  "cast_id": "CAST-490",
   "film_id": "FILM-095",
   "actor": "Vijay Sethupathi",
   "character": "Kalee Gaikwad",
@@ -4017,7 +5924,7 @@
   "source_ids": "SOURCE-098"
  },
  {
-  "cast_id": "CAST-333",
+  "cast_id": "CAST-491",
   "film_id": "FILM-095",
   "actor": "Priyamani",
   "character": "Lakshmi",
@@ -4029,7 +5936,7 @@
   "source_ids": "SOURCE-098"
  },
  {
-  "cast_id": "CAST-334",
+  "cast_id": "CAST-492",
   "film_id": "FILM-095",
   "actor": "Sanya Malhotra",
   "character": "Dr. Eeram",
@@ -4041,7 +5948,7 @@
   "source_ids": "SOURCE-098"
  },
  {
-  "cast_id": "CAST-335",
+  "cast_id": "CAST-493",
   "film_id": "FILM-095",
   "actor": "Sunil Grover",
   "character": "Irani",
@@ -4053,7 +5960,31 @@
   "source_ids": "SOURCE-098"
  },
  {
-  "cast_id": "CAST-336",
+  "cast_id": "CAST-494",
+  "film_id": "FILM-095",
+  "actor": "Riddhi Dogra",
+  "character": "Kaveri",
+  "cast_function": "Family",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Azad's adoptive mother.",
+  "relationship_to_romance": "Not applicable",
+  "character_gist": "Retired jailer with whom Azad lives.",
+  "source_ids": "SOURCE-098"
+ },
+ {
+  "cast_id": "CAST-495",
+  "film_id": "FILM-095",
+  "actor": "Eijaz Khan",
+  "character": "Manish Gaikwad",
+  "cast_function": "Antagonist",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Kalee's brother, who exposes Azad.",
+  "relationship_to_romance": "Captures Azad and Narmada after uncovering Azad's secret.",
+  "character_gist": "Kalee's brother, who uncovers Azad's alter ego, leading to Azad and Narmada being captured and tortured.",
+  "source_ids": "SOURCE-098"
+ },
+ {
+  "cast_id": "CAST-496",
   "film_id": "FILM-096",
   "actor": "Salman Khan",
   "character": "Avinash \"Tiger\" Singh Rathore",
@@ -4065,7 +5996,7 @@
   "source_ids": "SOURCE-099"
  },
  {
-  "cast_id": "CAST-337",
+  "cast_id": "CAST-497",
   "film_id": "FILM-096",
   "actor": "Katrina Kaif",
   "character": "Zoya Nazar Jung",
@@ -4077,7 +6008,7 @@
   "source_ids": "SOURCE-099"
  },
  {
-  "cast_id": "CAST-338",
+  "cast_id": "CAST-498",
   "film_id": "FILM-096",
   "actor": "Emraan Hashmi",
   "character": "Aatish Rehman",
@@ -4089,7 +6020,7 @@
   "source_ids": "SOURCE-099"
  },
  {
-  "cast_id": "CAST-339",
+  "cast_id": "CAST-499",
   "film_id": "FILM-097",
   "actor": "Vicky Kaushal",
   "character": "Sukhwinder \"Sukhi\" Singh",
@@ -4102,7 +6033,7 @@
   "source_ids": "SOURCE-100"
  },
  {
-  "cast_id": "CAST-340",
+  "cast_id": "CAST-500",
   "film_id": "FILM-097",
   "actor": "Vikram Kochhar",
   "character": "Buggu Lakhanpal",
@@ -4114,7 +6045,7 @@
   "source_ids": "SOURCE-100"
  },
  {
-  "cast_id": "CAST-341",
+  "cast_id": "CAST-501",
   "film_id": "FILM-097",
   "actor": "Anil Grover",
   "character": "Balli Kakkad",
@@ -4126,7 +6057,7 @@
   "source_ids": "SOURCE-100"
  },
  {
-  "cast_id": "CAST-342",
+  "cast_id": "CAST-502",
   "film_id": "FILM-097",
   "actor": "Boman Irani",
   "character": "Geetu Gulati",
@@ -4135,6 +6066,18 @@
   "relationship_to_protagonist": "Runs the English coaching centre",
   "relationship_to_romance": "Not applicable",
   "character_gist": "Teacher of an ineffective IELTS coaching class in Laltu.",
+  "source_ids": "SOURCE-100"
+ },
+ {
+  "cast_id": "CAST-503",
+  "film_id": "FILM-097",
+  "actor": "Deven Bhojani",
+  "character": "Advocate Puru Patel",
+  "cast_function": "Supporting",
+  "importance": "Minor",
+  "relationship_to_protagonist": "Immigration lawyer whose advice Hardy rejects.",
+  "relationship_to_romance": "Advises Manu to enter a sham marriage and later to claim asylum, choices that separate her from Hardy.",
+  "character_gist": "London immigration lawyer who suggests the sham marriage and the false asylum claims. In 2020 he tells Manu her asylum testimony makes returning to India nearly impossible.",
   "source_ids": "SOURCE-100"
  }
 ]
