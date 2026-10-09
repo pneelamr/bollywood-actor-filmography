@@ -762,7 +762,7 @@
     "relationship_health": 6,
     "mutuality": 6,
     "female_agency": 5,
-    "chemistry_explanation": "Interpretive reading; no fetched source evaluates this pairing. Alisha's spirited courtship of Siddharth gives the gritty film its lighter moments, and Mukerji's directness plays well against Khan's swagger.",
+    "chemistry_explanation": "Film Information's 1998 trade review says the romantic track 'may not be novel or fresh but all the same, it does appeal to the viewer, if only for the sincerity and spontaneity of Aamir Khan', though it is forgotten once the drama begins. Interpretive score.",
     "playful_banter": "Unclear",
     "serious_conflict": "Yes",
     "jealousy": "Unclear",
@@ -777,7 +777,7 @@
     "ending": "Unresolved",
     "relationship_analysis": "The romance is structurally tied to the crime plot: Siddhu's love for Alisha is what makes Hari's death a moral catastrophe for him. The breakup is caused by his own complicity rather than family disapproval, placing the pairing unusually high on friction for a secondary romance.",
     "critical_reading": "Framed as the emotional stake in an On the Waterfront-style redemption story. A modern reading notes that the heroine's grief chiefly serves the hero's moral awakening.",
-    "source_ids": "SOURCE-034; SOURCE-065",
+    "source_ids": "SOURCE-034; SOURCE-065; SOURCE-216",
     "confidence": "Low",
     "chemistry": 7
   },
@@ -806,7 +806,7 @@
     "relationship_health": 7,
     "mutuality": 8,
     "female_agency": 5,
-    "chemistry_explanation": "Interpretive reading; no fetched source evaluates this pairing. The shipboard romance is played earnestly, but the melodrama of the second half leaves less room for interaction.",
+    "chemistry_explanation": "Suparn Verma (Rediff, 1999): 'In the emotional scenes Aamir and Manisha make a good team', having established that chemistry in Akele Hum Akele Tum. Raised from an unsourced 6. Interpretive score.",
     "playful_banter": "Unclear",
     "serious_conflict": "Partial",
     "jealousy": "Unclear",
@@ -822,9 +822,9 @@
     "romantic_songs": "Chaaha Hai Tujhko; Nasha Yeh Pyar Ka; Kehna Hai Tumse",
     "relationship_analysis": "Mann is the purest late-1990s lover-boy vehicle: the man is redeemed by love, the couple never truly quarrel, and the obstacles are prior engagements and fate. Priya's concealment is framed as noble sacrifice, which keeps friction low while producing a long separation.",
     "critical_reading": "Framed as a classic weepie in the An Affair to Remember mould. A modern reading questions the premise that a disabled woman must hide herself to avoid being a burden, even though the hero's unconditional acceptance is presented as the resolution.",
-    "source_ids": "SOURCE-037",
+    "source_ids": "SOURCE-037; SOURCE-217",
     "confidence": "Medium",
-    "chemistry": 6
+    "chemistry": 7
   },
   {
     "pairing_id": "PAIR-023",
@@ -851,7 +851,7 @@
     "relationship_health": 1,
     "mutuality": 1,
     "female_agency": 6,
-    "chemistry_explanation": "Interpretive reading; no fetched source evaluates this pairing. Dil Navaz's love is unreturned and Shanta's attention is on Hasan, so the pair share watchful tension rather than romance.",
+    "chemistry_explanation": "Reviews confirm the attraction is one-sided: Nandini Ramnath (Scroll.in) notes Shanta is friendly with Dil Navaz 'but her heart belongs to' Hasan. No review assesses the performers' chemistry. Interpretive score.",
     "playful_banter": "Unclear",
     "serious_conflict": "Yes",
     "jealousy": "Yes",
@@ -867,7 +867,7 @@
     "romantic_songs": null,
     "relationship_analysis": "The most destructive pairing in the filmography and the sharpest inversion of the lover-boy persona. Shanta exercises clear choice, and Dil Navaz converts rejection into violence under cover of communal hatred. Friction and opposition are both extreme, but the decisive act is his, which is why friction is scored as high as the external Partition context.",
     "critical_reading": "Received as a powerful, disturbing Partition film. A modern reading sees an unflinching portrait of male entitlement and of women's bodies becoming targets in communal violence.",
-    "source_ids": "SOURCE-035",
+    "source_ids": "SOURCE-035; SOURCE-218",
     "confidence": "Medium",
     "chemistry": 5
   },
@@ -896,7 +896,7 @@
     "relationship_health": 5,
     "mutuality": 5,
     "female_agency": 7,
-    "chemistry_explanation": "Interpretive reading; no fetched source evaluates this pairing. The romance is overwhelmed by the action plot, and the pairing made little impression.",
+    "chemistry_explanation": "Film Information's 2000 trade review lists 'a weak romantic track' among the film's main negatives. Lowered from an unsourced 4. Interpretive score.",
     "playful_banter": "Yes",
     "serious_conflict": "Yes",
     "jealousy": "Unclear",
@@ -911,9 +911,9 @@
     "ending": "Happy",
     "relationship_analysis": "Mela reverses the usual deception pattern: the heroine manipulates the hero, for a revenge goal the film endorses. Her agency is therefore high, while mutuality and health are moderate until the truth comes out. The villain supplies extreme external danger.",
     "critical_reading": "Framed as masala entertainment. A modern reading finds Roopa's purposeful deception more interesting than the film's reviews allowed, though her revenge still requires male fighters.",
-    "source_ids": "SOURCE-038",
+    "source_ids": "SOURCE-038; SOURCE-219",
     "confidence": "Medium",
-    "chemistry": 4
+    "chemistry": 3
   },
   {
     "pairing_id": "PAIR-025",
@@ -940,7 +940,7 @@
     "relationship_health": 8,
     "mutuality": 7,
     "female_agency": 3,
-    "chemistry_explanation": "Interpretive reading; no fetched source evaluates this pairing. Gauri's teasing devotion and Bhuvan's distracted affection make a warm village romance, though the cricket plot keeps it secondary.",
+    "chemistry_explanation": "Film Information's 2001 trade review says the film lacks 'an appropriate romantic track', and Sita Menon (Rediff) calls Gauri's role 'of strict window dressing value. Good for some romancing and a couple of songs'. Lowered from an unsourced 7. Interpretive score.",
     "playful_banter": "Unclear",
     "serious_conflict": "No",
     "jealousy": "Partial",
@@ -955,9 +955,9 @@
     "ending": "Happy",
     "relationship_analysis": "A secondary, conflict-light village romance whose main narrative use is to motivate Lakha's betrayal. Gauri has little independent agency in the documented plot, which is typical of the film's male-centred epic structure.",
     "critical_reading": "Framed as a traditional romance within a celebrated epic. A modern reading notes that Gauri is defined almost entirely by her love for Bhuvan.",
-    "source_ids": "SOURCE-039",
+    "source_ids": "SOURCE-039; SOURCE-220; SOURCE-221",
     "confidence": "Medium",
-    "chemistry": 7
+    "chemistry": 5
   },
   {
     "pairing_id": "PAIR-026",
@@ -984,7 +984,7 @@
     "relationship_health": 8,
     "mutuality": 1,
     "female_agency": 8,
-    "chemistry_explanation": "Interpretive reading; no fetched source evaluates this pairing. Elizabeth's love is unspoken and Bhuvan does not notice it, so the pairing is gentle but one-sided.",
+    "chemistry_explanation": "Film Information's 2001 trade review says the track of the commander's sister falling for the hero 'has been handled very ably and is very, very appealing'. Raised from an unsourced 5. Interpretive score.",
     "playful_banter": "Unclear",
     "serious_conflict": "No",
     "jealousy": "No",
@@ -999,9 +999,9 @@
     "ending": "Unresolved",
     "relationship_analysis": "A meaningful romantic thread that exists entirely on the woman's side. Elizabeth is the most self-directed woman in Lagaan: she defies her brother and her community to coach the villagers. The pairing shows why mutuality and lover-boy scores must be kept separate from female agency.",
     "critical_reading": "Framed as a poignant cross-cultural subplot. A modern reading sees a sympathetic coloniser figure whose unreturned love flatters the hero while giving her a rare independent moral choice.",
-    "source_ids": "SOURCE-039",
+    "source_ids": "SOURCE-039; SOURCE-220",
     "confidence": "Medium",
-    "chemistry": 5
+    "chemistry": 6
   },
   {
     "pairing_id": "PAIR-028",
@@ -1117,7 +1117,7 @@
     "relationship_health": 8,
     "mutuality": 8,
     "female_agency": 7,
-    "chemistry_explanation": "Interpretive reading; no fetched source evaluates this pairing. The flashback romance is the film's emotional core: Kalpana's playfulness against Sanjay's shy secrecy makes the loss that drives the revenge felt.",
+    "chemistry_explanation": "No named critic in an established outlet assesses the pair; one personal blog found 'no emotions between the two' compared with the Tamil original, while Taran Adarsh praised Asin's performance. Lowered from an unsourced 8. Interpretive score.",
     "playful_banter": "Yes",
     "serious_conflict": "No",
     "jealousy": "No",
@@ -1133,9 +1133,9 @@
     "romantic_songs": "Guzarish; Behka; Kaise Mujhe",
     "relationship_analysis": "Ghajini puts a healthy, generous romance inside a revenge thriller: friction is almost nil, and the tragedy comes entirely from outside. Kalpana is the most active heroine of his action films; her moral courage causes her death. The relationship's goodness is what gives the brutal second half its emotional charge.",
     "critical_reading": "Received as a crowd-pleasing romance-revenge hybrid; some reviewers objected to its violence. A modern reading notes that the heroine's courage is punished to motivate the hero.",
-    "source_ids": "SOURCE-045",
+    "source_ids": "SOURCE-045; SOURCE-222",
     "confidence": "Medium",
-    "chemistry": 8
+    "chemistry": 7
   },
   {
     "pairing_id": "PAIR-031",
@@ -1295,7 +1295,7 @@
     "relationship_health": 6,
     "mutuality": 6,
     "female_agency": 4,
-    "chemistry_explanation": "Interpretive reading; no fetched source evaluates this pairing. Aaliya is a thin role in the heist plot, and the romance has little screen time.",
+    "chemistry_explanation": "Aniruddh Chawda (India Currents): 'Where Dhoom 3 is lacking, is the chemistry between the leads Khan and Kaif.' Lowered from an unsourced 4. Interpretive score.",
     "playful_banter": "Unclear",
     "serious_conflict": "No",
     "jealousy": "No",
@@ -1310,9 +1310,9 @@
     "ending": "Tragic",
     "relationship_analysis": "The romance belongs to Samar, the hidden, vulnerable twin, and becomes the lever the police use to expose the brothers. Opposition is extreme because the love story sits inside a crime plot. Aaliya has little knowledge or choice until the end, though she inherits the circus.",
     "critical_reading": "Framed as the emotional hook of a spectacle film. A modern reading notes the detective's deliberate use of a vulnerable man's romance as bait.",
-    "source_ids": "SOURCE-052",
+    "source_ids": "SOURCE-052; SOURCE-223",
     "confidence": "Medium",
-    "chemistry": 4
+    "chemistry": 3
   },
   {
     "pairing_id": "PAIR-035",
@@ -1339,7 +1339,7 @@
     "relationship_health": 8,
     "mutuality": 2,
     "female_agency": 7,
-    "chemistry_explanation": "Interpretive reading; no fetched source evaluates this pairing. PK's innocent infatuation with Jaggu is played with comic tenderness, and her bond with him as friend gives the unspoken love its pathos.",
+    "chemistry_explanation": "Priyanka Prasad (Filmibeat) describes Sharma's 'friendly chemistry with Aamir', her romance being with Sushant Singh Rajput's character; PK's feelings stay unspoken. Lowered from an unsourced 7. Interpretive score.",
     "playful_banter": "Yes",
     "serious_conflict": "No",
     "jealousy": "No",
@@ -1354,9 +1354,9 @@
     "ending": "Unresolved",
     "relationship_analysis": "The film's one romance belongs to Jaggu and Sarfaraz, whose separation Tapasvi engineers; PK's love is the secret emotional layer. It is a self-effacing, older version of Aamir Khan's romantic devotion: sacrifice without pursuit. Jaggu drives the investigation, giving her strong agency.",
     "critical_reading": "Framed as a bittersweet grace note. A modern reading finds the unrequited love gentle and respectful of the woman's choice, unusual in a genre that often rewards persistence.",
-    "source_ids": "SOURCE-053",
+    "source_ids": "SOURCE-053; SOURCE-224",
     "confidence": "Medium",
-    "chemistry": 7
+    "chemistry": 6
   },
   {
     "pairing_id": "PAIR-036",
@@ -1383,7 +1383,7 @@
     "relationship_health": 5,
     "mutuality": 3,
     "female_agency": 7,
-    "chemistry_explanation": "Interpretive reading; no fetched source evaluates this pairing. Laal's lifelong devotion is sincere, but Rupa's elusiveness keeps the interplay one-sided for much of the film.",
+    "chemistry_explanation": "Manjusha Radhakrishnan (Gulf News): the leads 'have a natural chemistry that makes their odd-ball pair convincing'. Raised from an unsourced 6. Interpretive score.",
     "playful_banter": "Unclear",
     "serious_conflict": "Partial",
     "jealousy": "Unclear",
@@ -1399,9 +1399,9 @@
     "romantic_songs": "Tere Hawaale; Phir Na Aisi Raat Aayegi; Main Ki Karaan",
     "relationship_analysis": "A late-career variation on the devoted lover: no courtship, only constancy across decades. The friction comes from the woman's choices rather than conflict, and her agency is high but self-destructive. It pairs the highest lover-boy score of his later films with low mutuality.",
     "critical_reading": "Framed, as in Forrest Gump, as a tale of pure love. A modern reading questions a narrative that frames the ambitious woman as lost until she returns home.",
-    "source_ids": "SOURCE-059",
+    "source_ids": "SOURCE-059; SOURCE-225",
     "confidence": "Medium",
-    "chemistry": 6
+    "chemistry": 7
   },
   {
     "pairing_id": "PAIR-037",

@@ -453,7 +453,7 @@
   "verdict": "Under-performed",
   "source_ids": "SOURCE-001; SOURCE-016",
   "confidence": "Low",
-  "research_notes": "No Romances row: the plot summary is two sentences and stops at the premise, too thin to score the pairing. The filmography gives the character as Rahul Malhotra; the cast list's Rahul Singh matches his father's surname. Infobox gross of ₹9.99 crore has no nett/gross label and is not entered.",
+  "research_notes": "Romances row added from Box Office India and Moviebuff synopses and a fan-blog account; most relationship scores stay blank because no reliable source goes past the premise. The filmography gives the character as Rahul Malhotra; the cast list's Rahul Singh matches his father's surname. Infobox gross of ₹9.99 crore has no nett/gross label and is not entered.",
   "secondary_genre": "Romance"
  },
  {
@@ -1767,7 +1767,7 @@
   "recognition": "Largely shot in 1994 and abandoned; completed in 2004 using body doubles.",
   "source_ids": "SOURCE-001; SOURCE-051",
   "confidence": "Low",
-  "research_notes": "No Romances row and no centrality score: the Wikipedia plot summary is written in a mocking, unreliable tone and mixes 1994 footage with body-double scenes, so the pairing cannot be scored honestly. The filmography spells the character Dushant; the cast list gives Dushyant Kumar."
+  "research_notes": "The Wikipedia plot summary is written in a mocking, unreliable tone, so the Romances row rests on the 2004 reviews by Taran Adarsh (Bollywood Hungama) and IANS instead. The filmography spells the character Dushant; the cast list gives Dushyant Kumar."
  },
  {
   "film_id": "FILM-049",
