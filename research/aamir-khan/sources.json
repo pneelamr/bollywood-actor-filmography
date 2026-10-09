@@ -2680,5 +2680,18 @@
     "pairing_ids": null,
     "claims": "Career background, major works and awards of Zee Studios.",
     "notes": "Collaborator article; downloaded as raw wikitext."
+  },
+  {
+    "source_id": "SOURCE-215",
+    "title": "Indian Film Festival of Melbourne",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Indian_Film_Festival_of_Melbourne",
+    "access_date": "2026-10-09",
+    "source_type": "Reference encyclopedia",
+    "reliability": "C",
+    "film_ids": "FILM-047",
+    "pairing_ids": null,
+    "claims": "PK won the Telstra People's Choice Award at the 2015 festival.",
+    "notes": "Award ceremony article; downloaded as raw wikitext."
   }
 ]

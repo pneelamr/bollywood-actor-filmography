@@ -4457,5 +4457,31 @@
   "pairing_ids": null,
   "claims": "Career background of Sajid Khan, drawn from the article on Sajid Khan (director).",
   "notes": "Collaborator article; downloaded as raw wikitext."
+ },
+ {
+  "source_id": "SOURCE-343",
+  "title": "40th National Film Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/40th_National_Film_Awards",
+  "access_date": "2026-10-09",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-006",
+  "pairing_ids": null,
+  "claims": "Maya Memsaab's Special Jury Award to director Ketan Mehta; announced 23 April 1993 and presented 4 May 1993.",
+  "notes": "Award ceremony article; downloaded as raw wikitext."
+ },
+ {
+  "source_id": "SOURCE-344",
+  "title": "52nd National Film Awards",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/52nd_National_Film_Awards",
+  "access_date": "2026-10-09",
+  "source_type": "Reference encyclopedia",
+  "reliability": "C",
+  "film_ids": "FILM-051",
+  "pairing_ids": null,
+  "claims": "Swades's Best Cinematography (Mahesh Aney) and Best Male Playback Singer (Udit Narayan, \"Yeh Taara Woh Taara\") awards; presented 21 October 2005.",
+  "notes": "Award ceremony article; downloaded as raw wikitext."
  }
 ]

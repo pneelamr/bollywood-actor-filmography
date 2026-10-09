@@ -32,7 +32,8 @@
   "recognition": "Shah Rukh Khan's feature-film debut, which won him the Filmfare Best Male Debut award. Regarded as one of the earliest Hindi films about the stigma of widow remarriage; Nadeem–Shravan's soundtrack was a multi-platinum success.",
   "source_ids": "SOURCE-001; SOURCE-004",
   "confidence": "Medium",
-  "research_notes": "Infobox gross of ₹18 crore has no nett/gross label and is not entered. No budget or verdict found."
+  "research_notes": "Infobox gross of ₹18 crore has no nett/gross label and is not entered. No budget or verdict found.",
+  "secondary_genre": "Melodrama"
  },
  {
   "film_id": "FILM-002",
@@ -170,7 +171,8 @@
   "recognition": "Has gained cult status and is well received by families and children.",
   "source_ids": "SOURCE-001; SOURCE-008",
   "confidence": "Medium",
-  "research_notes": "The synopsis covers Anil only briefly. No box-office figures found."
+  "research_notes": "The synopsis covers Anil only briefly. No box-office figures found.",
+  "secondary_genre": "Family drama"
  },
  {
   "film_id": "FILM-006",
@@ -202,7 +204,8 @@
   "recognition": "Won the National Film Award – Special Mention (Feature Film). Rights are now owned by Khan's Red Chillies Entertainment.",
   "source_ids": "SOURCE-001; SOURCE-009",
   "confidence": "Medium",
-  "research_notes": "Infobox gross of ₹1.85 crore is marked as an estimate without a nett/gross label and is not entered. No reception section on the page."
+  "research_notes": "Infobox gross of ₹1.85 crore is marked as an estimate without a nett/gross label and is not entered. No reception section on the page.",
+  "secondary_genre": "Art-house"
  },
  {
   "film_id": "FILM-007",
@@ -308,7 +311,8 @@
   "recognition": "Won the National Film Award for Best Popular Film Providing Wholesome Entertainment; Khan was nominated for Filmfare Best Villain. His stammered 'I love you, K-k-k-Kiran' remains iconic, and the film was a career milestone for Deol, Chawla and Khan.",
   "source_ids": "SOURCE-001; SOURCE-012",
   "confidence": "Medium",
-  "research_notes": "The lead calls Darr the highest-grossing Indian film of 1993; the box-office section ranks it third domestically (after Aankhen and Khalnayak) and first overseas. Overseas gross reported as US$500,000 (₹5.58 crore). Budget not confirmed in the fetched text."
+  "research_notes": "The lead calls Darr the highest-grossing Indian film of 1993; the box-office section ranks it third domestically (after Aankhen and Khalnayak) and first overseas. Overseas gross reported as US$500,000 (₹5.58 crore). Budget not confirmed in the fetched text.",
+  "secondary_genre": "Romance"
  },
  {
   "film_id": "FILM-010",
@@ -342,7 +346,8 @@
   "recognition": "Won the Filmfare Awards for Best Film (Critics) and Best Actor (Critics) for Khan. Premiered in the Indian Panorama of the 24th International Film Festival of India; remade in Telugu as Swapnalokam (1999).",
   "source_ids": "SOURCE-001; SOURCE-013",
   "confidence": "Medium",
-  "research_notes": "Screened at IFFI in January 1993 (Wikipedia calls it a 1993 film); theatrical release 25 February 1994. Budget ₹14 million; the gross of ₹55 million has no nett/gross label and is not entered."
+  "research_notes": "Screened at IFFI in January 1993 (Wikipedia calls it a 1993 film); theatrical release 25 February 1994. Budget ₹14 million; the gross of ₹55 million has no nett/gross label and is not entered.",
+  "secondary_genre": "Romance"
  },
  {
   "film_id": "FILM-011",
@@ -377,7 +382,8 @@
   "recognition": "Won Khan the Filmfare Best Villain award; Madhuri Dixit was nominated for Best Actress. First pairing of Dixit and Khan; rights now owned by Red Chillies Entertainment.",
   "source_ids": "SOURCE-001; SOURCE-014",
   "confidence": "Medium",
-  "research_notes": "Budget from the infobox. Estimated gross of ₹9.66 crore has no nett/gross label and is not entered. The page has no box-office or reception section."
+  "research_notes": "Budget from the infobox. Estimated gross of ₹9.66 crore has no nett/gross label and is not entered. The page has no box-office or reception section.",
+  "secondary_genre": "Revenge drama"
  },
  {
   "film_id": "FILM-012",
@@ -416,7 +422,8 @@
   "recognition": "Sixth highest-grossing film of the 1990s. Ten Filmfare nominations and two wins (Best Editing, Best Action). Re-released worldwide on 22 November 2024.",
   "source_ids": "SOURCE-001; SOURCE-015",
   "confidence": "Medium",
-  "research_notes": "Worldwide gross ₹450 million; overseas US$500,000 (₹15.8 million). Budget from the infobox."
+  "research_notes": "Worldwide gross ₹450 million; overseas US$500,000 (₹15.8 million). Budget from the infobox.",
+  "secondary_genre": "Revenge drama"
  },
  {
   "film_id": "FILM-013",
@@ -446,7 +453,8 @@
   "verdict": "Under-performed",
   "source_ids": "SOURCE-001; SOURCE-016",
   "confidence": "Low",
-  "research_notes": "No Romances row: the plot summary is two sentences and stops at the premise, too thin to score the pairing. The filmography gives the character as Rahul Malhotra; the cast list's Rahul Singh matches his father's surname. Infobox gross of ₹9.99 crore has no nett/gross label and is not entered."
+  "research_notes": "No Romances row: the plot summary is two sentences and stops at the premise, too thin to score the pairing. The filmography gives the character as Rahul Malhotra; the cast list's Rahul Singh matches his father's surname. Infobox gross of ₹9.99 crore has no nett/gross label and is not entered.",
+  "secondary_genre": "Romance"
  },
  {
   "film_id": "FILM-014",
@@ -477,7 +485,8 @@
   "currency": "INR crore",
   "source_ids": "SOURCE-001; SOURCE-017",
   "confidence": "Medium",
-  "research_notes": "Budget from the infobox. Gross of ₹4.48 crore has no nett/gross label and is not entered. No verdict or reception section."
+  "research_notes": "Budget from the infobox. Gross of ₹4.48 crore has no nett/gross label and is not entered. No verdict or reception section.",
+  "secondary_genre": "Melodrama"
  },
  {
   "film_id": "FILM-015",
@@ -548,7 +557,8 @@
   "recognition": "Won ten Filmfare Awards, then a record, including Best Film, Best Director, Best Actor for Khan and Best Actress for Kajol, and the National Film Award for Best Popular Film Providing Wholesome Entertainment. Showing at Mumbai's Maratha Mandir since 1995, the longest run in Indian cinema. Listed in 1001 Movies You Must See Before You Die and twelfth on the BFI's list of top Indian films.",
   "source_ids": "SOURCE-001; SOURCE-019",
   "confidence": "Medium",
-  "research_notes": "The lead gives an estimated total gross of ₹102.5 crore (₹89 crore India, ₹13.5 crore overseas), which is entered. The box-office section instead cites an initial run of ₹1.13 billion in India and about ₹200 million overseas, and ₹2 billion worldwide as of 1996. Domestic nett is that section's 'domestic net income (₹533 million at the time)'."
+  "research_notes": "The lead gives an estimated total gross of ₹102.5 crore (₹89 crore India, ₹13.5 crore overseas), which is entered. The box-office section instead cites an initial run of ₹1.13 billion in India and about ₹200 million overseas, and ₹2 billion worldwide as of 1996. Domestic nett is that section's 'domestic net income (₹533 million at the time)'.",
+  "secondary_genre": "Family drama"
  },
  {
   "film_id": "FILM-017",
@@ -588,7 +598,8 @@
   "recognition": "Khan's fourth negative role after Baazigar, Darr and Anjaam; rights later bought by Red Chillies Entertainment.",
   "source_ids": "SOURCE-001; SOURCE-020",
   "confidence": "Medium",
-  "research_notes": "Box Office India figures via Wikipedia: India nett ₹8.60 crore, distributor share ₹4.60 crore, India gross ₹14.50 crore, overseas US$200,000 (₹69.50 lakh), worldwide ₹15.19 crore."
+  "research_notes": "Box Office India figures via Wikipedia: India nett ₹8.60 crore, distributor share ₹4.60 crore, India gross ₹14.50 crore, overseas US$200,000 (₹69.50 lakh), worldwide ₹15.19 crore.",
+  "secondary_genre": "Crime drama"
  },
  {
   "film_id": "FILM-018",
@@ -628,7 +639,8 @@
   "recognition": "Mukta Arts' first production and Mukul S. Anand's last completed film. Record opening weekend of about ₹3.07 crore nett and the first ₹1 crore nett opening day.",
   "source_ids": "SOURCE-001; SOURCE-021",
   "confidence": "Medium",
-  "research_notes": "India Today reported that territories sold at ₹2 crore each and that the film 'disappeared by day three, incurring losses of over Rs 6 crore'. Overseas US$375,000 (₹1.32 crore)."
+  "research_notes": "India Today reported that territories sold at ₹2 crore each and that the film 'disappeared by day three, incurring losses of over Rs 6 crore'. Overseas US$375,000 (₹1.32 crore).",
+  "secondary_genre": "Revenge drama"
  },
  {
   "film_id": "FILM-019",
@@ -669,7 +681,8 @@
   "recognition": "Rights now owned by Red Chillies Entertainment.",
   "source_ids": "SOURCE-001; SOURCE-022",
   "confidence": "Low",
-  "research_notes": "Box Office India figures via Wikipedia: India nett ₹3.78 crore, gross ₹6.40 crore, overseas US$135,000 (₹49.61 lakh), worldwide ₹6.89 crore, verdict Flop. The same section also calls it the third highest-grossing film of 1996 worldwide, and its collection table gives an implausible total gross of ₹84.2 crore; both contradict the verdict and are not used."
+  "research_notes": "Box Office India figures via Wikipedia: India nett ₹3.78 crore, gross ₹6.40 crore, overseas US$135,000 (₹49.61 lakh), worldwide ₹6.89 crore, verdict Flop. The same section also calls it the third highest-grossing film of 1996 worldwide, and its collection table gives an implausible total gross of ₹84.2 crore; both contradict the verdict and are not used.",
+  "secondary_genre": "Family drama"
  },
  {
   "film_id": "FILM-020",
@@ -744,7 +757,8 @@
   "annual_rank": "19 (India, 1996)",
   "source_ids": "SOURCE-001; SOURCE-024",
   "confidence": "Low",
-  "research_notes": "Infobox gross of ₹17.3 crore has no nett/gross label and does not fit the box-office section's ₹6.58 crore nett; not entered. Overseas US$85,000 (₹29.96 lakh). The plot summary's opening sentence is garbled."
+  "research_notes": "Infobox gross of ₹17.3 crore has no nett/gross label and does not fit the box-office section's ₹6.58 crore nett; not entered. Overseas US$85,000 (₹29.96 lakh). The plot summary's opening sentence is garbled.",
+  "secondary_genre": "Revenge drama"
  },
  {
   "film_id": "FILM-022",
@@ -834,7 +848,8 @@
   "recognition": "Record opening weekend of ₹3.10 crore nett. Amrish Puri was nominated for the Filmfare Best Villain award.",
   "source_ids": "SOURCE-001; SOURCE-027",
   "confidence": "Medium",
-  "research_notes": "The box-office section's 'record opening of ₹15 crore nett' contradicts its own ₹1.06 crore opening-day figure and is not used. Overseas US$600,000 (₹2.14 crore)."
+  "research_notes": "The box-office section's 'record opening of ₹15 crore nett' contradicts its own ₹1.06 crore opening-day figure and is not used. Overseas US$600,000 (₹2.14 crore).",
+  "secondary_genre": "Romance"
  },
  {
   "film_id": "FILM-025",
@@ -918,7 +933,8 @@
   "recognition": "Twelve Filmfare nominations and three wins: Best Female Debut (Chaudhry), Best Female Playback Singer (Alka Yagnik, 'Meri Mehbooba') and Best Screenplay (Ghai). Released on the eve of the 50th anniversary of Indian independence; remade in Telugu as Pelli Kanuka (1998).",
   "source_ids": "SOURCE-001; SOURCE-029",
   "confidence": "Medium",
-  "research_notes": "The box-office text gives India nett ₹22.83 crore and worldwide ₹40.95 crore, which are entered; its collection table gives nett ₹31.83 crore and worldwide ₹49.95 crore. Overseas US$1.7 million (₹6.12 crore)."
+  "research_notes": "The box-office text gives India nett ₹22.83 crore and worldwide ₹40.95 crore, which are entered; its collection table gives nett ₹31.83 crore and worldwide ₹49.95 crore. Overseas US$1.7 million (₹6.12 crore).",
+  "secondary_genre": "Diaspora drama"
  },
  {
   "film_id": "FILM-027",
@@ -1060,7 +1076,8 @@
   "recognition": "Netpac Award at the 49th Berlinale; National Film Awards for Best Cinematography and Best Audiography; six Filmfare Awards, including Best Music Director (A. R. Rahman) and Best Female Debut (Preity Zinta). First Indian film in the UK box-office top 10; soundtrack sold six million units in India; in Time's 'Best of Bollywood' list (2010). Final film of Ratnam's trilogy with Roja and Bombay.",
   "source_ids": "SOURCE-001; SOURCE-033",
   "confidence": "Medium",
-  "research_notes": "Overseas: US$975,000 in the United States and £537,930 in the United Kingdom. Infobox gross of ₹28.40 crore has no nett/gross label and is not entered. The filmography marks it as Khan's 25th film. No Romances row for Preeti Nair: the summary records only an arranged engagement and one outing."
+  "research_notes": "Overseas: US$975,000 in the United States and £537,930 in the United Kingdom. Infobox gross of ₹28.40 crore has no nett/gross label and is not entered. The filmography marks it as Khan's 25th film. No Romances row for Preeti Nair: the summary records only an arranged engagement and one outing.",
+  "secondary_genre": "Political drama"
  },
  {
   "film_id": "FILM-031",
@@ -1102,7 +1119,8 @@
   "recognition": "National Film Award for Best Popular Film Providing Wholesome Entertainment. Eight Filmfare Awards, including Best Film, Best Director and all four acting awards (Best Actor for Khan). Highest-grossing Hindi film ever overseas until Kabhi Khushi Kabhie Gham; its soundtrack was the year's best-selling Bollywood album.",
   "source_ids": "SOURCE-001; SOURCE-034",
   "confidence": "Medium",
-  "research_notes": "Box Office India figures via Wikipedia: India gross ₹80.12 crore, nett ₹46.86 crore, distributor share ₹29.88 crore; overseas US$6.3 million (₹26.61 crore); worldwide approximately ₹106.7 crore."
+  "research_notes": "Box Office India figures via Wikipedia: India gross ₹80.12 crore, nett ₹46.86 crore, distributor share ₹29.88 crore; overseas US$6.3 million (₹26.61 crore); worldwide approximately ₹106.7 crore.",
+  "secondary_genre": "Musical"
  },
  {
   "film_id": "FILM-032",
@@ -1146,7 +1164,8 @@
   "recognition": "Khan was nominated for the Filmfare Best Comedian award and Amrish Puri for Best Villain.",
   "source_ids": "SOURCE-001; SOURCE-035",
   "confidence": "Medium",
-  "research_notes": "Box Office India figures via Wikipedia; overseas US$1.5 million (₹6.52 crore). The filmography lists the film under 1998 and 1999; release was 27 August 1999."
+  "research_notes": "Box Office India figures via Wikipedia; overseas US$1.5 million (₹6.52 crore). The filmography lists the film under 1998 and 1999; release was 27 August 1999.",
+  "secondary_genre": "Spy comedy"
  },
  {
   "film_id": "FILM-033",
@@ -1185,7 +1204,8 @@
   "recognition": "First production of Dreamz Unlimited, the company of Khan, Chawla and Mirza; Khan later called it 'the biggest failure' for the three of them. IIFA Award for Best Special Effects.",
   "source_ids": "SOURCE-001; SOURCE-036",
   "confidence": "Medium",
-  "research_notes": "Box Office India figures via Wikipedia; overseas US$1.67 million (₹7.26 crore). Khan is also a producer."
+  "research_notes": "Box Office India figures via Wikipedia; overseas US$1.67 million (₹7.26 crore). Khan is also a producer.",
+  "secondary_genre": "Romantic comedy"
  },
  {
   "film_id": "FILM-034",
@@ -1224,7 +1244,8 @@
   "recognition": "India's submission for the Academy Award for Best Foreign Language Film (not nominated). Three National Film Awards, including Best Supporting Actor for Atul Kulkarni. Screened at Toronto and Locarno. Khan's Tamil-language debut; his Dreamz Unlimited distributed the Hindi version.",
   "source_ids": "SOURCE-001; SOURCE-037",
   "confidence": "Medium",
-  "research_notes": "Commercial figures are for the Hindi version: India gross ₹8.91 crore, nett ₹5.32 crore, overseas US$550,000. Infobox budget ₹11 crore; infobox gross of ₹11.3 crore is unlabelled and not entered. Runtime 207 minutes in Hindi, 210 in Tamil. Amjad's wife Nafisa appears only briefly, so no Romances row."
+  "research_notes": "Commercial figures are for the Hindi version: India gross ₹8.91 crore, nett ₹5.32 crore, overseas US$550,000. Infobox budget ₹11 crore; infobox gross of ₹11.3 crore is unlabelled and not entered. Runtime 207 minutes in Hindi, 210 in Tamil. Amjad's wife Nafisa appears only briefly, so no Romances row.",
+  "secondary_genre": "Political drama"
  },
  {
   "film_id": "FILM-035",
@@ -1266,7 +1287,8 @@
   "recognition": "Five Filmfare nominations, including Best Film and Best Director; IIFA Award for Best Art Direction.",
   "source_ids": "SOURCE-001; SOURCE-038",
   "confidence": "Medium",
-  "research_notes": "No Romances row: Max's love interest Rosanne (Priya Gill, special appearance) does not appear in the plot summary. Overseas US$1.127 million (₹5.01 crore). No runtime in the infobox."
+  "research_notes": "No Romances row: Max's love interest Rosanne (Priya Gill, special appearance) does not appear in the plot summary. Overseas US$1.127 million (₹5.01 crore). No runtime in the infobox.",
+  "secondary_genre": "Crime drama"
  },
  {
   "film_id": "FILM-036",
@@ -1331,7 +1353,8 @@
   "recognition": "Four Filmfare Awards, including Best Supporting Actor for Amitabh Bachchan and Best Actor (Critics) for Khan.",
   "source_ids": "SOURCE-001; SOURCE-040",
   "confidence": "Medium",
-  "research_notes": "Box Office India estimated a total gross of ₹900.1 million; the film collected ₹706.2 million in India and US$4.2 million overseas (India figure not labelled nett or gross, so not entered). Budget given as a range in the infobox."
+  "research_notes": "Box Office India estimated a total gross of ₹900.1 million; the film collected ₹706.2 million in India and US$4.2 million overseas (India figure not labelled nett or gross, so not entered). Budget given as a range in the infobox.",
+  "secondary_genre": "Coming-of-age"
  },
  {
   "film_id": "FILM-038",
@@ -1393,7 +1416,8 @@
   "recognition": "Rights now owned by Red Chillies Entertainment.",
   "source_ids": "SOURCE-001; SOURCE-042",
   "confidence": "Medium",
-  "research_notes": "Box Office India figures via Wikipedia; overseas US$565,000 (₹2.62 crore)."
+  "research_notes": "Box Office India figures via Wikipedia; overseas US$565,000 (₹2.62 crore).",
+  "secondary_genre": "Comedy"
  },
  {
   "film_id": "FILM-040",
@@ -1434,7 +1458,8 @@
   "recognition": "Filmfare and IIFA awards for Best Cinematography (Santosh Sivan); Filmfare nominations for Best Film, Best Director and Best Actress (Kareena Kapoor). Released in India as Ashoka: The Great and widely screened abroad.",
   "source_ids": "SOURCE-001; SOURCE-043",
   "confidence": "Medium",
-  "research_notes": "India nett ₹11.54 crore; overseas US$1.8 million (₹8.64 crore). Infobox estimated gross of ₹28 crore is unlabelled and not entered. No verdict found. Khan is also a producer."
+  "research_notes": "India nett ₹11.54 crore; overseas US$1.8 million (₹8.64 crore). Infobox estimated gross of ₹28 crore is unlabelled and not entered. No verdict found. Khan is also a producer.",
+  "secondary_genre": "War"
  },
  {
   "film_id": "FILM-041",
@@ -1473,7 +1498,8 @@
   "recognition": "Led the 47th Filmfare nominations with 16 and won five. The highest-grossing Indian film overseas at the time; regarded as a landmark family drama.",
   "source_ids": "SOURCE-001; SOURCE-044",
   "confidence": "Medium",
-  "research_notes": "Domestic nett ₹550 million; overseas US$8.9 million; worldwide approximately ₹1.36 billion. No Romances row for Naina Kapoor (Rani Mukerji, extended guest appearance): the summary says only that she quietly loves Rahul and steps aside."
+  "research_notes": "Domestic nett ₹550 million; overseas US$8.9 million; worldwide approximately ₹1.36 billion. No Romances row for Naina Kapoor (Rani Mukerji, extended guest appearance): the summary says only that she quietly loves Rahul and steps aside.",
+  "secondary_genre": "Melodrama"
  },
  {
   "film_id": "FILM-042",
@@ -1553,7 +1579,8 @@
   "recognition": "India's submission for the Academy Award for Best International Feature Film. One of the few films to win all four top Filmfare awards (Best Film, Director, Actor and Actress). Premiered at the Cannes Film Festival; sets built for ₹200 million.",
   "source_ids": "SOURCE-001; SOURCE-046; SOURCE-034",
   "confidence": "Medium",
-  "research_notes": "India collections of ₹681.9 million and overseas ₹316.9 million are not labelled nett or gross. Box Office India estimated the Hindi version's total at ₹998.8 million; Wikipedia gives approximately ₹1.68 billion worldwide as of 2003, including a Chinese-language release; hence the range. Premiered at Cannes on 23 May 2002; Indian release 12 July 2002. The four-top-awards claim comes from the Kuch Kuch Hota Hai article."
+  "research_notes": "India collections of ₹681.9 million and overseas ₹316.9 million are not labelled nett or gross. Box Office India estimated the Hindi version's total at ₹998.8 million; Wikipedia gives approximately ₹1.68 billion worldwide as of 2003, including a Chinese-language release; hence the range. Premiered at Cannes on 23 May 2002; Indian release 12 July 2002. The four-top-awards claim comes from the Kuch Kuch Hota Hai article.",
+  "secondary_genre": "Tragedy"
  },
  {
   "film_id": "FILM-044",
@@ -1708,7 +1735,8 @@
   "recognition": "National Film Awards for Best Music Direction (Shankar–Ehsaan–Loy) and Best Male Playback Singer (Sonu Nigam). Eight Filmfare Awards, including Best Actress (Zinta), Best Supporting Actor (Saif Ali Khan) and Best Supporting Actress (Jaya Bachchan); 13 IIFA Awards.",
   "source_ids": "SOURCE-001; SOURCE-050",
   "confidence": "Medium",
-  "research_notes": "Worldwide gross ₹860.9 million from the lead. India earnings of ₹581.8 million are not labelled nett or gross. Filming paused for about six months because of Khan's illness."
+  "research_notes": "Worldwide gross ₹860.9 million from the lead. India earnings of ₹581.8 million are not labelled nett or gross. Filming paused for about six months because of Khan's illness.",
+  "secondary_genre": "Melodrama"
  },
  {
   "film_id": "FILM-048",
@@ -1777,7 +1805,8 @@
   "recognition": "First production of Red Chillies Entertainment; noted for a neutral perspective on the India–Pakistan conflict. Twelve Filmfare nominations, including Best Actor for Khan, with a win for Best Music Director (Anu Malik).",
   "source_ids": "SOURCE-001; SOURCE-052",
   "confidence": "Medium",
-  "research_notes": "The lead gives ₹84 crore worldwide and the infobox ₹89.7 crore; the box-office section gives ₹480 million in India and ₹19 million overseas without nett/gross labels."
+  "research_notes": "The lead gives ₹84 crore worldwide and the infobox ₹89.7 crore; the box-office section gives ₹480 million in India and ₹19 million overseas without nett/gross labels.",
+  "secondary_genre": "Action comedy"
  },
  {
   "film_id": "FILM-050",
@@ -1817,7 +1846,8 @@
   "recognition": "Its soundtrack, built on old Madan Mohan compositions, was the year's best-selling album in India.",
   "source_ids": "SOURCE-001; SOURCE-053",
   "confidence": "Medium",
-  "research_notes": "First-run worldwide earnings of over ₹97 crore (lead) and ₹107 crore including re-releases (infobox). India collections of ₹580 million and overseas ₹357 million are not labelled nett or gross."
+  "research_notes": "First-run worldwide earnings of over ₹97 crore (lead) and ₹107 crore including re-releases (infobox). India collections of ₹580 million and overseas ₹357 million are not labelled nett or gross.",
+  "secondary_genre": "Courtroom drama"
  },
  {
   "film_id": "FILM-051",
@@ -1857,7 +1887,8 @@
   "critical_reception": "Universal critical acclaim; Khan's performance is considered one of his best, and Subhash K. Jha gave it 4.5/5.",
   "recognition": "Filmfare awards for Best Actor (Khan) and Best Background Score (A. R. Rahman); National Film Awards for Best Male Playback Singer (Udit Narayan) and Best Cinematography (Mahesh Aney). Regarded as a cult classic ahead of its time; Mohan Bhargav reappears in Brahmāstra: Part One – Shiva.",
   "source_ids": "SOURCE-001; SOURCE-054",
-  "confidence": "Medium"
+  "confidence": "Medium",
+  "secondary_genre": "Social drama"
  },
  {
   "film_id": "FILM-052",
@@ -1970,7 +2001,8 @@
   "recognition": "India's official submission for the 79th Academy Awards. National Film Award for Best Female Playback Singer (Shreya Ghoshal, 'Dheere Jalna'). Opened the 9th Zimbabwe International Film Festival and screened at Sundance and Palm Springs.",
   "source_ids": "SOURCE-001; SOURCE-058",
   "confidence": "Medium",
-  "research_notes": "India nett ₹187.5 million; overseas US$3.63 million. Infobox gross of ₹320 million is unlabelled and not entered. The cast list names the ghost Mufasaka."
+  "research_notes": "India nett ₹187.5 million; overseas US$3.63 million. Infobox gross of ₹320 million is unlabelled and not entered. The cast list names the ghost Mufasaka.",
+  "secondary_genre": "Romance"
  },
  {
   "film_id": "FILM-056",
@@ -2032,7 +2064,8 @@
   "recognition": "Led the 52nd Filmfare Awards with 23 nominations, winning Best Supporting Actor for Abhishek Bachchan. The top-grossing Indian film of the decade overseas; retrospectively described as a cult classic ahead of its time.",
   "source_ids": "SOURCE-001; SOURCE-060",
   "confidence": "Medium",
-  "research_notes": "Worldwide gross ₹113 crore; overseas US$10.56 million; first-week India gross approximately ₹27.85 crore. No verdict label found."
+  "research_notes": "Worldwide gross ₹113 crore; overseas US$10.56 million; first-week India gross approximately ₹27.85 crore. No verdict label found.",
+  "secondary_genre": "Marital drama"
  },
  {
   "film_id": "FILM-058",
@@ -2073,7 +2106,8 @@
   "recognition": "Filmfare nominations including Best Film and Best Actor for Khan; Asian Film Award nomination for Best Actor.",
   "source_ids": "SOURCE-001; SOURCE-061",
   "confidence": "Medium",
-  "research_notes": "India gross over ₹710 million; overseas over US$7.8 million; worldwide over ₹1.06 billion (infobox ₹106.34 crore)."
+  "research_notes": "India gross over ₹710 million; overseas over US$7.8 million; worldwide over ₹1.06 billion (infobox ₹106.34 crore).",
+  "secondary_genre": "Crime"
  },
  {
   "film_id": "FILM-059",
@@ -2137,7 +2171,8 @@
   "recognition": "National Film Award for Best Popular Film Providing Wholesome Entertainment; five Filmfare Awards including Best Actor (Khan) and Critics Best Film; nine IIFA Awards. The players, dubbed the 'Chak De! Girls', shared the Screen Award for Best Supporting Actress. Named one of India's best films of the 21st century by The Hollywood Reporter India (2025).",
   "source_ids": "SOURCE-001; SOURCE-063",
   "confidence": "Medium",
-  "research_notes": "Worldwide ₹102 crore: India gross ₹85.86 crore (nett ₹66.54 crore) and overseas US$3.94 million (₹15.76 crore). Bindiya's attempt to seduce Kabir is rejected, so no Romances row."
+  "research_notes": "Worldwide ₹102 crore: India gross ₹85.86 crore (nett ₹66.54 crore) and overseas US$3.94 million (₹15.76 crore). Bindiya's attempt to seduce Kabir is rejected, so no Romances row.",
+  "secondary_genre": "Social drama"
  },
  {
   "film_id": "FILM-061",
@@ -2203,7 +2238,8 @@
   "recognition": "Deepika Padukone's Hindi film debut. Asian Film Award for Best Composer (Vishal–Shekhar).",
   "source_ids": "SOURCE-001; SOURCE-065",
   "confidence": "Medium",
-  "research_notes": "India nett ₹794 million after entertainment tax; overseas US$10.15 million; worldwide ₹150 crore (infobox ₹152 crore). No verdict label found. No Romances row for Om Kapoor and Sandy: their bond is limited to the revenge plan and a closing reunion."
+  "research_notes": "India nett ₹794 million after entertainment tax; overseas US$10.15 million; worldwide ₹150 crore (infobox ₹152 crore). No verdict label found. No Romances row for Om Kapoor and Sandy: their bond is limited to the revenge plan and a closing reunion.",
+  "secondary_genre": "Fantasy"
  },
  {
   "film_id": "FILM-063",
@@ -2350,7 +2386,8 @@
   "recognition": "Ten Filmfare nominations, including Best Actor, with wins for Best Male Playback Singer (Sukhwinder Singh, 'Haule Haule') and Best Scene of the Year. Its script was invited into the Margaret Herrick Library of the Academy of Motion Picture Arts and Sciences. Anushka Sharma's debut; noted as Khan's 50th film.",
   "source_ids": "SOURCE-001; SOURCE-070",
   "confidence": "Medium",
-  "research_notes": "Worldwide gross ₹1,578.9 million; overseas US$8.43 million. Released with limited promotion after the 2008 Mumbai attacks."
+  "research_notes": "Worldwide gross ₹1,578.9 million; overseas US$8.43 million. Released with limited promotion after the 2008 Mumbai attacks.",
+  "secondary_genre": "Marital drama"
  },
  {
   "film_id": "FILM-068",
@@ -2481,7 +2518,8 @@
   "recognition": "Released worldwide by 20th Century Fox; often called Johar's magnum opus. Khan was honoured at the San Francisco Film Festival in 2017 for the role.",
   "source_ids": "SOURCE-001; SOURCE-074",
   "confidence": "Medium",
-  "research_notes": "India nett ₹82.52 crore and gross ₹1.15 billion; overseas US$23.5 million (₹108.83 crore); worldwide ₹223.44 crore. Premiered in the UAE on 10 February 2010; worldwide release 12 February."
+  "research_notes": "India nett ₹82.52 crore and gross ₹1.15 billion; overseas US$23.5 million (₹108.83 crore); worldwide ₹223.44 crore. Premiered in the UAE on 10 February 2010; worldwide release 12 February.",
+  "secondary_genre": "Social drama"
  },
  {
   "film_id": "FILM-072",
@@ -2591,7 +2629,8 @@
   "recognition": "National Film Award and Filmfare Award for Best Special Effects; four IIFA Awards. The most expensive Indian film at the time of release.",
   "source_ids": "SOURCE-001; SOURCE-078",
   "confidence": "Medium",
-  "research_notes": "Budget ₹150 crore including a ₹52 crore marketing spend. India gross ₹1.14 billion (distributor share ₹636.1 million); overseas US$10.95 million; worldwide ₹2.081 billion. Tamil and Telugu versions earned about ₹50 million nett. International premieres began 24 October 2011; India release 26 October. No verdict label found."
+  "research_notes": "Budget ₹150 crore including a ₹52 crore marketing spend. India gross ₹1.14 billion (distributor share ₹636.1 million); overseas US$10.95 million; worldwide ₹2.081 billion. Tamil and Telugu versions earned about ₹50 million nett. International premieres began 24 October 2011; India release 26 October. No verdict label found.",
+  "secondary_genre": "Science fiction"
  },
  {
   "film_id": "FILM-076",
@@ -2627,7 +2666,8 @@
   "critical_reception": "Positive reviews for its story, cinematography, action and performances (63% on Rotten Tomatoes); Rachit Gupta (Filmfare, 4/5) praised Khan, Chopra and Irani.",
   "source_ids": "SOURCE-001; SOURCE-079",
   "confidence": "Medium",
-  "research_notes": "Production cost ₹760 million excluding Khan's fee. India gross ₹1.06 billion for the Hindi version plus ₹60 million from Tamil and Telugu versions. The article calls it the highest-grossing Bollywood film of 2011, which is not reconciled here. Infobox worldwide estimate of ₹202.81 crore is not entered. Khan is also a producer."
+  "research_notes": "Production cost ₹760 million excluding Khan's fee. India gross ₹1.06 billion for the Hindi version plus ₹60 million from Tamil and Telugu versions. The article calls it the highest-grossing Bollywood film of 2011, which is not reconciled here. Infobox worldwide estimate of ₹202.81 crore is not entered. Khan is also a producer.",
+  "secondary_genre": "Heist"
  },
  {
   "film_id": "FILM-077",
@@ -2728,7 +2768,8 @@
   "recognition": "Became the highest-grossing Bollywood film worldwide at the time, breaking the record set by 3 Idiots.",
   "source_ids": "SOURCE-001; SOURCE-082",
   "confidence": "Medium",
-  "research_notes": "Final worldwide gross ₹424 crore (US$72.31 million); Box Office India's record-setting figure at the time was ₹396 crore. No verdict label found."
+  "research_notes": "Final worldwide gross ₹424 crore (US$72.31 million); Box Office India's record-setting figure at the time was ₹396 crore. No verdict label found.",
+  "secondary_genre": "Romance"
  },
  {
   "film_id": "FILM-080",
@@ -3050,7 +3091,8 @@
   "recognition": "IIFA Award for Best Male Playback Singer (Arijit Singh, 'Hawayein'); several Mirchi Music Awards for 'Hawayein'.",
   "source_ids": "SOURCE-001; SOURCE-091",
   "confidence": "Medium",
-  "research_notes": "Worldwide ₹153.43 crore (India ₹89.4 crore, overseas ₹64.1 crore; US$10 million overseas). Khan's lowest opening in three years."
+  "research_notes": "Worldwide ₹153.43 crore (India ₹89.4 crore, overseas ₹64.1 crore; US$10 million overseas). Khan's lowest opening in three years.",
+  "secondary_genre": "Road movie"
  },
  {
   "film_id": "FILM-089",
@@ -3286,7 +3328,8 @@
   "recognition": "Record opening-day net of ₹75.4 crore in India across versions; became the highest net-grossing Hindi film in India, overtaking Pathaan. Filmfare nominations including Best Film and Best Actor. Atlee's Hindi debut.",
   "source_ids": "SOURCE-001; SOURCE-098",
   "confidence": "Medium",
-  "research_notes": "Worldwide gross over ₹1,148.32 crore as of 10 November 2023 (infobox ₹1,150 crore). No verdict label found."
+  "research_notes": "Worldwide gross over ₹1,148.32 crore as of 10 November 2023 (infobox ₹1,150 crore). No verdict label found.",
+  "secondary_genre": "Vigilante"
  },
  {
   "film_id": "FILM-096",
@@ -3356,6 +3399,7 @@
   "recognition": "Filmfare Best Supporting Actor for Vicky Kaushal; Khan nominated for Best Actor.",
   "source_ids": "SOURCE-001; SOURCE-100",
   "confidence": "Medium",
-  "research_notes": "India ₹262.25 crore (Hindi nett ₹212.42 crore); overseas ₹208.35 crore; worldwide ₹470.6 crore. No verdict label found."
+  "research_notes": "India ₹262.25 crore (Hindi nett ₹212.42 crore); overseas ₹208.35 crore; worldwide ₹470.6 crore. No verdict label found.",
+  "secondary_genre": "Immigration drama"
  }
 ]

@@ -3689,15 +3689,16 @@
  {
   "film_id": "FILM-006",
   "organization": "National Film Awards",
-  "category": "Special Mention (Feature Film)",
-  "recipient": "Maya Memsaab",
-  "recipient_type": "Technician",
+  "category": "Special Jury Award (Feature Film)",
+  "recipient": "Ketan Mehta",
+  "recipient_type": "Director",
   "result": "Win",
   "competitive": "Competitive",
-  "source_ids": "SOURCE-009",
-  "confidence": "Low",
-  "notes": "The film article dates the award to 1993 without naming the ceremony or recipient.",
-  "award_id": "AWARD-288"
+  "source_ids": "SOURCE-009; SOURCE-343",
+  "confidence": "High",
+  "notes": "The ceremony article lists the 40th National Film Awards (presented 4 May 1993) Special Jury Award to Ketan Mehta for Maya Memsaab; the film article's 'Special Mention' wording and its 1993 date refer to this award.",
+  "award_id": "AWARD-288",
+  "ceremony_year": 1993
  },
  {
   "film_id": "FILM-040",
@@ -3721,10 +3722,11 @@
   "recipient_type": "Technician",
   "result": "Win",
   "competitive": "Competitive",
-  "source_ids": "SOURCE-054",
-  "confidence": "Low",
-  "notes": "Ceremony year not given in the fetched source.",
-  "award_id": "AWARD-290"
+  "source_ids": "SOURCE-054; SOURCE-344",
+  "confidence": "High",
+  "notes": "52nd National Film Awards, for films of 2004, presented 21 October 2005.",
+  "award_id": "AWARD-290",
+  "ceremony_year": 2005
  },
  {
   "film_id": "FILM-051",
@@ -3734,9 +3736,10 @@
   "recipient_type": "Music",
   "result": "Win",
   "competitive": "Competitive",
-  "source_ids": "SOURCE-054",
-  "confidence": "Low",
-  "notes": "Ceremony year not given in the fetched source.",
-  "award_id": "AWARD-291"
+  "source_ids": "SOURCE-054; SOURCE-344",
+  "confidence": "High",
+  "notes": "52nd National Film Awards, for films of 2004, presented 21 October 2005.",
+  "award_id": "AWARD-291",
+  "ceremony_year": 2005
  }
 ]
