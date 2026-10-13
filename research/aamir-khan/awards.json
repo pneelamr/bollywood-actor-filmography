@@ -1716,9 +1716,10 @@
     "recipient_type": "Film",
     "result": "Win",
     "competitive": "Competitive",
-    "notes": "Year not stated in the source.",
-    "source_ids": "SOURCE-053",
-    "confidence": "Medium"
+    "notes": "The festival article's winners table gives 2015.",
+    "source_ids": "SOURCE-053; SOURCE-215",
+    "confidence": "Medium",
+    "ceremony_year": 2015
   },
   {
     "award_id": "AWARD-130",
