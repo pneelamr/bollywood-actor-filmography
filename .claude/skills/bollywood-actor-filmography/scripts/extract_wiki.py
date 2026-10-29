@@ -21,13 +21,19 @@ pages named by the film-article source URLs when WORK is a fresh directory.
 
 --config JSON: {"exclude": {"Title|Year": "reason"},
                 "add": [{"year": 2025, "title": "...", "target": "Wiki title", "role": "...", "notes": "..."}],
+                "retarget": {"Title|Year": "Correct wiki title" or null},
                 "overrides": {"Title|Year": {"field": value}}}
+
+`retarget` replaces a table row's link when the filmography table points at the
+wrong article (a franchise page, a person, a song section); null marks the film
+as having no article. `fetch` and `films` both apply it, so pass --config to both.
 """
 from __future__ import annotations
 
 import argparse
 import concurrent.futures as cf
 import datetime as dt
+import hashlib
 import json
 import re
 import sys
@@ -45,7 +51,13 @@ WIKI_URL = "https://en.wikipedia.org/wiki/{}"
 
 
 def page_file(work: Path, title: str) -> Path:
-    return work / "wt" / (re.sub(r"[^\w.-]+", "_", title)[:150] + ".txt")
+    # Titles with punctuation beyond spaces and parentheses get a hash suffix: without it
+    # [[LOC Kargil]] and its redirect target [[LOC: Kargil]] share one file, and
+    # ensure_page follows the cached redirect back to itself and reports the page missing.
+    name = re.sub(r"[^\w.-]+", "_", title)[:150]
+    if re.search(r"[^\w .()-]", title):
+        name += "_" + hashlib.md5(title.encode()).hexdigest()[:8]
+    return work / "wt" / (name + ".txt")
 
 
 def download(title: str) -> str | None:
@@ -403,8 +415,7 @@ def cmd_table(a) -> int:
 
 def cmd_fetch(a) -> int:
     work = Path(a.work)
-    rows = json.loads((work / "table.json").read_text())["rows"]
-    rows += load_config(a.config).get("add", [])
+    rows = config_rows(json.loads((work / "table.json").read_text())["rows"], load_config(a.config))
     targets = unique(r["target"] for r in rows if r.get("target"))
     pages, failed = {}, []
 
@@ -633,6 +644,16 @@ def load_config(path: str | None) -> dict:
     return json.loads(Path(path).read_text()) if path else {}
 
 
+def config_rows(table_rows: list[dict], cfg: dict) -> list[dict]:
+    """Table rows plus the config's added rows, with wrong link targets replaced."""
+    rows = table_rows + cfg.get("add", [])
+    for r in rows:
+        key = f"{r['title']}|{r['year']}"
+        if key in cfg.get("retarget", {}):
+            r["retarget_from"], r["target"] = r.get("target"), cfg["retarget"][key]
+    return rows
+
+
 def norm(title: str) -> str:
     return re.sub(r"[^a-z0-9]", "", title.lower())
 
@@ -675,7 +696,7 @@ def cmd_films(a) -> int:
     cfg = load_config(a.config)
     table = json.loads((work / "table.json").read_text())
     pages = json.loads((work / "pages.json").read_text())
-    rows = table["rows"] + cfg.get("add", [])
+    rows = config_rows(table["rows"], cfg)
     today = dt.date.today().isoformat()
     films_path, src_path = research / "films.json", research / "sources.json"
     films = json.loads(films_path.read_text()) if films_path.exists() else []
@@ -714,6 +735,9 @@ def cmd_films(a) -> int:
         mech, notes = mechanical(text, a.actor) if text else ({}, ["No Wikipedia film article; fields come from the filmography table."])
         if not text:
             report["no_article"].append(key)
+        if "retarget_from" in row:
+            notes.append(f"The filmography table links [[{row['retarget_from']}]], which is the wrong article; "
+                         f"retargeted to {'[[' + row['target'] + ']]' if row['target'] else 'no article'} in the scope config.")
         rf, rnotes = role_fields(row, cast_list(text) if text else [], a.actor)
         mech.update(rf)
         mech["title"] = row["title"]

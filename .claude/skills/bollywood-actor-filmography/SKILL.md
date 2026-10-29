@@ -36,7 +36,9 @@ $PY $EX plot WORK research/<actor-slug> --ids FILM-001-FILM-030          # also:
 $PY $EX reviews WORK research/<actor-slug> --ids FILM-001-FILM-030 --terms "<Surname>;chemistry"
 ```
 
-* `extract_config.json` records scope decisions keyed by `Title|Year` as the table gives them: `exclude` (with reasons), `overrides`, `notes`, `extra_sources` and `add`. Keep it so `films` can be re-run when a new film is released.
+* `extract_config.json` records scope decisions keyed by `Title|Year` as the table gives them: `exclude` (with reasons), `retarget`, `overrides`, `notes`, `extra_sources` and `add`. Keep it so `films` can be re-run when a new film is released.
+* `retarget` maps a row to the correct article title, or to `null` when the table links the wrong page and no article exists. Pass `--config` to both `fetch` and `films`. Do not emulate it with `exclude` plus `add`: `exclude` also drops an added row that has the same `Title|Year`.
+* Check every resolved article before trusting its fields. Filmography tables have linked a person's biography, a song section of a different film, and a franchise page that carries a plain `{{Infobox film}}` with the right year. Flag titles containing "series" or "franchise", released fields holding more than one date, missing film infoboxes, and gaps of more than one year between the table and the article. Then search for film articles naming the actor that the table does not link (`hastemplate:"Infobox film" "<Name>"`).
 * `films` numbers Film IDs chronologically on a first run, keeps existing IDs and values on later runs, and replaces mechanical values only with `--overwrite`.
 * It sets `role_type` only for narration, voice, self, cameo and special appearances; lead, co-lead, supporting and antagonist are decided by hand. Lyricists come partly from prose and need a check.
 * The extract commands find each film's article through its Wikipedia source row and download it again when `WORK` is new.

@@ -1,0 +1,196 @@
+{
+  "_about": "Scope decisions for Suniel Shetty, keyed by 'Title|Year' exactly as the Wikipedia filmography tables give them. Keep this file so `extract_wiki.py films` can be re-run when a new film is released. Spine page: 'Suniel Shetty filmography' (a real article). Its acting credits sit in TWO tables, '=== As actor ===' (Hindi, 119 rows) and '=== Non-Hindi language films ===' (14 rows, with a Language column). `table` parses one section at a time, so run it twice (--section '^As actor' and --section '^Non-Hindi'), concatenate the two `rows` lists into WORK/table.json, then run `fetch --config` and `films --config`.",
+  "_rerun_warning": "No scratchpad repair is needed: the one wrong link target is corrected here by 'retarget' (added to extract_wiki.py in this run), which `fetch` and `films` both apply, so a fresh table/fetch/films with --config reproduces the result. THE WRONG LINK: the 2007 'Welcome' row links [[Welcome (film series)]], the franchise article. That article carries a plain {{Infobox film}} (not 'Infobox film series') whose released field starts with 21 December 2007, so it passes BOTH standing phase-1 checks, the infobox scan and the table-year-vs-article-year gap. Caught only because a search for film articles naming the actor returned 'Welcome (2007 film)' as an article the table did not link. Detector for next time: flag any resolved title containing 'series' or 'franchise', and any released field holding more than one date. NOT wrong links, though they first looked like it: [[LOC Kargil]] and [[Fight Club – Members Only]] are valid redirects to 'LOC: Kargil' and 'Fight Club: Members Only'. `fetch` reported them missing because `page_file` sanitised each redirect and its target to the same cache file, so `ensure_page` followed the cached redirect back to itself. Fixed in extract_wiki.py by a hash suffix on titles with punctuation. Also learned: exclude + add cannot stand in for a retarget, because `exclude` is keyed by Title|Year and drops an added row with the same key.",
+  "_considered_not_added": {
+    "Ek Hindustani|2003": "Not in the filmography table, but its own Wikipedia article ('Ek Hindustani') gives him the lead opposite Raveena Tandon, director Tinnu Anand, with an infobox release date of 1 October 2003. Not added: Tinnu Anand's own article lists it in his directing credits as 'Unreleased'; it is absent from [[List of Hindi films of 2003]] and from Raveena Tandon's filmography; and a search summary of IMDb trivia says the director reported it shelved because of Shetty's market value as a solo hero. Treated as unreleased. Revisit if a theatrical, TV or OTT premiere is documented.",
+    "Paltan|2018": "J. P. Dutta's first-look poster tweet of 7 March 2018 (cited in [[List of Hindi films of 2018]]) names Suniel Shetty among the stars, but the released film's cast in that list and in its own article ('Paltan (film)', zero mentions of him) omits him. Pre-release casting only.",
+    "Alone|2015": "Kannada film whose article says he 'reportedly worked on the film, making a special appearance as a CBI officer, but' the part was later dropped. Not a released appearance.",
+    "Happy Anniversary|unreleased": "Unreleased Hindi multi-starrer; its article title says so.",
+    "Declined or rumoured, never cast": "Vishwatma (1992: Rajiv Rai considered launching him, cast Chunky Pandey), Jung (1996: left the project), Auzaar (1997: busy), Asambhav (2004: rumoured), De De Pyaar De 2 (2025: a pre-release rumour of a father-in-law role; not in the cast). Thamma (2025) cites two articles titled with his name but its cast does not include him.",
+    "Producer only (no acting)": "Bhagam Bhag (2006), EMI (2008), Mumbai Chakachak (2009), and the Commando series credit. The spine's 'As producer' table also lists Khel, Rakht, Mission Istaanbul and Loot, in all of which he also acts, so they are kept as acting credits.",
+    "Television and web series": "Excluded by the skill's scope rule: web series Dharavi Bank (2022) and Hunter Tootega Nahi Todega (2023); TV judging on Dance Deewane 4 (2024); hosting Biggest Loser Jeetega (2007) and India's Asli Champion Hai Dam."
+  },
+  "exclude": {
+    "Sweetheart|1993": "Short film, per the filmography table's own note; outside the feature-film scope (the Shah Rukh Khan run excluded the short Bhaag Jeetu Bhaag, the Amitabh run the short Power). Its link 'Sweetheart (1993 film)' has no article.",
+    "Chirayu|2011": "Unverified, so excluded under the skill's rule against unverified appearances. The table row (2011, Hindi table, 'Himself', guest appearance) is uncited and has no link. No 2011 Hindi film of that name was found. The only 'Chirayu' located is a Kannada film released 19 December 2014, directed by and starring Prashanth opposite Shubha Poonja, shot at Padubidri beach near Mangalore, his home region (Moviebuff, Filmibeat, Shubha Poonja's and Pavitra Lokesh's filmographies). None of those cast lists names him, and Bollywood Hungama calls Pailwaan (2019) his Kannada debut. A guest turn in the 2014 film is plausible but undocumented."
+  },
+  "retarget": {
+    "Welcome|2007": "Welcome (2007 film)"
+  },
+  "overrides": {
+    "Raghuveer|1995": {
+      "director": "K. Pappu",
+      "language": "Hindi"
+    },
+    "Khanjar: The Knife|2003": {
+      "director": "Chander Sharma",
+      "language": "Hindi"
+    },
+    "Barood (The Fire) A Love Story|2010": {
+      "release_date": "2010-11-12",
+      "runtime": 134,
+      "language": "Hindi",
+      "director": "Jagdish C. Pandey",
+      "producers": "Sadhan Kumar Das; Ullhas Mhatre",
+      "production_banner": "Snehajog Films",
+      "writers": "Chintoo Bihani",
+      "song_composer": "Bhoopi–Kanakraj",
+      "lyricist": "Ravi Chopra; Pradeep Raj"
+    },
+    "2 Chehare|2015": {
+      "release_date": "2015-07-10",
+      "director": "Ashok Gaikwad",
+      "language": "Hindi"
+    },
+    "Miras|2008": {
+      "release_date": "2008-03-14",
+      "director": "Aydın Sayman",
+      "writers": "Ayşegül Karaköse; Aşkın Sağıroğlu",
+      "language": "Turkish"
+    },
+    "Raada Rox|2011": {
+      "director": "Rahul Thackeray; Heramb S. Khot",
+      "language": "Marathi",
+      "runtime": 130
+    },
+    "Krishna|1996": {
+      "source_material": "Remake of Deep Cover (1992); mostly an adaptation of the Hindi film Meri Awaaz Suno"
+    },
+    "Sapoot|1996": {
+      "producers": "Rajan Sharma; Satyan Sharma"
+    },
+    "Khel – No Ordinary Game|2003": {
+      "song_composer": "Babbu Mann; Daboo Malik; Dudes'"
+    },
+    "Dus|2005": {
+      "writers": "Yash-Vinay; Anubhav Sinha"
+    },
+    "Kyon Ki|2005": {
+      "writers": "Priyadarshan; Sanjay Chhel"
+    },
+    "Deewane Huye Paagal|2005": {
+      "source_material": "Remake of the 1998 American film There's Something About Mary"
+    },
+    "Aap Ki Khatir|2006": {
+      "source_material": "Remake of the 2005 American film The Wedding Date"
+    },
+    "Welcome|2007": {
+      "source_material": "Remake of the 1999 English comedy Mickey Blue Eyes"
+    },
+    "Aa Bb Kk|2018": {
+      "lyricist": "Kaushal Kishore; Sajid; Ashawini Shende; Vandana Saigaonkar"
+    },
+    "Darbar|2020": {
+      "lyricist": "Vivek; Yogi B; Senthuzhan; Syan"
+    }
+  },
+  "notes": {
+    "Raghuveer|1995": "No Wikipedia article: the table row is unlinked and [[List of Hindi films of 1995]] links a red 'Raghuveer (1995 film)'. Director and co-star come from that year list: K. Pappu; Sunil Shetty, Shilpa Shirodkar. The year list is evidence of release.",
+    "Khanjar: The Knife|2003": "No Wikipedia article. [[List of Hindi films of 2003]] lists it unlinked: director Chander Sharma; cast Sunil Shetty, Tabu; genre Action. No further release evidence located in phase 1.",
+    "Barood (The Fire) A Love Story|2010": "No Wikipedia article. A long-delayed production: search summaries say shooting began around 1996 under the title Dwand Yudh, Shetty left after his scenes were shot, and the producer later re-titled and re-cut it; director Jagdish C. Pandey, co-star Shilpa Shirodkar. Box Office India (movieid 983) gives release 12 Nov 2010, runtime 134 min, 25 screens, total nett ₹28,00,000 and verdict Disaster; commercial fields are left for phase 2. Competing dates: IMDb-derived summaries give an India release of 15 July 2011, and Cinestaan and Moviebuff list it as 2012. Box Office India's 2010 date is used. Credits from Box Office India's cast-and-crew page: banner Snehajog Films; director Jagdish C. Pandey; producers Sadhan Kumar Das and Ullhas Mhatre; music Bhoopi–Kanakraj (written 'Bhoopi - Kanakraj'); lyrics Ravi Chopra and Pradeep Raj; story, screenplay and dialogue Chintoo Bihani; cast Suneil Shetty (Shakti), Shilpa Shirodkar, Mukesh Khanna, Kiran Kumar, Biswajeet, Raju Shrivastava, Moon Moon Sen, Anant Mahadevan, Shiva Rindani.",
+    "2 Chehare|2015": "No Wikipedia article. A 1990s production revived and released 10 July 2015 (DNA report; search summary). Mumbai Mirror's review of 11 July 2015 by Kunal Guha gives the cast as Shatrughan Sinha, Sunil Shetty, Raveena Tandon, Kiran Kumar, Mohnish Behl and the director as Ashok Gaekwad (spelled Gaikwad elsewhere); producer Manoj Nandwana per a search summary. The table's 'Ajay / Babu' suggests a double role, unconfirmed.",
+    "Miras|2008": "No Wikipedia article. Turkish film. Beyazperde (Turkish film database): in cinemas 14 March 2008; drama/thriller; director Aydın Sayman; writers Ayşegül Karaköse and Aşkın Sağıroğlu; cast Suniel Shetty (billed first), Şafak Güçlü, Shweta Agarwal. A search summary says it concerns an intelligence organisation protecting Turkish interests in the Mosul-Kirkuk region.",
+    "Raada Rox|2011": "No Wikipedia article. Marathi film. Apple TV's listing: 2011, 2 h 10 min, directors Heramb S. Khot and Rahul Thackeray (directorial debut), guest appearances from Juhi Chawla, Suneil Shetty and Sukhwinder Singh. A blog post of 25 March 2011 quoting producer Smita Thackeray says it 'will release on 8th of April'; a search summary says 11 April 2011. The day is unconfirmed, so the date stays at the year.",
+    "Welcome|2007": "Guest appearance as himself, per the 2007 film article's cast list ('Suniel Shetty as himself (special appearance)'). The filmography table links the franchise article, Welcome (film series); see the config's exclude note. Source material: the extractor swallowed the rest of the lead sentence (cast list); trimmed.",
+    "Border 2|2026": "Released 23 January 2026. A cameo reprising Bhairav Singh Rathod from Border (1997), per the filmography table.",
+    "Welcome to the Jungle|2026": "Released 26 June 2026, within the research cutoff of 28 October 2026. Reprises Yeda Anna, his character from Awara Paagal Deewana (2002).",
+    "Krishna|1996": "Source material shortened from the infobox, which reads 'Remake of Deep Cover (1992) starring Lawrence \"Larry\" Fishburne and Jeff Goldblum and mostly the remake adaptation of the Hindi movie Meri Awaaz Suno'.",
+    "Sapoot|1996": "The infobox's producer field also lists Jaidev Thackeray, marked '(presenter)'; he is a presenter, not a producer, so he is left out of the producer column.",
+    "Khel – No Ordinary Game|2003": "The infobox credits the songs to Babbu Mann, Daboo Malik and \"Dudes' (Music company)\", and the score to Sandeep and Jackie. He also produced this film.",
+    "Dus|2005": "Writers: the extractor kept a bare 'Story' label from the infobox; removed.",
+    "Kyon Ki|2005": "Writers: the extractor kept a bare 'Story' label from the infobox; removed.",
+    "Deewane Huye Paagal|2005": "Source material: the extractor swallowed the rest of the lead sentence (release date and reception); trimmed.",
+    "Aap Ki Khatir|2006": "Source material: the extractor swallowed the rest of the lead sentence (release, box office, director's last film); trimmed.",
+    "Aa Bb Kk|2018": "Lyricist: the track list annotates Vandana Saigaonkar as '(female)'; the annotation is dropped.",
+    "Darbar|2020": "Lyricist: the track list's all_lyrics reads 'Vivek, except \"Thani Vazhi\" which had lyrics by Yogi B, Senthuzhan and Syan'."
+  },
+  "extra_sources": {
+    "Raghuveer|1995": [
+      {
+        "title": "List of Hindi films of 1995",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_1995",
+        "claims": "Raghuveer (1995): director K. Pappu; cast Sunil Shetty, Shilpa Shirodkar; evidence of release.",
+        "source_type": "Reference encyclopedia",
+        "reliability": "C",
+        "notes": "Downloaded as raw wikitext. The film's own link is a red link."
+      }
+    ],
+    "Khanjar: The Knife|2003": [
+      {
+        "title": "List of Hindi films of 2003",
+        "publisher": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/List_of_Hindi_films_of_2003",
+        "claims": "Khanjar: The Knife (2003): director Chander Sharma; cast Sunil Shetty, Tabu; genre Action; evidence of release.",
+        "source_type": "Reference encyclopedia",
+        "reliability": "C",
+        "notes": "Downloaded as raw wikitext."
+      }
+    ],
+    "Barood (The Fire) A Love Story|2010": [
+      {
+        "title": "Barood - The Fire A Love Story",
+        "publisher": "Box Office India",
+        "url": "https://www.boxofficeindia.com/movie.php?movieid=983",
+        "claims": "Release date 12 Nov 2010; runtime 134 min; genre Action; 25 screens; total nett ₹28,00,000; verdict Disaster.",
+        "source_type": "Trade database",
+        "reliability": "B",
+        "notes": "Live page fetched with curl."
+      },
+      {
+        "title": "Barood - The Fire A Love Story: cast and crew",
+        "publisher": "Box Office India",
+        "url": "https://www.boxofficeindia.com/cast_crew.php?movieid=983",
+        "claims": "Banner Snehajog Films; director Jagdish C. Pandey; producers Sadhan Kumar Das, Ullhas Mhatre; music Bhoopi–Kanakraj; lyrics Ravi Chopra, Pradeep Raj; story, screenplay and dialogue Chintoo Bihani; cast with Shetty as Shakti.",
+        "source_type": "Trade database",
+        "reliability": "B",
+        "notes": "Live page fetched with curl."
+      }
+    ],
+    "2 Chehare|2015": [
+      {
+        "title": "Film review: 2 Chehare",
+        "publisher": "Mumbai Mirror",
+        "author": "Kunal Guha",
+        "publication_date": "2015-07-11",
+        "url": "https://web.archive.org/web/20151230210830/http://www.mumbaimirror.com/entertainment/bollywood/Film-review-2-Chehare/articleshow/48028583.cms",
+        "claims": "Review on release; cast Shatrughan Sinha, Sunil Shetty, Raveena Tandon, Kiran Kumar, Mohnish Behl; direction Ashok Gaekwad; genre Drama.",
+        "source_type": "Newspaper review",
+        "reliability": "B",
+        "notes": "Wayback copy of 30 Dec 2015, cited in Wikipedia's Raveena Tandon filmography."
+      }
+    ],
+    "Miras|2008": [
+      {
+        "title": "Miras",
+        "publisher": "Beyazperde",
+        "url": "https://www.beyazperde.com/filmler/film-135100/",
+        "claims": "Turkish theatrical release 14 March 2008; drama/thriller; director Aydın Sayman; writers Ayşegül Karaköse, Aşkın Sağıroğlu; cast Suniel Shetty, Şafak Güçlü, Shweta Agarwal.",
+        "source_type": "Film database",
+        "reliability": "C",
+        "notes": "Turkish-language film database (AlloCiné network)."
+      }
+    ],
+    "Raada Rox|2011": [
+      {
+        "title": "Raada Rox",
+        "publisher": "Apple TV",
+        "url": "https://tv.apple.com/in/movie/raada-rox/umc.cmc.1vxr0tfva78orryscppdlqpke",
+        "claims": "2011 Marathi film, 2 h 10 min; directors Heramb S. Khot and Rahul Thackeray; guest appearances from Juhi Chawla, Suneil Shetty, Sukhwinder Singh.",
+        "source_type": "Streaming catalogue listing",
+        "reliability": "C",
+        "notes": "Listing text only."
+      },
+      {
+        "title": "Ready to rock?",
+        "publisher": "bluemoss (blog)",
+        "publication_date": "2011-03-25",
+        "url": "https://rendropsonscreen.blogspot.com/2011/03/ready-to-rock.html",
+        "claims": "Pre-release feature: producer Smita Thackeray says the film will release on 8 April 2011 and that it received support from Sunil Shetty, Rajpal Yadav and Juhi Chawla.",
+        "source_type": "Blog",
+        "reliability": "D",
+        "notes": "Pre-release; gives an intended date, not proof of the date."
+      }
+    ]
+  }
+}
