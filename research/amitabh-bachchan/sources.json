@@ -9925,17 +9925,6 @@
   "notes": "He has no Wikipedia article. Wikipedia's 'Laxmikant Sharma' is a Bharatiya Janata Party MLA and Madhya Pradesh cabinet minister (1960–2021) named in the Vyapam investigation — a different person; that article was discarded. Note that the Jaadugar and Muqaddar Ka Sikandar wikitext links the screenwriter's name to that politician's article, so the blue link there is wrong. No birth or death year was located. Graded Low."
  },
  {
-  "source_id": "SOURCE-640",
-  "title": "Web search: Mohan Studio, Andheri",
-  "publisher": "Web search (The Quint, Film Companion)",
-  "url": "https://www.thequint.com/entertainment/indian-cinema/iconic-bollywood-studios-today-ruins-bombay-talkies-mohan-studio-ranjit-movietone",
-  "access_date": "2026-09-15",
-  "claims": "Search summary: Mohan Studio stood on Andheri–Kurla Road in Bombay and was heavily used from the early 1950s to the 1980s. It was where Bimal Roy worked with his group of Calcutta expatriates from New Theatres, making Devdas and Bandini there between 1951 and 1963. It sat at the centre of an active studio cluster in Andheri (East), near where the sets of Mughal-e-Azam (1960) were built. The studio has since ceased to exist.",
-  "source_type": "Search-result summary only",
-  "reliability": "D",
-  "notes": "The studio has no Wikipedia article. No founding date, ownership or corporate history was located. The search found no direct link between Mohan Studio and Hrishikesh Mukherjee, although three of its four credits here are Mukherjee productions. Graded Low."
- },
- {
   "source_id": "SOURCE-641",
   "title": "Ramesh Sippy — Wikipedia",
   "publisher": "Wikipedia",
@@ -10308,17 +10297,6 @@
   "source_type": "Encyclopedia article",
   "reliability": "C",
   "notes": "Downloaded as raw wikitext."
- },
- {
-  "source_id": "SOURCE-675",
-  "title": "R. K. Films — Wikipedia",
-  "publisher": "Wikipedia",
-  "url": "https://en.wikipedia.org/wiki/R._K._Films",
-  "access_date": "2026-09-16",
-  "claims": "Former film production company founded by Raj Kapoor in 1948, and the R. K. Studio facility at Chembur, Mumbai. Founding, history, the studio section, filmography and awards, used for the R.K. Studios entry.",
-  "source_type": "Encyclopedia article",
-  "reliability": "C",
-  "notes": "Downloaded as raw wikitext. Fetched under the article title 'R. K. Films'; the workbook credits this collaborator as 'R.K. Studios'."
  },
  {
   "source_id": "SOURCE-676",
@@ -11061,16 +11039,6 @@
   "notes": "He has no Wikipedia article. No full name, birth or death date, or production-company name was located, so those fields are left blank and the entry is graded Low."
  },
  {
-  "source_id": "SOURCE-744",
-  "title": "Web search: Chandivali Studio, Mumbai",
-  "publisher": "Web search (chandivalistudio.com, Tripadvisor, LinkedIn, Mumbai Wiki)",
-  "access_date": "2026-09-18",
-  "claims": "Search summary: Chandivali Studio began when Chandrarao Kadam bought a large parcel of land at Chandivali near Powai Lake in 1940, intending to create many filming locations in one place for his own films and to rent to other producers; after roughly four years clearing and levelling forest land, the Chandivali Outdoor Location opened for business in 1944. It comprises indoor and outdoor locations including a den, garden, village, temple, pond side, roadside, godown and house and bedroom sets, is still managed by the Kadam family, and is also used for television serials and web series and hired for weddings and corporate events across five acres. The studio's own account states that Amitabh Bachchan began his career there with Saat Hindustani.",
-  "source_type": "Search-result summary only",
-  "reliability": "D",
-  "notes": "It has no Wikipedia article. This is a shooting facility, not a production house: in both films counted for it, Zanjeer and Roti Kapda Aur Makaan, the name sits in the Wikipedia infobox 'studio' field alongside four or five other facilities. It is the fourth such case recorded in this workbook, after Mohan Studios, Filmistan Studio, R.K. Studios and Base Industries Group. The Saat Hindustani claim is the studio's own and is not independently corroborated."
- },
- {
   "source_id": "SOURCE-745",
   "title": "Web search: Debesh Ghosh, producer for Hrishikesh Mukherjee",
   "publisher": "Web search (Wikipedia articles on Jurmana and Bemisal, IMDb trivia, Republic World)",
@@ -11327,17 +11295,6 @@
   "source_type": "Encyclopedia article",
   "reliability": "C",
   "notes": "Downloaded as raw wikitext. The article has a section devoted to Brahmāstra, one of the two films counted here, and records a National Film Award for Best Music Direction covering 2022. It also carries a section on plagiarism allegations, which is noted but not used. It does not mention Bachchan."
- },
- {
-  "source_id": "SOURCE-770",
-  "title": "Rajkamal Kalamandir — Wikipedia",
-  "publisher": "Wikipedia",
-  "url": "https://en.wikipedia.org/wiki/Rajkamal_Kalamandir",
-  "access_date": "2026-09-18",
-  "claims": "Rajkamal Kalamandir was a film production company and studio in Mumbai, established by V. Shantaram in 1942 after he left the Prabhat Film Company, which he had co-founded in Kolhapur in 1929 with V. G. Damle. Shantaram bought the premises of Wadia Movietone, established in 1933 by J. B. H. and Homi Wadia. The studio produced in Hindi and Marathi and was best known for Shakuntala (1943), Dr. Kotnis Ki Amar Kahani (1946), Amar Bhoopali (1951), Jhanak Jhanak Payal Baaje (1955), Do Ankhen Barah Haath (1957), Navrang (1959) and Pinjra (1972). In its heyday it was among the most sophisticated studios in the country, and as of 2019 over 2,000 films had been shot there. Used for the production-banner entry.",
-  "source_type": "Encyclopedia article",
-  "reliability": "C",
-  "notes": "Downloaded as raw wikitext under the resolved title 'Rajkamal Kalamandir'. Crucially, its own filmography is V. Shantaram's slate and contains neither of the two Bachchan films counted here: in both of those the name sits in the infobox 'studio' field among several facilities, so the credit is a shooting-location one. The article does not mention Bachchan."
  },
  {
   "source_id": "SOURCE-771",
@@ -12676,5 +12633,19 @@
   "source_type": "Reference encyclopedia",
   "reliability": "C",
   "notes": "Downloaded as raw wikitext. Single-source for most award rows, so award rows carry Medium confidence; the page's own citations were not individually followed. The page's summary infobox reports 7 National Film Award nominations and 47 Filmfare nominations, but the page itemises only the 7 National wins and 34 Filmfare nominations; the unlisted nominations are not recorded here rather than being invented, so Awards under-counts those two ceremonies against the page's own totals."
+ },
+ {
+  "source_id": "SOURCE-891",
+  "film_ids": [
+   "FILM-004"
+  ],
+  "title": "Anand",
+  "publisher": "Upperstall",
+  "url": "https://upperstall.com/?p=5495",
+  "access_date": "2026-10-31",
+  "claims": "Plot summary: Dr Bhaskar Bannerjee (Amitabh Bachchan) wins the Saraswati Award for his maiden novel, the film's framing device.",
+  "source_type": "Web film review",
+  "reliability": "B",
+  "notes": "Review by Karan Bali."
  }
 ]

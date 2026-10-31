@@ -91,8 +91,8 @@
   "lyricist": "Yogesh; Gulzar",
   "character": "Dr. Bhaskar Banerjee",
   "billing_position": 2,
-  "source_ids": "SOURCE-001; SOURCE-005; SOURCE-262; SOURCE-267; SOURCE-268; SOURCE-272; SOURCE-283",
-  "research_notes": "Filmography notes: Also playback singer for \"Maut Tu Ek Kavita Hai\". Infobox gross '₹1.7 crore' has no nett/gross label and is not entered. Role type Supporting follows the film article ('supporting cast') and the main article ('supporting role in Anand'), although Bhaskar frames the story. Box Office India lists Anand on its 1970 page (gross ₹1.96 crore, nett ₹98 lakh, Semi Hit, 19th); Wikipedia's 1971 list ranks it 9th.",
+  "source_ids": "SOURCE-001; SOURCE-005; SOURCE-262; SOURCE-267; SOURCE-268; SOURCE-272; SOURCE-283; SOURCE-891",
+  "research_notes": "Filmography notes: Also playback singer for \"Maut Tu Ek Kavita Hai\". Infobox gross '₹1.7 crore' has no nett/gross label and is not entered. Role type Supporting follows the film article ('supporting cast') and the main article ('supporting role in Anand'), although Bhaskar frames the story. Box Office India lists Anand on its 1970 page (gross ₹1.96 crore, nett ₹98 lakh, Semi Hit, 19th); Wikipedia's 1971 list ranks it 9th. The 'Saraswati Award' that Wikipedia's awards list credits to Bachchan for Anand in 1970 is the fictional literary prize his character wins in the film's plot (Upperstall review), not a real award, and is not recorded.",
   "role_type": "Supporting",
   "genre": "Drama",
   "character_occupation": "Oncologist",
@@ -546,7 +546,7 @@
   "runtime": 147,
   "director": "Prakash Mehra",
   "producers": "Prakash Mehra Productions",
-  "production_banner": "Asha Studios; Chandivali Studio; Filmistan Studio; R.K. Studios; Swati Studios",
+  "production_banner": "Prakash Mehra Productions",
   "writers": "Salim–Javed",
   "song_composer": "Kalyanji–Anandji",
   "lyricist": "Prakash Mehra",
@@ -575,7 +575,7 @@
   "critical_reception": "The Indian Express calls it a sleeper hit that displaced Rajesh Khanna and introduced the Angry Young Man, made from a Salim–Javed script three stars had turned down when romance was the dominant genre.",
   "recognition": "Established Bachchan's angry-young-man persona and began his run of Salim–Javed films (main Wikipedia article); the film article credits it with inspiring Rajinikanth and records a successful 1980 Soviet release.",
   "confidence": "Medium",
-  "research_notes": "The film article reports a 1980 Soviet release with 37.3 million admissions and 9.325 million roubles (about ₹11.46 crore); kept out of Overseas Gross because it is a later release in another currency. Box Office India's gross ₹6 crore and nett ₹3 crore match the film article's labelled figures."
+  "research_notes": "The film article reports a 1980 Soviet release with 37.3 million admissions and 9.325 million roubles (about ₹11.46 crore); kept out of Overseas Gross because it is a later release in another currency. Box Office India's gross ₹6 crore and nett ₹3 crore match the film article's labelled figures. The infobox 'studio' field lists shooting facilities (Asha Studios; Chandivali Studio; Filmistan Studio; R.K. Studios; Swati Studios), not production companies, so they are not entered as the banner."
  },
  {
   "film_id": "FILM-021",
@@ -708,7 +708,7 @@
   "runtime": 136,
   "director": "Hrishikesh Mukherjee",
   "producers": "Jayendra Pandya; Rajaram Satish Wagle",
-  "production_banner": "Mohan Studios",
+  "production_banner": null,
   "writers": "Gulzar; D. N. Mukherjee; Hrishikesh Mukherjee",
   "song_composer": "R. D. Burman",
   "lyricist": "Anand Bakshi",
@@ -737,7 +737,7 @@
   "critical_reception": "Rediff (2002) says Bachchan has a definite edge over Rajesh Khanna in this clash of the titans, showing early intensity and authority, though the women remain on the fringes. ThePrint says the 'supporting' actor stole the show.",
   "recognition": "Bachchan's second Filmfare Best Supporting Actor award (film article). Retrospectively seen as marking the passing of stardom from Khanna to Bachchan (ThePrint); the two never co-starred again.",
   "confidence": "Medium",
-  "research_notes": "Role type Co-lead: Rediff frames the story as Vicky's flashback, although Filmfare classed the part as supporting. Rediff says Nisha (Simi Garewal; Manisha in the cast list) meets Vicky on his release from jail, but no source describes a romance, so there is no Romances row."
+  "research_notes": "Role type Co-lead: Rediff frames the story as Vicky's flashback, although Filmfare classed the part as supporting. Rediff says Nisha (Simi Garewal; Manisha in the cast list) meets Vicky on his release from jail, but no source describes a romance, so there is no Romances row. The infobox 'studio' field lists shooting facilities (Mohan Studios), not production companies, so they are not entered as the banner."
  },
  {
   "film_id": "FILM-026",
@@ -845,7 +845,7 @@
   "runtime": 161,
   "director": "Manoj Kumar",
   "producers": "Manoj Kumar",
-  "production_banner": "Chandivali Studio; Filmistan Studio; Mohan Studios; R.K. Studios; Rajkamal Studios",
+  "production_banner": null,
   "writers": "Manoj Kumar",
   "song_composer": "Laxmikant–Pyarelal",
   "lyricist": "Santosh Anand; Verma Malik",
@@ -873,7 +873,7 @@
   "annual_rank": "1 (Box Office India, 1974)",
   "recognition": "Highest-grossing Indian film of 1974 (film article). Won three Filmfare Awards and received eleven further nominations.",
   "confidence": "Medium",
-  "research_notes": "The fetched plot gives Vijay no romantic interest."
+  "research_notes": "The fetched plot gives Vijay no romantic interest. The infobox 'studio' field lists shooting facilities (Chandivali Studio; Filmistan Studio; Mohan Studios; R.K. Studios; Rajkamal Studios), not production companies, so they are not entered as the banner."
  },
  {
   "film_id": "FILM-031",
@@ -883,7 +883,7 @@
   "runtime": 117,
   "director": "Narendra Bedi",
   "producers": "Ranjit Virk",
-  "production_banner": "Filmalaya Studio; Mohan Studios; R.K. Studios; Rajkamal Studios; Shree Sound Studio",
+  "production_banner": null,
   "writers": "Narendra Bedi; Jayant Dharmadhikari; Kader Khan",
   "song_composer": "R. D. Burman",
   "character": "Amitabh (Amit) Shrivastav",
@@ -910,7 +910,7 @@
   "verdict": "Below Average (Box Office India)",
   "annual_rank": "20 (Box Office India, 1974)",
   "confidence": "Medium",
-  "research_notes": "No Romances row: the fetched plots show Amit and Sheela only as a couple who witness the attack and lose their son, with no account of the marriage itself. The bachchansir blog names the reporter Mr. Verma and the son Rajoo, and notes that Amit Srivastav is Bachchan's real family name."
+  "research_notes": "No Romances row: the fetched plots show Amit and Sheela only as a couple who witness the attack and lose their son, with no account of the marriage itself. The bachchansir blog names the reporter Mr. Verma and the son Rajoo, and notes that Amit Srivastav is Bachchan's real family name. The infobox 'studio' field lists shooting facilities (Filmalaya Studio; Mohan Studios; R.K. Studios; Rajkamal Studios; Shree Sound Studio), not production companies, so they are not entered as the banner."
  },
  {
   "film_id": "FILM-032",
@@ -1094,7 +1094,7 @@
   "runtime": 124,
   "director": "Hrishikesh Mukherjee",
   "producers": "Hrishikesh Mukherjee; N. C. Sippy",
-  "production_banner": "Mohan Studios",
+  "production_banner": null,
   "writers": "Bimal Dutta; Rahi Masoom Raza; Mohini N. Sippy",
   "song_composer": "Sachin Dev Burman",
   "lyricist": "Yogesh.",
@@ -1117,7 +1117,7 @@
   "relationship_classification": "United couple versus external world",
   "critical_reception": "The Indian Express compares Mili with Anand: in both, Bachchan's character is transformed by a cheerful, dying friend.",
   "confidence": "Medium",
-  "research_notes": "Box Office India's 1975 list does not include the film; no box-office figure was found. Role type Co-lead: the title role is Jaya Bhaduri's, and Shekhar is her romantic counterpart."
+  "research_notes": "Box Office India's 1975 list does not include the film; no box-office figure was found. Role type Co-lead: the title role is Jaya Bhaduri's, and Shekhar is her romantic counterpart. The infobox 'studio' field lists shooting facilities (Mohan Studios), not production companies, so they are not entered as the banner."
  },
  {
   "film_id": "FILM-038",
@@ -1167,7 +1167,7 @@
   "runtime": 105,
   "director": "Shankar Mukherjee",
   "producers": "Alankar Chitra",
-  "production_banner": "Filmistan Studio; Filmways Studios; K. Asif Studios",
+  "production_banner": "Alankar Chitra",
   "writers": "Gulzar; Madhusudan Kalekar; Khayaae; Akhil Kumar; Prtho Mukherjee",
   "song_composer": "Kalyanji–Anandji",
   "lyricist": "Rajendra Krishan",
@@ -1191,7 +1191,7 @@
   "critical_reception": "Conversations Over Chai (blog) says script and direction could have been better but the film is worth watching for the performances of Sanjeev Kumar, Sharmila Tagore and Bachchan, and calls Mala a strong character.",
   "recognition": "Remade in Malayalam by Priyadarshan as Parayanumvayya Parayathirikkanumvayya (Wikipedia).",
   "confidence": "Low",
-  "research_notes": "Wikipedia's plot reads as an unsourced retelling: it names the heroine Asha and says Sanjay does not know the fugitive is in his house. The Conversations Over Chai review names her Mala (the cast list has 'Mala / Asha'), shows Sanjay aware of the siege and refers to a separate character called Asha. The review's version is used; the sister's name and the manner of Rajesh's death were not verified. Box Office India's 1975 list does not include the film. The Wikipedia cast list credits 'Irrfan khan' as young Rajesh Kumar Srivastav. Irrfan Khan was born in 1967 and made his film debut in 1988, so the credit cannot be him; it is recorded here as an unreliable cast entry and no ensemble row was created for it."
+  "research_notes": "Wikipedia's plot reads as an unsourced retelling: it names the heroine Asha and says Sanjay does not know the fugitive is in his house. The Conversations Over Chai review names her Mala (the cast list has 'Mala / Asha'), shows Sanjay aware of the siege and refers to a separate character called Asha. The review's version is used; the sister's name and the manner of Rajesh's death were not verified. Box Office India's 1975 list does not include the film. The Wikipedia cast list credits 'Irrfan khan' as young Rajesh Kumar Srivastav. Irrfan Khan was born in 1967 and made his film debut in 1988, so the credit cannot be him; it is recorded here as an unreliable cast entry and no ensemble row was created for it. The infobox 'studio' field lists shooting facilities (Filmistan Studio; Filmways Studios; K. Asif Studios), not production companies, so they are not entered as the banner."
  },
  {
   "film_id": "FILM-040",
@@ -1619,13 +1619,13 @@
   "language": "Hindi",
   "director": "Asrani",
   "producers": "Surinder Kumar Sharma",
-  "production_banner": "Mehboob Studios",
+  "production_banner": null,
   "song_composer": "R. D. Burman",
   "lyricist": "Yogesh",
   "character": "Himself",
   "role_type": "Self appearance",
   "source_ids": "SOURCE-001; SOURCE-053",
-  "research_notes": "Filmography notes: Guest appearance. Box Office India's 1977 list does not include the film.",
+  "research_notes": "Filmography notes: Guest appearance. Box Office India's 1977 list does not include the film. The infobox 'studio' field lists shooting facilities (Mehboob Studios), not production companies, so they are not entered as the banner.",
   "genre": "Comedy",
   "role_gist": "Bachchan is one of several stars appearing as themselves in the comedy about Murari, a cloth merchant's son who runs away to Bombay to become an actor, succeeds, is caught up in scandals and wins back the woman he loves. The fetched sources do not describe his scene.",
   "female_leads": "Bindiya Goswami",

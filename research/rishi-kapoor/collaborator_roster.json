@@ -3965,17 +3965,6 @@
   "person_id": "PERSON-330"
  },
  {
-  "name": "Mehboob Studios",
-  "slug": "mehboob_studios",
-  "functions": "Production banner",
-  "count": 1,
-  "film_ids": [
-   "FILM-017"
-  ],
-  "tier": "C",
-  "person_id": "PERSON-331"
- },
- {
   "name": "Mehmood",
   "slug": "mehmood",
   "functions": "Director",

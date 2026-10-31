@@ -1008,20 +1008,6 @@
   "person_id": "PERSON-057"
  },
  {
-  "name": "Mohan Studios",
-  "slug": "mohan_studios",
-  "functions": "Production banner",
-  "count": 4,
-  "film_ids": [
-   "FILM-025",
-   "FILM-030",
-   "FILM-031",
-   "FILM-037"
-  ],
-  "tier": "B",
-  "person_id": "PERSON-058"
- },
- {
   "name": "Ramesh Sippy",
   "slug": "ramesh_sippy",
   "functions": "Director",
@@ -1306,19 +1292,6 @@
   "person_id": "PERSON-079"
  },
  {
-  "name": "Filmistan Studio",
-  "slug": "filmistan_studio",
-  "functions": "Production banner",
-  "count": 3,
-  "film_ids": [
-   "FILM-020",
-   "FILM-030",
-   "FILM-039"
-  ],
-  "tier": "B",
-  "person_id": "PERSON-080"
- },
- {
   "name": "G. P. Sippy",
   "slug": "g_p_sippy",
   "functions": "Producer",
@@ -1486,19 +1459,6 @@
   ],
   "tier": "B",
   "person_id": "PERSON-093"
- },
- {
-  "name": "R.K. Studios",
-  "slug": "r_k_studios",
-  "functions": "Production banner",
-  "count": 3,
-  "film_ids": [
-   "FILM-020",
-   "FILM-030",
-   "FILM-031"
-  ],
-  "tier": "B",
-  "person_id": "PERSON-094"
  },
  {
   "name": "Rajkumar Santoshi",
@@ -2111,18 +2071,6 @@
   "person_id": "PERSON-143"
  },
  {
-  "name": "Chandivali Studio",
-  "slug": "chandivali_studio",
-  "functions": "Production banner",
-  "count": 2,
-  "film_ids": [
-   "FILM-020",
-   "FILM-030"
-  ],
-  "tier": "C",
-  "person_id": "PERSON-144"
- },
- {
   "name": "Debesh Ghosh",
   "slug": "debesh_ghosh",
   "functions": "Producer",
@@ -2721,18 +2669,6 @@
   ],
   "tier": "C",
   "person_id": "PERSON-194"
- },
- {
-  "name": "Rajkamal Studios",
-  "slug": "rajkamal_studios",
-  "functions": "Production banner",
-  "count": 2,
-  "film_ids": [
-   "FILM-030",
-   "FILM-031"
-  ],
-  "tier": "C",
-  "person_id": "PERSON-195"
  },
  {
   "name": "Rakeysh Omprakash Mehra",

@@ -2573,21 +2573,6 @@
   "notes": "No film named in the source for this citation."
  },
  {
-  "award_id": "AWARD-175",
-  "ceremony_year": 1970,
-  "organization": "Other award",
-  "category": "Saraswati Award",
-  "recipient": "Amitabh Bachchan",
-  "recipient_type": "Actor",
-  "result": "Win",
-  "competitive": "Honorary",
-  "source_ids": [
-   "SOURCE-890"
-  ],
-  "confidence": "Medium",
-  "film_id": "FILM-004"
- },
- {
   "award_id": "AWARD-176",
   "ceremony_year": 1989,
   "organization": "Other award",

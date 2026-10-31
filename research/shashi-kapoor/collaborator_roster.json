@@ -245,12 +245,9 @@
   "name": "Filmistan",
   "slug": "filmistan",
   "functions": "Producer; Production banner",
-  "count": 4,
+  "count": 1,
   "film_ids": [
-   "FILM-003",
-   "FILM-032",
-   "FILM-048",
-   "FILM-050"
+   "FILM-003"
   ],
   "tier": "B",
   "person_id": "PERSON-013"
@@ -530,19 +527,6 @@
   ],
   "tier": "B",
   "person_id": "PERSON-033"
- },
- {
-  "name": "R. K. Studios",
-  "slug": "r_k_studios",
-  "functions": "Production banner",
-  "count": 3,
-  "film_ids": [
-   "FILM-050",
-   "FILM-068",
-   "FILM-076"
-  ],
-  "tier": "B",
-  "person_id": "PERSON-034"
  },
  {
   "name": "Rahi Masoom Reza",
@@ -826,30 +810,6 @@
   "person_id": "PERSON-056"
  },
  {
-  "name": "Chandivali Studio",
-  "slug": "chandivali_studio",
-  "functions": "Production banner",
-  "count": 2,
-  "film_ids": [
-   "FILM-048",
-   "FILM-050"
-  ],
-  "tier": "C",
-  "person_id": "PERSON-057"
- },
- {
-  "name": "Filmalaya Studio",
-  "slug": "filmalaya_studio",
-  "functions": "Production banner",
-  "count": 2,
-  "film_ids": [
-   "FILM-032",
-   "FILM-048"
-  ],
-  "tier": "C",
-  "person_id": "PERSON-058"
- },
- {
   "name": "G. P. Sippy",
   "slug": "g_p_sippy",
   "functions": "Producer",
@@ -945,18 +905,6 @@
   ],
   "tier": "C",
   "person_id": "PERSON-066"
- },
- {
-  "name": "K. Asif Studios",
-  "slug": "k_asif_studios",
-  "functions": "Production banner",
-  "count": 2,
-  "film_ids": [
-   "FILM-043",
-   "FILM-048"
-  ],
-  "tier": "C",
-  "person_id": "PERSON-067"
  },
  {
   "name": "K. B. Pathak",
@@ -1082,25 +1030,14 @@
   "name": "R. K. Films",
   "slug": "r_k_films",
   "functions": "Production banner",
-  "count": 2,
+  "count": 3,
   "film_ids": [
    "FILM-001",
-   "FILM-004"
+   "FILM-004",
+   "FILM-076"
   ],
   "tier": "C",
   "person_id": "PERSON-078"
- },
- {
-  "name": "Rajkamal Kalamandir",
-  "slug": "rajkamal_kalamandir",
-  "functions": "Production banner",
-  "count": 2,
-  "film_ids": [
-   "FILM-050",
-   "FILM-068"
-  ],
-  "tier": "C",
-  "person_id": "PERSON-079"
  },
  {
   "name": "Ramesh Sharma",
@@ -1960,17 +1897,6 @@
   "person_id": "PERSON-156"
  },
  {
-  "name": "Essel Studios",
-  "slug": "essel_studios",
-  "functions": "Production banner",
-  "count": 1,
-  "film_ids": [
-   "FILM-068"
-  ],
-  "tier": "C",
-  "person_id": "PERSON-157"
- },
- {
   "name": "Evan Lurie",
   "slug": "evan_lurie",
   "functions": "Song composer",
@@ -1991,17 +1917,6 @@
   ],
   "tier": "C",
   "person_id": "PERSON-159"
- },
- {
-  "name": "Famous Cine Studios",
-  "slug": "famous_cine_studios",
-  "functions": "Production banner",
-  "count": 1,
-  "film_ids": [
-   "FILM-068"
-  ],
-  "tier": "C",
-  "person_id": "PERSON-160"
  },
  {
   "name": "Film Group",
@@ -2753,17 +2668,6 @@
   "person_id": "PERSON-227"
  },
  {
-  "name": "Mohan Studios",
-  "slug": "mohan_studios",
-  "functions": "Production banner",
-  "count": 1,
-  "film_ids": [
-   "FILM-050"
-  ],
-  "tier": "C",
-  "person_id": "PERSON-228"
- },
- {
   "name": "Mohanji Prasad",
   "slug": "mohanji_prasad",
   "functions": "Producer",
@@ -2883,17 +2787,6 @@
   ],
   "tier": "C",
   "person_id": "PERSON-239"
- },
- {
-  "name": "Natraj Studios",
-  "slug": "natraj_studios",
-  "functions": "Production banner",
-  "count": 1,
-  "film_ids": [
-   "FILM-068"
-  ],
-  "tier": "C",
-  "person_id": "PERSON-240"
  },
  {
   "name": "Nicholas Meyer",
@@ -3361,17 +3254,6 @@
   ],
   "tier": "C",
   "person_id": "PERSON-282"
- },
- {
-  "name": "Ranjeet Studios",
-  "slug": "ranjeet_studios",
-  "functions": "Production banner",
-  "count": 1,
-  "film_ids": [
-   "FILM-043"
-  ],
-  "tier": "C",
-  "person_id": "PERSON-283"
  },
  {
   "name": "Ranjit Films",
@@ -3925,17 +3807,6 @@
   ],
   "tier": "C",
   "person_id": "PERSON-333"
- },
- {
-  "name": "Swati Studios",
-  "slug": "swati_studios",
-  "functions": "Production banner",
-  "count": 1,
-  "film_ids": [
-   "FILM-043"
-  ],
-  "tier": "C",
-  "person_id": "PERSON-334"
  },
  {
   "name": "T. Subbarami Reddy",
